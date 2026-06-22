@@ -47,8 +47,7 @@ The project uses only Python's standard library and requires no third-party depe
 
 ```bash
 git clone https://github.com/0xdragon10/BitTheWriteup.git
-cd bitthewriteup
-cp config.example.json config.json
+cd BitTheWriteup
 ```
 
 Python 3.9 or newer is required.
