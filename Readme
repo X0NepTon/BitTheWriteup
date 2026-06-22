@@ -1,28 +1,10 @@
 <div align="center">
+██████╗ ██╗████████╗    ████████╗██╗  ██╗███████╗    ██╗    ██╗██████╗ ██╗████████╗███████╗██╗   ██╗██████╗
 
-██████╗ ██╗████████╗████████╗██╗  ██╗███████╗██╗    ██╗██████╗ ██╗████████╗███████╗██╗   ██╗██████╗ 
-██╔══██╗██║╚══██╔══╝╚══██╔══╝██║  ██║██╔════╝██║    ██║██╔══██╗██║╚══██╔══╝██╔════╝██║   ██║██╔══██╗
-██████╔╝██║   ██║      ██║   ███████║█████╗  ██║ █╗ ██║██████╔╝██║   ██║      █████╗  ██║   ██║██████╔╝
-██╔══██╗██║   ██║      ██║   ██╔══██║██╔══╝  ██║███╗██║██╔══██╗██║   ██║      ██╔══╝  ██║   ██║██╔═══╝ 
-██████╔╝██║   ██║      ██║   ██║  ██║███████╗╚███╔███╔╝██║  ██║██║   ██║      ███████╗╚██████╔╝██║     
-╚══════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚══════╝ ╚═════╝ ╚═╝     
+bug bounty writeup digest → discord
 
-**bug bounty writeup digest → discord**
+Show Image
+Show Image
+Show Image
 
 </div>
-
----
-
-## What is it?
-A Python script that runs in the background and automatically delivers the best Bug Bounty writeups straight to your Discord server every hour without spamming.
-
-## Features & Advantages
-* **Zero Dependencies:** Built entirely using Python's standard library (`stdlib`). No `pip install` required!
-* **Anti-Spam Mechanism:** Uses a local database (`sent.log`) to track sent IDs and ensure zero duplicates.
-* **Smart Queue:** Keeps writeups sorted by quality/trust level so you only read the best stuff.
-
-## Installation
-```bash
-git clone [https://github.com/0xdragon/bitthewriteup](https://github.com/0xdragon/bitthewriteup)
-cd bitthewriteup
-cp config.example.json config.json
