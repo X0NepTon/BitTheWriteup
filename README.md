@@ -46,7 +46,7 @@ The project uses only Python's standard library and requires no third-party depe
 ## Installation
 
 ```bash
-git clone [https://github.com/0xdragon/bitthewriteup](https://github.com/0xdragon10/BitTheWriteup.git)
+git clone https://github.com/0xdragon10/BitTheWriteup.git
 cd bitthewriteup
 cp config.example.json config.json
 ```
