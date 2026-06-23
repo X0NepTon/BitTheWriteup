@@ -1,15 +1,5 @@
 [
   {
-    "title": "Exploiting SQL injection vulnerabilities",
-    "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities",
-    "summary": "Most assume that SQL injection is a solved problem in today's application landscape, especially with increased awareness of secure coding practices (such as resorting to prepared statements or parameterized queries) and the widespread adoption of NoSQL databases. However, in practice, SQLi vulnerabilities continue to surface in modern applications, often hiding in legacy code components, custom query builders, and in other contexts where input is reprocessed in unexpected ways. In this article, …",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Thu, 30 Apr 2026 00:00:00",
-    "score": 18,
-    "uid": "1f6232f226884e5b"
-  },
-  {
     "title": "Intigriti Bug Bytes #235 - April 2026 🚀",
     "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-235-april-2026",
     "summary": "Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Compromising an NPM package with 40M weekly downloads Bypassing Cloudflare WAF for a full ATO 20-part series on exploiting JWT vulnerabilities First Intigriti Bug Bounty Meetup And so much more! Let's dive in! Common misconceptions about bug bounty, debugged Bug bounty still gets misunderstood by security teams, execs, and even hackers themselves. We’ve compiled the most common misconcepti…",
@@ -688,5 +678,25 @@
     "published": "",
     "score": 3,
     "uid": "7d8dd94659dc18bb"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 04:29:05 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0ee723cab6fc0a632c937a9000392ea15afc0f45",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "cf65baad6b6337ec"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 03:27:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/446162e5a13b27f6bc34a24d592464adc32b7fb9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f4521fb5a0915b89"
   }
 ]
