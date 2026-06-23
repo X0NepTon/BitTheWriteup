@@ -1,15 +1,5 @@
 [
   {
-    "title": "Introducing the URL validation bypass cheat sheet",
-    "url": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
-    "summary": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 03 Sep 2024 14:52:12",
-    "score": 19,
-    "uid": "483e558e89b4266c"
-  },
-  {
     "title": "Exploiting SQL injection vulnerabilities",
     "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities",
     "summary": "Most assume that SQL injection is a solved problem in today's application landscape, especially with increased awareness of secure coding practices (such as resorting to prepared statements or parameterized queries) and the widespread adoption of NoSQL databases. However, in practice, SQLi vulnerabilities continue to surface in modern applications, often hiding in legacy code components, custom query builders, and in other contexts where input is reprocessed in unexpected ways. In this article, …",
@@ -110,6 +100,26 @@
     "uid": "fb525296af3987b3"
   },
   {
+    "title": "How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…",
+    "url": "https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------bug_bounty-5",
+    "summary": "The discovery, confirmation, and frustrating disclosure of a critical code-injection flaw in Bisheng (dataelement/bisheng)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 18:52:05",
+    "score": 13,
+    "uid": "6300c4b41237d0de"
+  },
+  {
+    "title": "Stored HTML Injection leading to CSRF-based Account Takeover",
+    "url": "https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5",
+    "summary": "Hi everyone &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 18:45:50",
+    "score": 13,
+    "uid": "8bde19a8659177bf"
+  },
+  {
     "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
     "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
     "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
@@ -118,6 +128,16 @@
     "published": "Tue, 23 Jun 2026 12:26:00",
     "score": 12,
     "uid": "65f73bcbe511b113"
+  },
+  {
+    "title": "BUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works",
+    "url": "https://medium.com/@tanvir.infosec/bug-framework-v5-0-the-all-in-one-bug-bounty-recon-suite-that-actually-works-9b41d8667a68?source=rss------bug_bounty-5",
+    "summary": "A deep dive into one of the most comprehensive open-source security frameworks &#x2014; and how it stacks up against Recon-ng, OWASP ZAP, Burp&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 17:25:17",
+    "score": 12,
+    "uid": "ac009244f477a095"
   },
   {
     "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
@@ -218,6 +238,26 @@
     "published": "Tue, 02 Jun 2026 16:28:50",
     "score": 6,
     "uid": "aafb38cb71c315df"
+  },
+  {
+    "title": "CSRF Validation Bypass: How I Tested Swiggy’s API Security",
+    "url": "https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5",
+    "summary": "Linkedin Profile: https://in.linkedin.com/in/binuconceptContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 17:45:57",
+    "score": 6,
+    "uid": "726d583190e7b8b6"
+  },
+  {
+    "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
+    "url": "https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5",
+    "summary": "Base Steps:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 17:59:44",
+    "score": 5,
+    "uid": "57d0af1a80bb15e8"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -608,5 +648,35 @@
     "published": "",
     "score": 3,
     "uid": "ab4cca6d51563f4c"
+  },
+  {
+    "title": "“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”",
+    "url": "https://infosecwriteups.com/bug-bounty-bootcamp-53-httpx-the-recon-tool-f68678b59a78?source=rss------bug_bounty-5",
+    "summary": "That Probes Thousands of Subdomains in SecondsContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 17:16:54",
+    "score": 3,
+    "uid": "9ad59b3cd7b95edf"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 23:57:32 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/dca2e0b295bcfc982a17b2cebc801c38ef0b2c9f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "669608ac25b17a14"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 22:05:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/1cdfc47df42215074b02341315aed590e59e6977",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "566ab2788068ecfc"
   }
 ]
