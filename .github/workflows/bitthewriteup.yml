@@ -1,0 +1,54 @@
+name: BitTheWriteup
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Create config.json
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+
+          with open("config.json", "w", encoding="utf-8") as f:
+              json.dump({
+                  "discord_webhook": os.environ["DISCORD_WEBHOOK"]
+              }, f, indent=2)
+          PY
+
+      - name: Run BitTheWriteup
+        run: |
+          python bitthewriteup.py --once
+
+      - name: Save queue and logs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add queue.json sent.log run.log 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "Update BitTheWriteup state"
+            git push
+          fi
