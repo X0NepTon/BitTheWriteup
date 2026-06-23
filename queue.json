@@ -10,16 +10,6 @@
     "uid": "f1f6c6a3d4d096b5"
   },
   {
-    "title": "From Fuzzing to Administrator Access: Chaining Multiple Weaknesses into Full Account Takeover",
-    "url": "https://0xh7ml.medium.com/from-fuzzing-to-administrator-access-chaining-multiple-weaknesses-into-full-account-takeover-43e21a74daa7?source=rss------bug_bounty-5",
-    "summary": "Peace be upon you readers&#x2026; &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 05:49:14",
-    "score": 21,
-    "uid": "dc4423bfe82b1831"
-  },
-  {
     "title": "Introducing the URL validation bypass cheat sheet",
     "url": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
     "summary": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
@@ -130,6 +120,16 @@
     "uid": "fb525296af3987b3"
   },
   {
+    "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
+    "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
+    "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 12:26:00",
+    "score": 12,
+    "uid": "65f73bcbe511b113"
+  },
+  {
     "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
     "url": "https://www.intigriti.com/blog/news/key-takeaways-from-the-uk-cyber-security-and-resilience-bill",
     "summary": "What You Will Learn What the UK Cyber Security & Resilience Bill covers Which organizations and sectors will be affected New incident reporting and regulatory requirements How to prepare your organization for compliance The content of the Cyber Security & Resilience Bill (CSRB) recently introduced to Parliament contained few surprises. Having spent a significant amount of time working with European cyber-security frameworks, particularly NIS2, I see the Bill as both a continuation of the t…",
@@ -168,6 +168,16 @@
     "published": "Mon, 15 Jun 2026 01:43:14",
     "score": 10,
     "uid": "628b6c3d89c57435"
+  },
+  {
+    "title": "Lab 1: OS Command Injection — PortSwigger Web Security Academy Walkthrough (Part 1 of 5)",
+    "url": "https://medium.com/@nitishmukhiya/lab-1-os-command-injection-portswigger-web-security-academy-walkthrough-part-1-of-5-c3025c655555?source=rss------bug_bounty-5",
+    "summary": "Starting the Command Injection series: how unsanitized shell input leads to direct, visible Remote Code Execution &#x2014; a beginner-friendly&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 13:19:57",
+    "score": 10,
+    "uid": "85cc52631a10abc9"
   },
   {
     "title": "Repeater Strike: manual testing, amplified",
@@ -258,6 +268,26 @@
     "published": "Tue, 16 Jun 2026 10:06:05",
     "score": 4,
     "uid": "7b2769755b120074"
+  },
+  {
+    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
+    "url": "https://medium.com/@suhas.gouli12/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 23 Jun 2026 12:08:49",
+    "score": 4,
+    "uid": "173999a66df1afe5"
+  },
+  {
+    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
+    "url": "https://medium.com/@suhas.gouli12/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty-5",
+    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 12:08:49",
+    "score": 4,
+    "uid": "3116103b0e91a944"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -528,5 +558,35 @@
     "published": "",
     "score": 3,
     "uid": "6fb88503b85eee19"
+  },
+  {
+    "title": "Bug Bounty, 2026: Same Game, New Way to Start",
+    "url": "https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5",
+    "summary": "A research-based look at what hasn&#x2019;t changed &#x2014; and exactly where to begin insteadContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 23 Jun 2026 09:41:57",
+    "score": 3,
+    "uid": "507a9874b8c5869b"
+  },
+  {
+    "title": "Bug Bounty, 2026: Same Game, New Way to Start",
+    "url": "https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty-5",
+    "summary": "A research-based look at what hasn&#x2019;t changed &#x2014; and exactly where to begin insteadContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 09:41:57",
+    "score": 3,
+    "uid": "d0fbd5c115823129"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 17:18:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9a77c4dcaaa742b3b892660097210a27c60907ad",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "1a1e76188499143e"
   }
 ]
