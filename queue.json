@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Splitting the email atom: exploiting parsers to bypass access controls",
+    "url": "https://portswigger.net/research/splitting-the-email-atom",
+    "summary": "Some websites parse email addresses to extract the domain and infer which organisation the owner belongs to. This pattern makes email-address parser discrepancies critical. Predicting which domain an",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 07 Aug 2024 21:32:47",
+    "score": 21,
+    "uid": "f1f6c6a3d4d096b5"
+  },
+  {
+    "title": "From Fuzzing to Administrator Access: Chaining Multiple Weaknesses into Full Account Takeover",
+    "url": "https://0xh7ml.medium.com/from-fuzzing-to-administrator-access-chaining-multiple-weaknesses-into-full-account-takeover-43e21a74daa7?source=rss------bug_bounty-5",
+    "summary": "Peace be upon you readers&#x2026; &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 05:49:14",
+    "score": 21,
+    "uid": "dc4423bfe82b1831"
+  },
+  {
+    "title": "Introducing the URL validation bypass cheat sheet",
+    "url": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+    "summary": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 03 Sep 2024 14:52:12",
+    "score": 19,
+    "uid": "483e558e89b4266c"
+  },
+  {
+    "title": "Exploiting SQL injection vulnerabilities",
+    "url": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities",
+    "summary": "Most assume that SQL injection is a solved problem in today's application landscape, especially with increased awareness of secure coding practices (such as resorting to prepared statements or parameterized queries) and the widespread adoption of NoSQL databases. However, in practice, SQLi vulnerabilities continue to surface in modern applications, often hiding in legacy code components, custom query builders, and in other contexts where input is reprocessed in unexpected ways. In this article, …",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Thu, 30 Apr 2026 00:00:00",
+    "score": 18,
+    "uid": "1f6232f226884e5b"
+  },
+  {
+    "title": "Intigriti Bug Bytes #235 - April 2026 🚀",
+    "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-235-april-2026",
+    "summary": "Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Compromising an NPM package with 40M weekly downloads Bypassing Cloudflare WAF for a full ATO 20-part series on exploiting JWT vulnerabilities First Intigriti Bug Bounty Meetup And so much more! Let's dive in! Common misconceptions about bug bounty, debugged Bug bounty still gets misunderstood by security teams, execs, and even hackers themselves. We’ve compiled the most common misconcepti…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Fri, 24 Apr 2026 00:00:00",
+    "score": 16,
+    "uid": "be451c59b497b288"
+  },
+  {
+    "title": "Hiding payloads in Java source code strings",
+    "url": "https://portswigger.net/research/hiding-payloads-in-java-source-code-strings",
+    "summary": "In this post we'll show you how Java handles unicode escapes in source code strings in a way you might find surprising - and how you can abuse them to conceal payloads. We recently released a powerful",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 23 Jan 2024 15:00:00",
+    "score": 15,
+    "uid": "cc5b3900b19437af"
+  },
+  {
+    "title": "Business Logic Attacks Explained Using a Banking App",
+    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/business-logic-attacks-explained-using-a-banking-app-27hj",
+    "summary": "How Attackers Abuse Perfectly Working Features Without Hacking the Code Most developers spend months securing authentication, encryption, and APIs. Then an attacker steals money without breaking a single security control. That's the scary part about business logic attacks. No SQL injection. No remote code execution. No malware. The application behaves exactly as designed. The attacker simply uses the application's own business rules against it. And nowhere is this easier to understand than in a banking application. In this article, you'll learn what business logic attacks are, how they work in",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sun, 21 Jun 2026 06:22:55",
+    "score": 15,
+    "uid": "0ed5864efe176b83"
+  },
+  {
+    "title": "The Fragile Lock: Novel Bypasses For SAML Authentication",
+    "url": "https://portswigger.net/research/the-fragile-lock",
+    "summary": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 10 Dec 2025 12:32:00",
+    "score": 13,
+    "uid": "084077299fef0608"
+  },
+  {
+    "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
+    "url": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+    "summary": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 30 Apr 2025 12:37:11",
+    "score": 13,
+    "uid": "714b25205c253d8e"
+  },
+  {
+    "title": "How Triage Assist is raising the bar in crowdsourced security",
+    "url": "https://www.intigriti.com/blog/product-updates/how-triage-assist-is-raising-the-bar-in-crowdsourced-security",
+    "summary": "AI is changing the volume and accelerating the pace of vulnerability submissions. If you've been following our recent AI series, you already know that submission growth isn't a quality problem; it's a coordination problem. As Head of Triage, Lennaert Oudshoorn, outlines in his recent post, ‘The AI impact: A triager’s perspective’, the security industry is experiencing a surge in vulnerability discovery and a relative scarcity of triagers. Validating, classifying, and sorting a growing volume of …",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Thu, 21 May 2026 00:00:00",
+    "score": 13,
+    "uid": "6321ba80ba74aefb"
+  },
+  {
+    "title": "NIS2 compliance beyond the April 2026 deadline",
+    "url": "https://www.intigriti.com/blog/business-insights/nis2-compliance-beyond-the-april-2026-deadline",
+    "summary": "With the deadline passing for NIS2 compliance, many companies have shifted focus from becoming prepared to proving compliance. This post outlines the top 10 tasks for doing so and provides insights on how crowdsourced security platforms can assist in designing programs relevant to their circumstances and compliance requirements. The April NIS2 compliance deadline has come and gone, but where does your company stand? The European Union, via the NIS2 Directive, sets the overall framework and timel…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Tue, 12 May 2026 00:00:00",
+    "score": 13,
+    "uid": "ba2968703fa5ca36"
+  },
+  {
+    "title": "From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…",
+    "url": "https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5",
+    "summary": "My name is Montaser Mohsen, a security researcher and bug bounty hunter focused on web application security, broken access control&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 21 Jun 2026 17:01:02",
+    "score": 13,
+    "uid": "2c8a590cd04c42d2"
+  },
+  {
+    "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
+    "url": "https://dev.to/n0wzy8/i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more-2dd7",
+    "summary": "Been using this privately for a while and finally decided to open-source it. It crawls your target, fuzzes parameters for XSS/CRLF/Open Redirect, checks CORS misconfigurations, missing security headers, sensitive file exposure, subdomain enumeration, and more — all multi-threaded. Drops a clean .txt report when it's done. Built in Python, one-liner install. Would love feedback from the community — still a lot I want to add. 🙏 n0wzy8 / N0wzy8-BugBountyScanner Fast multi-threaded bug bounty scanner featuring XSS, Open Redirect, CRLF, CORS, Clickjacking, Recon and Sensitive File Discovery. ⚡ N0wz",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 06 Jun 2026 19:01:22",
+    "score": 13,
+    "uid": "fb525296af3987b3"
+  },
+  {
+    "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
+    "url": "https://www.intigriti.com/blog/news/key-takeaways-from-the-uk-cyber-security-and-resilience-bill",
+    "summary": "What You Will Learn What the UK Cyber Security & Resilience Bill covers Which organizations and sectors will be affected New incident reporting and regulatory requirements How to prepare your organization for compliance The content of the Cyber Security & Resilience Bill (CSRB) recently introduced to Parliament contained few surprises. Having spent a significant amount of time working with European cyber-security frameworks, particularly NIS2, I see the Bill as both a continuation of the t…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Tue, 07 Apr 2026 00:00:00",
+    "score": 11,
+    "uid": "151bfa4e3fc41cc1"
+  },
+  {
+    "title": "The Pentester’s Guide to Finding CBC Bit Flipping Vulnerabilities",
+    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/the-pentesters-guide-to-finding-cbc-bit-flipping-vulnerabilities-50n3",
+    "summary": "If you spend enough time poking at web applications, you’ll eventually run into a target that handles session management poorly. You’ll intercept a request, look at the cookie, and see a massive, encrypted string. For a lot of testers, encrypted state data is a dead end. If you can’t read it, you move on. But if that application is relying on CBC (Cipher Block Chaining) mode without implementing an integrity check (like a MAC), that encrypted cookie isn't a dead end. It’s an attack vector. Here is a practical, step-by-step methodology for testing web applications for CBC bit flipping vulnerabi",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 17 Jun 2026 07:36:33",
+    "score": 11,
+    "uid": "4aefe2cf5bd99228"
+  },
+  {
+    "title": "Bypassing WAFs with the phantom $Version cookie",
+    "url": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
+    "summary": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 04 Dec 2024 15:03:35",
+    "score": 10,
+    "uid": "d59d67577a3f31a1"
+  },
+  {
+    "title": "AI Breaks Bug Bounty, and Hackers Lose Pricing Power",
+    "url": "https://dev.to/xoomar/ai-breaks-bug-bounty-and-hackers-lose-pricing-power-101",
+    "summary": "AI won't kill security research, but it will strain the bug bounty model that still pays as if finding individual flaws is the scarce part. That is the real warning inside Anthropic's Claude Mythos story. As SecurityWeek reports, Mythos Preview has been framed as a force that could threaten both bug bounty programs and in-house offensive security teams by pushing vulnerability discovery toward machine speed. The threat isn't that humans become useless. The threat is that the market keeps rewarding yesterday's bottleneck. AI vulnerability discovery makes the old bug bounty model too slow Bug bo",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 15 Jun 2026 01:43:14",
+    "score": 10,
+    "uid": "628b6c3d89c57435"
+  },
+  {
+    "title": "Repeater Strike: manual testing, amplified",
+    "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
+    "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 15 Jul 2025 13:46:37",
+    "score": 7,
+    "uid": "3fad12712df84d7b"
+  },
+  {
+    "title": "I Made the Database Confess Its Own Name",
+    "url": "https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5",
+    "summary": "Part 3 of my SQL injection series. First I stole hidden data. Then I logged in as admin with no password. This time, I make the database&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 22 Jun 2026 22:21:05",
+    "score": 7,
+    "uid": "7bf2caaf669b1141"
+  },
+  {
+    "title": "Intigriti Challenge 0626 Write-up: Blind XSS, NUL Bytes and a Prefix Oracle",
+    "url": "https://medium.com/@mhqfhvxqbumxepbfvb/intigriti-challenge-0626-write-up-blind-xss-via-search-reflection-and-a-prefix-oracle-e856a53f3d08?source=rss------bug_bounty-5",
+    "summary": "Challenge: Intigriti 0626 &#x2014; Inside Job Target: https://challenge-0626.intigriti.ioContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 05:17:26",
+    "score": 7,
+    "uid": "159c239796f40fde"
+  },
+  {
+    "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
+    "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 22 Jan 2025 14:45:11",
+    "score": 6,
+    "uid": "afc2e80b22e7c332"
+  },
+  {
+    "title": "Bug Bounty Automation on a $35 Raspberry Pi — My Recon Toolkit",
+    "url": "https://dev.to/ulnit/bug-bounty-automation-on-a-35-raspberry-pi-my-recon-toolkit-33m5",
+    "summary": "Bug Bounty Automation on a $35 Raspberry Pi I built a pure-Python bug bounty recon toolkit that runs on a Pi. No Docker, no cloud — just stdlib. What it does 🔍 Subdomain enumeration (crt.sh, AlienVault, URLScan) 🔌 Port scanning + live probing 🛡️ Vulnerability detection (XSS, open redirect, exposed files) 📝 Auto-generates reports Why Pi? $35 hardware. 24/7 scanning. Zero cloud costs. Perfect for continuous recon. Get It 👉 Bug Bounty Automation Kit — $15 Also check out my AI Agent Toolkit ($9) Built and published by an autonomous AI agent on a Raspberry Pi.",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Tue, 02 Jun 2026 16:28:50",
+    "score": 6,
+    "uid": "aafb38cb71c315df"
+  },
+  {
+    "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
+    "url": "https://portswigger.net/research/inline-style-exfiltration",
+    "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 26 Aug 2025 12:54:03",
+    "score": 4,
+    "uid": "5708552122e589be"
+  },
+  {
+    "title": "SAML roulette: the hacker always wins",
+    "url": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
+    "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 18 Mar 2025 14:55:43",
+    "score": 4,
+    "uid": "d12c380e9d413a62"
+  },
+  {
+    "title": "Top 10 web hacking techniques of 2024: nominations open",
+    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
+    "summary": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 08 Jan 2025 14:07:27",
+    "score": 4,
+    "uid": "d1d1a58f0be6f0de"
+  },
+  {
+    "title": "Analyzing AMD's Bug Bounty Delay and Its Implicati…",
+    "url": "https://dev.to/norviktech/analyzing-amds-bug-bounty-delay-and-its-implicati-5djc",
+    "summary": "Originally published at norvik.tech Introduction Deep dive into AMD's delayed response to a critical security flaw and what it means for software development practices. Understanding the Critical Security Flaw In early 2023, AMD faced significant scrutiny after a security researcher discovered that their auto-updater was downloading software over insecure HTTP connections. This vulnerability allowed potential attackers to inject malware during the update process, exposing users to serious risks. The delay of 124 days to address this critical flaw raises important questions about software secur",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Tue, 16 Jun 2026 10:06:05",
+    "score": 4,
+    "uid": "7b2769755b120074"
+  },
+  {
+    "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+    "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+    "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 03 Sep 2025 14:46:23",
+    "score": 3,
+    "uid": "65ce9534c0d82e35"
+  },
+  {
+    "title": "Bypassing character blocklists with unicode overflows",
+    "url": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
+    "summary": "Unicode codepoint truncation - also called a Unicode overflow attack - happens when a server tries to store a Unicode character in a single byte. Because the maximum value of a byte is 255, an overflo",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 28 Jan 2025 13:58:28",
+    "score": 3,
+    "uid": "c9ef748eb0c78935"
+  },
+  {
+    "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet",
+    "url": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+    "summary": "The strength of our URL Validation Bypass Cheat Sheet lies in the contributions from the web security community, and today’s update is no exception. We are excited to introduce a new and improved IP a",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 29 Oct 2024 13:59:13",
+    "score": 3,
+    "uid": "adead73e545afd75"
+  },
+  {
+    "title": "Using form hijacking to bypass CSP",
+    "url": "https://portswigger.net/research/using-form-hijacking-to-bypass-csp",
+    "summary": "In this post we'll show you how to bypass CSP by using an often overlooked technique that can enable password theft in a seemingly secure configuration. What is form hijacking? Form hijacking isn't re",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 05 Mar 2024 14:55:00",
+    "score": 3,
+    "uid": "e1d3b7f4e52624a1"
+  },
+  {
+    "title": "Vulnpocalypse Now? How AI is changing vulnerability discovery",
+    "url": "https://www.intigriti.com/blog/business-insights/vulnpocalypse-now-how-ai-is-changing-vulnerability-discovery",
+    "summary": "What you will learn How vulnerability research and security testing may evolve in the future, based on expert insights and reflections from Intigriti COO Ed Parsons. How AI is reshaping vulnerability discovery, including the major trends and developments security teams should understand today. The ‘vulnpocalypse’, and what it signals about the future of AI-assisted hacking. The risks, opportunities, and practical impact of AI-supported hackers. Contextualizing AI’s impact Intigriti i…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Thu, 23 Apr 2026 00:00:00",
+    "score": 3,
+    "uid": "0c2c23899db1724f"
+  },
+  {
+    "title": "Client-Side Path Traversal (CSPT): I Found It, Chained It, and Wiped an Entire Organization",
+    "url": "https://mugh33ra.medium.com/client-side-path-traversal-cspt-i-found-it-chained-it-and-wiped-an-entire-organization-a793d3f3d8eb?source=rss------bug_bounty_writeup-5",
+    "summary": "The TargetContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 22 Jun 2026 08:57:33",
+    "score": 3,
+    "uid": "efe2d6fda29a24c9"
+  },
+  {
+    "title": "Bug Bounty Recon Mastery →Advanced Reconnaissance and Attack Surface Mapping V2",
+    "url": "https://infosecwriteups.com/bug-bounty-recon-mastery-advanced-reconnaissance-and-attack-surface-mapping-v2-c18e0a6738c9?source=rss------bug_bounty-5",
+    "summary": "Real-World Deep Dive Advanced Reconnaissance.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 07:06:16",
+    "score": 3,
+    "uid": "021b11dc51d57ebb"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 14:21:29 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f2cd8be4e1ac008769205b4092256f521b22ee3b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "aa33a75eb8af3afb"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 11:21:46 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3209ca0e87953567f1e7aa6cf420c80df671f8db",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b3d2036affb9c61e"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 07:07:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d75a4649e5c1ae090ee31f42c7875bd293420514",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fa87e162c27390d4"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 05:16:14 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b52c1e091b507c573583a45d31c2a9e47d30e396",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "91c4000d3fca28bc"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 03:49:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/5b6003167435b06a1ff23bc018e8daf7b4cc7818",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5cfdb90ac9977eb1"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 01:49:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0cba1cd17d0ec3b00a141fb7d1c80b4a6227cd03",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "621eb022977e1bf1"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 22:53:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fb0466e5015a1de624dc7be4d6b3a59df18960e3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f0a8777e1683999c"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 18:28:51 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f082352389fa7e2c10bea8feb2188e2ba1fc0b10",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4e5549d33c1955ca"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 12:37:48 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/acd32f632eb6fab0398a4fde5db18fa524e505a5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e3d1b8975dbb9e49"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 07:17:18 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d717c672b3a69bc435bd1fb4f4432c2e8b8d33fb",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f5c98e71a06a57dc"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 04:58:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a825c15da35225124466537ebfa8de442cf36381",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3cb160f3e252531e"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 03:35:07 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/810559195f475d27a1dda2663bc71183cb89771b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f66cb9025dd4dac9"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 02:17:06 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0ecc3e35de70586e3c3cc088eb952ae3fb571db2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "36b748d2dc6d2621"
+  },
+  {
+    "title": "Updated List: Mon Jun 22 00:40:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fb58c7ad33b26f78256f426a0cb95021005d6316",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ee51d8f0619e24a9"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 23:26:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d36549a251b425b918309b269c96fcd26c600749",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "953a58b2eabb1ab2"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 21:50:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/32c761325655dfc6a0b8ba8a0bfee3e100d939d1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "255e7e7a2c97d25a"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 20:11:10 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a1255f7bc52bd05d06eebaab9aeb9f6b391fd2f1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "56269ddf94ea2096"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 18:00:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/05abf32e09187f1b6455e74d18e87c9b243eb267",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d680737389917e4d"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 16:11:42 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a4c9cb3f06cb87aeb83440fc4ed2e0d9336340c7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6c7c61422798ef45"
+  },
+  {
+    "title": "Updated List: Sun Jun 21 12:36:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/35248de92ad40c5ebaa6649e545e87663f153629",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6fb88503b85eee19"
+  }
+]
