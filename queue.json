@@ -1,15 +1,5 @@
 [
   {
-    "title": "Splitting the email atom: exploiting parsers to bypass access controls",
-    "url": "https://portswigger.net/research/splitting-the-email-atom",
-    "summary": "Some websites parse email addresses to extract the domain and infer which organisation the owner belongs to. This pattern makes email-address parser discrepancies critical. Predicting which domain an",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 07 Aug 2024 21:32:47",
-    "score": 21,
-    "uid": "f1f6c6a3d4d096b5"
-  },
-  {
     "title": "Introducing the URL validation bypass cheat sheet",
     "url": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
     "summary": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
@@ -288,6 +278,26 @@
     "published": "Tue, 23 Jun 2026 12:08:49",
     "score": 4,
     "uid": "3116103b0e91a944"
+  },
+  {
+    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
+    "url": "https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 23 Jun 2026 12:08:49",
+    "score": 4,
+    "uid": "4041f5d70f440a4b"
+  },
+  {
+    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
+    "url": "https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty-5",
+    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 23 Jun 2026 12:08:49",
+    "score": 4,
+    "uid": "1366dcf528432170"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -588,5 +598,15 @@
     "published": "",
     "score": 3,
     "uid": "1a1e76188499143e"
+  },
+  {
+    "title": "Updated List: Tue Jun 23 19:38:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/cd2f7610c82cc8d2c4083b1e975f34e8085d6820",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ab4cca6d51563f4c"
   }
 ]
