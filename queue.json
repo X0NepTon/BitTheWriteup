@@ -10,16 +10,6 @@
     "uid": "cc5b3900b19437af"
   },
   {
-    "title": "Business Logic Attacks Explained Using a Banking App",
-    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/business-logic-attacks-explained-using-a-banking-app-27hj",
-    "summary": "How Attackers Abuse Perfectly Working Features Without Hacking the Code Most developers spend months securing authentication, encryption, and APIs. Then an attacker steals money without breaking a single security control. That's the scary part about business logic attacks. No SQL injection. No remote code execution. No malware. The application behaves exactly as designed. The attacker simply uses the application's own business rules against it. And nowhere is this easier to understand than in a banking application. In this article, you'll learn what business logic attacks are, how they work in",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sun, 21 Jun 2026 06:22:55",
-    "score": 15,
-    "uid": "0ed5864efe176b83"
-  },
-  {
     "title": "The Fragile Lock: Novel Bypasses For SAML Authentication",
     "url": "https://portswigger.net/research/the-fragile-lock",
     "summary": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
@@ -708,5 +698,15 @@
     "published": "",
     "score": 3,
     "uid": "f55b7b1a1c860842"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 11:19:17 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/55a87ebe684515d5b0d4e4bdffef9d54ef4de854",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "85dd5a92e59448b9"
   }
 ]
