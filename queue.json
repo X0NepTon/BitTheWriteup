@@ -30,16 +30,6 @@
     "uid": "2c8a590cd04c42d2"
   },
   {
-    "title": "How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…",
-    "url": "https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------bug_bounty-5",
-    "summary": "The discovery, confirmation, and frustrating disclosure of a critical code-injection flaw in Bisheng (dataelement/bisheng)Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 18:52:05",
-    "score": 13,
-    "uid": "6300c4b41237d0de"
-  },
-  {
     "title": "Stored HTML Injection leading to CSRF-based Account Takeover",
     "url": "https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5",
     "summary": "Hi everyone &#x1F44B;Continue reading on Medium »",
@@ -778,5 +768,25 @@
     "published": "",
     "score": 3,
     "uid": "2fa330d3649bb3d3"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 03:42:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c6ddf7d8b9c4a667c9650078c87b9859eb69f3f9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "31ee9e711d167ce7"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 02:30:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9a0ba47e719a11d2f9a92a8611957576d749cea2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bcd470beb27e5590"
   }
 ]
