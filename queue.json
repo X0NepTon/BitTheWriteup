@@ -20,16 +20,6 @@
     "uid": "714b25205c253d8e"
   },
   {
-    "title": "How Triage Assist is raising the bar in crowdsourced security",
-    "url": "https://www.intigriti.com/blog/product-updates/how-triage-assist-is-raising-the-bar-in-crowdsourced-security",
-    "summary": "AI is changing the volume and accelerating the pace of vulnerability submissions. If you've been following our recent AI series, you already know that submission growth isn't a quality problem; it's a coordination problem. As Head of Triage, Lennaert Oudshoorn, outlines in his recent post, ‘The AI impact: A triager’s perspective’, the security industry is experiencing a surge in vulnerability discovery and a relative scarcity of triagers. Validating, classifying, and sorting a growing volume of …",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Thu, 21 May 2026 00:00:00",
-    "score": 13,
-    "uid": "6321ba80ba74aefb"
-  },
-  {
     "title": "NIS2 compliance beyond the April 2026 deadline",
     "url": "https://www.intigriti.com/blog/business-insights/nis2-compliance-beyond-the-april-2026-deadline",
     "summary": "With the deadline passing for NIS2 compliance, many companies have shifted focus from becoming prepared to proving compliance. This post outlines the top 10 tasks for doing so and provides insights on how crowdsourced security platforms can assist in designing programs relevant to their circumstances and compliance requirements. The April NIS2 compliance deadline has come and gone, but where does your company stand? The European Union, via the NIS2 Directive, sets the overall framework and timel…",
@@ -718,5 +708,35 @@
     "published": "",
     "score": 3,
     "uid": "dec021bc7dff5afd"
+  },
+  {
+    "title": "“Bug Bounty Bootcamp #54: Nmap — Your Digital Lockpick”",
+    "url": "https://infosecwriteups.com/bug-bounty-bootcamp-54-nmap-your-digital-lockpick-557da6ebf9de?source=rss------bug_bounty-5",
+    "summary": "Finding Open Ports and Hidden ServicesContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 24 Jun 2026 14:17:18",
+    "score": 3,
+    "uid": "4d550577f8e507b1"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 21:28:10 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2bda453b051bdc40e2576b952a4bf4ff0ac34f4e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5079e52d60cb6149"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 19:07:26 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ec448254366d9762b4cd7f12974c69ab5fecd624",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e7872bae6fc4ed8a"
   }
 ]
