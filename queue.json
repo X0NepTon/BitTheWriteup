@@ -50,16 +50,6 @@
     "uid": "2c8a590cd04c42d2"
   },
   {
-    "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
-    "url": "https://dev.to/n0wzy8/i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more-2dd7",
-    "summary": "Been using this privately for a while and finally decided to open-source it. It crawls your target, fuzzes parameters for XSS/CRLF/Open Redirect, checks CORS misconfigurations, missing security headers, sensitive file exposure, subdomain enumeration, and more — all multi-threaded. Drops a clean .txt report when it's done. Built in Python, one-liner install. Would love feedback from the community — still a lot I want to add. 🙏 n0wzy8 / N0wzy8-BugBountyScanner Fast multi-threaded bug bounty scanner featuring XSS, Open Redirect, CRLF, CORS, Clickjacking, Recon and Sensitive File Discovery. ⚡ N0wz",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 06 Jun 2026 19:01:22",
-    "score": 13,
-    "uid": "fb525296af3987b3"
-  },
-  {
     "title": "How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…",
     "url": "https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------bug_bounty-5",
     "summary": "The discovery, confirmation, and frustrating disclosure of a critical code-injection flaw in Bisheng (dataelement/bisheng)Continue reading on Medium »",
@@ -298,6 +288,16 @@
     "published": "Tue, 23 Jun 2026 12:08:49",
     "score": 4,
     "uid": "1366dcf528432170"
+  },
+  {
+    "title": "CSRF Explained Like You’re Five",
+    "url": "https://kd-200.medium.com/csrf-explained-like-youre-five-abbc99974faa?source=rss------bug_bounty-5",
+    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 24 Jun 2026 11:31:00",
+    "score": 4,
+    "uid": "fe6c65806f9bbdff"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -708,5 +708,15 @@
     "published": "",
     "score": 3,
     "uid": "a5e0905ff4e52f08"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 17:02:34 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4683aa92825d33c09d079f3709da5dcbc780ed47",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "dec021bc7dff5afd"
   }
 ]
