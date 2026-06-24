@@ -20,16 +20,6 @@
     "uid": "714b25205c253d8e"
   },
   {
-    "title": "NIS2 compliance beyond the April 2026 deadline",
-    "url": "https://www.intigriti.com/blog/business-insights/nis2-compliance-beyond-the-april-2026-deadline",
-    "summary": "With the deadline passing for NIS2 compliance, many companies have shifted focus from becoming prepared to proving compliance. This post outlines the top 10 tasks for doing so and provides insights on how crowdsourced security platforms can assist in designing programs relevant to their circumstances and compliance requirements. The April NIS2 compliance deadline has come and gone, but where does your company stand? The European Union, via the NIS2 Directive, sets the overall framework and timel…",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Tue, 12 May 2026 00:00:00",
-    "score": 13,
-    "uid": "ba2968703fa5ca36"
-  },
-  {
     "title": "From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…",
     "url": "https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5",
     "summary": "My name is Montaser Mohsen, a security researcher and bug bounty hunter focused on web application security, broken access control&#x2026;Continue reading on Medium »",
@@ -738,5 +728,15 @@
     "published": "",
     "score": 3,
     "uid": "e7872bae6fc4ed8a"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 23:17:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ed3bb87eae70506503ec0304f5262b348d9d17a4",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "dd154cac18da8e27"
   }
 ]
