@@ -190,6 +190,16 @@
     "uid": "57d0af1a80bb15e8"
   },
   {
+    "title": "From an Informational Finding to a Valuable Lesson: My IDOR Discovery on Bugcrowd",
+    "url": "https://meetcyber.net/from-an-informational-finding-to-a-valuable-lesson-my-idor-discovery-on-bugcrowd-a7d40fd1d2aa?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 24 Jun 2026 19:59:01",
+    "score": 5,
+    "uid": "c0c0d012daaa6138"
+  },
+  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -278,6 +288,26 @@
     "published": "Wed, 24 Jun 2026 11:31:00",
     "score": 4,
     "uid": "fe6c65806f9bbdff"
+  },
+  {
+    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300",
+    "url": "https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey everyone, Faiz here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 24 Jun 2026 18:51:40",
+    "score": 4,
+    "uid": "ade979712b269ea0"
+  },
+  {
+    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300",
+    "url": "https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty-5",
+    "summary": "Hey everyone, Faiz here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 24 Jun 2026 18:51:40",
+    "score": 4,
+    "uid": "ba6dc97d17c8ce58"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -738,5 +768,15 @@
     "published": "",
     "score": 3,
     "uid": "dd154cac18da8e27"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 00:50:56 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/af1c60b63beb726c0757cf1731cbc9a25aa47790",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2fa330d3649bb3d3"
   }
 ]
