@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hiding payloads in Java source code strings",
-    "url": "https://portswigger.net/research/hiding-payloads-in-java-source-code-strings",
-    "summary": "In this post we'll show you how Java handles unicode escapes in source code strings in a way you might find surprising - and how you can abuse them to conceal payloads. We recently released a powerful",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 23 Jan 2024 15:00:00",
-    "score": 15,
-    "uid": "cc5b3900b19437af"
-  },
-  {
     "title": "The Fragile Lock: Novel Bypasses For SAML Authentication",
     "url": "https://portswigger.net/research/the-fragile-lock",
     "summary": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
@@ -708,5 +698,15 @@
     "published": "",
     "score": 3,
     "uid": "85dd5a92e59448b9"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 14:16:57 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b700365ba32598d8a97e7c9108f33b2a1fd396ff",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a5e0905ff4e52f08"
   }
 ]
