@@ -1,15 +1,5 @@
 [
   {
-    "title": "Intigriti Bug Bytes #235 - April 2026 🚀",
-    "url": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-235-april-2026",
-    "summary": "Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we'll be featuring: Compromising an NPM package with 40M weekly downloads Bypassing Cloudflare WAF for a full ATO 20-part series on exploiting JWT vulnerabilities First Intigriti Bug Bounty Meetup And so much more! Let's dive in! Common misconceptions about bug bounty, debugged Bug bounty still gets misunderstood by security teams, execs, and even hackers themselves. We’ve compiled the most common misconcepti…",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Fri, 24 Apr 2026 00:00:00",
-    "score": 16,
-    "uid": "be451c59b497b288"
-  },
-  {
     "title": "Hiding payloads in Java source code strings",
     "url": "https://portswigger.net/research/hiding-payloads-in-java-source-code-strings",
     "summary": "In this post we'll show you how Java handles unicode escapes in source code strings in a way you might find surprising - and how you can abuse them to conceal payloads. We recently released a powerful",
@@ -698,5 +688,25 @@
     "published": "",
     "score": 3,
     "uid": "f4521fb5a0915b89"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 07:04:48 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/aab1df27f45a8d20dc6adc1e0153f56648aa4c25",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b7b9793769707c10"
+  },
+  {
+    "title": "Updated List: Wed Jun 24 05:17:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ef738fde268ad1d1ccdc7837f8fef5d606c8a0e2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f55b7b1a1c860842"
   }
 ]
