@@ -1,15 +1,5 @@
 [
   {
-    "title": "BUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works",
-    "url": "https://medium.com/@tanvir.infosec/bug-framework-v5-0-the-all-in-one-bug-bounty-recon-suite-that-actually-works-9b41d8667a68?source=rss------bug_bounty-5",
-    "summary": "A deep dive into one of the most comprehensive open-source security frameworks &#x2014; and how it stacks up against Recon-ng, OWASP ZAP, Burp&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 17:25:17",
-    "score": 12,
-    "uid": "ac009244f477a095"
-  },
-  {
     "title": "How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover",
     "url": "https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5",
     "summary": "JSON Web Tokens (JWTs) are the unsung heroes of modern stateless authentication. They allow applications to verify user identity securely&#x2026;Continue reading on Medium »",
@@ -898,5 +888,15 @@
     "published": "",
     "score": 3,
     "uid": "fe5df40bf52f543e"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 03:27:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7d6083852c446c5d7704b66a147960a416c8a6fb",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ca40fcd5c14cc1c7"
   }
 ]
