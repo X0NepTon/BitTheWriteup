@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
-    "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
-    "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 12:26:00",
-    "score": 12,
-    "uid": "65f73bcbe511b113"
-  },
-  {
     "title": "BUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works",
     "url": "https://medium.com/@tanvir.infosec/bug-framework-v5-0-the-all-in-one-bug-bounty-recon-suite-that-actually-works-9b41d8667a68?source=rss------bug_bounty-5",
     "summary": "A deep dive into one of the most comprehensive open-source security frameworks &#x2014; and how it stacks up against Recon-ng, OWASP ZAP, Burp&#x2026;Continue reading on Medium »",
@@ -898,5 +888,15 @@
     "published": "",
     "score": 3,
     "uid": "2d94c72acee1f486"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 01:51:18 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0c7bfe7791bf63ea0cc8bdd9862c4d228dc8f13b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fe5df40bf52f543e"
   }
 ]
