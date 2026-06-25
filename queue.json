@@ -30,16 +30,6 @@
     "uid": "2c8a590cd04c42d2"
   },
   {
-    "title": "Stored HTML Injection leading to CSRF-based Account Takeover",
-    "url": "https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5",
-    "summary": "Hi everyone &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 18:45:50",
-    "score": 13,
-    "uid": "8bde19a8659177bf"
-  },
-  {
     "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
     "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
     "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
@@ -188,6 +178,16 @@
     "published": "Wed, 24 Jun 2026 19:59:01",
     "score": 5,
     "uid": "c0c0d012daaa6138"
+  },
+  {
+    "title": "interesting Logic idor that allowed me to Access User Data and Private Photos",
+    "url": "https://hamzadzworm.medium.com/interesting-logic-idor-that-allowed-me-to-access-user-data-and-private-photos-a32b4c966d35?source=rss------bug_bounty-5",
+    "summary": "Hi again,Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 24 Jun 2026 22:28:18",
+    "score": 5,
+    "uid": "459c09352760101e"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -788,5 +788,15 @@
     "published": "",
     "score": 3,
     "uid": "bcd470beb27e5590"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 04:52:05 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/55068b24cbd2e9c4c1245d94a75097c148528fab",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "127089d532f5b3e4"
   }
 ]
