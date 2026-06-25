@@ -1,15 +1,5 @@
 [
   {
-    "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
-    "url": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-    "summary": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 30 Apr 2025 12:37:11",
-    "score": 13,
-    "uid": "714b25205c253d8e"
-  },
-  {
     "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
     "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
     "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Tue, 23 Jun 2026 17:25:17",
     "score": 12,
     "uid": "ac009244f477a095"
+  },
+  {
+    "title": "How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover",
+    "url": "https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5",
+    "summary": "JSON Web Tokens (JWTs) are the unsung heroes of modern stateless authentication. They allow applications to verify user identity securely&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 25 Jun 2026 12:26:00",
+    "score": 12,
+    "uid": "1e20aac453a1273d"
   },
   {
     "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
@@ -858,5 +858,15 @@
     "published": "",
     "score": 3,
     "uid": "91fb87b6a030a8a0"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 19:00:27 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/333cfa245a95a91f64a89624459cbb914642bef6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "aeae5ced70c2dcf3"
   }
 ]
