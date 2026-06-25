@@ -80,6 +80,26 @@
     "uid": "85cc52631a10abc9"
   },
   {
+    "title": "Lab 3: Blind OS Command Injection with Output Redirection — PortSwigger Web Security Academy…",
+    "url": "https://medium.com/@nitishmukhiya/lab-3-blind-os-command-injection-with-output-redirection-portswigger-web-security-academy-580316b43602?source=rss------bug_bounty-5",
+    "summary": "Turning a silent vulnerability into a readable one: how redirecting command output into a public directory lets you read RCE results&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 25 Jun 2026 10:26:41",
+    "score": 10,
+    "uid": "23a01f0afbd06e9c"
+  },
+  {
+    "title": "Lab 2: Blind OS Command Injection with Time Delays — PortSwigger Web Security Academy Walkthrough…",
+    "url": "https://medium.com/@nitishmukhiya/lab-2-blind-os-command-injection-with-time-delays-portswigger-web-security-academy-walkthrough-7a3cc729f569?source=rss------bug_bounty-5",
+    "summary": "When the server stays silent: how to prove Remote Code Execution using nothing but a stopwatch and the Linux sleep command.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 25 Jun 2026 10:18:51",
+    "score": 10,
+    "uid": "f1859ee4b5a9d499"
+  },
+  {
     "title": "Privilege Escalation Through Named-Pipe Flaw",
     "url": "https://medium.com/@defidev59/privilege-escalation-through-named-pipe-flaw-7617eb238e91?source=rss------bug_bounty-5",
     "summary": "Note: I cannot disclose any part of the company information as this was not exactly a &#x201C;Bug bounty&#x201D;. But, as this vulnerability found was&#x2026;Continue reading on Medium »",
@@ -818,5 +838,25 @@
     "published": "",
     "score": 3,
     "uid": "0906f98753a95301"
+  },
+  {
+    "title": "Excessive Data Exposure via Unauthenticated GraphQL Endpoint",
+    "url": "https://medium.com/@am011416854/excessive-data-exposure-via-unauthenticated-graphql-endpoint-30e5dcc339ce?source=rss------bug_bounty-5",
+    "summary": "Bug Bounty Write-up | Information Disclosure | GraphQL SecurityContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 25 Jun 2026 09:20:53",
+    "score": 3,
+    "uid": "234110cd18a834ab"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 16:51:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c1fc18f185dc94a5e176ee003577db39d5491a87",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "91fb87b6a030a8a0"
   }
 ]
