@@ -20,16 +20,6 @@
     "uid": "714b25205c253d8e"
   },
   {
-    "title": "From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…",
-    "url": "https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5",
-    "summary": "My name is Montaser Mohsen, a security researcher and bug bounty hunter focused on web application security, broken access control&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 21 Jun 2026 17:01:02",
-    "score": 13,
-    "uid": "2c8a590cd04c42d2"
-  },
-  {
     "title": "How a Race Condition in a Loyalty Wallet Scored a $15,000 Critical Payout",
     "url": "https://medium.com/@21bec131/how-a-race-condition-in-a-loyalty-wallet-scored-a-15-000-critical-payout-a44e36d05825?source=rss------bug_bounty-5",
     "summary": "We&#x2019;ve all seen standard web vulnerabilities like cross-site scripting (XSS) or SQL injection. But some of the most lucrative bugs don&#x2019;t&#x2026;Continue reading on Medium »",
@@ -798,5 +788,15 @@
     "published": "",
     "score": 3,
     "uid": "127089d532f5b3e4"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 07:01:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2b06fb0ca8eda786f8e11a89802500a47d88fb4a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6c7edcce2af5e00b"
   }
 ]
