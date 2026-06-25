@@ -200,6 +200,16 @@
     "uid": "459c09352760101e"
   },
   {
+    "title": "WhatsApp Vulnerability CVE-2026–23863: What You Need to Know",
+    "url": "https://medium.com/@pentesterclubpvtltd/whatsapp-vulnerability-cve-2026-23863-what-you-need-to-know-2e3d4467d994?source=rss------bug_bounty-5",
+    "summary": "Understanding the WhatsApp for Windows Attachment Spoofing VulnerabilityContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 25 Jun 2026 17:06:04",
+    "score": 5,
+    "uid": "a8778cae6ace7b5b"
+  },
+  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -868,5 +878,25 @@
     "published": "",
     "score": 3,
     "uid": "aeae5ced70c2dcf3"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 23:38:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/acd66661955ff45908caa38c9005b85ed9cc25f8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "169e593fef723c63"
+  },
+  {
+    "title": "Updated List: Thu Jun 25 21:31:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/21b8b22024305c96f140dc4013c47cf669127bd5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2d94c72acee1f486"
   }
 ]
