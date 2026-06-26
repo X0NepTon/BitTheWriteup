@@ -10,16 +10,6 @@
     "uid": "d59d67577a3f31a1"
   },
   {
-    "title": "Lab 3: Blind OS Command Injection with Output Redirection — PortSwigger Web Security Academy…",
-    "url": "https://medium.com/@nitishmukhiya/lab-3-blind-os-command-injection-with-output-redirection-portswigger-web-security-academy-580316b43602?source=rss------bug_bounty-5",
-    "summary": "Turning a silent vulnerability into a readable one: how redirecting command output into a public directory lets you read RCE results&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 25 Jun 2026 10:26:41",
-    "score": 10,
-    "uid": "23a01f0afbd06e9c"
-  },
-  {
     "title": "Lab 2: Blind OS Command Injection with Time Delays — PortSwigger Web Security Academy Walkthrough…",
     "url": "https://medium.com/@nitishmukhiya/lab-2-blind-os-command-injection-with-time-delays-portswigger-web-security-academy-walkthrough-7a3cc729f569?source=rss------bug_bounty-5",
     "summary": "When the server stays silent: how to prove Remote Code Execution using nothing but a stopwatch and the Linux sleep command.Continue reading on Medium »",
@@ -988,5 +978,25 @@
     "published": "",
     "score": 3,
     "uid": "ebf57ef693c345de"
+  },
+  {
+    "title": "From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.",
+    "url": "https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5",
+    "summary": "There&#x2019;s a special kind of pain in bug bounty. Not getting an Out of Scope. Not getting an informative.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 19:47:30",
+    "score": 3,
+    "uid": "734cea10c800a859"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 02:23:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/76dfdbcc8ce586c241a6c4fd6307ea873e4aa380",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "395f3743e834cf37"
   }
 ]
