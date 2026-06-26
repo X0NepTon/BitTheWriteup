@@ -1,15 +1,5 @@
 [
   {
-    "title": "How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover",
-    "url": "https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5",
-    "summary": "JSON Web Tokens (JWTs) are the unsung heroes of modern stateless authentication. They allow applications to verify user identity securely&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 25 Jun 2026 12:26:00",
-    "score": 12,
-    "uid": "1e20aac453a1273d"
-  },
-  {
     "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
     "url": "https://www.intigriti.com/blog/news/key-takeaways-from-the-uk-cyber-security-and-resilience-bill",
     "summary": "What You Will Learn What the UK Cyber Security & Resilience Bill covers Which organizations and sectors will be affected New incident reporting and regulatory requirements How to prepare your organization for compliance The content of the Cyber Security & Resilience Bill (CSRB) recently introduced to Parliament contained few surprises. Having spent a significant amount of time working with European cyber-security frameworks, particularly NIS2, I see the Bill as both a continuation of the t…",
@@ -898,5 +888,15 @@
     "published": "",
     "score": 3,
     "uid": "ca40fcd5c14cc1c7"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 04:37:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b885fac29f6b5aed3c9737a289a0c8efac5e0b25",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "31f9451395d95448"
   }
 ]
