@@ -80,6 +80,16 @@
     "uid": "94bf411371367727"
   },
   {
+    "title": "$1,100 Privilege Escalation: Group Leader Can Promote Anyone via Hidden Parameter",
+    "url": "https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-anyone-via-hidden-parameter-ae43cdae30a0?source=rss------bug_bounty-5",
+    "summary": "Hi Everyone! This one started as a simple permission check&#x2026; but turned into a full role manipulation vulnerability inside a SaaS platform&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 01:31:01",
+    "score": 9,
+    "uid": "019c99d077045330"
+  },
+  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -898,5 +908,25 @@
     "published": "",
     "score": 3,
     "uid": "31f9451395d95448"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 10:15:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a072bf4b7dd29b5030e904b5ddb2a3cc34240638",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "cedd2d4fba4e18d9"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 05:52:26 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/563e5026ebf4017992bef44b65c046a80fc8aa10",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e6c1f0ef12dabfd4"
   }
 ]
