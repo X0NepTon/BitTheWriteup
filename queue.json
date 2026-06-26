@@ -1,15 +1,5 @@
 [
   {
-    "title": "Five key takeaways from the UK’s new Cyber Security & Resilience Bill",
-    "url": "https://www.intigriti.com/blog/news/key-takeaways-from-the-uk-cyber-security-and-resilience-bill",
-    "summary": "What You Will Learn What the UK Cyber Security & Resilience Bill covers Which organizations and sectors will be affected New incident reporting and regulatory requirements How to prepare your organization for compliance The content of the Cyber Security & Resilience Bill (CSRB) recently introduced to Parliament contained few surprises. Having spent a significant amount of time working with European cyber-security frameworks, particularly NIS2, I see the Bill as both a continuation of the t…",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Tue, 07 Apr 2026 00:00:00",
-    "score": 11,
-    "uid": "151bfa4e3fc41cc1"
-  },
-  {
     "title": "Bypassing WAFs with the phantom $Version cookie",
     "url": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
     "summary": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
@@ -948,5 +938,25 @@
     "published": "",
     "score": 3,
     "uid": "590a6c9f3bd5461d"
+  },
+  {
+    "title": "Open Redirect — Tiny Bug, Real Reward",
+    "url": "https://kd-200.medium.com/open-redirect-tiny-bug-real-reward-9bb4e8bed03a?source=rss------bug_bounty-5",
+    "summary": "Hey everyone! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 11:31:01",
+    "score": 3,
+    "uid": "1bab2f1e54b15272"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 16:49:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a477d878aa2d76f52dacc04164baacfdca870b68",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d1c0026cf04b64ba"
   }
 ]
