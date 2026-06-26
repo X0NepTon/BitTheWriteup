@@ -10,16 +10,6 @@
     "uid": "d59d67577a3f31a1"
   },
   {
-    "title": "AI Breaks Bug Bounty, and Hackers Lose Pricing Power",
-    "url": "https://dev.to/xoomar/ai-breaks-bug-bounty-and-hackers-lose-pricing-power-101",
-    "summary": "AI won't kill security research, but it will strain the bug bounty model that still pays as if finding individual flaws is the scarce part. That is the real warning inside Anthropic's Claude Mythos story. As SecurityWeek reports, Mythos Preview has been framed as a force that could threaten both bug bounty programs and in-house offensive security teams by pushing vulnerability discovery toward machine speed. The threat isn't that humans become useless. The threat is that the market keeps rewarding yesterday's bottleneck. AI vulnerability discovery makes the old bug bounty model too slow Bug bo",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 15 Jun 2026 01:43:14",
-    "score": 10,
-    "uid": "628b6c3d89c57435"
-  },
-  {
     "title": "Lab 1: OS Command Injection — PortSwigger Web Security Academy Walkthrough (Part 1 of 5)",
     "url": "https://medium.com/@nitishmukhiya/lab-1-os-command-injection-portswigger-web-security-academy-walkthrough-part-1-of-5-c3025c655555?source=rss------bug_bounty-5",
     "summary": "Starting the Command Injection series: how unsanitized shell input leads to direct, visible Remote Code Execution &#x2014; a beginner-friendly&#x2026;Continue reading on Medium »",
@@ -168,6 +158,16 @@
     "published": "Thu, 25 Jun 2026 17:06:04",
     "score": 5,
     "uid": "a8778cae6ace7b5b"
+  },
+  {
+    "title": "Bug Bounty Bootcamp #56: How to Write a Bug Bounty Report That Gets Paid (And Not Ignored)",
+    "url": "https://amannsharmaa.medium.com/bug-bounty-bootcamp-56-how-to-write-a-bug-bounty-report-that-gets-paid-and-not-ignored-9cce61158ced?source=rss------bug_bounty-5",
+    "summary": "You found a critical vulnerability. You write a report. The triager closes it as &#x201C;informational&#x201D; or &#x201C;duplicate.&#x201D; Why? Because your report&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 16:35:04",
+    "score": 5,
+    "uid": "746364217ef18730"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -968,5 +968,25 @@
     "published": "",
     "score": 3,
     "uid": "0301e1f5f427b1e1"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 22:51:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bf6392829e7bfbff05d0faee0fa24554a83cfaaa",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fc7b9f6e3c02899d"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 21:07:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/53c34ee25fb74ff56180e97a165a6413ddf1f02d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "1152eae0b7ecd7af"
   }
 ]
