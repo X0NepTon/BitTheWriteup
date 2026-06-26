@@ -10,16 +10,6 @@
     "uid": "d59d67577a3f31a1"
   },
   {
-    "title": "Lab 2: Blind OS Command Injection with Time Delays — PortSwigger Web Security Academy Walkthrough…",
-    "url": "https://medium.com/@nitishmukhiya/lab-2-blind-os-command-injection-with-time-delays-portswigger-web-security-academy-walkthrough-7a3cc729f569?source=rss------bug_bounty-5",
-    "summary": "When the server stays silent: how to prove Remote Code Execution using nothing but a stopwatch and the Linux sleep command.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 25 Jun 2026 10:18:51",
-    "score": 10,
-    "uid": "f1859ee4b5a9d499"
-  },
-  {
     "title": "Privilege Escalation Through Named-Pipe Flaw",
     "url": "https://medium.com/@defidev59/privilege-escalation-through-named-pipe-flaw-7617eb238e91?source=rss------bug_bounty-5",
     "summary": "Note: I cannot disclose any part of the company information as this was not exactly a &#x201C;Bug bounty&#x201D;. But, as this vulnerability found was&#x2026;Continue reading on Medium »",
@@ -148,6 +138,16 @@
     "published": "Fri, 26 Jun 2026 16:35:04",
     "score": 5,
     "uid": "746364217ef18730"
+  },
+  {
+    "title": "Gonka on HackerOne: launching our bug bounty program with Bitfury support",
+    "url": "https://medium.com/product-science-ai/gonka-on-hackerone-launching-our-bug-bounty-program-with-bitfury-support-06252309a91a?source=rss------bug_bounty-5",
+    "summary": "For blockchain-based projects like Gonka, network security is crucial. The larger a network gets, the more attention it attracts &#x2014;&#x2026;Continue reading on Product Science AI »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 21:42:21",
+    "score": 5,
+    "uid": "289a3539268d65ad"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -998,5 +998,25 @@
     "published": "",
     "score": 3,
     "uid": "395f3743e834cf37"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 04:29:52 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/acd401b570a4ce02f238251e49ae28fc59ad830d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c17543fc6532fcd8"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 03:27:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/65dd4a5994d6d8566e89b7e32ffc6a37159c3376",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ec4a817b605545db"
   }
 ]
