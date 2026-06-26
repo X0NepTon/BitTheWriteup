@@ -10,16 +10,6 @@
     "uid": "151bfa4e3fc41cc1"
   },
   {
-    "title": "The Pentester’s Guide to Finding CBC Bit Flipping Vulnerabilities",
-    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/the-pentesters-guide-to-finding-cbc-bit-flipping-vulnerabilities-50n3",
-    "summary": "If you spend enough time poking at web applications, you’ll eventually run into a target that handles session management poorly. You’ll intercept a request, look at the cookie, and see a massive, encrypted string. For a lot of testers, encrypted state data is a dead end. If you can’t read it, you move on. But if that application is relying on CBC (Cipher Block Chaining) mode without implementing an integrity check (like a MAC), that encrypted cookie isn't a dead end. It’s an attack vector. Here is a practical, step-by-step methodology for testing web applications for CBC bit flipping vulnerabi",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Wed, 17 Jun 2026 07:36:33",
-    "score": 11,
-    "uid": "4aefe2cf5bd99228"
-  },
-  {
     "title": "Bypassing WAFs with the phantom $Version cookie",
     "url": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
     "summary": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
@@ -928,5 +918,35 @@
     "published": "",
     "score": 3,
     "uid": "e6c1f0ef12dabfd4"
+  },
+  {
+    "title": "How I Locked a User Out of Their Own Account — My First Bug Bounty Finding",
+    "url": "https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5",
+    "summary": "So this is my first ever bug bounty writeup. And honestly, I didn&#x2019;t expect my first real finding to be this interesting. It&#x2019;s not an XSS&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 26 Jun 2026 08:29:02",
+    "score": 3,
+    "uid": "05027de1ca65e930"
+  },
+  {
+    "title": "SKILL.md: A New Supply Chain Threat in AI Agents and Harnesses",
+    "url": "https://systemweakness.com/skill-md-a-new-supply-chain-threat-in-ai-agents-and-harnesses-3112c7e34e60?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on System Weakness »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 26 Jun 2026 05:41:25",
+    "score": 3,
+    "uid": "db44b1e5ec1c7367"
+  },
+  {
+    "title": "Updated List: Fri Jun 26 13:53:22 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c42d91bb886e07965c4b4c90b65a84d3325aa447",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "590a6c9f3bd5461d"
   }
 ]
