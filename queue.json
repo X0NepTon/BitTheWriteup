@@ -10,16 +10,6 @@
     "uid": "d59d67577a3f31a1"
   },
   {
-    "title": "Lab 1: OS Command Injection — PortSwigger Web Security Academy Walkthrough (Part 1 of 5)",
-    "url": "https://medium.com/@nitishmukhiya/lab-1-os-command-injection-portswigger-web-security-academy-walkthrough-part-1-of-5-c3025c655555?source=rss------bug_bounty-5",
-    "summary": "Starting the Command Injection series: how unsanitized shell input leads to direct, visible Remote Code Execution &#x2014; a beginner-friendly&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 13:19:57",
-    "score": 10,
-    "uid": "85cc52631a10abc9"
-  },
-  {
     "title": "Lab 3: Blind OS Command Injection with Output Redirection — PortSwigger Web Security Academy…",
     "url": "https://medium.com/@nitishmukhiya/lab-3-blind-os-command-injection-with-output-redirection-portswigger-web-security-academy-580316b43602?source=rss------bug_bounty-5",
     "summary": "Turning a silent vulnerability into a readable one: how redirecting command output into a public directory lets you read RCE results&#x2026;Continue reading on Medium »",
@@ -988,5 +978,15 @@
     "published": "",
     "score": 3,
     "uid": "1152eae0b7ecd7af"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 00:39:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/413f3566880963a51201670d2ddf5e280c6560b0",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ebf57ef693c345de"
   }
 ]
