@@ -1,15 +1,5 @@
 [
   {
-    "title": "Privilege Escalation Through Named-Pipe Flaw",
-    "url": "https://medium.com/@defidev59/privilege-escalation-through-named-pipe-flaw-7617eb238e91?source=rss------bug_bounty-5",
-    "summary": "Note: I cannot disclose any part of the company information as this was not exactly a &#x201C;Bug bounty&#x201D;. But, as this vulnerability found was&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 25 Jun 2026 07:19:21",
-    "score": 9,
-    "uid": "94bf411371367727"
-  },
-  {
     "title": "$1,100 Privilege Escalation: Group Leader Can Promote Anyone via Hidden Parameter",
     "url": "https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-anyone-via-hidden-parameter-ae43cdae30a0?source=rss------bug_bounty-5",
     "summary": "Hi Everyone! This one started as a simple permission check&#x2026; but turned into a full role manipulation vulnerability inside a SaaS platform&#x2026;Continue reading on Medium »",
@@ -168,6 +158,16 @@
     "published": "Sat, 27 Jun 2026 07:39:03",
     "score": 5,
     "uid": "b2c35c4a2d6a7aca"
+  },
+  {
+    "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
+    "url": "https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5",
+    "summary": "One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 14:35:54",
+    "score": 5,
+    "uid": "a69c76941b930966"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1108,5 +1108,15 @@
     "published": "",
     "score": 3,
     "uid": "fd507eacb372425d"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 19:57:38 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ec5e517307906d2b244f782b14d1f4d4c9fab4a8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c303c06164a2aef6"
   }
 ]
