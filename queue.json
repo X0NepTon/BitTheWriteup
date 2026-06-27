@@ -1,5 +1,15 @@
 [
   {
+    "title": "BUG-BOUNTY SERIES 16: Server-Side Request Forgery (SSRF).",
+    "url": "https://medium.com/@krisnawhy300/bug-bounty-series-16-server-side-request-forgery-ssrf-aba266e83b79?source=rss------bug_bounty-5",
+    "summary": "Dalam ekosistem aplikasi modern, khususnya yang mengadopsi arsitektur microservices dan cloud-native, aplikasi tidak lagi berdiri sendiri&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 04:54:53",
+    "score": 10,
+    "uid": "6be787b427a563d3"
+  },
+  {
     "title": "Privilege Escalation Through Named-Pipe Flaw",
     "url": "https://medium.com/@defidev59/privilege-escalation-through-named-pipe-flaw-7617eb238e91?source=rss------bug_bounty-5",
     "summary": "Note: I cannot disclose any part of the company information as this was not exactly a &#x201C;Bug bounty&#x201D;. But, as this vulnerability found was&#x2026;Continue reading on Medium »",
@@ -1028,5 +1038,15 @@
     "published": "",
     "score": 3,
     "uid": "8c4ab06f196d93ce"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 11:12:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a5457899f085747d3586d77607faed6e77e21615",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4d54cfa143ed9e8e"
   }
 ]
