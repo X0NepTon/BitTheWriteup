@@ -1,15 +1,5 @@
 [
   {
-    "title": "Zero-Click Account Takeover via Unicode Homoglyph Email Collision",
-    "url": "https://r0h1th.medium.com/zero-click-account-takeover-via-unicode-homoglyph-email-collision-190f942ccb07?source=rss------bug_bounty-5",
-    "summary": "One accented letter in a domain name was all it took. I could log into someone else&#x2019;s account, then quietly have their password-reset link&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 07:34:34",
-    "score": 9,
-    "uid": "32411fe599691e5a"
-  },
-  {
     "title": "Authentication Bypass Tricks",
     "url": "https://kd-200.medium.com/authentication-bypass-tricks-d318b6e39de7?source=rss------bug_bounty-5",
     "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1188,5 +1178,25 @@
     "published": "",
     "score": 3,
     "uid": "41f1550be3c81975"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 02:31:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e1af500719bd55d6bd1263726d7a7bd8edc439d1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "579780d6bf95e276"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 01:32:19 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b11663b7e85594c6b195741b49133ccd62dc722e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4b708f0c60378da6"
   }
 ]
