@@ -1,15 +1,5 @@
 [
   {
-    "title": "$1,100 Privilege Escalation: Group Leader Can Promote Anyone via Hidden Parameter",
-    "url": "https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-anyone-via-hidden-parameter-ae43cdae30a0?source=rss------bug_bounty-5",
-    "summary": "Hi Everyone! This one started as a simple permission check&#x2026; but turned into a full role manipulation vulnerability inside a SaaS platform&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 01:31:01",
-    "score": 9,
-    "uid": "019c99d077045330"
-  },
-  {
     "title": "Zero-Click Account Takeover via Unicode Homoglyph Email Collision",
     "url": "https://r0h1th.medium.com/zero-click-account-takeover-via-unicode-homoglyph-email-collision-190f942ccb07?source=rss------bug_bounty-5",
     "summary": "One accented letter in a domain name was all it took. I could log into someone else&#x2019;s account, then quietly have their password-reset link&#x2026;Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Sat, 27 Jun 2026 11:31:01",
     "score": 9,
     "uid": "bb0f0f0d534e5845"
+  },
+  {
+    "title": "Authentication Bypass Bugs: The Beginner Friendly Money Maker",
+    "url": "https://medium.com/@masood.nfc77/authentication-bypass-bugs-the-beginner-friendly-money-maker-fac4cb1b7d3a?source=rss------bug_bounty-5",
+    "summary": "Easy to understand. Easy to spot. Pays well.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 18:29:05",
+    "score": 9,
+    "uid": "46e2da5e0992d9a6"
   },
   {
     "title": "Repeater Strike: manual testing, amplified",
@@ -1148,5 +1148,45 @@
     "published": "",
     "score": 3,
     "uid": "a5f4e45ba6a6e7db"
+  },
+  {
+    "title": "Stored XSS via SVG File Upload in a Project Management Application",
+    "url": "https://medium.com/@am011416854/stored-xss-via-svg-file-upload-in-a-project-management-application-038c0944c3f7?source=rss------bug_bounty-5",
+    "summary": "Bug Bounty Write-up | Stored XSS | File Upload SecurityContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 17:05:53",
+    "score": 3,
+    "uid": "9334bf4905f8622a"
+  },
+  {
+    "title": "When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study",
+    "url": "https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty-5",
+    "summary": "Hey It&#x2019;s been quite a while since my last article, but I&#x2019;m excited to start publishing consistently again. My goal is to share one or two&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 17:01:35",
+    "score": 3,
+    "uid": "2a7e3ce57c9031ec"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 00:23:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/acfb57353e86cd4bd34b0a2f0c9631efb1d19b1d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "70faa01ee797d9f9"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 23:18:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ed8f9adf449ea958350726016277fbd6f51a125c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "41f1550be3c81975"
   }
 ]
