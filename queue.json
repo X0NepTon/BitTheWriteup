@@ -1,15 +1,5 @@
 [
   {
-    "title": "Authentication Bypass Tricks",
-    "url": "https://kd-200.medium.com/authentication-bypass-tricks-d318b6e39de7?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 11:31:01",
-    "score": 9,
-    "uid": "bb0f0f0d534e5845"
-  },
-  {
     "title": "Authentication Bypass Bugs: The Beginner Friendly Money Maker",
     "url": "https://medium.com/@masood.nfc77/authentication-bypass-bugs-the-beginner-friendly-money-maker-fac4cb1b7d3a?source=rss------bug_bounty-5",
     "summary": "Easy to understand. Easy to spot. Pays well.Continue reading on Medium »",
@@ -1198,5 +1188,25 @@
     "published": "",
     "score": 3,
     "uid": "4b708f0c60378da6"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 04:31:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a680208a65df0721cfea5c805e44c6e9059a9bf4",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fbfba6783376d14e"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 03:32:02 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d1f1ebbec1c8822a3f3b8ed290c1a25a320ee5ac",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6b2ae4c728f8cc1c"
   }
 ]
