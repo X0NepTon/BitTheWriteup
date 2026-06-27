@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bypassing WAFs with the phantom $Version cookie",
-    "url": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
-    "summary": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 04 Dec 2024 15:03:35",
-    "score": 10,
-    "uid": "d59d67577a3f31a1"
-  },
-  {
     "title": "Privilege Escalation Through Named-Pipe Flaw",
     "url": "https://medium.com/@defidev59/privilege-escalation-through-named-pipe-flaw-7617eb238e91?source=rss------bug_bounty-5",
     "summary": "Note: I cannot disclose any part of the company information as this was not exactly a &#x201C;Bug bounty&#x201D;. But, as this vulnerability found was&#x2026;Continue reading on Medium »",
@@ -1018,5 +1008,25 @@
     "published": "",
     "score": 3,
     "uid": "ec4a817b605545db"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 07:22:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/12a4d94387a07cda8a4a85dc832b6867ddaf2cdb",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c21e6881bd30502f"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 05:26:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7ffe81260eaa55a86e11cb75e35bb1c594e8e431",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8c4ab06f196d93ce"
   }
 ]
