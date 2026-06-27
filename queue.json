@@ -30,6 +30,16 @@
     "uid": "32411fe599691e5a"
   },
   {
+    "title": "Authentication Bypass Tricks",
+    "url": "https://kd-200.medium.com/authentication-bypass-tricks-d318b6e39de7?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 27 Jun 2026 11:31:01",
+    "score": 9,
+    "uid": "bb0f0f0d534e5845"
+  },
+  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -1078,5 +1088,25 @@
     "published": "",
     "score": 3,
     "uid": "912707dabbab8798"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 18:31:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d8fdfa5d768a68e897b49df9f96027d5b8aa3e48",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b1d359d980419232"
+  },
+  {
+    "title": "Updated List: Sat Jun 27 17:23:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/101f87c89b2ec0a061f5691c3451ce85bb0060be",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fd507eacb372425d"
   }
 ]
