@@ -1,13 +1,23 @@
 [
   {
-    "title": "How a Flawed CORS Policy on an API Gateway Led to a $13,000 Private Token Leak",
-    "url": "https://medium.com/@21bec131/how-a-flawed-cors-policy-on-an-api-gateway-led-to-a-13-000-private-token-leak-39d3ef5700c5?source=rss------bug_bounty-5",
-    "summary": "Cross-Origin Resource Sharing (CORS) is a browser security mechanism designed to break down the strict walls of the Same-Origin Policy&#x2026;Continue reading on Medium »",
+    "title": "My Cybersecurity Journey: From Malware Analysis to Bug Bounty",
+    "url": "https://tamatah.medium.com/my-cybersecurity-journey-from-malware-analysis-to-bug-bounty-c26da56b7d89?source=rss------bug_bounty-5",
+    "summary": "If you&#x2019;ve visited my LinkedIn profile, you may have noticed a gap in my cybersecurity journey. That gap was due to my mandatory military&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 11:11:00",
-    "score": 12,
-    "uid": "3938f813a231b13d"
+    "published": "Sun, 28 Jun 2026 12:14:24",
+    "score": 11,
+    "uid": "f6fa00e358bb1aff"
+  },
+  {
+    "title": "SQL Injection via Category Parameter",
+    "url": "https://medium.com/@tonmoybarmon/sql-injection-via-category-parameter-e469cfa8f417?source=rss------bug_bounty-5",
+    "summary": "Professional bug bounty style write-up demonstrating SQL Injection exploitation through the category parameter using the payload &#x2018; OR 1=1&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 14:09:48",
+    "score": 10,
+    "uid": "0b5677bf4417fd2b"
   },
   {
     "title": "Repeater Strike: manual testing, amplified",
@@ -1278,5 +1288,25 @@
     "published": "",
     "score": 3,
     "uid": "7021f9f185f07486"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 20:00:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/278c01964ec18dee78716722c2bd78c10d118c12",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e24478e3fa9df000"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 18:22:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d60827e678a6df13a7c55a4f68540e988490366c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "23620090f213a3e9"
   }
 ]
