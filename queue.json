@@ -1348,5 +1348,35 @@
     "published": "",
     "score": 3,
     "uid": "7052e0e0bbc1266a"
+  },
+  {
+    "title": "السلام عليكم",
+    "url": "https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty_writeup-5",
+    "summary": "Critical BAC tipsContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 28 Jun 2026 21:37:46",
+    "score": 3,
+    "uid": "57fcc91bf874c7a4"
+  },
+  {
+    "title": "السلام عليكم",
+    "url": "https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty-5",
+    "summary": "Critical BAC tipsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 21:37:46",
+    "score": 3,
+    "uid": "84699fd595a56350"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 02:46:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c0821b5426c028e9bd47e36cf3276c83cac291f7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "61d6ba3ec5da1865"
   }
 ]
