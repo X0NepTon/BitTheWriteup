@@ -1,15 +1,5 @@
 [
   {
-    "title": "# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…",
-    "url": "https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5",
-    "summary": "> A privilege escalation vulnerability that allowed a low-privileged workspace member to steal administrator credentials through a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 02:18:34",
-    "score": 16,
-    "uid": "4dcd9dfdcf286ab1"
-  },
-  {
     "title": "Authentication Bypass Bugs: The Beginner Friendly Money Maker",
     "url": "https://medium.com/@masood.nfc77/authentication-bypass-bugs-the-beginner-friendly-money-maker-fac4cb1b7d3a?source=rss------bug_bounty-5",
     "summary": "Easy to understand. Easy to spot. Pays well.Continue reading on Medium »",
@@ -1238,5 +1228,25 @@
     "published": "",
     "score": 3,
     "uid": "9bf27a191eb9fe6e"
+  },
+  {
+    "title": "I Chained 3 Low-Severity Bugs and Took Down the Entire App Admin Panel.",
+    "url": "https://medium.com/@psaibtech/i-chained-3-low-severity-bugs-and-took-down-the-entire-app-admin-panel-20aadf79bcda?source=rss------bug_bounty-5",
+    "summary": "Most people imagine hacking as someone wearing a hoodie, typing furiously on a black screen while green text scrolls everywhere.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 05:31:00",
+    "score": 3,
+    "uid": "3421a18ea9e9635e"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 12:17:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/19f2f3aca5bf5001b686ed4b7a9de9c07fde9e03",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5b32fa68459f7018"
   }
 ]
