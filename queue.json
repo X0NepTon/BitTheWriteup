@@ -1,5 +1,15 @@
 [
   {
+    "title": "How a Flawed CORS Policy on an API Gateway Led to a $13,000 Private Token Leak",
+    "url": "https://medium.com/@21bec131/how-a-flawed-cors-policy-on-an-api-gateway-led-to-a-13-000-private-token-leak-39d3ef5700c5?source=rss------bug_bounty-5",
+    "summary": "Cross-Origin Resource Sharing (CORS) is a browser security mechanism designed to break down the strict walls of the Same-Origin Policy&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 11:11:00",
+    "score": 12,
+    "uid": "3938f813a231b13d"
+  },
+  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -1258,5 +1268,15 @@
     "published": "",
     "score": 3,
     "uid": "2b82f88d2c5fcd24"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 16:58:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/cc0dbe6759f3fc74be6bcd5e8d46f17fc6bbb1b2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7021f9f185f07486"
   }
 ]
