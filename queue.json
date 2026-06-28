@@ -1,13 +1,13 @@
 [
   {
-    "title": "SQL Injection via Category Parameter",
-    "url": "https://medium.com/@tonmoybarmon/sql-injection-via-category-parameter-e469cfa8f417?source=rss------bug_bounty-5",
-    "summary": "Professional bug bounty style write-up demonstrating SQL Injection exploitation through the category parameter using the payload &#x2018; OR 1=1&#x2026;Continue reading on Medium »",
+    "title": "RCE via Gemini Live AI Voice Session Misconfiguration.",
+    "url": "https://alvinferd.medium.com/rce-via-gemini-live-ai-voice-session-misconfiguration-e0648805a055?source=rss------bug_bounty-5",
+    "summary": "A growing number of products are building real-time AI voice features directly into their web applications. The most common pattern is a&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 14:09:48",
+    "published": "Sun, 28 Jun 2026 17:44:39",
     "score": 10,
-    "uid": "0b5677bf4417fd2b"
+    "uid": "dc2555e84a3b82a0"
   },
   {
     "title": "Repeater Strike: manual testing, amplified",
@@ -148,6 +148,16 @@
     "published": "Sat, 27 Jun 2026 14:35:54",
     "score": 5,
     "uid": "a69c76941b930966"
+  },
+  {
+    "title": "How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure Case…",
+    "url": "https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 17:51:20",
+    "score": 5,
+    "uid": "7d80705c395fdb56"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1308,5 +1318,25 @@
     "published": "",
     "score": 3,
     "uid": "0744aec9f6140777"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 23:24:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ec6fb17a0b2607953011b34ca38e6c3fa3ce83ac",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "46993c81e4b327c0"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 22:21:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ffdf68d9146a78231efcde71dcd804e0fe6c1dea",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fc95c90413a6fa93"
   }
 ]
