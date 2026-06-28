@@ -1,5 +1,15 @@
 [
   {
+    "title": "# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…",
+    "url": "https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5",
+    "summary": "> A privilege escalation vulnerability that allowed a low-privileged workspace member to steal administrator credentials through a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 02:18:34",
+    "score": 16,
+    "uid": "4dcd9dfdcf286ab1"
+  },
+  {
     "title": "Authentication Bypass Bugs: The Beginner Friendly Money Maker",
     "url": "https://medium.com/@masood.nfc77/authentication-bypass-bugs-the-beginner-friendly-money-maker-fac4cb1b7d3a?source=rss------bug_bounty-5",
     "summary": "Easy to understand. Easy to spot. Pays well.Continue reading on Medium »",
@@ -1208,5 +1218,25 @@
     "published": "",
     "score": 3,
     "uid": "6b2ae4c728f8cc1c"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 08:06:43 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/430275a6c2960564afd69855bee481e7413180b9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6d9ad263a98c0e30"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 05:30:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/44f163465aa2b43261db200557042622356b58e7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "9bf27a191eb9fe6e"
   }
 ]
