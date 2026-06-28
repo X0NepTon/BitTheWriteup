@@ -1,15 +1,5 @@
 [
   {
-    "title": "RCE via Gemini Live AI Voice Session Misconfiguration.",
-    "url": "https://alvinferd.medium.com/rce-via-gemini-live-ai-voice-session-misconfiguration-e0648805a055?source=rss------bug_bounty-5",
-    "summary": "A growing number of products are building real-time AI voice features directly into their web applications. The most common pattern is a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 17:44:39",
-    "score": 10,
-    "uid": "dc2555e84a3b82a0"
-  },
-  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -1338,5 +1328,25 @@
     "published": "",
     "score": 3,
     "uid": "fc95c90413a6fa93"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 01:38:59 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6f47deceaf9f3b142ffb258cea891e8ad05a667e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7e64ad4d969e2e70"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 00:30:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8294f15085e9f1d96c1362a9e7874f560f9ff485",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7052e0e0bbc1266a"
   }
 ]
