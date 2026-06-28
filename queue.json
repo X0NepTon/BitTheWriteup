@@ -1,15 +1,5 @@
 [
   {
-    "title": "My Cybersecurity Journey: From Malware Analysis to Bug Bounty",
-    "url": "https://tamatah.medium.com/my-cybersecurity-journey-from-malware-analysis-to-bug-bounty-c26da56b7d89?source=rss------bug_bounty-5",
-    "summary": "If you&#x2019;ve visited my LinkedIn profile, you may have noticed a gap in my cybersecurity journey. That gap was due to my mandatory military&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 12:14:24",
-    "score": 11,
-    "uid": "f6fa00e358bb1aff"
-  },
-  {
     "title": "SQL Injection via Category Parameter",
     "url": "https://medium.com/@tonmoybarmon/sql-injection-via-category-parameter-e469cfa8f417?source=rss------bug_bounty-5",
     "summary": "Professional bug bounty style write-up demonstrating SQL Injection exploitation through the category parameter using the payload &#x2018; OR 1=1&#x2026;Continue reading on Medium »",
@@ -1308,5 +1298,15 @@
     "published": "",
     "score": 3,
     "uid": "23620090f213a3e9"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 21:19:06 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c8fb411d0fe3c535338589e92c50da4d9d9ecd21",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0744aec9f6140777"
   }
 ]
