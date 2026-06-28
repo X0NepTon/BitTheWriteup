@@ -1,15 +1,5 @@
 [
   {
-    "title": "Authentication Bypass Bugs: The Beginner Friendly Money Maker",
-    "url": "https://medium.com/@masood.nfc77/authentication-bypass-bugs-the-beginner-friendly-money-maker-fac4cb1b7d3a?source=rss------bug_bounty-5",
-    "summary": "Easy to understand. Easy to spot. Pays well.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 18:29:05",
-    "score": 9,
-    "uid": "46e2da5e0992d9a6"
-  },
-  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -1248,5 +1238,25 @@
     "published": "",
     "score": 3,
     "uid": "5b32fa68459f7018"
+  },
+  {
+    "title": "API Fuzzing for Bug Bounty: The Complete Attack-Focused Methodology",
+    "url": "https://infosecwriteups.com/api-fuzzing-for-bug-bounty-the-complete-attack-focused-methodology-7c7b36303088?source=rss------bug_bounty-5",
+    "summary": "API fuzzing is one of the most effective techniques for uncovering hidden vulnerabilities that traditional testing often misses. From&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 28 Jun 2026 08:05:18",
+    "score": 3,
+    "uid": "4623c270eb3a5c7e"
+  },
+  {
+    "title": "Updated List: Sun Jun 28 15:20:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/17e18d2b6ec3c5e9ef94c870ac92f31f375f89fe",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2b82f88d2c5fcd24"
   }
 ]
