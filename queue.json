@@ -1,15 +1,5 @@
 [
   {
-    "title": "SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide",
-    "url": "https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------bug_bounty-5",
-    "summary": "Subtitle:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 11:13:43",
-    "score": 12,
-    "uid": "543bea4652f7f887"
-  },
-  {
     "title": "Instagram Security Vulnerability: Everything You Need to Know",
     "url": "https://medium.com/@pentesterclubpvtltd/instagram-security-vulnerability-everything-you-need-to-know-bef463011d29?source=rss------bug_bounty-5",
     "summary": "How a Flaw in Meta&#x2019;s AI Support System Led to Thousands of Instagram Account TakeoversContinue reading on Medium »",
@@ -38,6 +28,16 @@
     "published": "Mon, 29 Jun 2026 16:18:43",
     "score": 9,
     "uid": "79b23981e4605b42"
+  },
+  {
+    "title": "When Account Recovery Became Account Delivery : Full Account Takeover",
+    "url": "https://medium.com/@mohamedmehina31/when-account-recovery-became-account-delivery-full-account-takeover-57c91a9fc300?source=rss------bug_bounty-5",
+    "summary": "Me. A password reset page. Burp Suite, nothing more.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 18:32:47",
+    "score": 9,
+    "uid": "23b71e6346bbcc3b"
   },
   {
     "title": "Repeater Strike: manual testing, amplified",
@@ -1518,5 +1518,15 @@
     "published": "",
     "score": 3,
     "uid": "254765637462b6a2"
+  },
+  {
+    "title": "Updated List: Tue Jun 30 00:51:22 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/45e9beb29cdc490ffb78bf6a51ba39f1af6483d2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "67f589ead56a7270"
   }
 ]
