@@ -1,5 +1,45 @@
 [
   {
+    "title": "Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story",
+    "url": "https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty-5",
+    "summary": "When you look at a bug bounty scope with 15+ root domains, it&#x2019;s easy to get overwhelmed. Most hunters will fire off their automated&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 14:10:33",
+    "score": 14,
+    "uid": "546360c9f344fae2"
+  },
+  {
+    "title": "SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide",
+    "url": "https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------bug_bounty-5",
+    "summary": "Subtitle:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 11:13:43",
+    "score": 12,
+    "uid": "543bea4652f7f887"
+  },
+  {
+    "title": "Instagram Security Vulnerability: Everything You Need to Know",
+    "url": "https://medium.com/@pentesterclubpvtltd/instagram-security-vulnerability-everything-you-need-to-know-bef463011d29?source=rss------bug_bounty-5",
+    "summary": "How a Flaw in Meta&#x2019;s AI Support System Led to Thousands of Instagram Account TakeoversContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 12:28:42",
+    "score": 9,
+    "uid": "d4f66ae076c1fbae"
+  },
+  {
+    "title": "Cache Poisoning at the Edge: How Cloudflare Workers & Vercel Edge Functions Break Everything You Thought You Knew",
+    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/cache-poisoning-at-the-edge-how-cloudflare-workers-vercel-edge-functions-break-everything-you-6hg",
+    "summary": "\"The most dangerous place to introduce a bug is between two systems that both think the other one is handling security.\" You've read James Kettle's research. You've done the PortSwigger labs. You understand unkeyed headers, cache busters, and X-Forwarded-Host tricks. You think you know web cache poisoning. Then edge computing showed up and quietly reshuffled the entire deck. Cloudflare Workers and Vercel Edge Functions aren't just CDNs with extra steps. They're programmable layers sitting in a position no one properly accounted for when the classic cache poisoning playbook was written. And tha",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 12:56:10",
+    "score": 9,
+    "uid": "a5075d529b6ce7b0"
+  },
+  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -148,6 +188,16 @@
     "published": "Mon, 29 Jun 2026 10:37:59",
     "score": 5,
     "uid": "c33ee9f45663a5e8"
+  },
+  {
+    "title": "CVE-2026–39904: How I Crashed an Entire Server Using Nothing but a DOCX File?",
+    "url": "https://ashikmd7.medium.com/cve-2026-39904-how-i-crashed-an-entire-server-using-nothing-but-a-docx-file-05dc8f66ced2?source=rss------bug_bounty-5",
+    "summary": "Welcome Researchers!Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 11:37:28",
+    "score": 5,
+    "uid": "9e8baa3a54955df0"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1418,5 +1468,25 @@
     "published": "",
     "score": 3,
     "uid": "0cd76f3452af2104"
+  },
+  {
+    "title": "I Used DigPool.AI for Bug Bounty Hunting. Here’s What Actually Changed.",
+    "url": "https://medium.com/@apsoorya2020/i-used-digpool-ai-for-bug-bounty-hunting-heres-what-actually-changed-f2dd239ac4a5?source=rss------bug_bounty-5",
+    "summary": "Most bug bounty write-ups skip the boring part: the hours spent just figuring out what an application is actually doing before a single&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 13:41:57",
+    "score": 3,
+    "uid": "84cc802c3da4e4b0"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 16:58:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/31fc7301a47ff32ef41d362e6340586c8135ec9a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5a0abb28597e0b1e"
   }
 ]
