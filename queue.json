@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story",
-    "url": "https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty-5",
-    "summary": "When you look at a bug bounty scope with 15+ root domains, it&#x2019;s easy to get overwhelmed. Most hunters will fire off their automated&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 14:10:33",
-    "score": 14,
-    "uid": "546360c9f344fae2"
-  },
-  {
     "title": "SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide",
     "url": "https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------bug_bounty-5",
     "summary": "Subtitle:Continue reading on Medium »",
@@ -40,6 +30,16 @@
     "uid": "a5075d529b6ce7b0"
   },
   {
+    "title": "How a Missing Rate Limit in a Password Reset Flow Led to Account Takeover",
+    "url": "https://medium.com/@hossein.za68/how-a-missing-rate-limit-in-a-password-reset-flow-led-to-account-takeover-531f060b85de?source=rss------bug_bounty-5",
+    "summary": "Recently, while assessing the security of an online learning platform that provides programming, Linux, and other technical courses, I&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 16:18:43",
+    "score": 9,
+    "uid": "79b23981e4605b42"
+  },
+  {
     "title": "Repeater Strike: manual testing, amplified",
     "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
     "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -48,6 +48,16 @@
     "published": "Tue, 15 Jul 2025 13:46:37",
     "score": 7,
     "uid": "3fad12712df84d7b"
+  },
+  {
+    "title": "The Admin Door That Never Closes: Privilege Escalation in a Boat’s Server",
+    "url": "https://medium.com/@vashuvats/the-admin-door-that-never-closes-privilege-escalation-in-a-boats-server-591fbc1c59db?source=rss------bug_bounty-5",
+    "summary": "How a &#x201C;set up your admin account&#x201D; page meant to run exactly once stayed open forever &#x2014; and let any unauthenticated user mint themselves a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 16:19:10",
+    "score": 7,
+    "uid": "62671024e6561790"
   },
   {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
@@ -1488,5 +1498,25 @@
     "published": "",
     "score": 3,
     "uid": "5a0abb28597e0b1e"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 22:58:17 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/386917666ac85fd1ea82a548049a2ead898c1b40",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d628c08013ae5dd6"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 20:27:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b581df76cb62fadd71b14907cb17b24fc334cfe5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "254765637462b6a2"
   }
 ]
