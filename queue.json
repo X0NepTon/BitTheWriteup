@@ -10,16 +10,6 @@
     "uid": "d4f66ae076c1fbae"
   },
   {
-    "title": "Cache Poisoning at the Edge: How Cloudflare Workers & Vercel Edge Functions Break Everything You Thought You Knew",
-    "url": "https://dev.to/arashad_dodhiya_0e4bdba5a/cache-poisoning-at-the-edge-how-cloudflare-workers-vercel-edge-functions-break-everything-you-6hg",
-    "summary": "\"The most dangerous place to introduce a bug is between two systems that both think the other one is handling security.\" You've read James Kettle's research. You've done the PortSwigger labs. You understand unkeyed headers, cache busters, and X-Forwarded-Host tricks. You think you know web cache poisoning. Then edge computing showed up and quietly reshuffled the entire deck. Cloudflare Workers and Vercel Edge Functions aren't just CDNs with extra steps. They're programmable layers sitting in a position no one properly accounted for when the classic cache poisoning playbook was written. And tha",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 12:56:10",
-    "score": 9,
-    "uid": "a5075d529b6ce7b0"
-  },
-  {
     "title": "How a Missing Rate Limit in a Password Reset Flow Led to Account Takeover",
     "url": "https://medium.com/@hossein.za68/how-a-missing-rate-limit-in-a-password-reset-flow-led-to-account-takeover-531f060b85de?source=rss------bug_bounty-5",
     "summary": "Recently, while assessing the security of an online learning platform that provides programming, Linux, and other technical courses, I&#x2026;Continue reading on Medium »",
@@ -208,6 +198,16 @@
     "published": "Mon, 29 Jun 2026 11:37:28",
     "score": 5,
     "uid": "9e8baa3a54955df0"
+  },
+  {
+    "title": "IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data",
+    "url": "https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5",
+    "summary": "Hi everyone : )Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 21:04:53",
+    "score": 5,
+    "uid": "e2c3aa285f5d40db"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1528,5 +1528,15 @@
     "published": "",
     "score": 3,
     "uid": "67f589ead56a7270"
+  },
+  {
+    "title": "Updated List: Tue Jun 30 02:30:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/db747ca74fba8f240290e8769ba6e3c58fdfe71b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c6ab812a307074ca"
   }
 ]
