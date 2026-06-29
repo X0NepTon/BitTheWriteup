@@ -10,16 +10,6 @@
     "uid": "3fad12712df84d7b"
   },
   {
-    "title": "I Made the Database Confess Its Own Name",
-    "url": "https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5",
-    "summary": "Part 3 of my SQL injection series. First I stole hidden data. Then I logged in as admin with no password. This time, I make the database&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 22 Jun 2026 22:21:05",
-    "score": 7,
-    "uid": "7bf2caaf669b1141"
-  },
-  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -48,6 +38,16 @@
     "published": "Tue, 23 Jun 2026 17:45:57",
     "score": 6,
     "uid": "726d583190e7b8b6"
+  },
+  {
+    "title": "Reconnaissance for exposure management: why context matters in the AI era",
+    "url": "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era",
+    "summary": "Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (The AI Impact), judgment, and prioritization has become more important, not less (CEO Insights). But there’s a deeper implication hiding underneath all of that: most security teams still only learn from “successful outcomes”. In my experience, the majority of researchers, program managers, and securit…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Mon, 29 Jun 2026 00:00:00",
+    "score": 6,
+    "uid": "f2b00ea8ede4149c"
   },
   {
     "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
@@ -138,6 +138,16 @@
     "published": "Sun, 28 Jun 2026 17:51:20",
     "score": 5,
     "uid": "7d80705c395fdb56"
+  },
+  {
+    "title": "The 35 Day Silence How Visma and Intigriti Normalized Critical Data Leaks",
+    "url": "https://medium.com/@Pwnedl0l/the-35-day-silence-how-visma-and-intigriti-normalized-critical-data-leaks-5e979189a79f?source=rss------bug_bounty-5",
+    "summary": "In the professional bug bounty ecosystem researchers operate under a good faith agreement we identify vulnerabilities we provide proof and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 29 Jun 2026 10:37:59",
+    "score": 5,
+    "uid": "c33ee9f45663a5e8"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1398,5 +1408,15 @@
     "published": "",
     "score": 3,
     "uid": "dd7a8ce89306c27d"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 11:53:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bcf550368e47cb305ff392bb6cc53f5e2841092b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0cd76f3452af2104"
   }
 ]
