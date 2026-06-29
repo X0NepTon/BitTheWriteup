@@ -20,16 +20,6 @@
     "uid": "7bf2caaf669b1141"
   },
   {
-    "title": "Intigriti Challenge 0626 Write-up: Blind XSS, NUL Bytes and a Prefix Oracle",
-    "url": "https://medium.com/@mhqfhvxqbumxepbfvb/intigriti-challenge-0626-write-up-blind-xss-via-search-reflection-and-a-prefix-oracle-e856a53f3d08?source=rss------bug_bounty-5",
-    "summary": "Challenge: Intigriti 0626 &#x2014; Inside Job Target: https://challenge-0626.intigriti.ioContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 05:17:26",
-    "score": 7,
-    "uid": "159c239796f40fde"
-  },
-  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -1378,5 +1368,25 @@
     "published": "",
     "score": 3,
     "uid": "61d6ba3ec5da1865"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 04:51:43 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/394db69b9950fb2227db8c5df71649774338e5a5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ad5192359ca24be5"
+  },
+  {
+    "title": "Updated List: Mon Jun 29 03:47:33 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/31128897890b3d792dbd6a133aa092987d352fef",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bb7d3e4104e5964e"
   }
 ]
