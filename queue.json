@@ -1,15 +1,5 @@
 [
   {
-    "title": "Repeater Strike: manual testing, amplified",
-    "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
-    "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 15 Jul 2025 13:46:37",
-    "score": 7,
-    "uid": "3fad12712df84d7b"
-  },
-  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -1588,5 +1578,15 @@
     "published": "",
     "score": 3,
     "uid": "7592cc7195a8f07f"
+  },
+  {
+    "title": "Updated List: Tue Jun 30 18:49:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/09c09556eb9dde5176b18bd77739f2b7e96b4000",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c8a5220d56de6c86"
   }
 ]
