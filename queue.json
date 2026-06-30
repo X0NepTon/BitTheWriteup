@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Missing Rate Limit in a Password Reset Flow Led to Account Takeover",
-    "url": "https://medium.com/@hossein.za68/how-a-missing-rate-limit-in-a-password-reset-flow-led-to-account-takeover-531f060b85de?source=rss------bug_bounty-5",
-    "summary": "Recently, while assessing the security of an online learning platform that provides programming, Linux, and other technical courses, I&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 16:18:43",
-    "score": 9,
-    "uid": "79b23981e4605b42"
-  },
-  {
     "title": "When Account Recovery Became Account Delivery : Full Account Takeover",
     "url": "https://medium.com/@mohamedmehina31/when-account-recovery-became-account-delivery-full-account-takeover-57c91a9fc300?source=rss------bug_bounty-5",
     "summary": "Me. A password reset page. Burp Suite, nothing more.Continue reading on Medium »",
@@ -1538,5 +1528,15 @@
     "published": "",
     "score": 3,
     "uid": "21c47fd34da7a697"
+  },
+  {
+    "title": "Updated List: Tue Jun 30 04:42:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b3ba6895aa1a8861d24d6996c6346b320b3ba7d9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a856c0c148c9cfc4"
   }
 ]
