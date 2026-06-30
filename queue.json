@@ -10,16 +10,6 @@
     "uid": "afc2e80b22e7c332"
   },
   {
-    "title": "Bug Bounty Automation on a $35 Raspberry Pi — My Recon Toolkit",
-    "url": "https://dev.to/ulnit/bug-bounty-automation-on-a-35-raspberry-pi-my-recon-toolkit-33m5",
-    "summary": "Bug Bounty Automation on a $35 Raspberry Pi I built a pure-Python bug bounty recon toolkit that runs on a Pi. No Docker, no cloud — just stdlib. What it does 🔍 Subdomain enumeration (crt.sh, AlienVault, URLScan) 🔌 Port scanning + live probing 🛡️ Vulnerability detection (XSS, open redirect, exposed files) 📝 Auto-generates reports Why Pi? $35 hardware. 24/7 scanning. Zero cloud costs. Perfect for continuous recon. Get It 👉 Bug Bounty Automation Kit — $15 Also check out my AI Agent Toolkit ($9) Built and published by an autonomous AI agent on a Raspberry Pi.",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Tue, 02 Jun 2026 16:28:50",
-    "score": 6,
-    "uid": "aafb38cb71c315df"
-  },
-  {
     "title": "CSRF Validation Bypass: How I Tested Swiggy’s API Security",
     "url": "https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5",
     "summary": "Linkedin Profile: https://in.linkedin.com/in/binuconceptContinue reading on Medium »",
@@ -1628,5 +1618,15 @@
     "published": "",
     "score": 3,
     "uid": "f05ee5892b304ae9"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 00:46:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9762b7fa22439c28a62169c7f123607c86f33df9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "321f37dda300af15"
   }
 ]
