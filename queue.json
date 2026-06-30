@@ -20,16 +20,6 @@
     "uid": "726d583190e7b8b6"
   },
   {
-    "title": "Reconnaissance for exposure management: why context matters in the AI era",
-    "url": "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era",
-    "summary": "Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (The AI Impact), judgment, and prioritization has become more important, not less (CEO Insights). But there’s a deeper implication hiding underneath all of that: most security teams still only learn from “successful outcomes”. In my experience, the majority of researchers, program managers, and securit…",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Mon, 29 Jun 2026 00:00:00",
-    "score": 6,
-    "uid": "f2b00ea8ede4149c"
-  },
-  {
     "title": "Subdomain Takeover — Claiming Forgotten Assets",
     "url": "https://kd-200.medium.com/subdomain-takeover-claiming-forgotten-assets-7336e0c2cc8c?source=rss------bug_bounty-5",
     "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1628,5 +1618,15 @@
     "published": "",
     "score": 3,
     "uid": "321f37dda300af15"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 02:37:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6724c6564ff32667ce25f9dc121b7ed79855c29f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "67b54e013e4cf180"
   }
 ]
