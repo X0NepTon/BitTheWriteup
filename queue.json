@@ -10,16 +10,6 @@
     "uid": "afc2e80b22e7c332"
   },
   {
-    "title": "CSRF Validation Bypass: How I Tested Swiggy’s API Security",
-    "url": "https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5",
-    "summary": "Linkedin Profile: https://in.linkedin.com/in/binuconceptContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 17:45:57",
-    "score": 6,
-    "uid": "726d583190e7b8b6"
-  },
-  {
     "title": "Subdomain Takeover — Claiming Forgotten Assets",
     "url": "https://kd-200.medium.com/subdomain-takeover-claiming-forgotten-assets-7336e0c2cc8c?source=rss------bug_bounty-5",
     "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1628,5 +1618,15 @@
     "published": "",
     "score": 3,
     "uid": "67b54e013e4cf180"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 03:53:17 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a786979562eec6df552d6a901d066a6ee0f71162",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2acee1088d27e86e"
   }
 ]
