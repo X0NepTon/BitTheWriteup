@@ -360,6 +360,26 @@
     "uid": "555da18b71ae5ee3"
   },
   {
+    "title": "How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…",
+    "url": "https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty_writeup-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 01 Jul 2026 14:19:59",
+    "score": 4,
+    "uid": "01a98f906f1bc4dd"
+  },
+  {
+    "title": "How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…",
+    "url": "https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 14:19:59",
+    "score": 4,
+    "uid": "3abd4772afeef481"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1748,5 +1768,25 @@
     "published": "",
     "score": 3,
     "uid": "950457021616a3c9"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 21:02:34 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/cd55a51a3a9d0d51c378706099b02d7008d1f7bd",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bee3af9dd0140799"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 18:20:32 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d9e9eb2cb18b054f5c3b464938710359be3b30d5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "888b6550c61a410a"
   }
 ]
