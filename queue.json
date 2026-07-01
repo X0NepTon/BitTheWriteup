@@ -10,16 +10,6 @@
     "uid": "afc2e80b22e7c332"
   },
   {
-    "title": "Subdomain Takeover — Claiming Forgotten Assets",
-    "url": "https://kd-200.medium.com/subdomain-takeover-claiming-forgotten-assets-7336e0c2cc8c?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 30 Jun 2026 11:31:00",
-    "score": 6,
-    "uid": "97f6df81a2b04816"
-  },
-  {
     "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
     "url": "https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5",
     "summary": "Base Steps:Continue reading on Medium »",
@@ -158,6 +148,16 @@
     "published": "Tue, 30 Jun 2026 16:52:30",
     "score": 5,
     "uid": "d3aacf81e8f1debc"
+  },
+  {
+    "title": "Guía de Inyección de Comandos OS: Explotación, Bypass de WAF y PoC",
+    "url": "https://medium.com/@jpablo13/gu%C3%ADa-de-inyecci%C3%B3n-de-comandos-os-explotaci%C3%B3n-bypass-de-waf-y-poc-e579c8eb263f?source=rss------bug_bounty-5",
+    "summary": "Aprende t&#xE9;cnicas avanzadas de inyecci&#xF3;n de comandos OS, evasi&#xF3;n de WAF, escalaci&#xF3;n de impacto y c&#xF3;mo redactar informes de PoC.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 00:01:03",
+    "score": 5,
+    "uid": "533c40614be7f062"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1628,5 +1628,25 @@
     "published": "",
     "score": 3,
     "uid": "2acee1088d27e86e"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 07:27:26 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2959d665e1e5034654141905717cb0e576c8ea43",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "17f46affa8fdba79"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 05:12:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/254252e568867d12df3e2835a7d6bf1ac8795d9d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bd15bd056d0fe8c9"
   }
 ]
