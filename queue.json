@@ -1,15 +1,5 @@
 [
   {
-    "title": "Auth Bypass is it?",
-    "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty-5",
-    "summary": "Target, domains, API keys, bearer tokens, SSO IDs, and organisation names are redacted. This writeup is for educational purposes and&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 10:16:28",
-    "score": 11,
-    "uid": "9313591d5dbfa9d6"
-  },
-  {
     "title": "Building ReconMaster: My Open-Source Automated OSINT & Dorking Tool",
     "url": "https://medium.com/@arthaanugerahheffendi/building-reconmaster-my-open-source-automated-osint-dorking-tool-073bf579ceba?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1788,5 +1778,15 @@
     "published": "",
     "score": 3,
     "uid": "5b0a065caf4c078e"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 00:48:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/01a82691dc7a2f2eb4dfc8b54afd292a4e416eba",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8429a5306c0d3db0"
   }
 ]
