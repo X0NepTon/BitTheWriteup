@@ -1,16 +1,6 @@
 [
   {
     "title": "Auth Bypass is it?",
-    "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty_writeup-5",
-    "summary": "Target, domains, API keys, bearer tokens, SSO IDs, and organisation names are redacted. This writeup is for educational purposes and&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 01 Jul 2026 10:16:28",
-    "score": 12,
-    "uid": "09bb226ee20a1010"
-  },
-  {
-    "title": "Auth Bypass is it?",
     "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty-5",
     "summary": "Target, domains, API keys, bearer tokens, SSO IDs, and organisation names are redacted. This writeup is for educational purposes and&#x2026;Continue reading on InfoSec Write-ups »",
     "source_id": "medium_bb",
@@ -1788,5 +1778,15 @@
     "published": "",
     "score": 3,
     "uid": "888b6550c61a410a"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 23:00:20 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c954255b9928235e3f906aad507a9b01cc05a5b2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5b0a065caf4c078e"
   }
 ]
