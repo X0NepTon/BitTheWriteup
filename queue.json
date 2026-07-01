@@ -1,5 +1,55 @@
 [
   {
+    "title": "Auth Bypass is it?",
+    "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty_writeup-5",
+    "summary": "Target, domains, API keys, bearer tokens, SSO IDs, and organisation names are redacted. This writeup is for educational purposes and&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 01 Jul 2026 10:16:28",
+    "score": 12,
+    "uid": "09bb226ee20a1010"
+  },
+  {
+    "title": "Auth Bypass is it?",
+    "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty-5",
+    "summary": "Target, domains, API keys, bearer tokens, SSO IDs, and organisation names are redacted. This writeup is for educational purposes and&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 10:16:28",
+    "score": 11,
+    "uid": "9313591d5dbfa9d6"
+  },
+  {
+    "title": "Building ReconMaster: My Open-Source Automated OSINT & Dorking Tool",
+    "url": "https://medium.com/@arthaanugerahheffendi/building-reconmaster-my-open-source-automated-osint-dorking-tool-073bf579ceba?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 11:56:23",
+    "score": 10,
+    "uid": "d017b087a331aa74"
+  },
+  {
+    "title": "$600 IDOR",
+    "url": "https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty_writeup-5",
+    "summary": "This write-up is about how I found an IDOR that allowed me to download private contentContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 01 Jul 2026 11:29:48",
+    "score": 8,
+    "uid": "a0f84d09cd134031"
+  },
+  {
+    "title": "$600 IDOR",
+    "url": "https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty-5",
+    "summary": "This write-up is about how I found an IDOR that allowed me to download private contentContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 11:29:48",
+    "score": 8,
+    "uid": "eaea49cb88e5d5ea"
+  },
+  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -8,6 +58,26 @@
     "published": "Wed, 22 Jan 2025 14:45:11",
     "score": 6,
     "uid": "afc2e80b22e7c332"
+  },
+  {
+    "title": "Mastering Subdomain Takeovers — Stop Targeting Programs, Target the (Services)",
+    "url": "https://medium.com/@omar_ahmed496/mastering-subdomain-takeovers-stop-targeting-programs-target-the-services-d2737c585533?source=rss------bug_bounty-5",
+    "summary": "Most people hunting for subdomain takeovers do the exact same thing.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 10:45:33",
+    "score": 6,
+    "uid": "a6c47f20a36da150"
+  },
+  {
+    "title": "Is the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App",
+    "url": "https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bug_bounty-5",
+    "summary": "Technical analysis of a logical lock screen bypass I discovered in Google Gemini and reported via Google VRP.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 10:17:03",
+    "score": 6,
+    "uid": "00b781dc6fe47551"
   },
   {
     "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
@@ -1658,5 +1728,25 @@
     "published": "",
     "score": 3,
     "uid": "37d77c6c047e8e97"
+  },
+  {
+    "title": "How I Found an Email Verification Bypass on an AI Freelance Platform",
+    "url": "https://infosecwriteups.com/how-i-found-an-email-verification-bypass-on-an-ai-freelance-platform-6ad76663b658?source=rss------bug_bounty-5",
+    "summary": "A simple implementation flaw allowed email verification to be completed without ever opening the verification email.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 01 Jul 2026 10:20:39",
+    "score": 3,
+    "uid": "637a3dc9700e7a72"
+  },
+  {
+    "title": "Updated List: Wed Jul 01 15:46:51 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f9423b28f638ac236c9516724211635aba2b0bfd",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "950457021616a3c9"
   }
 ]
