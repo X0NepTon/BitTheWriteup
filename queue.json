@@ -1,15 +1,5 @@
 [
   {
-    "title": "Building ReconMaster: My Open-Source Automated OSINT & Dorking Tool",
-    "url": "https://medium.com/@arthaanugerahheffendi/building-reconmaster-my-open-source-automated-osint-dorking-tool-073bf579ceba?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 11:56:23",
-    "score": 10,
-    "uid": "d017b087a331aa74"
-  },
-  {
     "title": "$600 IDOR",
     "url": "https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty_writeup-5",
     "summary": "This write-up is about how I found an IDOR that allowed me to download private contentContinue reading on Medium »",
@@ -1788,5 +1778,15 @@
     "published": "",
     "score": 3,
     "uid": "8429a5306c0d3db0"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 02:27:02 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/95a2caa47f3ccf18f20f9b75d36d7c15f0e26fd7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2d95e6594a1fb84e"
   }
 ]
