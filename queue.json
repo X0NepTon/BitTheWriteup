@@ -10,16 +10,6 @@
     "uid": "afc2e80b22e7c332"
   },
   {
-    "title": "Is the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App",
-    "url": "https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bug_bounty-5",
-    "summary": "Technical analysis of a logical lock screen bypass I discovered in Google Gemini and reported via Google VRP.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 10:17:03",
-    "score": 6,
-    "uid": "00b781dc6fe47551"
-  },
-  {
     "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
     "url": "https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5",
     "summary": "Base Steps:Continue reading on Medium »",
@@ -1888,5 +1878,25 @@
     "published": "",
     "score": 3,
     "uid": "21c750e509a09034"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 04:02:06 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7c4d3a9c3a70433572878125b93e1b23247c0394",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3754757dc2104b2f"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 02:52:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f284d00ef86cb14b274c3452fcac1fcaee19bb2c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8b60efcdbd51127f"
   }
 ]
