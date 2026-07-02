@@ -10,16 +10,6 @@
     "uid": "afc2e80b22e7c332"
   },
   {
-    "title": "Mastering Subdomain Takeovers — Stop Targeting Programs, Target the (Services)",
-    "url": "https://medium.com/@omar_ahmed496/mastering-subdomain-takeovers-stop-targeting-programs-target-the-services-d2737c585533?source=rss------bug_bounty-5",
-    "summary": "Most people hunting for subdomain takeovers do the exact same thing.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 10:45:33",
-    "score": 6,
-    "uid": "a6c47f20a36da150"
-  },
-  {
     "title": "Is the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App",
     "url": "https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bug_bounty-5",
     "summary": "Technical analysis of a logical lock screen bypass I discovered in Google Gemini and reported via Google VRP.Continue reading on InfoSec Write-ups »",
@@ -1888,5 +1878,15 @@
     "published": "",
     "score": 3,
     "uid": "7e246cecb16764ee"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 01:40:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ffe7ffd858c27b6c2c637a5182d2e753180a3a52",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "21c750e509a09034"
   }
 ]
