@@ -1,15 +1,5 @@
 [
   {
-    "title": "Subscription Enforcement Bypass Leading to Unauthorized Full Application Access",
-    "url": "https://medium.com/@0xMo7areb/subscription-enforcement-bypass-leading-to-unauthorized-full-application-access-fb897afde3f6?source=rss------bug_bounty-5",
-    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647; &#x627;&#x644;&#x630;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x627;&#x644;&#x642;&#x644;&#x645;&#x60C; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x625;&#x646;&#x633;&#x627;&#x646;&#x64E; &#x645;&#x627; &#x644;&#x645; &#x64A;&#x639;&#x644;&#x645;&#x60C; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#xFDFA;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 02 Jul 2026 13:56:00",
-    "score": 12,
-    "uid": "fc2c8a217475d4ae"
-  },
-  {
     "title": "The Bug I’m Proudest Of Is the One I Deleted",
     "url": "https://medium.com/@anshbohra10/the-bug-im-proudest-of-is-the-one-i-deleted-f5d4247232e9?source=rss------bug_bounty-5",
     "summary": "Three real findings on ScribbleMaps, and the SSRF I talked myself out of with a stopwatch. A coordinated-disclosure story about the only&#x2026;Continue reading on Medium »",
@@ -1878,5 +1868,25 @@
     "published": "",
     "score": 3,
     "uid": "527b1b6a20350027"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 22:39:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/45fee95213c7408857483163b774dc81f0cd89f9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "08197bda6fd2c4fc"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 20:57:53 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/5b8e4200fb7dfce0a1a04fa46844443eb2031247",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "33549aadf9b66169"
   }
 ]
