@@ -1,15 +1,5 @@
 [
   {
-    "title": "$600 IDOR",
-    "url": "https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty_writeup-5",
-    "summary": "This write-up is about how I found an IDOR that allowed me to download private contentContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 01 Jul 2026 11:29:48",
-    "score": 8,
-    "uid": "a0f84d09cd134031"
-  },
-  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -1808,5 +1798,15 @@
     "published": "",
     "score": 3,
     "uid": "2a9a563b513ca2df"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 11:11:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c636656f82759ab8c7bb226c5a75d9178606a96f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6097f39f67d8c8db"
   }
 ]
