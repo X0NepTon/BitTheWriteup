@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Bug I’m Proudest Of Is the One I Deleted",
+    "url": "https://medium.com/@anshbohra10/the-bug-im-proudest-of-is-the-one-i-deleted-f5d4247232e9?source=rss------bug_bounty-5",
+    "summary": "Three real findings on ScribbleMaps, and the SSRF I talked myself out of with a stopwatch. A coordinated-disclosure story about the only&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 02 Jul 2026 09:57:19",
+    "score": 8,
+    "uid": "86fed8738ee06b19"
+  },
+  {
     "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
     "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
@@ -1808,5 +1818,25 @@
     "published": "",
     "score": 3,
     "uid": "6097f39f67d8c8db"
+  },
+  {
+    "title": "TryHackMe Bounty Hacker Write-Up | Beginner-Friendly Walkthrough",
+    "url": "https://medium.com/@Pearl2k/tryhackme-bounty-hacker-write-up-beginner-friendly-walkthrough-9ef406428025?source=rss------bug_bounty-5",
+    "summary": "Room InformationContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 02 Jul 2026 08:39:40",
+    "score": 3,
+    "uid": "aed57af6b9eb89d2"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 14:03:33 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fe33c43c5fbf89efbe658864211224e920c5726a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "dafb293f9f2b493e"
   }
 ]
