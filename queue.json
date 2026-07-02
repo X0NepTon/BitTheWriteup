@@ -1,5 +1,15 @@
 [
   {
+    "title": "How an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…",
+    "url": "https://medium.com/@21bec131/how-an-insecure-deserialization-flaw-in-a-cache-layer-triggered-an-4-500-remote-code-execution-3e9dc90dabb0?source=rss------bug_bounty-5",
+    "summary": "When we talk about hunting for Remote Code Execution (RCE), we usually look at the file upload components or the main input fields of an&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 02 Jul 2026 11:21:00",
+    "score": 22,
+    "uid": "4a94000caa5d4d6d"
+  },
+  {
     "title": "The Bug I’m Proudest Of Is the One I Deleted",
     "url": "https://medium.com/@anshbohra10/the-bug-im-proudest-of-is-the-one-i-deleted-f5d4247232e9?source=rss------bug_bounty-5",
     "summary": "Three real findings on ScribbleMaps, and the SSRF I talked myself out of with a stopwatch. A coordinated-disclosure story about the only&#x2026;Continue reading on Medium »",
@@ -1838,5 +1848,15 @@
     "published": "",
     "score": 3,
     "uid": "dafb293f9f2b493e"
+  },
+  {
+    "title": "Updated List: Thu Jul 02 16:38:57 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ccfa16e79e19245605381ea22670c8428755f364",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b8fd586ad0ac6a1f"
   }
 ]
