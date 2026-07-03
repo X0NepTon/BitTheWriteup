@@ -1,15 +1,5 @@
 [
   {
-    "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
-    "url": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
-    "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 22 Jan 2025 14:45:11",
-    "score": 6,
-    "uid": "afc2e80b22e7c332"
-  },
-  {
     "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
     "url": "https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5",
     "summary": "Base Steps:Continue reading on Medium »",
@@ -1898,5 +1888,25 @@
     "published": "",
     "score": 3,
     "uid": "8b60efcdbd51127f"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 06:45:33 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/40984a933c66c55dbdfdd3578d4e2f08ad3b4501",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "44b425d11e69152b"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 05:08:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e17ea38fe878c15e180609b07f764b4c9fb78272",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a4c8e177c0e4acb7"
   }
 ]
