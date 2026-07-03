@@ -1,15 +1,5 @@
 [
   {
-    "title": "WhatsApp Vulnerability CVE-2026–23863: What You Need to Know",
-    "url": "https://medium.com/@pentesterclubpvtltd/whatsapp-vulnerability-cve-2026-23863-what-you-need-to-know-2e3d4467d994?source=rss------bug_bounty-5",
-    "summary": "Understanding the WhatsApp for Windows Attachment Spoofing VulnerabilityContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 25 Jun 2026 17:06:04",
-    "score": 5,
-    "uid": "a8778cae6ace7b5b"
-  },
-  {
     "title": "Bug Bounty Bootcamp #56: How to Write a Bug Bounty Report That Gets Paid (And Not Ignored)",
     "url": "https://amannsharmaa.medium.com/bug-bounty-bootcamp-56-how-to-write-a-bug-bounty-report-that-gets-paid-and-not-ignored-9cce61158ced?source=rss------bug_bounty-5",
     "summary": "You found a critical vulnerability. You write a report. The triager closes it as &#x201C;informational&#x201D; or &#x201C;duplicate.&#x201D; Why? Because your report&#x2026;Continue reading on Medium »",
@@ -1928,5 +1918,25 @@
     "published": "",
     "score": 3,
     "uid": "f5f28150d614525e"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 20:08:59 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/27ca64b2fa0224b40a5f4cff234f366e5fd3a09d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e153120a863afbc5"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 17:55:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/1712f57ce6f55e0a20f0a092e116ce06713c437c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c4679095a8d4d436"
   }
 ]
