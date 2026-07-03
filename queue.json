@@ -1,15 +1,5 @@
 [
   {
-    "title": "From an Informational Finding to a Valuable Lesson: My IDOR Discovery on Bugcrowd",
-    "url": "https://meetcyber.net/from-an-informational-finding-to-a-valuable-lesson-my-idor-discovery-on-bugcrowd-a7d40fd1d2aa?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on MeetCyber »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 24 Jun 2026 19:59:01",
-    "score": 5,
-    "uid": "c0c0d012daaa6138"
-  },
-  {
     "title": "interesting Logic idor that allowed me to Access User Data and Private Photos",
     "url": "https://hamzadzworm.medium.com/interesting-logic-idor-that-allowed-me-to-access-user-data-and-private-photos-a32b4c966d35?source=rss------bug_bounty-5",
     "summary": "Hi again,Continue reading on Medium »",
@@ -1928,5 +1918,15 @@
     "published": "",
     "score": 3,
     "uid": "883f2969d0a6f177"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 13:28:00 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e789a4abfb99593f85632f55139dae2cfba29688",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "606ba78f4ff3af5b"
   }
 ]
