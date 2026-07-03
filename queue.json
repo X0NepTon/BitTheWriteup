@@ -1,5 +1,15 @@
 [
   {
+    "title": "Local Privilege Escalation in Pardus Software Center via APT Option Injection | CVE-2026–14459",
+    "url": "https://medium.com/@kerem.kaan.dasmaz/local-privilege-escalation-in-pardus-software-center-via-apt-option-injection-cve-2026-14459-569ad65a2250?source=rss------bug_bounty-5",
+    "summary": "A member of the pardus-software group &#x2014; with no sudo rights and no password &#x2014; can inject APT options into a privileged helper and execute&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 03 Jul 2026 16:54:15",
+    "score": 12,
+    "uid": "1c54b0ea8e774cc3"
+  },
+  {
     "title": "Bug Bounty Bootcamp #56: How to Write a Bug Bounty Report That Gets Paid (And Not Ignored)",
     "url": "https://amannsharmaa.medium.com/bug-bounty-bootcamp-56-how-to-write-a-bug-bounty-report-that-gets-paid-and-not-ignored-9cce61158ced?source=rss------bug_bounty-5",
     "summary": "You found a critical vulnerability. You write a report. The triager closes it as &#x201C;informational&#x201D; or &#x201C;duplicate.&#x201D; Why? Because your report&#x2026;Continue reading on Medium »",
@@ -1938,5 +1948,15 @@
     "published": "",
     "score": 3,
     "uid": "c4679095a8d4d436"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 21:41:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6dca7c8630b3d60e62326fc8f39b1f3d46cb9065",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2fdb8fc46868290d"
   }
 ]
