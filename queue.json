@@ -1,15 +1,5 @@
 [
   {
-    "title": "interesting Logic idor that allowed me to Access User Data and Private Photos",
-    "url": "https://hamzadzworm.medium.com/interesting-logic-idor-that-allowed-me-to-access-user-data-and-private-photos-a32b4c966d35?source=rss------bug_bounty-5",
-    "summary": "Hi again,Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 24 Jun 2026 22:28:18",
-    "score": 5,
-    "uid": "459c09352760101e"
-  },
-  {
     "title": "WhatsApp Vulnerability CVE-2026–23863: What You Need to Know",
     "url": "https://medium.com/@pentesterclubpvtltd/whatsapp-vulnerability-cve-2026-23863-what-you-need-to-know-2e3d4467d994?source=rss------bug_bounty-5",
     "summary": "Understanding the WhatsApp for Windows Attachment Spoofing VulnerabilityContinue reading on Medium »",
@@ -1928,5 +1918,15 @@
     "published": "",
     "score": 3,
     "uid": "606ba78f4ff3af5b"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 15:55:29 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/26bc333838b98c6035dbfd7fc3c39bf6ce5396e4",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f5f28150d614525e"
   }
 ]
