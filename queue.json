@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Find IDOR Bugs in Minutes Using This Simple Manual Trick",
-    "url": "https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5",
-    "summary": "Base Steps:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 17:59:44",
-    "score": 5,
-    "uid": "57d0af1a80bb15e8"
-  },
-  {
     "title": "From an Informational Finding to a Valuable Lesson: My IDOR Discovery on Bugcrowd",
     "url": "https://meetcyber.net/from-an-informational-finding-to-a-valuable-lesson-my-idor-discovery-on-bugcrowd-a7d40fd1d2aa?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on MeetCyber »",
@@ -158,6 +148,26 @@
     "published": "Thu, 02 Jul 2026 15:02:28",
     "score": 5,
     "uid": "0dabadd5962e7bef"
+  },
+  {
+    "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
+    "url": "https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5",
+    "summary": "Yesterday was all about XSS. Today, I spent most of my time diving into IDOR (Insecure Direct Object References) and Broken Access Control&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 03 Jul 2026 04:51:58",
+    "score": 5,
+    "uid": "d22f3a52a7669265"
+  },
+  {
+    "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
+    "url": "https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5",
+    "summary": "Yesterday was all about XSS. Today, I spent most of my time diving into IDOR (Insecure Direct Object References) and Broken Access Control&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 03 Jul 2026 04:51:58",
+    "score": 5,
+    "uid": "424235bc7d1fb927"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1908,5 +1918,15 @@
     "published": "",
     "score": 3,
     "uid": "a4c8e177c0e4acb7"
+  },
+  {
+    "title": "Updated List: Fri Jul 03 10:30:02 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/1285023a22aeed37c750efc579bb998e6a9b4495",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "883f2969d0a6f177"
   }
 ]
