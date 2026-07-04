@@ -1,15 +1,5 @@
 [
   {
-    "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
-    "url": "https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5",
-    "summary": "One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 14:35:54",
-    "score": 5,
-    "uid": "a69c76941b930966"
-  },
-  {
     "title": "How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure Case…",
     "url": "https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 04 Jul 2026 13:49:09",
     "score": 3,
     "uid": "5f27a687ca260ec3"
+  },
+  {
+    "title": "Updated List: Sun Jul 05 02:12:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c30a39843f0d2859eb717a19c50ef3090a5bdbb6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "35952658838ce5e6"
   }
 ]
