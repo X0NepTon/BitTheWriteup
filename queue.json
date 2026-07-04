@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bug Bounty Bootcamp #56: How to Write a Bug Bounty Report That Gets Paid (And Not Ignored)",
-    "url": "https://amannsharmaa.medium.com/bug-bounty-bootcamp-56-how-to-write-a-bug-bounty-report-that-gets-paid-and-not-ignored-9cce61158ced?source=rss------bug_bounty-5",
-    "summary": "You found a critical vulnerability. You write a report. The triager closes it as &#x201C;informational&#x201D; or &#x201C;duplicate.&#x201D; Why? Because your report&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 16:35:04",
-    "score": 5,
-    "uid": "746364217ef18730"
-  },
-  {
     "title": "Gonka on HackerOne: launching our bug bounty program with Bitfury support",
     "url": "https://medium.com/product-science-ai/gonka-on-hackerone-launching-our-bug-bounty-program-with-bitfury-support-06252309a91a?source=rss------bug_bounty-5",
     "summary": "For blockchain-based projects like Gonka, network security is crucial. The larger a network gets, the more attention it attracts &#x2014;&#x2026;Continue reading on Product Science AI »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "78881a868596eec5"
+  },
+  {
+    "title": "How I Discovered a Critical Data Leak Starting with a Small Clue",
+    "url": "https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty-5",
+    "summary": "INTRODUCTIONContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 04 Jul 2026 06:12:12",
+    "score": 3,
+    "uid": "584080aab0a2bee6"
   }
 ]
