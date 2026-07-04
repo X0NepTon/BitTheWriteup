@@ -1,15 +1,5 @@
 [
   {
-    "title": "Gonka on HackerOne: launching our bug bounty program with Bitfury support",
-    "url": "https://medium.com/product-science-ai/gonka-on-hackerone-launching-our-bug-bounty-program-with-bitfury-support-06252309a91a?source=rss------bug_bounty-5",
-    "summary": "For blockchain-based projects like Gonka, network security is crucial. The larger a network gets, the more attention it attracts &#x2014;&#x2026;Continue reading on Product Science AI »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 21:42:21",
-    "score": 5,
-    "uid": "289a3539268d65ad"
-  },
-  {
     "title": "I Removed One Parameter… and Took Over Another User’s Account ($3000 — $10,000)",
     "url": "https://medium.com/@abinsecurityresearcher/i-removed-one-parameter-and-took-over-another-users-account-25ec1052c6ac?source=rss------bug_bounty-5",
     "summary": "Impact &#x2014; CriticalContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "584080aab0a2bee6"
+  },
+  {
+    "title": "How I Found a Data Deletion Bypass via Subdomain Synchronization",
+    "url": "https://infosecwriteups.com/how-i-found-a-data-deletion-bypass-via-subdomain-synchronization-7f5a43079983?source=rss------bug_bounty-5",
+    "summary": "This is what I did after my lunch break and immediately got enough cash to buy stuff in the premium storeContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 04 Jul 2026 13:49:09",
+    "score": 3,
+    "uid": "5f27a687ca260ec3"
   }
 ]
