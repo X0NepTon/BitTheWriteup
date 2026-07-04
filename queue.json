@@ -1,15 +1,5 @@
 [
   {
-    "title": "OS Command Injection Guide: Exploitation, WAF Bypass & PoC",
-    "url": "https://medium.com/@jpablo13/os-command-injection-guide-exploitation-waf-bypass-poc-0462d5f378ea?source=rss------bug_bounty-5",
-    "summary": "Learn advanced techniques for OS command injection, WAF evasion, impact chaining, and writing secure bug bounty PoC reports.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 04 Jul 2026 00:01:01",
-    "score": 10,
-    "uid": "6bf99f5ff4b66882"
-  },
-  {
     "title": "Bug Bounty Bootcamp #56: How to Write a Bug Bounty Report That Gets Paid (And Not Ignored)",
     "url": "https://amannsharmaa.medium.com/bug-bounty-bootcamp-56-how-to-write-a-bug-bounty-report-that-gets-paid-and-not-ignored-9cce61158ced?source=rss------bug_bounty-5",
     "summary": "You found a critical vulnerability. You write a report. The triager closes it as &#x201C;informational&#x201D; or &#x201C;duplicate.&#x201D; Why? Because your report&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d0a6cd9a03a988f0"
+  },
+  {
+    "title": "How I Discovered a Critical Data Leak Starting with a Small Clue",
+    "url": "https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5",
+    "summary": "INTRODUCTIONContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 04 Jul 2026 06:12:12",
+    "score": 3,
+    "uid": "78881a868596eec5"
   }
 ]
