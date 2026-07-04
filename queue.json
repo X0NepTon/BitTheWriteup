@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure Case…",
-    "url": "https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 17:51:20",
-    "score": 5,
-    "uid": "7d80705c395fdb56"
-  },
-  {
     "title": "The 35 Day Silence How Visma and Intigriti Normalized Critical Data Leaks",
     "url": "https://medium.com/@Pwnedl0l/the-35-day-silence-how-visma-and-intigriti-normalized-critical-data-leaks-5e979189a79f?source=rss------bug_bounty-5",
     "summary": "In the professional bug bounty ecosystem researchers operate under a good faith agreement we identify vulnerabilities we provide proof and&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "35952658838ce5e6"
+  },
+  {
+    "title": "Updated List: Sun Jul 05 03:08:42 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8ac8b986f19f8afaedd4f6affb386dea53452399",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "773ea87abee36e70"
   }
 ]
