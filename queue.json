@@ -50,6 +50,16 @@
     "uid": "424235bc7d1fb927"
   },
   {
+    "title": "From a Forgotten htmlspecialchars() to Full Admin Takeover The Story of CVE-2026–50740",
+    "url": "https://medium.com/@xtkanon/from-a-forgotten-htmlspecialchars-to-full-admin-takeover-the-story-of-cve-2026-50740-fdd38940f5b6?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 05 Jul 2026 16:42:45",
+    "score": 5,
+    "uid": "ee8fc1de768f5b52"
+  },
+  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1988,15 +1998,5 @@
     "published": "Sun, 05 Jul 2026 06:06:46",
     "score": 3,
     "uid": "90b67a0942a9d393"
-  },
-  {
-    "title": "Updated List: Sun Jul 05 21:23:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/6a37ebcc14eaa1c35ef7f23755d121765aa34714",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "81fb9c0a34e75290"
   }
 ]
