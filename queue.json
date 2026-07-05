@@ -1,15 +1,5 @@
 [
   {
-    "title": "CVE-2026–39904: How I Crashed an Entire Server Using Nothing but a DOCX File?",
-    "url": "https://ashikmd7.medium.com/cve-2026-39904-how-i-crashed-an-entire-server-using-nothing-but-a-docx-file-05dc8f66ced2?source=rss------bug_bounty-5",
-    "summary": "Welcome Researchers!Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 11:37:28",
-    "score": 5,
-    "uid": "9e8baa3a54955df0"
-  },
-  {
     "title": "IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data",
     "url": "https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5",
     "summary": "Hi everyone : )Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fa0b3afde9b906be"
+  },
+  {
+    "title": "Updated List: Sun Jul 05 06:52:06 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/69352f9eeab2b30b7c89b3f33c2b6f8ca86d3be2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "65c58b431f1750b2"
   }
 ]
