@@ -1,15 +1,5 @@
 [
   {
-    "title": "IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data",
-    "url": "https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5",
-    "summary": "Hi everyone : )Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 21:04:53",
-    "score": 5,
-    "uid": "e2c3aa285f5d40db"
-  },
-  {
     "title": "Intigriti June 2026 Bonus Challenge — LeakyJar Writeup",
     "url": "https://medium.com/@ahsansarnav/intigriti-june-2026-bonus-challenge-leakyjar-writeup-9e4e67557b0f?source=rss------bug_bounty-5",
     "summary": "How a Missing CSRF Token Spilled the Master Baker&#x2019;s SecretsContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 05 Jul 2026 05:37:58",
     "score": 3,
     "uid": "f68aa173205cb8fb"
+  },
+  {
+    "title": "Mastering curl Commands Bug Bounty Hunter's Guide",
+    "url": "https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss------bug_bounty-5",
+    "summary": "Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 05 Jul 2026 06:06:46",
+    "score": 3,
+    "uid": "90b67a0942a9d393"
   }
 ]
