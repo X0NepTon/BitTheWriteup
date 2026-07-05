@@ -1,15 +1,5 @@
 [
   {
-    "title": "Intigriti June 2026 Bonus Challenge — LeakyJar Writeup",
-    "url": "https://medium.com/@ahsansarnav/intigriti-june-2026-bonus-challenge-leakyjar-writeup-9e4e67557b0f?source=rss------bug_bounty-5",
-    "summary": "How a Missing CSRF Token Spilled the Master Baker&#x2019;s SecretsContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 30 Jun 2026 17:14:33",
-    "score": 5,
-    "uid": "5034357b01969be0"
-  },
-  {
     "title": "# A 4-Line HTML File Stole the Admin’s Secret — Intigriti LeakyJar CTF Writeup",
     "url": "https://medium.com/@black0uTv1/a-4-line-html-file-stole-the-admins-secret-intigriti-leakyjar-ctf-writeup-97cd6e406ce2?source=rss------bug_bounty-5",
     "summary": "**Platform:** Intigriti | **Challenge:** LeakyJar (June 2026 Bonus) | **Bug class:** CSRF | **Status:** Accepted &#x2705;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 05 Jul 2026 06:06:46",
     "score": 3,
     "uid": "90b67a0942a9d393"
+  },
+  {
+    "title": "Updated List: Sun Jul 05 21:23:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6a37ebcc14eaa1c35ef7f23755d121765aa34714",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "81fb9c0a34e75290"
   }
 ]
