@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Modern CSRF Playbook: From Basic Mechanics to SameSite Bypasses",
+    "url": "https://medium.com/@ravsau00/the-modern-csrf-playbook-from-basic-mechanics-to-samesite-bypasses-c28128e40f46?source=rss------bug_bounty-5",
+    "summary": "The Ghost in the Browser: Why CSRF Isn&#x2019;t Dead YetContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 05 Jul 2026 04:49:21",
+    "score": 6,
+    "uid": "3ba2ca45080f19eb"
+  },
+  {
     "title": "IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data",
     "url": "https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5",
     "summary": "Hi everyone : )Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "fa0b3afde9b906be"
-  },
-  {
-    "title": "Updated List: Sun Jul 05 06:52:06 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/69352f9eeab2b30b7c89b3f33c2b6f8ca86d3be2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "65c58b431f1750b2"
   }
 ]
