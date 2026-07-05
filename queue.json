@@ -1,15 +1,5 @@
 [
   {
-    "title": "The 35 Day Silence How Visma and Intigriti Normalized Critical Data Leaks",
-    "url": "https://medium.com/@Pwnedl0l/the-35-day-silence-how-visma-and-intigriti-normalized-critical-data-leaks-5e979189a79f?source=rss------bug_bounty-5",
-    "summary": "In the professional bug bounty ecosystem researchers operate under a good faith agreement we identify vulnerabilities we provide proof and&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 10:37:59",
-    "score": 5,
-    "uid": "c33ee9f45663a5e8"
-  },
-  {
     "title": "CVE-2026–39904: How I Crashed an Entire Server Using Nothing but a DOCX File?",
     "url": "https://ashikmd7.medium.com/cve-2026-39904-how-i-crashed-an-entire-server-using-nothing-but-a-docx-file-05dc8f66ced2?source=rss------bug_bounty-5",
     "summary": "Welcome Researchers!Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "773ea87abee36e70"
+  },
+  {
+    "title": "Updated List: Sun Jul 05 05:08:33 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/816999843617435767037cad50aaf2449ac54607",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fa0b3afde9b906be"
   }
 ]
