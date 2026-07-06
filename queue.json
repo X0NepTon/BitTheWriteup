@@ -1,5 +1,15 @@
 [
   {
+    "title": "From Application RCE to Full Host Takeover via Docker Socket Misconfiguration",
+    "url": "https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5",
+    "summary": "A real-world penetration test of a containerized SaaS application hosted at something.example.comContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 06 Jul 2026 03:31:00",
+    "score": 10,
+    "uid": "0b0087304d5946fd"
+  },
+  {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
     "url": "https://medium.com/@kontakbilal/how-i-turned-a-simple-qr-code-into-a-100-open-redirect-bounty-91bc2427242a?source=rss------bug_bounty-5",
     "summary": "Hi everyone! My name is Bilal, and I am a security researcher.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Sun, 05 Jul 2026 06:06:46",
     "score": 3,
     "uid": "90b67a0942a9d393"
-  },
-  {
-    "title": "Updated List: Mon Jul 06 03:18:18 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/af70d014853f550aa763c45c7d819241f378a2bc",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ebf5ac0617bdb8f9"
   }
 ]
