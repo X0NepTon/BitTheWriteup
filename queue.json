@@ -1,13 +1,43 @@
 [
   {
-    "title": "From Application RCE to Full Host Takeover via Docker Socket Misconfiguration",
-    "url": "https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5",
-    "summary": "A real-world penetration test of a containerized SaaS application hosted at something.example.comContinue reading on Medium »",
+    "title": "Disclosure of User Information via JSON Response on WordPress REST API",
+    "url": "https://medium.com/@harshitp1971/disclosure-of-user-information-via-json-response-on-wordpress-rest-api-65f2e3002bbc?source=rss------bug_bounty-5",
+    "summary": "Ek unauthenticated endpoint jo poori user list leak kar deta hai &#x2014; aur usse aage brute-force ka rasta khulta hai.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 03:31:00",
+    "published": "Mon, 06 Jul 2026 06:49:09",
     "score": 10,
-    "uid": "0b0087304d5946fd"
+    "uid": "c80f143b11ad24bb"
+  },
+  {
+    "title": "Case Study: How an Exposed .git Directory Left a Scientific Observatory Vulnerable",
+    "url": "https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5",
+    "summary": "Introduction &#x1F50D;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 06 Jul 2026 06:26:50",
+    "score": 9,
+    "uid": "91efe173e45a2b3a"
+  },
+  {
+    "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
+    "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5",
+    "summary": "This article describes a simulated bug bounty scenario created for educational purposes.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 06 Jul 2026 05:20:57",
+    "score": 9,
+    "uid": "485dd1e584936472"
+  },
+  {
+    "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
+    "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5",
+    "summary": "This article describes a simulated bug bounty scenario created for educational purposes.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 06 Jul 2026 05:20:57",
+    "score": 9,
+    "uid": "f8a10d65f5e4de26"
   },
   {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "773ea87abee36e70"
-  },
-  {
-    "title": "Updated List: Sun Jul 05 05:08:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/816999843617435767037cad50aaf2449ac54607",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fa0b3afde9b906be"
-  },
-  {
-    "title": "The Recon Habit Most Hunters Skip (And Pay For Later)",
-    "url": "https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5",
-    "summary": "Why &#x201C;recon once, hack forever&#x201D; is the most expensive mistake in bug bountyContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 05 Jul 2026 05:37:58",
-    "score": 3,
-    "uid": "f68aa173205cb8fb"
-  },
-  {
-    "title": "Mastering curl Commands Bug Bounty Hunter's Guide",
-    "url": "https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss------bug_bounty-5",
-    "summary": "Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 05 Jul 2026 06:06:46",
-    "score": 3,
-    "uid": "90b67a0942a9d393"
   }
 ]
