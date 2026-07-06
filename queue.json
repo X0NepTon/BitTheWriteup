@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data (PART 2)",
-    "url": "https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty-5",
-    "summary": "In the previous write-up, I discussed how the &#x201C;forgot password&#x201D; feature could be exploited to bypass authentication, allowing users who&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 15:50:33",
-    "score": 18,
-    "uid": "79e4c7683c010047"
-  },
-  {
     "title": "Case Study: How an Exposed .git Directory Left a Scientific Observatory Vulnerable",
     "url": "https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5",
     "summary": "Introduction &#x1F50D;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "35952658838ce5e6"
+  },
+  {
+    "title": "The Recon Habit Most Hunters Skip (And Pay For Later)",
+    "url": "https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5",
+    "summary": "Why &#x201C;recon once, hack forever&#x201D; is the most expensive mistake in bug bountyContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 05 Jul 2026 05:37:58",
+    "score": 3,
+    "uid": "f68aa173205cb8fb"
   }
 ]
