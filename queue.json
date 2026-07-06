@@ -1,15 +1,5 @@
 [
   {
-    "title": "Disclosure of User Information via JSON Response on WordPress REST API",
-    "url": "https://medium.com/@harshitp1971/disclosure-of-user-information-via-json-response-on-wordpress-rest-api-65f2e3002bbc?source=rss------bug_bounty-5",
-    "summary": "Ek unauthenticated endpoint jo poori user list leak kar deta hai &#x2014; aur usse aage brute-force ka rasta khulta hai.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 06:49:09",
-    "score": 10,
-    "uid": "c80f143b11ad24bb"
-  },
-  {
     "title": "Case Study: How an Exposed .git Directory Left a Scientific Observatory Vulnerable",
     "url": "https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5",
     "summary": "Introduction &#x1F50D;Continue reading on Medium »",
@@ -38,6 +28,16 @@
     "published": "Mon, 06 Jul 2026 05:20:57",
     "score": 9,
     "uid": "f8a10d65f5e4de26"
+  },
+  {
+    "title": "Understanding the MITRE ATT&CK Framework: The Periodic Table of Cyber Adversaries",
+    "url": "https://medium.com/@21bec131/understanding-the-mitre-att-ck-framework-the-periodic-table-of-cyber-adversaries-72745d33b4fe?source=rss------bug_bounty-5",
+    "summary": "For decades, the cybersecurity industry focused primarily on Indicators of Compromise (IoCs) &#x2014; static artifacts like file hashes&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 06 Jul 2026 11:26:00",
+    "score": 9,
+    "uid": "f63c1e92537e7f8b"
   },
   {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
