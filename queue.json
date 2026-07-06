@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform (~$1,125)",
+    "url": "https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 06 Jul 2026 20:58:13",
+    "score": 13,
+    "uid": "411dbe5b1dfb2b91"
+  },
+  {
     "title": "Case Study: How an Exposed .git Directory Left a Scientific Observatory Vulnerable",
     "url": "https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5",
     "summary": "Introduction &#x1F50D;Continue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Mon, 06 Jul 2026 11:26:00",
     "score": 9,
     "uid": "f63c1e92537e7f8b"
+  },
+  {
+    "title": "When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…",
+    "url": "https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 06 Jul 2026 20:12:41",
+    "score": 9,
+    "uid": "0f82fb1406fba9d2"
   },
   {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
@@ -1978,25 +1998,5 @@
     "published": "Sat, 04 Jul 2026 13:49:09",
     "score": 3,
     "uid": "5f27a687ca260ec3"
-  },
-  {
-    "title": "Updated List: Sun Jul 05 02:12:58 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c30a39843f0d2859eb717a19c50ef3090a5bdbb6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "35952658838ce5e6"
-  },
-  {
-    "title": "The Recon Habit Most Hunters Skip (And Pay For Later)",
-    "url": "https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5",
-    "summary": "Why &#x201C;recon once, hack forever&#x201D; is the most expensive mistake in bug bountyContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 05 Jul 2026 05:37:58",
-    "score": 3,
-    "uid": "f68aa173205cb8fb"
   }
 ]
