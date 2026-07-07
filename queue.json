@@ -20,14 +20,14 @@
     "uid": "485dd1e584936472"
   },
   {
-    "title": "From Organizaton Admin to ReadOnly… But Still Able to Download Sensitive Exports",
-    "url": "https://medium.com/@RootXSec/from-organizaton-admin-to-readonly-but-still-able-to-download-sensitive-exports-64fdade12ab9?source=rss------bug_bounty-5",
-    "summary": "Hi Hackers For confidentiality reasons, I&#x2019;ll refer to the target application simply as Target.Continue reading on Medium »",
+    "title": "When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room",
+    "url": "https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5",
+    "summary": "Hello folks!! &#x1F44B;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 07 Jul 2026 13:09:16",
-    "score": 9,
-    "uid": "18c53be4b5466b55"
+    "published": "Tue, 07 Jul 2026 16:14:08",
+    "score": 8,
+    "uid": "d0ea62da275d6ab0"
   },
   {
     "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
@@ -48,6 +48,26 @@
     "published": "Tue, 07 Jul 2026 12:59:00",
     "score": 6,
     "uid": "e24081f77e0c8cb0"
+  },
+  {
+    "title": "Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat ($700…",
+    "url": "https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello, bug bounty hunters and cybersecurity enthusiasts!Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 07 Jul 2026 13:32:28",
+    "score": 6,
+    "uid": "92c23b7f4cc09b3f"
+  },
+  {
+    "title": "Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat ($700…",
+    "url": "https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty-5",
+    "summary": "Hello, bug bounty hunters and cybersecurity enthusiasts!Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 07 Jul 2026 13:32:28",
+    "score": 6,
+    "uid": "563f4208843c8142"
   },
   {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
@@ -98,6 +118,16 @@
     "published": "Sun, 05 Jul 2026 22:16:02",
     "score": 5,
     "uid": "da7475b893d710c5"
+  },
+  {
+    "title": "How a $10 Fee Can Lock Thousands of Dollars Forever",
+    "url": "https://medium.com/@bvize.com/how-a-10-fee-can-lock-thousands-of-dollars-forever-76fa9b448062?source=rss------bug_bounty-5",
+    "summary": "Somewhere inside millions of lines of code that move real money between blockchains, one sequence of four simple steps &#x2014; written by&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 07 Jul 2026 15:22:56",
+    "score": 5,
+    "uid": "1742ac0749359a17"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
@@ -1968,35 +1998,5 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "78881a868596eec5"
-  },
-  {
-    "title": "How I Discovered a Critical Data Leak Starting with a Small Clue",
-    "url": "https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty-5",
-    "summary": "INTRODUCTIONContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 04 Jul 2026 06:12:12",
-    "score": 3,
-    "uid": "584080aab0a2bee6"
-  },
-  {
-    "title": "How I Found a Data Deletion Bypass via Subdomain Synchronization",
-    "url": "https://infosecwriteups.com/how-i-found-a-data-deletion-bypass-via-subdomain-synchronization-7f5a43079983?source=rss------bug_bounty-5",
-    "summary": "This is what I did after my lunch break and immediately got enough cash to buy stuff in the premium storeContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 04 Jul 2026 13:49:09",
-    "score": 3,
-    "uid": "5f27a687ca260ec3"
-  },
-  {
-    "title": "The Recon Habit Most Hunters Skip (And Pay For Later)",
-    "url": "https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5",
-    "summary": "Why &#x201C;recon once, hack forever&#x201D; is the most expensive mistake in bug bountyContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 05 Jul 2026 05:37:58",
-    "score": 3,
-    "uid": "f68aa173205cb8fb"
   }
 ]
