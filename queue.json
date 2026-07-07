@@ -1,15 +1,5 @@
 [
   {
-    "title": "When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room",
-    "url": "https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5",
-    "summary": "Hello folks!! &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 07 Jul 2026 16:14:08",
-    "score": 8,
-    "uid": "d0ea62da275d6ab0"
-  },
-  {
     "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
     "url": "https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5",
     "summary": "Hello, Bug Hunter! In this writeup, I want to discuss a critical security misconfiguration I recently discovered during a bug bounty&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "056da239897f81e6"
+  },
+  {
+    "title": "Updated List: Wed Jul 08 04:13:59 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/86f2df077b048edbf979864561da8a6c307d8418",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c6c82cd197054930"
   }
 ]
