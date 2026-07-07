@@ -1,15 +1,5 @@
 [
   {
-    "title": "Case Study: How an Exposed .git Directory Left a Scientific Observatory Vulnerable",
-    "url": "https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5",
-    "summary": "Introduction &#x1F50D;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 06 Jul 2026 06:26:50",
-    "score": 9,
-    "uid": "91efe173e45a2b3a"
-  },
-  {
     "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
     "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5",
     "summary": "This article describes a simulated bug bounty scenario created for educational purposes.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "78881a868596eec5"
+  },
+  {
+    "title": "How I Took Over an Instagram Account Using Broken Link Hijacking & Found Open Redirections on…",
+    "url": "https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello, fellow hackers!Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 07 Jul 2026 14:58:54",
+    "score": 3,
+    "uid": "d916855c91222df2"
   }
 ]
