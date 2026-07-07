@@ -20,16 +20,6 @@
     "uid": "485dd1e584936472"
   },
   {
-    "title": "Understanding the MITRE ATT&CK Framework: The Periodic Table of Cyber Adversaries",
-    "url": "https://medium.com/@21bec131/understanding-the-mitre-att-ck-framework-the-periodic-table-of-cyber-adversaries-72745d33b4fe?source=rss------bug_bounty-5",
-    "summary": "For decades, the cybersecurity industry focused primarily on Indicators of Compromise (IoCs) &#x2014; static artifacts like file hashes&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 11:26:00",
-    "score": 9,
-    "uid": "f63c1e92537e7f8b"
-  },
-  {
     "title": "When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…",
     "url": "https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4ca06d45cc7cb74f"
+  },
+  {
+    "title": "Updated List: Tue Jul 07 10:45:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bb9945b66d86ec35a958834c8616835116f7d74f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a26ae6f731c445a3"
   }
 ]
