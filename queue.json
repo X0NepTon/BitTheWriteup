@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
-    "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5",
-    "summary": "This article describes a simulated bug bounty scenario created for educational purposes.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 06 Jul 2026 05:20:57",
-    "score": 9,
-    "uid": "485dd1e584936472"
-  },
-  {
     "title": "When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room",
     "url": "https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5",
     "summary": "Hello folks!! &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 07 Jul 2026 14:58:54",
     "score": 3,
     "uid": "d916855c91222df2"
+  },
+  {
+    "title": "Updated List: Wed Jul 08 01:42:31 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3f88e713224f4ee8651ed2329996738f1b8dfda8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "056da239897f81e6"
   }
 ]
