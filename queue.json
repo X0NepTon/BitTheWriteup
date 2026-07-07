@@ -20,16 +20,6 @@
     "uid": "485dd1e584936472"
   },
   {
-    "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
-    "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5",
-    "summary": "This article describes a simulated bug bounty scenario created for educational purposes.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 05:20:57",
-    "score": 9,
-    "uid": "f8a10d65f5e4de26"
-  },
-  {
     "title": "Understanding the MITRE ATT&CK Framework: The Periodic Table of Cyber Adversaries",
     "url": "https://medium.com/@21bec131/understanding-the-mitre-att-ck-framework-the-periodic-table-of-cyber-adversaries-72745d33b4fe?source=rss------bug_bounty-5",
     "summary": "For decades, the cybersecurity industry focused primarily on Indicators of Compromise (IoCs) &#x2014; static artifacts like file hashes&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 05 Jul 2026 05:37:58",
     "score": 3,
     "uid": "f68aa173205cb8fb"
+  },
+  {
+    "title": "Updated List: Tue Jul 07 06:57:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/863d0b3c0c0920c52ae3443c431937173a4d149a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4ca06d45cc7cb74f"
   }
 ]
