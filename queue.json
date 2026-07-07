@@ -20,14 +20,34 @@
     "uid": "485dd1e584936472"
   },
   {
-    "title": "When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…",
-    "url": "https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
+    "title": "From Organizaton Admin to ReadOnly… But Still Able to Download Sensitive Exports",
+    "url": "https://medium.com/@RootXSec/from-organizaton-admin-to-readonly-but-still-able-to-download-sensitive-exports-64fdade12ab9?source=rss------bug_bounty-5",
+    "summary": "Hi Hackers For confidentiality reasons, I&#x2019;ll refer to the target application simply as Target.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 06 Jul 2026 20:12:41",
+    "published": "Tue, 07 Jul 2026 13:09:16",
     "score": 9,
-    "uid": "0f82fb1406fba9d2"
+    "uid": "18c53be4b5466b55"
+  },
+  {
+    "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello, Bug Hunter! In this writeup, I want to discuss a critical security misconfiguration I recently discovered during a bug bounty&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 07 Jul 2026 12:59:00",
+    "score": 6,
+    "uid": "2fa215067788859b"
+  },
+  {
+    "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty-5",
+    "summary": "Hello, Bug Hunter! In this writeup, I want to discuss a critical security misconfiguration I recently discovered during a bug bounty&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 07 Jul 2026 12:59:00",
+    "score": 6,
+    "uid": "e24081f77e0c8cb0"
   },
   {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
@@ -1978,25 +1998,5 @@
     "published": "Sun, 05 Jul 2026 05:37:58",
     "score": 3,
     "uid": "f68aa173205cb8fb"
-  },
-  {
-    "title": "Updated List: Tue Jul 07 06:57:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/863d0b3c0c0920c52ae3443c431937173a4d149a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4ca06d45cc7cb74f"
-  },
-  {
-    "title": "Updated List: Tue Jul 07 10:45:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bb9945b66d86ec35a958834c8616835116f7d74f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a26ae6f731c445a3"
   }
 ]
