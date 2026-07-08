@@ -1,5 +1,15 @@
 [
   {
+    "title": "The $0 IDOR That Was Worth More Than a $12,500 P1",
+    "url": "https://medium.com/@Aacle/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5",
+    "summary": "Impact is what an attacker can do, not what your PoC screenshot shows. A field guide to the most under-rated bug class in bug bounty.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 08 Jul 2026 21:58:01",
+    "score": 12,
+    "uid": "0e773c88f6bac8a4"
+  },
+  {
     "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
     "url": "https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5",
     "summary": "Yesterday was all about XSS. Today, I spent most of my time diving into IDOR (Insecure Direct Object References) and Broken Access Control&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "92c6ce0c3cbbdb29"
-  },
-  {
-    "title": "Updated List: Thu Jul 09 01:21:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/95e0babb74edc651eede94e653cac79187440065",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d29629400f34a3ae"
   }
 ]
