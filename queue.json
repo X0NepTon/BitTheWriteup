@@ -10,16 +10,6 @@
     "uid": "d22f3a52a7669265"
   },
   {
-    "title": "From a Forgotten htmlspecialchars() to Full Admin Takeover The Story of CVE-2026–50740",
-    "url": "https://medium.com/@xtkanon/from-a-forgotten-htmlspecialchars-to-full-admin-takeover-the-story-of-cve-2026-50740-fdd38940f5b6?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 05 Jul 2026 16:42:45",
-    "score": 5,
-    "uid": "ee8fc1de768f5b52"
-  },
-  {
     "title": "Discovering an IDOR Vulnerability in a Community Platform API",
     "url": "https://medium.com/@tahaabdelalali1/discovering-an-idor-vulnerability-in-a-community-platform-api-6bf01b92b5ee?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "92c6ce0c3cbbdb29"
+  },
+  {
+    "title": "Updated List: Thu Jul 09 01:21:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/95e0babb74edc651eede94e653cac79187440065",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d29629400f34a3ae"
   }
 ]
