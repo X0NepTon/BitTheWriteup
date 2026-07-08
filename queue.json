@@ -1,15 +1,5 @@
 [
   {
-    "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
-    "url": "https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5",
-    "summary": "Hello, Bug Hunter! In this writeup, I want to discuss a critical security misconfiguration I recently discovered during a bug bounty&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 07 Jul 2026 12:59:00",
-    "score": 6,
-    "uid": "2fa215067788859b"
-  },
-  {
     "title": "Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat ($700…",
     "url": "https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5",
     "summary": "Hello, bug bounty hunters and cybersecurity enthusiasts!Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 08 Jul 2026 03:00:56",
     "score": 3,
     "uid": "b8aaaad2c0230919"
+  },
+  {
+    "title": "When Copying One File Was Enough to Bypass Protected Course Access",
+    "url": "https://medium.com/@ilianothingg/when-copying-one-file-was-enough-to-bypass-protected-course-access-a6972553f2d4?source=rss------bug_bounty-5",
+    "summary": "Responsible Disclosure: This issue was responsibly disclosed to the vendor, remediated, and published only after receiving permission for&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 08 Jul 2026 05:08:01",
+    "score": 3,
+    "uid": "e09b55035a9a7fb5"
   }
 ]
