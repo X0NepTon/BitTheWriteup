@@ -10,16 +10,6 @@
     "uid": "2fa215067788859b"
   },
   {
-    "title": "BUG Bounty — The Upload Was Protected, But the File Was Public.",
-    "url": "https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty-5",
-    "summary": "Hello, Bug Hunter! In this writeup, I want to discuss a critical security misconfiguration I recently discovered during a bug bounty&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 07 Jul 2026 12:59:00",
-    "score": 6,
-    "uid": "e24081f77e0c8cb0"
-  },
-  {
     "title": "Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat ($700…",
     "url": "https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5",
     "summary": "Hello, bug bounty hunters and cybersecurity enthusiasts!Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "c6c82cd197054930"
+  },
+  {
+    "title": "Updated List: Wed Jul 08 06:38:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/363c79cbd764f249b613338e4fa86a98e4c0d32b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "cf6565b867f4a771"
   }
 ]
