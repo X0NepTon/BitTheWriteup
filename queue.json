@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat ($700…",
-    "url": "https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5",
-    "summary": "Hello, bug bounty hunters and cybersecurity enthusiasts!Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 07 Jul 2026 13:32:28",
-    "score": 6,
-    "uid": "92c23b7f4cc09b3f"
-  },
-  {
     "title": "How I Turned a Simple QR Code into a €100 Open Redirect Bounty",
     "url": "https://medium.com/@kontakbilal/how-i-turned-a-simple-qr-code-into-a-100-open-redirect-bounty-91bc2427242a?source=rss------bug_bounty-5",
     "summary": "Hi everyone! My name is Bilal, and I am a security researcher.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 08 Jul 2026 05:08:01",
     "score": 3,
     "uid": "e09b55035a9a7fb5"
+  },
+  {
+    "title": "How a Trusted Header Turned Into an Open Redirect in Telekom’s System",
+    "url": "https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5",
+    "summary": "Host Header Injection &#x2192; Open RedirectContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 08 Jul 2026 03:00:56",
+    "score": 3,
+    "uid": "eec77e78b8eb73c3"
   }
 ]
