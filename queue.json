@@ -1,16 +1,6 @@
 [
   {
     "title": "Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs",
-    "url": "https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty-5",
-    "summary": "Hello, hackers! In this writeup, I want to share a high-severity vulnerability I discovered during a recent bug bounty hunt. The&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 09 Jul 2026 08:16:01",
-    "score": 7,
-    "uid": "f070d5f83491db47"
-  },
-  {
-    "title": "Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs",
     "url": "https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty_writeup-5",
     "summary": "Hello, hackers! In this writeup, I want to share a high-severity vulnerability I discovered during a recent bug bounty hunt. The&#x2026;Continue reading on Medium »",
     "source_id": "medium_wu",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "76c5932227de3317"
+  },
+  {
+    "title": "One Wildcard Character — $88,337 from Google: How brutecat Broke Cloud Tenant Isolation — A…",
+    "url": "https://medium.com/@vivekps143/one-wildcard-character-88-337-from-google-how-brutecat-broke-cloud-tenant-isolation-a-7110a0efaa30?source=rss------bug_bounty-5",
+    "summary": "Credit: This is a narrative review of a vulnerability originally discovered and responsibly disclosed by brutecat. The original report is&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 09 Jul 2026 14:29:41",
+    "score": 3,
+    "uid": "ec64eb3b52a8c2c1"
   }
 ]
