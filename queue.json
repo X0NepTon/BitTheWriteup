@@ -10,16 +10,6 @@
     "uid": "d22f3a52a7669265"
   },
   {
-    "title": "How a $10 Fee Can Lock Thousands of Dollars Forever",
-    "url": "https://medium.com/@bvize.com/how-a-10-fee-can-lock-thousands-of-dollars-forever-76fa9b448062?source=rss------bug_bounty-5",
-    "summary": "Somewhere inside millions of lines of code that move real money between blockchains, one sequence of four simple steps &#x2014; written by&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 07 Jul 2026 15:22:56",
-    "score": 5,
-    "uid": "1742ac0749359a17"
-  },
-  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 09 Jul 2026 09:52:18",
     "score": 3,
     "uid": "d99a2f8f32a871d0"
+  },
+  {
+    "title": "How I Discovered an Admin Access Vulnerability in the Blockchain India Challenge (CDAC) Website",
+    "url": "https://osintteam.blog/how-i-discovered-an-admin-access-vulnerability-in-the-blockchain-india-challenge-cdac-website-b9bd33a82a23?source=rss------bug_bounty-5",
+    "summary": "Why Vibe-Coded Websites Are Becoming Security RisksContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 09 Jul 2026 09:07:25",
+    "score": 3,
+    "uid": "1a767435565c8fdd"
   }
 ]
