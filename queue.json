@@ -1,15 +1,5 @@
 [
   {
-    "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
-    "url": "https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5",
-    "summary": "Yesterday was all about XSS. Today, I spent most of my time diving into IDOR (Insecure Direct Object References) and Broken Access Control&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 03 Jul 2026 04:51:58",
-    "score": 5,
-    "uid": "d22f3a52a7669265"
-  },
-  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 09 Jul 2026 09:07:25",
     "score": 3,
     "uid": "1a767435565c8fdd"
+  },
+  {
+    "title": "Updated List: Fri Jul 10 04:25:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e5c6da0688280a0137734194f37a8a40e65e0e4d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ad3e4385387d5ec2"
   }
 ]
