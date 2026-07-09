@@ -1,13 +1,13 @@
 [
   {
-    "title": "The $0 IDOR That Was Worth More Than a $12,500 P1",
-    "url": "https://medium.com/@Aacle/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5",
-    "summary": "Impact is what an attacker can do, not what your PoC screenshot shows. A field guide to the most under-rated bug class in bug bounty.Continue reading on Medium »",
+    "title": "Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty-5",
+    "summary": "Hello, hackers! In this writeup, I want to share a high-severity vulnerability I discovered during a recent bug bounty hunt. The&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 08 Jul 2026 21:58:01",
-    "score": 12,
-    "uid": "0e773c88f6bac8a4"
+    "published": "Thu, 09 Jul 2026 08:16:01",
+    "score": 7,
+    "uid": "f070d5f83491db47"
   },
   {
     "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
