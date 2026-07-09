@@ -1,16 +1,6 @@
 [
   {
     "title": "The $0 IDOR That Was Worth More Than a $12,500 P1",
-    "url": "https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5",
-    "summary": "Impact is what an attacker can do, not what your PoC screenshot shows. A field guide to the most under-rated bug class in bug bounty.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 08 Jul 2026 21:58:01",
-    "score": 13,
-    "uid": "be7b2caa0f6d0ce6"
-  },
-  {
-    "title": "The $0 IDOR That Was Worth More Than a $12,500 P1",
     "url": "https://medium.com/@Aacle/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5",
     "summary": "Impact is what an attacker can do, not what your PoC screenshot shows. A field guide to the most under-rated bug class in bug bounty.Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "76c5932227de3317"
+  },
+  {
+    "title": "Updated List: Thu Jul 09 06:48:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/352b8b393a1ccd3ef27ef4ce5949f2505de2957e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7884a58b1e9cb664"
   }
 ]
