@@ -10,6 +10,16 @@
     "uid": "f070d5f83491db47"
   },
   {
+    "title": "Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello, hackers! In this writeup, I want to share a high-severity vulnerability I discovered during a recent bug bounty hunt. The&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 09 Jul 2026 08:16:01",
+    "score": 7,
+    "uid": "79239c48a6d05a6d"
+  },
+  {
     "title": "Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control",
     "url": "https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5",
     "summary": "Yesterday was all about XSS. Today, I spent most of my time diving into IDOR (Insecure Direct Object References) and Broken Access Control&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "76c5932227de3317"
-  },
-  {
-    "title": "Updated List: Thu Jul 09 06:48:37 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/352b8b393a1ccd3ef27ef4ce5949f2505de2957e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7884a58b1e9cb664"
   }
 ]
