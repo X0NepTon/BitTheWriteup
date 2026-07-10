@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Chained Three Small Bugs Into a Critical",
-    "url": "https://kd-200.medium.com/how-i-chained-three-small-bugs-into-a-critical-884df99ccec4?source=rss------bug_bounty-5",
-    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 10 Jul 2026 11:31:00",
-    "score": 6,
-    "uid": "3ae71062e73a51d7"
-  },
-  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 10 Jul 2026 12:31:01",
     "score": 3,
     "uid": "5bd6711d55402dbf"
+  },
+  {
+    "title": "Updated List: Sat Jul 11 04:46:31 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/048391c7458373dfe801fe077d16909f1fe118df",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e1e6c039d8827ed5"
   }
 ]
