@@ -1,13 +1,13 @@
 [
   {
-    "title": "Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…",
-    "url": "https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty-5",
-    "summary": "Hello, hackers! In this writeup, I am thrilled to share a recent high-impact finding: an unauthenticated, non-blind Server-Side Request&#x2026;Continue reading on Medium »",
+    "title": "We Found a Public Cloud Bucket Exposing Customer Data Across Major E-Commerce Platforms",
+    "url": "https://medium.com/@thefreelancer0128/we-found-a-public-cloud-bucket-exposing-customer-data-across-major-e-commerce-platforms-4ab2f6f5919f?source=rss------bug_bounty-5",
+    "summary": "During routine security research, we came across something that shouldn&#x2019;t have been possible: a cloud storage bucket, open to anyone&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 10 Jul 2026 10:21:00",
-    "score": 13,
-    "uid": "0a33b306a0a78cba"
+    "published": "Fri, 10 Jul 2026 14:54:18",
+    "score": 10,
+    "uid": "ac1a22a5ede147bc"
   },
   {
     "title": "How I Chained Three Small Bugs Into a Critical",
