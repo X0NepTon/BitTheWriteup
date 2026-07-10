@@ -1,13 +1,13 @@
 [
   {
-    "title": "We Found a Public Cloud Bucket Exposing Customer Data Across Major E-Commerce Platforms",
-    "url": "https://medium.com/@thefreelancer0128/we-found-a-public-cloud-bucket-exposing-customer-data-across-major-e-commerce-platforms-4ab2f6f5919f?source=rss------bug_bounty-5",
-    "summary": "During routine security research, we came across something that shouldn&#x2019;t have been possible: a cloud storage bucket, open to anyone&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 10 Jul 2026 14:54:18",
-    "score": 10,
-    "uid": "ac1a22a5ede147bc"
+    "title": "How I Chained an Open Redirect into Email Leak and Got $1,337 from Google",
+    "url": "https://xlsize0bruh.medium.com/how-i-chained-an-open-redirect-into-email-leak-and-got-1-337-from-google-c8a4655677a2?source=rss------bug_bounty_writeup-5",
+    "summary": "Who Am I?Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 10 Jul 2026 18:10:46",
+    "score": 8,
+    "uid": "e22d854444cb496f"
   },
   {
     "title": "How I Chained Three Small Bugs Into a Critical",
