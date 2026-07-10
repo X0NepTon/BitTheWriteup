@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Chained an Open Redirect into Email Leak and Got $1,337 from Google",
-    "url": "https://xlsize0bruh.medium.com/how-i-chained-an-open-redirect-into-email-leak-and-got-1-337-from-google-c8a4655677a2?source=rss------bug_bounty_writeup-5",
-    "summary": "Who Am I?Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 10 Jul 2026 18:10:46",
-    "score": 8,
-    "uid": "e22d854444cb496f"
-  },
-  {
     "title": "How I Chained Three Small Bugs Into a Critical",
     "url": "https://kd-200.medium.com/how-i-chained-three-small-bugs-into-a-critical-884df99ccec4?source=rss------bug_bounty-5",
     "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 09 Jul 2026 09:07:25",
     "score": 3,
     "uid": "1a767435565c8fdd"
+  },
+  {
+    "title": "Breaking LLM Output Handling: How I Found an Open Redirect on a Major AI Platform",
+    "url": "https://medium.com/@haninalmohammadi19/breaking-llm-output-handling-how-i-found-an-open-redirect-on-a-major-ai-platform-4c4c9ac56f0c?source=rss------bug_bounty-5",
+    "summary": "The Core ConceptContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 10 Jul 2026 12:31:01",
+    "score": 3,
+    "uid": "5bd6711d55402dbf"
   }
 ]
