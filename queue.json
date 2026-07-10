@@ -30,16 +30,6 @@
     "uid": "d1d1a58f0be6f0de"
   },
   {
-    "title": "Analyzing AMD's Bug Bounty Delay and Its Implicati…",
-    "url": "https://dev.to/norviktech/analyzing-amds-bug-bounty-delay-and-its-implicati-5djc",
-    "summary": "Originally published at norvik.tech Introduction Deep dive into AMD's delayed response to a critical security flaw and what it means for software development practices. Understanding the Critical Security Flaw In early 2023, AMD faced significant scrutiny after a security researcher discovered that their auto-updater was downloading software over insecure HTTP connections. This vulnerability allowed potential attackers to inject malware during the update process, exposing users to serious risks. The delay of 124 days to address this critical flaw raises important questions about software secur",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Tue, 16 Jun 2026 10:06:05",
-    "score": 4,
-    "uid": "7b2769755b120074"
-  },
-  {
     "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
     "url": "https://medium.com/@suhas.gouli12/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
     "summary": "Hey all &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ad3e4385387d5ec2"
+  },
+  {
+    "title": "Updated List: Fri Jul 10 10:44:18 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4e5997da8fb24dff151e48222ce98d72d148279f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d8bc652f14d1e682"
   }
 ]
