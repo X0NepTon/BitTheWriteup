@@ -1,16 +1,6 @@
 [
   {
     "title": "Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…",
-    "url": "https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty_writeup-5",
-    "summary": "Hello, hackers! In this writeup, I am thrilled to share a recent high-impact finding: an unauthenticated, non-blind Server-Side Request&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 10 Jul 2026 10:21:00",
-    "score": 14,
-    "uid": "5772c74171a688ce"
-  },
-  {
-    "title": "Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…",
     "url": "https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty-5",
     "summary": "Hello, hackers! In this writeup, I am thrilled to share a recent high-impact finding: an unauthenticated, non-blind Server-Side Request&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -18,6 +8,16 @@
     "published": "Fri, 10 Jul 2026 10:21:00",
     "score": 13,
     "uid": "0a33b306a0a78cba"
+  },
+  {
+    "title": "How I Chained Three Small Bugs Into a Critical",
+    "url": "https://kd-200.medium.com/how-i-chained-three-small-bugs-into-a-critical-884df99ccec4?source=rss------bug_bounty-5",
+    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 10 Jul 2026 11:31:00",
+    "score": 6,
+    "uid": "3ae71062e73a51d7"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
