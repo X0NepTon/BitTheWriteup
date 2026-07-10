@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello, hackers! In this writeup, I am thrilled to share a recent high-impact finding: an unauthenticated, non-blind Server-Side Request&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 10 Jul 2026 10:21:00",
+    "score": 14,
+    "uid": "5772c74171a688ce"
+  },
+  {
+    "title": "Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…",
+    "url": "https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty-5",
+    "summary": "Hello, hackers! In this writeup, I am thrilled to share a recent high-impact finding: an unauthenticated, non-blind Server-Side Request&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 10 Jul 2026 10:21:00",
+    "score": 13,
+    "uid": "0a33b306a0a78cba"
+  },
+  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 09 Jul 2026 09:07:25",
     "score": 3,
     "uid": "1a767435565c8fdd"
-  },
-  {
-    "title": "Updated List: Fri Jul 10 04:25:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e5c6da0688280a0137734194f37a8a40e65e0e4d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ad3e4385387d5ec2"
-  },
-  {
-    "title": "Updated List: Fri Jul 10 10:44:18 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4e5997da8fb24dff151e48222ce98d72d148279f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d8bc652f14d1e682"
   }
 ]
