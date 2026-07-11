@@ -31,16 +31,6 @@
   },
   {
     "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
-    "url": "https://medium.com/@suhas.gouli12/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 23 Jun 2026 12:08:49",
-    "score": 4,
-    "uid": "173999a66df1afe5"
-  },
-  {
-    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
     "url": "https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
     "summary": "Hey all &#x1F44B;Continue reading on Medium »",
     "source_id": "medium_wu",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ce1a4d6a445a4305"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 04:33:05 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6fd489ff5321d8fa6253d1eb02adfe78d950beec",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2a3d1697fc68351a"
   }
 ]
