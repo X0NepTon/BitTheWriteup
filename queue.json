@@ -50,16 +50,6 @@
     "uid": "4041f5d70f440a4b"
   },
   {
-    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
-    "url": "https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty-5",
-    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 12:08:49",
-    "score": 4,
-    "uid": "1366dcf528432170"
-  },
-  {
     "title": "CSRF Explained Like You’re Five",
     "url": "https://kd-200.medium.com/csrf-explained-like-youre-five-abbc99974faa?source=rss------bug_bounty-5",
     "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "7806901994e384b9"
+  },
+  {
+    "title": "Updated List: Sat Jul 11 11:31:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7bdaec7a17639875a673db25126adc45f3e9cd1c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "9e3abaa4a607da83"
   }
 ]
