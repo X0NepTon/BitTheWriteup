@@ -70,16 +70,6 @@
     "uid": "53186613949e8ce0"
   },
   {
-    "title": "How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout",
-    "url": "https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty-5",
-    "summary": "When testing web applications, we often treat backends like a unified black box. We send data, and it spits an answer back. In reality, a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 30 Jun 2026 11:16:00",
-    "score": 4,
-    "uid": "555da18b71ae5ee3"
-  },
-  {
     "title": "How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…",
     "url": "https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty_writeup-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fcf2e8af15fb0b2e"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 01:58:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/96e63925364e395e0cac37a5b62d419e4591e21b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "36efd5e969c38d4e"
   }
 ]
