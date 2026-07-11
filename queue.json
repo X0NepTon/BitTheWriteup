@@ -1,13 +1,13 @@
 [
   {
-    "title": "Blind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much",
-    "url": "https://medium.com/@ajinisadev/blind-ssrf-via-webhook-subscription-urls-when-a-saas-trusts-your-callback-too-much-987f62884693?source=rss------bug_bounty_writeup-5",
-    "summary": "A customer-configurable webhook feature with no egress validation let me make a platform&#x2019;s own backend fire HTTP requests at internal and&#x2026;Continue reading on Medium »",
+    "title": "How I Found SQL Injection",
+    "url": "https://medium.com/@chouhanashvin600/how-i-found-sql-injection-5120b0d0564f?source=rss------bug_bounty_writeup-5",
+    "summary": "Hii all, I&#x2019;m Ashvin Chouhan &#x2014; currently in my 3rd year of a Bachelor of Technology, trying to become a security researcher.Continue reading on Medium »",
     "source_id": "medium_wu",
     "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 11 Jul 2026 15:18:11",
-    "score": 8,
-    "uid": "c1f127c6990411c1"
+    "published": "Sat, 11 Jul 2026 16:09:17",
+    "score": 7,
+    "uid": "807155dd0d89ce2f"
   },
   {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
