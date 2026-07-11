@@ -1,15 +1,5 @@
 [
   {
-    "title": "20 Browser Extensions Every Threat Researcher Should Try",
-    "url": "https://medium.com/@paritoshblogs/20-browser-extensions-every-threat-researcher-should-try-2464ad46ac19?source=rss------bug_bounty-5",
-    "summary": "If you&#x2019;re a threat researcher, a SOC analyst, an OSINT investigator, or just someone finding their footing in the cybersecurity world&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 11 Jul 2026 07:38:27",
-    "score": 9,
-    "uid": "8463ada1a9860881"
-  },
-  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "7806901994e384b9"
+  },
+  {
+    "title": "Updated List: Sat Jul 11 17:00:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fd47901276ade3e590cf74c74082c4477edc8f48",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fe0b7be35c400ed1"
   }
 ]
