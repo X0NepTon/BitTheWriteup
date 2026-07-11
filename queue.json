@@ -50,16 +50,6 @@
     "uid": "4041f5d70f440a4b"
   },
   {
-    "title": "CSRF Explained Like You’re Five",
-    "url": "https://kd-200.medium.com/csrf-explained-like-youre-five-abbc99974faa?source=rss------bug_bounty-5",
-    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 24 Jun 2026 11:31:00",
-    "score": 4,
-    "uid": "fe6c65806f9bbdff"
-  },
-  {
     "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300",
     "url": "https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5",
     "summary": "Hey everyone, Faiz here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fe0b7be35c400ed1"
+  },
+  {
+    "title": "Updated List: Sat Jul 11 20:15:52 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/1640330348b39fe6a23fcc6ab933dadf21d2e9f9",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fe329d6b681ffb82"
   }
 ]
