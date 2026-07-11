@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found SQL Injection",
-    "url": "https://medium.com/@chouhanashvin600/how-i-found-sql-injection-5120b0d0564f?source=rss------bug_bounty_writeup-5",
-    "summary": "Hii all, I&#x2019;m Ashvin Chouhan &#x2014; currently in my 3rd year of a Bachelor of Technology, trying to become a security researcher.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 11 Jul 2026 16:09:17",
-    "score": 7,
-    "uid": "807155dd0d89ce2f"
-  },
-  {
     "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
     "url": "https://portswigger.net/research/inline-style-exfiltration",
     "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fe0b7be35c400ed1"
+  },
+  {
+    "title": "Updated List: Sat Jul 11 23:02:09 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6ec78831dca7d01e26225df22dcd01f3cdb9da44",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "17137743556e20a5"
   }
 ]
