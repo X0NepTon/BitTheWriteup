@@ -80,16 +80,6 @@
     "uid": "01a98f906f1bc4dd"
   },
   {
-    "title": "How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…",
-    "url": "https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 14:19:59",
-    "score": 4,
-    "uid": "3abd4772afeef481"
-  },
-  {
     "title": "Account Deletion — Password Confirmation Bypass — bug bounty",
     "url": "https://medium.com/@sovode17/account-deletion-password-confirmation-bypass-bug-bounty-ae90450e8804?source=rss------bug_bounty-5",
     "summary": "# Account Deletion &#x2014; Password Confirmation BypassContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "36efd5e969c38d4e"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 02:43:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bf7bafb932bf1b22e3d5b5ebb2311481499c7391",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d95be35dc54cc72c"
   }
 ]
