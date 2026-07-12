@@ -1,15 +1,5 @@
 [
   {
-    "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
-    "url": "https://portswigger.net/research/inline-style-exfiltration",
-    "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 26 Aug 2025 12:54:03",
-    "score": 4,
-    "uid": "5708552122e589be"
-  },
-  {
     "title": "SAML roulette: the hacker always wins",
     "url": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
     "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "bf20c0ffc2fe4dce"
+  },
+  {
+    "title": "Open Redirect on [Vulnerable Endpoint] via [Parameter Name] parameter",
+    "url": "https://medium.com/@byroot/open-redirect-on-vulnerable-endpoint-via-parameter-name-parameter-d802f1975a71?source=rss------bug_bounty-5",
+    "summary": "1. Update System & Install DependenciesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 12 Jul 2026 14:32:26",
+    "score": 3,
+    "uid": "9a8de164fd917144"
   }
 ]
