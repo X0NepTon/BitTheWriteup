@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…",
+    "url": "https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5",
+    "summary": "Disclaimer: This article describes a vulnerability that has already been responsibly disclosed and remediated. All identifying information&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 12 Jul 2026 18:25:32",
+    "score": 6,
+    "uid": "9a04d28bcbbb22ca"
+  },
+  {
     "title": "SAML roulette: the hacker always wins",
     "url": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
     "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "15774ca0d2273b29"
-  },
-  {
-    "title": "Updated List: Sun Jul 12 18:11:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/691d57a871b0d7bf5196d2441d3e6ffbfa419ee3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "bf20c0ffc2fe4dce"
   }
 ]
