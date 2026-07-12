@@ -20,16 +20,6 @@
     "uid": "d1d1a58f0be6f0de"
   },
   {
-    "title": "From Duplicate to $$$$ Bounty",
-    "url": "https://medium.com/@youssefmohamedsaadhelal1214/from-duplicate-to-bounty-88d6511dc6db?source=rss------bug_bounty-5",
-    "summary": "One Key, 154,000 SecretsContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 12 Jul 2026 15:48:55",
-    "score": 4,
-    "uid": "dee5923efbf6bc1b"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 12 Jul 2026 20:03:42",
     "score": 3,
     "uid": "6c29286fd2cdcca7"
+  },
+  {
+    "title": "Open Redirect on [Vulnerable Endpoint] via [Parameter Name] parameter",
+    "url": "https://medium.com/@byroot/open-redirect-on-vulnerable-endpoint-via-parameter-name-parameter-d802f1975a71?source=rss------bug_bounty-5",
+    "summary": "1. Update System & Install DependenciesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 12 Jul 2026 14:32:26",
+    "score": 3,
+    "uid": "9a8de164fd917144"
   }
 ]
