@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…",
-    "url": "https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5",
-    "summary": "Disclaimer: This article describes a vulnerability that has already been responsibly disclosed and remediated. All identifying information&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 12 Jul 2026 18:25:32",
-    "score": 6,
-    "uid": "9a04d28bcbbb22ca"
-  },
-  {
     "title": "SAML roulette: the hacker always wins",
     "url": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
     "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "15774ca0d2273b29"
+  },
+  {
+    "title": "Learning the Hard Way: How procedural errors invalidated my Web3 bug bounties (and how to avoid…",
+    "url": "https://medium.com/@remi.bunker.sys/learning-the-hard-way-how-procedural-errors-invalidated-my-web3-bug-bounties-and-how-to-avoid-3758fb5eef1c?source=rss------bug_bounty-5",
+    "summary": "A transparent case study on why understanding disclosure pipelines is just as critical as finding the vulnerability itself.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 12 Jul 2026 20:03:42",
+    "score": 3,
+    "uid": "6c29286fd2cdcca7"
   }
 ]
