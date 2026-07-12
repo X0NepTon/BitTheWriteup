@@ -30,16 +30,6 @@
     "uid": "d1d1a58f0be6f0de"
   },
   {
-    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300",
-    "url": "https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey everyone, Faiz here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 24 Jun 2026 18:51:40",
-    "score": 4,
-    "uid": "ade979712b269ea0"
-  },
-  {
     "title": "How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout",
     "url": "https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty_writeup-5",
     "summary": "When testing web applications, we often treat backends like a unified black box. We send data, and it spits an answer back. In reality, a&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "cfdde7c22c50584f"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 10:12:46 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/58a6f283324e28e8e3d09c9f0b7369e5e25a620b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "db13aafe6f4fe6d0"
   }
 ]
