@@ -30,16 +30,6 @@
     "uid": "d1d1a58f0be6f0de"
   },
   {
-    "title": "How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…",
-    "url": "https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty_writeup-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 01 Jul 2026 14:19:59",
-    "score": 4,
-    "uid": "01a98f906f1bc4dd"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "15774ca0d2273b29"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 18:11:12 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/691d57a871b0d7bf5196d2441d3e6ffbfa419ee3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bf20c0ffc2fe4dce"
   }
 ]
