@@ -30,16 +30,6 @@
     "uid": "d1d1a58f0be6f0de"
   },
   {
-    "title": "My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200",
-    "url": "https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey all &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 23 Jun 2026 12:08:49",
-    "score": 4,
-    "uid": "4041f5d70f440a4b"
-  },
-  {
     "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300",
     "url": "https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5",
     "summary": "Hey everyone, Faiz here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2a3d1697fc68351a"
+  },
+  {
+    "title": "Updated List: Sun Jul 12 06:48:22 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/651668e89c6c91d40120e22a34ad7286293dc695",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "cfdde7c22c50584f"
   }
 ]
