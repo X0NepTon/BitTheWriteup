@@ -1,15 +1,5 @@
 [
   {
-    "title": "Introducing Genbounty LLM Hunter Community Edition",
-    "url": "https://genbounty.medium.com/introducing-genbounty-llm-hunter-community-edition-ffa580b40f7b?source=rss------bug_bounty-5",
-    "summary": "Automated Open-source AI Red Team Security Testing for LLMs and AgentsContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 13:20:10",
-    "score": 12,
-    "uid": "9aa152a2ccb03bb8"
-  },
-  {
     "title": "How I Turned a Magic Link Feature Into Account Takeover",
     "url": "https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty_writeup-5",
     "summary": "Hi, I&#x2019;m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_. In this&#x2026;Continue reading on Medium »",
@@ -38,6 +28,16 @@
     "published": "Mon, 13 Jul 2026 11:31:00",
     "score": 8,
     "uid": "2b261057f8d829ba"
+  },
+  {
+    "title": "IDOR & Bypass Techniques: A Practical Methodology for Security Testing",
+    "url": "https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------bug_bounty-5",
+    "summary": "Subtitle:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 20:58:53",
+    "score": 7,
+    "uid": "fb85e9fbbe4e23b1"
   },
   {
     "title": "From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug",
