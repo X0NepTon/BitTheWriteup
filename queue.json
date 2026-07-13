@@ -1,5 +1,15 @@
 [
   {
+    "title": "Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty",
+    "url": "https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5",
+    "summary": "Redacted writeup. Program and target withheld per disclosure policyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 17:58:51",
+    "score": 18,
+    "uid": "65a0828eceb2a442"
+  },
+  {
     "title": "Introducing Genbounty LLM Hunter Community Edition",
     "url": "https://genbounty.medium.com/introducing-genbounty-llm-hunter-community-edition-ffa580b40f7b?source=rss------bug_bounty-5",
     "summary": "Automated Open-source AI Red Team Security Testing for LLMs and AgentsContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "db13aafe6f4fe6d0"
-  },
-  {
-    "title": "Updated List: Sun Jul 12 12:45:52 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/97405a8016867dbd924f370ce388bdeb97ab0346",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "15774ca0d2273b29"
   }
 ]
