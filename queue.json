@@ -1,13 +1,33 @@
 [
   {
-    "title": "SQL Injection Bypass: Why Network-Level Fixes Fail to Secure Vulnerable Applications",
-    "url": "https://medium.com/@m.bafy10/sql-injection-bypass-why-network-level-fixes-fail-to-secure-vulnerable-applications-d3e96ddc5b27?source=rss------bug_bounty-5",
-    "summary": "Executive SummaryContinue reading on Medium »",
+    "title": "The SSRF I Almost Didn’t Report",
+    "url": "https://kd-200.medium.com/the-ssrf-i-almost-didnt-report-54ed91ffc779?source=rss------bug_bounty-5",
+    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 08:45:04",
-    "score": 9,
-    "uid": "f691b85509646b45"
+    "published": "Mon, 13 Jul 2026 11:31:00",
+    "score": 8,
+    "uid": "2b261057f8d829ba"
+  },
+  {
+    "title": "From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug",
+    "url": "https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss------bug_bounty-5",
+    "summary": "Free Article Link: Click for free!Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 11:18:23",
+    "score": 6,
+    "uid": "480605474212ed2e"
+  },
+  {
+    "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
+    "url": "https://medium.com/@pentesterclubpvtltd/apple-iphone-zero-day-cve-2026-20700-explained-ca87f44e09d9?source=rss------bug_bounty-5",
+    "summary": "Why Every iPhone, iPad, and Mac User Should Update ImmediatelyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 11:06:04",
+    "score": 5,
+    "uid": "3e0c4844c032c05e"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "Sun, 12 Jul 2026 20:03:42",
     "score": 3,
     "uid": "6c29286fd2cdcca7"
-  },
-  {
-    "title": "Open Redirect on [Vulnerable Endpoint] via [Parameter Name] parameter",
-    "url": "https://medium.com/@byroot/open-redirect-on-vulnerable-endpoint-via-parameter-name-parameter-d802f1975a71?source=rss------bug_bounty-5",
-    "summary": "1. Update System & Install DependenciesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 12 Jul 2026 14:32:26",
-    "score": 3,
-    "uid": "9a8de164fd917144"
-  },
-  {
-    "title": "Updated List: Mon Jul 13 06:44:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d569392216bdc08ba329f6a4f70792471b6fea19",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8c44a122728d9300"
   }
 ]
