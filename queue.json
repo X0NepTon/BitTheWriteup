@@ -1,15 +1,5 @@
 [
   {
-    "title": "Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty",
-    "url": "https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5",
-    "summary": "Redacted writeup. Program and target withheld per disclosure policyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 17:58:51",
-    "score": 18,
-    "uid": "65a0828eceb2a442"
-  },
-  {
     "title": "Introducing Genbounty LLM Hunter Community Edition",
     "url": "https://genbounty.medium.com/introducing-genbounty-llm-hunter-community-edition-ffa580b40f7b?source=rss------bug_bounty-5",
     "summary": "Automated Open-source AI Red Team Security Testing for LLMs and AgentsContinue reading on Medium »",
@@ -18,6 +8,26 @@
     "published": "Mon, 13 Jul 2026 13:20:10",
     "score": 12,
     "uid": "9aa152a2ccb03bb8"
+  },
+  {
+    "title": "How I Turned a Magic Link Feature Into Account Takeover",
+    "url": "https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty_writeup-5",
+    "summary": "Hi, I&#x2019;m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_. In this&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 13 Jul 2026 19:11:33",
+    "score": 12,
+    "uid": "5be36ef37ff7a0a2"
+  },
+  {
+    "title": "How I Turned a Magic Link Feature Into Account Takeover",
+    "url": "https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty-5",
+    "summary": "Hi, I&#x2019;m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_. In this&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 19:11:33",
+    "score": 11,
+    "uid": "17b4385fd9924a09"
   },
   {
     "title": "The SSRF I Almost Didn’t Report",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "cfdde7c22c50584f"
-  },
-  {
-    "title": "Updated List: Sun Jul 12 10:12:46 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/58a6f283324e28e8e3d09c9f0b7369e5e25a620b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "db13aafe6f4fe6d0"
   }
 ]
