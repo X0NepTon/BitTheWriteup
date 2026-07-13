@@ -1,16 +1,6 @@
 [
   {
     "title": "How I Turned a Magic Link Feature Into Account Takeover",
-    "url": "https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty_writeup-5",
-    "summary": "Hi, I&#x2019;m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_. In this&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 13 Jul 2026 19:11:33",
-    "score": 12,
-    "uid": "5be36ef37ff7a0a2"
-  },
-  {
-    "title": "How I Turned a Magic Link Feature Into Account Takeover",
     "url": "https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty-5",
     "summary": "Hi, I&#x2019;m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_. In this&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "cfdde7c22c50584f"
+  },
+  {
+    "title": "Updated List: Tue Jul 14 03:48:10 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/35370655b1b4fc6c560527f09e058f42acc11e5d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ebb60a66b52c8ef3"
   }
 ]
