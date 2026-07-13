@@ -1,15 +1,5 @@
 [
   {
-    "title": "SAML roulette: the hacker always wins",
-    "url": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
-    "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 18 Mar 2025 14:55:43",
-    "score": 4,
-    "uid": "d12c380e9d413a62"
-  },
-  {
     "title": "Top 10 web hacking techniques of 2024: nominations open",
     "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
     "summary": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 12 Jul 2026 14:32:26",
     "score": 3,
     "uid": "9a8de164fd917144"
+  },
+  {
+    "title": "Updated List: Mon Jul 13 06:44:33 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d569392216bdc08ba329f6a4f70792471b6fea19",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8c44a122728d9300"
   }
 ]
