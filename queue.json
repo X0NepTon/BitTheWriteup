@@ -1,15 +1,5 @@
 [
   {
-    "title": "Top 10 web hacking techniques of 2024: nominations open",
-    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
-    "summary": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 08 Jan 2025 14:07:27",
-    "score": 4,
-    "uid": "d1d1a58f0be6f0de"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "8c44a122728d9300"
+  },
+  {
+    "title": "Updated List: Mon Jul 13 10:13:22 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c7796a45aee8bdb0fc807065c02c8dd4a6abd361",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "77374019e88b4dd9"
   }
 ]
