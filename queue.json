@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing Genbounty LLM Hunter Community Edition",
+    "url": "https://genbounty.medium.com/introducing-genbounty-llm-hunter-community-edition-ffa580b40f7b?source=rss------bug_bounty-5",
+    "summary": "Automated Open-source AI Red Team Security Testing for LLMs and AgentsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 13:20:10",
+    "score": 12,
+    "uid": "9aa152a2ccb03bb8"
+  },
+  {
     "title": "The SSRF I Almost Didn’t Report",
     "url": "https://kd-200.medium.com/the-ssrf-i-almost-didnt-report-54ed91ffc779?source=rss------bug_bounty-5",
     "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "15774ca0d2273b29"
-  },
-  {
-    "title": "Learning the Hard Way: How procedural errors invalidated my Web3 bug bounties (and how to avoid…",
-    "url": "https://medium.com/@remi.bunker.sys/learning-the-hard-way-how-procedural-errors-invalidated-my-web3-bug-bounties-and-how-to-avoid-3758fb5eef1c?source=rss------bug_bounty-5",
-    "summary": "A transparent case study on why understanding disclosure pipelines is just as critical as finding the vulnerability itself.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 12 Jul 2026 20:03:42",
-    "score": 3,
-    "uid": "6c29286fd2cdcca7"
   }
 ]
