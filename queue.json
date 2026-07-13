@@ -1,5 +1,15 @@
 [
   {
+    "title": "SQL Injection Bypass: Why Network-Level Fixes Fail to Secure Vulnerable Applications",
+    "url": "https://medium.com/@m.bafy10/sql-injection-bypass-why-network-level-fixes-fail-to-secure-vulnerable-applications-d3e96ddc5b27?source=rss------bug_bounty-5",
+    "summary": "Executive SummaryContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 13 Jul 2026 08:45:04",
+    "score": 9,
+    "uid": "f691b85509646b45"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8c44a122728d9300"
-  },
-  {
-    "title": "Updated List: Mon Jul 13 10:13:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c7796a45aee8bdb0fc807065c02c8dd4a6abd361",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "77374019e88b4dd9"
   }
 ]
