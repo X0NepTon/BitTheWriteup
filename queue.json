@@ -1,15 +1,5 @@
 [
   {
-    "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
-    "url": "https://medium.com/@pentesterclubpvtltd/apple-iphone-zero-day-cve-2026-20700-explained-ca87f44e09d9?source=rss------bug_bounty-5",
-    "summary": "Why Every iPhone, iPad, and Mac User Should Update ImmediatelyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 11:06:04",
-    "score": 5,
-    "uid": "3e0c4844c032c05e"
-  },
-  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-22ph",
     "summary": "How to Earn $10k+/Year from Bug Bounties How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strategic, and actionable. If you’re willing to treat this like a part-time job rather than a lucky gamble, hitting that $10k mark is a realistic goal within 12–18 months. Le",
@@ -18,6 +8,26 @@
     "published": "Tue, 14 Jul 2026 15:31:46",
     "score": 4,
     "uid": "3b3762285f332fb4"
+  },
+  {
+    "title": "The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty",
+    "url": "https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty_writeup-5",
+    "summary": "Not every finding is a takeover. This one is a small, clean bug with a real phishing angle: a parameter meant to control post-login&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 14 Jul 2026 18:01:00",
+    "score": 4,
+    "uid": "3976fd2f30997d71"
+  },
+  {
+    "title": "The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty",
+    "url": "https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty-5",
+    "summary": "Not every finding is a takeover. This one is a small, clean bug with a real phishing angle: a parameter meant to control post-login&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 14 Jul 2026 18:01:00",
+    "score": 4,
+    "uid": "e741865dd595a3b1"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a5723404c43ce0fb"
-  },
-  {
-    "title": "MCP Servers Are the New Open Port 22. Nobody’s Auditing Them.",
-    "url": "https://infosecwriteups.com/mcp-servers-are-the-new-open-port-22-nobodys-auditing-them-23f3f0e60768?source=rss------bug_bounty-5",
-    "summary": "The MCP Bug Bounty Field Guide &#xB7; Part 1 of 5 &#x2014; what the protocol is, and why it just created the most under-hunted surface of 2026.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 15:14:24",
-    "score": 3,
-    "uid": "d145e955e7455d2d"
   }
 ]
