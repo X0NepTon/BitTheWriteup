@@ -1,15 +1,5 @@
 [
   {
-    "title": "The SSRF I Almost Didn’t Report",
-    "url": "https://kd-200.medium.com/the-ssrf-i-almost-didnt-report-54ed91ffc779?source=rss------bug_bounty-5",
-    "summary": "Hey friends! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 11:31:00",
-    "score": 8,
-    "uid": "2b261057f8d829ba"
-  },
-  {
     "title": "IDOR & Bypass Techniques: A Practical Methodology for Security Testing",
     "url": "https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------bug_bounty-5",
     "summary": "Subtitle:Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4d5e8be59ed50b30"
+  },
+  {
+    "title": "Updated List: Tue Jul 14 05:40:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/db0b77aa32dbbd3cf3d7a29a1cb4d80a40f207ec",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a5723404c43ce0fb"
   }
 ]
