@@ -1,15 +1,5 @@
 [
   {
-    "title": "From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug",
-    "url": "https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss------bug_bounty-5",
-    "summary": "Free Article Link: Click for free!Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 11:18:23",
-    "score": 6,
-    "uid": "480605474212ed2e"
-  },
-  {
     "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
     "url": "https://medium.com/@pentesterclubpvtltd/apple-iphone-zero-day-cve-2026-20700-explained-ca87f44e09d9?source=rss------bug_bounty-5",
     "summary": "Why Every iPhone, iPad, and Mac User Should Update ImmediatelyContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ac107d00e1e19b61"
+  },
+  {
+    "title": "Updated List: Tue Jul 14 13:01:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/5ae647a1c638b42fc28bf8cec7b0fbc6128a1f61",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "83678b15f2fa3ea9"
   }
 ]
