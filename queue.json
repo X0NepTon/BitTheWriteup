@@ -1,13 +1,13 @@
 [
   {
-    "title": "How I Broke a Financial App’s Pricing — By Sending Back What It Gave Me",
-    "url": "https://medium.com/@dheerajdonikena/how-i-broke-a-financial-apps-pricing-by-sending-back-what-it-gave-me-51e67d402a43?source=rss------bug_bounty-5",
-    "summary": "No injection. No XSS. No brute force.Continue reading on Medium »",
+    "title": "How I Found an Auth Bypass in 20 Minutes",
+    "url": "https://kd-200.medium.com/how-i-found-an-auth-bypass-in-20-minutes-6ee4d35e8a6c?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 08:31:20",
-    "score": 10,
-    "uid": "40015aff668c534d"
+    "published": "Tue, 14 Jul 2026 11:31:01",
+    "score": 9,
+    "uid": "2bc6200b1272bb6a"
   },
   {
     "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
