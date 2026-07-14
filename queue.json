@@ -1,15 +1,5 @@
 [
   {
-    "title": "IDOR & Bypass Techniques: A Practical Methodology for Security Testing",
-    "url": "https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------bug_bounty-5",
-    "summary": "Subtitle:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 13 Jul 2026 20:58:53",
-    "score": 7,
-    "uid": "fb85e9fbbe4e23b1"
-  },
-  {
     "title": "From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug",
     "url": "https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss------bug_bounty-5",
     "summary": "Free Article Link: Click for free!Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a5723404c43ce0fb"
+  },
+  {
+    "title": "Updated List: Tue Jul 14 08:58:01 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9849e67302dd114410f134f1ebea32a3e1c387b7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ac107d00e1e19b61"
   }
 ]
