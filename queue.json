@@ -1,5 +1,15 @@
 [
   {
+    "title": "Redis Cloud SSRF",
+    "url": "https://medium.com/@RootXSec/redis-cloud-ssrf-d45a212113dd?source=rss------bug_bounty-5",
+    "summary": "Hi Hackers For confidentiality reasons, I&#x2019;ll refer to the target simply as Target. While testing Target&#x2019;s cloud database platform, I found&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 14 Jul 2026 15:32:53",
+    "score": 8,
+    "uid": "5bad4216518f84e0"
+  },
+  {
     "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
     "url": "https://medium.com/@pentesterclubpvtltd/apple-iphone-zero-day-cve-2026-20700-explained-ca87f44e09d9?source=rss------bug_bounty-5",
     "summary": "Why Every iPhone, iPad, and Mac User Should Update ImmediatelyContinue reading on Medium »",
@@ -8,6 +18,16 @@
     "published": "Mon, 13 Jul 2026 11:06:04",
     "score": 5,
     "uid": "3e0c4844c032c05e"
+  },
+  {
+    "title": "How to Earn $10k+/Year from Bug Bounties",
+    "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-22ph",
+    "summary": "How to Earn $10k+/Year from Bug Bounties How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strategic, and actionable. If you’re willing to treat this like a part-time job rather than a lucky gamble, hitting that $10k mark is a realistic goal within 12–18 months. Le",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Tue, 14 Jul 2026 15:31:46",
+    "score": 4,
+    "uid": "3b3762285f332fb4"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a5723404c43ce0fb"
-  },
-  {
-    "title": "Updated List: Tue Jul 14 08:58:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/9849e67302dd114410f134f1ebea32a3e1c387b7",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ac107d00e1e19b61"
-  },
-  {
-    "title": "How I Found a Critical Log Exposure in Workpay’s Infrastructure — Hardcoded Credentials Leading to…",
-    "url": "https://medium.com/@himxch/how-i-found-a-critical-log-exposure-in-workpays-infrastructure-hardcoded-credentials-leading-to-628f5f00b61a?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 12:15:36",
-    "score": 3,
-    "uid": "db1312338ebad11e"
   }
 ]
