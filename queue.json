@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Broke a Financial App’s Pricing — By Sending Back What It Gave Me",
+    "url": "https://medium.com/@dheerajdonikena/how-i-broke-a-financial-apps-pricing-by-sending-back-what-it-gave-me-51e67d402a43?source=rss------bug_bounty-5",
+    "summary": "No injection. No XSS. No brute force.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 14 Jul 2026 08:31:20",
+    "score": 10,
+    "uid": "40015aff668c534d"
+  },
+  {
     "title": "Apple iPhone Zero-Day (CVE-2026–20700) Explained",
     "url": "https://medium.com/@pentesterclubpvtltd/apple-iphone-zero-day-cve-2026-20700-explained-ca87f44e09d9?source=rss------bug_bounty-5",
     "summary": "Why Every iPhone, iPad, and Mac User Should Update ImmediatelyContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ac107d00e1e19b61"
-  },
-  {
-    "title": "Updated List: Tue Jul 14 13:01:44 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5ae647a1c638b42fc28bf8cec7b0fbc6128a1f61",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "83678b15f2fa3ea9"
   }
 ]
