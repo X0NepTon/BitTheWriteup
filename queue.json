@@ -10,16 +10,6 @@
     "uid": "3976fd2f30997d71"
   },
   {
-    "title": "The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty",
-    "url": "https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty-5",
-    "summary": "Not every finding is a takeover. This one is a small, clean bug with a real phishing angle: a parameter meant to control post-login&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 18:01:00",
-    "score": 4,
-    "uid": "e741865dd595a3b1"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 14 Jul 2026 15:14:24",
     "score": 3,
     "uid": "d145e955e7455d2d"
+  },
+  {
+    "title": "How I Found a Critical Log Exposure in Workpay’s Infrastructure — Hardcoded Credentials Leading to…",
+    "url": "https://medium.com/@himxch/how-i-found-a-critical-log-exposure-in-workpays-infrastructure-hardcoded-credentials-leading-to-628f5f00b61a?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 14 Jul 2026 12:15:36",
+    "score": 3,
+    "uid": "db1312338ebad11e"
   }
 ]
