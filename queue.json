@@ -70,16 +70,6 @@
     "uid": "021b11dc51d57ebb"
   },
   {
-    "title": "Updated List: Tue Jun 23 14:21:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f2cd8be4e1ac008769205b4092256f521b22ee3b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "aa33a75eb8af3afb"
-  },
-  {
     "title": "Updated List: Tue Jun 23 11:21:46 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/3209ca0e87953567f1e7aa6cf420c80df671f8db",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 15 Jul 2026 08:15:01",
     "score": 3,
     "uid": "7de08636fb96f402"
+  },
+  {
+    "title": "From File Downloads to Full Server Exposure: The Story of Directory Traversal",
+    "url": "https://medium.com/@pritamtare029/from-file-downloads-to-full-server-exposure-the-story-of-directory-traversal-779c37a17f80?source=rss------bug_bounty-5",
+    "summary": "How a simple file path can become a critical web application security vulnerability &#x2014; and why every penetration tester should know how to&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 15 Jul 2026 06:58:03",
+    "score": 3,
+    "uid": "a34ab606cec0d8c9"
   }
 ]
