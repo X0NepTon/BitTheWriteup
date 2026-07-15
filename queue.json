@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty",
-    "url": "https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty_writeup-5",
-    "summary": "Not every finding is a takeover. This one is a small, clean bug with a real phishing angle: a parameter meant to control post-login&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 14 Jul 2026 18:01:00",
-    "score": 4,
-    "uid": "3976fd2f30997d71"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 14 Jul 2026 12:15:36",
     "score": 3,
     "uid": "db1312338ebad11e"
+  },
+  {
+    "title": "Updated List: Wed Jul 15 09:07:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c06f0b47040e0973cbc6d97f8e94fa7652f2c7e3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "de3b40da62f7d744"
   }
 ]
