@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bug-Hunting Archive",
-    "url": "https://dhanumaalaian.medium.com/bug-hunting-4480b60a52e7?source=rss------bug_bounty-5",
-    "summary": "This write-up is for making Bug hunting simpler and easier to make PoC via online with available tools in the Internet , Then some&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 15 Jul 2026 06:43:12",
-    "score": 4,
-    "uid": "3417b0821cdf9f68"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 14 Jul 2026 12:15:36",
     "score": 3,
     "uid": "db1312338ebad11e"
+  },
+  {
+    "title": "Zero Credentials, Full Access: Inside a Complete Authorization Failure",
+    "url": "https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss------bug_bounty-5",
+    "summary": "Bounty Case Files #01 How multiple trust-boundary failures allowed anonymous access to premium functionality in a production APIContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 15 Jul 2026 08:15:01",
+    "score": 3,
+    "uid": "7de08636fb96f402"
   }
 ]
