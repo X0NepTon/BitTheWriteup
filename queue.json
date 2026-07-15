@@ -70,16 +70,6 @@
     "uid": "021b11dc51d57ebb"
   },
   {
-    "title": "Updated List: Tue Jun 23 05:16:14 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b52c1e091b507c573583a45d31c2a9e47d30e396",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "91c4000d3fca28bc"
-  },
-  {
     "title": "Updated List: Tue Jun 23 03:49:24 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/5b6003167435b06a1ff23bc018e8daf7b4cc7818",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "39b420de82417114"
+  },
+  {
+    "title": "The Endpoint Everyone Ignored Just Took Down a Server",
+    "url": "https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-server-c32d51cf886e?source=rss------bug_bounty-5",
+    "summary": "A $1,024 bug hidden inside the most ignored endpoint on the platform &#x2014; and the mistake every developer makes without knowing it.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 15 Jul 2026 15:14:54",
+    "score": 3,
+    "uid": "e5498e4bb5d6c81f"
   }
 ]
