@@ -1,5 +1,35 @@
 [
   {
+    "title": "(IDOR)Allows Deletion of OpenAPI Specification Files Across Organizations",
+    "url": "https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x651;&#x650; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x627;&#x644;&#x646;&#x628;&#x64A; &#xFDFA;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x627;&#x646;&#x635;&#x631; &#x625;&#x62E;&#x648;&#x627;&#x646;&#x646;&#x627; &#x641;&#x64A; &#x63A;&#x632;&#x629; &#x648;&#x627;&#x644;&#x633;&#x648;&#x62F;&",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 16 Jul 2026 12:52:09",
+    "score": 5,
+    "uid": "e5f6f6ffd666e9b9"
+  },
+  {
+    "title": "Title: How I Bypassed WAF on a Critical Indian Government Portal (CBSE) as a 9th-Grade Student",
+    "url": "https://medium.com/@ujjwalanarwade945/title-how-i-bypassed-waf-on-a-critical-indian-government-portal-cbse-as-a-9th-grade-student-cc64eb78a4d0?source=rss------bug_bounty-5",
+    "summary": "Introduction: Breaking the Stereotype &#x201C;You need an English-medium background to succeed in cybersecurity.&#x201D; I&#x2019;ve heard this stereotype a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 16 Jul 2026 14:03:43",
+    "score": 5,
+    "uid": "e4157edf98518d5f"
+  },
+  {
+    "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
+    "url": "https://medium.com/@Aacle/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
+    "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 16 Jul 2026 13:05:15",
+    "score": 4,
+    "uid": "0fba288f18ca74b7"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "29e63c665337a690"
-  },
-  {
-    "title": "Updated List: Thu Jul 16 09:50:06 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/cb89d6af2f6c156728bb8c3ec367c05f9ded3855",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2baf7d940a7487a8"
-  },
-  {
-    "title": "Updated List: Thu Jul 16 16:20:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3d808d415ecbe4ad5e73f5e45823eec1c20d206e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5f0459b56b330fab"
-  },
-  {
-    "title": "Updated List: Thu Jul 16 17:42:59 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/9c39b460cf91a967de057edf3b297bf03d024701",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f2438f0e6b3883ce"
   }
 ]
