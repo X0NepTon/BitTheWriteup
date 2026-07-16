@@ -11,16 +11,6 @@
   },
   {
     "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
-    "url": "https://infosecwriteups.com/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
-    "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 16 Jul 2026 13:05:15",
-    "score": 5,
-    "uid": "6fb890cb5791729c"
-  },
-  {
-    "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
     "url": "https://medium.com/@Aacle/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
     "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "3eaeb28c290ef70e"
+  },
+  {
+    "title": "Updated List: Fri Jul 17 05:04:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3fc2da71738bc46fa151f5c2eb4ff949d0005b44",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "242e3237aaf0ff64"
   }
 ]
