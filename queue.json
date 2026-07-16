@@ -1,15 +1,5 @@
 [
   {
-    "title": "Workflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…",
-    "url": "https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty_writeup-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 16 Jul 2026 15:34:38",
-    "score": 7,
-    "uid": "5c318abad57651a6"
-  },
-  {
     "title": "(IDOR)Allows Deletion of OpenAPI Specification Files Across Organizations",
     "url": "https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5",
     "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x651;&#x650; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x627;&#x644;&#x646;&#x628;&#x64A; &#xFDFA;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x627;&#x646;&#x635;&#x631; &#x625;&#x62E;&#x648;&#x627;&#x646;&#x646;&#x627; &#x641;&#x64A; &#x63A;&#x632;&#x629; &#x648;&#x627;&#x644;&#x633;&#x648;&#x62F;&",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "31e7a2e1e3c7a3a5"
+  },
+  {
+    "title": "Updated List: Fri Jul 17 02:12:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/117ce3cc66544b8bde7cc3a6fe2943b2575451f2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "1529bfb7f1e421d9"
   }
 ]
