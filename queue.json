@@ -10,16 +10,6 @@
     "uid": "5c318abad57651a6"
   },
   {
-    "title": "Workflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…",
-    "url": "https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 16 Jul 2026 15:34:38",
-    "score": 7,
-    "uid": "c938e7eea3ef33e8"
-  },
-  {
     "title": "(IDOR)Allows Deletion of OpenAPI Specification Files Across Organizations",
     "url": "https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5",
     "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x651;&#x650; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x627;&#x644;&#x646;&#x628;&#x64A; &#xFDFA;&#x60C; &#x627;&#x644;&#x644;&#x647;&#x645; &#x627;&#x646;&#x635;&#x631; &#x625;&#x62E;&#x648;&#x627;&#x646;&#x646;&#x627; &#x641;&#x64A; &#x63A;&#x632;&#x629; &#x648;&#x627;&#x644;&#x633;&#x648;&#x62F;&",
@@ -38,6 +28,16 @@
     "published": "Thu, 16 Jul 2026 14:03:43",
     "score": 5,
     "uid": "e4157edf98518d5f"
+  },
+  {
+    "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
+    "url": "https://infosecwriteups.com/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
+    "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 16 Jul 2026 13:05:15",
+    "score": 5,
+    "uid": "6fb890cb5791729c"
   },
   {
     "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
