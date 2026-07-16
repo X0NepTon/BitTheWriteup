@@ -10,16 +10,6 @@
     "uid": "e5f6f6ffd666e9b9"
   },
   {
-    "title": "Title: How I Bypassed WAF on a Critical Indian Government Portal (CBSE) as a 9th-Grade Student",
-    "url": "https://medium.com/@ujjwalanarwade945/title-how-i-bypassed-waf-on-a-critical-indian-government-portal-cbse-as-a-9th-grade-student-cc64eb78a4d0?source=rss------bug_bounty-5",
-    "summary": "Introduction: Breaking the Stereotype &#x201C;You need an English-medium background to succeed in cybersecurity.&#x201D; I&#x2019;ve heard this stereotype a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 16 Jul 2026 14:03:43",
-    "score": 5,
-    "uid": "e4157edf98518d5f"
-  },
-  {
     "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
     "url": "https://infosecwriteups.com/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
     "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1529bfb7f1e421d9"
+  },
+  {
+    "title": "Updated List: Fri Jul 17 03:14:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ad2015422b838bb283e6b661a7d895f9ea0d0803",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3eaeb28c290ef70e"
   }
 ]
