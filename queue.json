@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.",
-    "url": "https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty_writeup-5",
-    "summary": "How an Unsigned Unsubscribe Link Could Disable a SimpleLogin AliasContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 17 Jul 2026 18:04:07",
-    "score": 8,
-    "uid": "c793d3a51499e884"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 17 Jul 2026 04:19:09",
     "score": 3,
     "uid": "82e7d106f31f24cf"
+  },
+  {
+    "title": "Updated List: Sat Jul 18 02:58:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b46fcda40dd494e75b7bc21f3cb0dda1063f29fd",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "49fd35cda4a0fc62"
   }
 ]
