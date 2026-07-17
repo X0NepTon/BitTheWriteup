@@ -1,13 +1,23 @@
 [
   {
-    "title": "Broken Access Control & Authentication Misconfiguration Led to Internal Employee Account Takeover…",
-    "url": "https://medium.com/@sm3771311/broken-access-control-authentication-misconfiguration-led-to-internal-employee-account-takeover-d5616ff9fce4?source=rss------bug_bounty-5",
-    "summary": "A story of a Cannot GET / that turned into full administrative control over an internal enterprise dashboard.Continue reading on Medium »",
+    "title": "I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.",
+    "url": "https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty_writeup-5",
+    "summary": "How an Unsigned Unsubscribe Link Could Disable a SimpleLogin AliasContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 17 Jul 2026 18:04:07",
+    "score": 8,
+    "uid": "c793d3a51499e884"
+  },
+  {
+    "title": "I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.",
+    "url": "https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5",
+    "summary": "How an Unsigned Unsubscribe Link Could Disable a SimpleLogin AliasContinue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 17 Jul 2026 09:15:13",
-    "score": 9,
-    "uid": "4e2acf5095da9b70"
+    "published": "Fri, 17 Jul 2026 18:04:07",
+    "score": 8,
+    "uid": "118ab9d9bff79727"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "12298655b72b5fa7"
-  },
-  {
-    "title": "File Upload Bypass On Indrive",
-    "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5",
-    "summary": "welcome to my first write-up. I started bug hunting about 3 months ago, and this was one of my first findings, so I would love to share it.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 17 Jul 2026 04:19:09",
-    "score": 3,
-    "uid": "82e7d106f31f24cf"
   }
 ]
