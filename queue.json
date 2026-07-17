@@ -70,16 +70,6 @@
     "uid": "021b11dc51d57ebb"
   },
   {
-    "title": "Updated List: Mon Jun 22 00:40:30 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/fb58c7ad33b26f78256f426a0cb95021005d6316",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ee51d8f0619e24a9"
-  },
-  {
     "title": "Updated List: Sun Jun 21 23:26:15 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/d36549a251b425b918309b269c96fcd26c600749",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1fc3e3b32c5896be"
+  },
+  {
+    "title": "Updated List: Sat Jul 18 04:37:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/68cde61236521c0f05ef84399920fbcf8efef541",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0b0f65020f577a9f"
   }
 ]
