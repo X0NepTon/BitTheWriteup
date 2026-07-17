@@ -1,15 +1,5 @@
 [
   {
-    "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
-    "url": "https://medium.com/@Aacle/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5",
-    "summary": "The Claude Code Bug Bounty Run &#xB7; Part 1 of 2 &#x2014; How a live-hacking $40K run started with a single API export.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 16 Jul 2026 13:05:15",
-    "score": 4,
-    "uid": "0fba288f18ca74b7"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "12298655b72b5fa7"
+  },
+  {
+    "title": "File Upload Bypass On Indrive",
+    "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5",
+    "summary": "welcome to my first write-up. I started bug hunting about 3 months ago, and this was one of my first findings, so I would love to share it.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 17 Jul 2026 04:19:09",
+    "score": 3,
+    "uid": "82e7d106f31f24cf"
   }
 ]
