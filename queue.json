@@ -1,15 +1,5 @@
 [
   {
-    "title": "When XSS Meets CSRF",
-    "url": "https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty_writeup-5",
-    "summary": "Understanding Real-World Web Attack Chains (and Why CSP Matters)Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 18 Jul 2026 19:31:01",
-    "score": 7,
-    "uid": "460c8833f9603d38"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 17 Jul 2026 17:05:53",
     "score": 3,
     "uid": "320016b04c183192"
+  },
+  {
+    "title": "From Reflected XSS to Critical Bug Led to Sensitive Data Leakage",
+    "url": "https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5",
+    "summary": "Hello Hackers,Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 18 Jul 2026 18:43:37",
+    "score": 3,
+    "uid": "a6ec8e6b27ed3c51"
   }
 ]
