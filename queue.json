@@ -70,16 +70,6 @@
     "uid": "021b11dc51d57ebb"
   },
   {
-    "title": "Updated List: Sun Jun 21 12:36:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/35248de92ad40c5ebaa6649e545e87663f153629",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6fb88503b85eee19"
-  },
-  {
     "title": "Bug Bounty, 2026: Same Game, New Way to Start",
     "url": "https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5",
     "summary": "A research-based look at what hasn&#x2019;t changed &#x2014; and exactly where to begin insteadContinue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "3b1ba8f9f5de2316"
+  },
+  {
+    "title": "Updated List: Sun Jul 19 04:33:14 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/dfe08f98472c49a4e9a9beeeee7f909fa9f421ab",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "10372e41ea49a521"
   }
 ]
