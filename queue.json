@@ -1,15 +1,5 @@
 [
   {
-    "title": "It Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass",
-    "url": "https://atharvchawan.medium.com/it-worked-then-it-didnt-then-i-understood-why-a-bug-bounty-story-on-authorization-bypass-8104ff822da6?source=rss------bug_bounty_writeup-5",
-    "summary": "Hello seniors! I am Atharv Chawan, a cybersecurity enthusiast and bug bounty hunter. Today, I want to share a wild ride of a bug hunt on a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 18 Jul 2026 14:51:28",
-    "score": 4,
-    "uid": "a68adc38ef61b625"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 17 Jul 2026 17:05:53",
     "score": 3,
     "uid": "320016b04c183192"
+  },
+  {
+    "title": "Updated List: Sat Jul 18 23:02:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/88c9fdd2987800bac12eb30e9df35ed0bc792071",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d0f0569fb6b9b961"
   }
 ]
