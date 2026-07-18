@@ -10,16 +10,6 @@
     "uid": "a68adc38ef61b625"
   },
   {
-    "title": "It Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass",
-    "url": "https://atharvchawan.medium.com/it-worked-then-it-didnt-then-i-understood-why-a-bug-bounty-story-on-authorization-bypass-8104ff822da6?source=rss------bug_bounty-5",
-    "summary": "Hello seniors! I am Atharv Chawan, a cybersecurity enthusiast and bug bounty hunter. Today, I want to share a wild ride of a bug hunt on a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 18 Jul 2026 14:51:28",
-    "score": 4,
-    "uid": "f247e6d16cefbdb4"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "7127f9c7823b07fe"
+  },
+  {
+    "title": "[POC] Cara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)",
+    "url": "https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5",
+    "summary": "PerkenalanContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 17 Jul 2026 17:05:53",
+    "score": 3,
+    "uid": "320016b04c183192"
   }
 ]
