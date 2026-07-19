@@ -90,16 +90,6 @@
     "uid": "d0fbd5c115823129"
   },
   {
-    "title": "Updated List: Tue Jun 23 19:38:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/cd2f7610c82cc8d2c4083b1e975f34e8085d6820",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ab4cca6d51563f4c"
-  },
-  {
     "title": "“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”",
     "url": "https://infosecwriteups.com/bug-bounty-bootcamp-53-httpx-the-recon-tool-f68678b59a78?source=rss------bug_bounty-5",
     "summary": "That Probes Thousands of Subdomains in SecondsContinue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4267721b6493e655"
+  },
+  {
+    "title": "Updated List: Sun Jul 19 10:08:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3510ae1ab9563b7f751f82d6887d7dd48b889265",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0b58cd0ff964b5df"
   }
 ]
