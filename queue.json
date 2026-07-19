@@ -1,5 +1,15 @@
 [
   {
+    "title": "Account Takeover via Broken Password Reset Validation",
+    "url": "https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty-5",
+    "summary": "Severity: Critical Type: Authentication Bypass / Account Takeover (ATO) CWE: CWE-640: Weak Password Recovery Mechanism for Forgotten&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 19 Jul 2026 12:00:58",
+    "score": 30,
+    "uid": "199661ffa7a511ed"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "9a5ec279232b0689"
-  },
-  {
-    "title": "Updated List: Sun Jul 19 14:46:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1217f1cb6eb850032046c3b18576b11efa74df79",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "aed7c6c585f638e4"
   }
 ]
