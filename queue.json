@@ -1,5 +1,25 @@
 [
   {
+    "title": "# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation",
+    "url": "https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty_writeup-5",
+    "summary": "While updating my profile as a normal user, the API response included a `role` field set to `&#x201D;users&#x201D;`. I copied that exact value into the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 20 Jul 2026 09:33:52",
+    "score": 7,
+    "uid": "501773b6ae01f8c4"
+  },
+  {
+    "title": "How a Single UUID Change Led to an IDOR Vulnerability",
+    "url": "https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5",
+    "summary": "During one of my recent penetration testing engagements, I discovered an IDOR vulnerability with a surprisingly simple test &#x2014; replacing a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 20 Jul 2026 09:34:42",
+    "score": 5,
+    "uid": "92ca79c18aaf536c"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "99d4e0fcd434c00b"
-  },
-  {
-    "title": "Updated List: Mon Jul 20 04:35:06 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1a7b7fce0ec2efb9592ba1c6690821e78277021f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "eb6abad593567251"
-  },
-  {
-    "title": "Updated List: Mon Jul 20 12:09:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/aefcd381cec90c3ec59ffe2977775394bdf4d46e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "93da645fc5aa7cfc"
   }
 ]
