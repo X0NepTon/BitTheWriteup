@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hunting an Unauthenticated IDOR in a Registration API",
+    "url": "https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 20 Jul 2026 19:28:06",
+    "score": 5,
+    "uid": "7aad2103285b8014"
+  },
+  {
     "title": "How a Failed CSRF Escalated to an Unauthenticated Mass Assignment (7.3 Severity)",
     "url": "https://medium.com/@RootXSec/how-a-failed-csrf-escalated-to-an-unauthenticated-mass-assignment-7-3-severity-aa0ba70a3162?source=rss------bug_bounty-5",
     "summary": "Introduction: The Target ScopeContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "99d4e0fcd434c00b"
-  },
-  {
-    "title": "Updated List: Mon Jul 20 17:36:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e593bdeeacd7c4fa05890dc573c6009acb61906a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b53b01822cb4dcd2"
   }
 ]
