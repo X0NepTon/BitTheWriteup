@@ -100,16 +100,6 @@
     "uid": "9ad59b3cd7b95edf"
   },
   {
-    "title": "Updated List: Wed Jun 24 17:02:34 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4683aa92825d33c09d079f3709da5dcbc780ed47",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "dec021bc7dff5afd"
-  },
-  {
     "title": "“Bug Bounty Bootcamp #54: Nmap — Your Digital Lockpick”",
     "url": "https://infosecwriteups.com/bug-bounty-bootcamp-54-nmap-your-digital-lockpick-557da6ebf9de?source=rss------bug_bounty-5",
     "summary": "Finding Open Ports and Hidden ServicesContinue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "eb6abad593567251"
+  },
+  {
+    "title": "Updated List: Mon Jul 20 12:09:12 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/aefcd381cec90c3ec59ffe2977775394bdf4d46e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "93da645fc5aa7cfc"
   }
 ]
