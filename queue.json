@@ -1,13 +1,13 @@
 [
   {
-    "title": "Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation",
-    "url": "https://medium.com/@viodex02/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-856ae5bdddc1?source=rss------bug_bounty-5",
-    "summary": "When you hear that someone&#x2019;s messages were deleted by another user who wasn&#x2019;t supposed to have access&#x2026; what do you call that?Continue reading on Medium »",
+    "title": "Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…",
+    "url": "https://medium.com/@minhhk.ia.ce191608/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5",
+    "summary": "A comprehensive root-cause analysis, Cross-Site Request Forgery (CSRF) exploit proof-of-concept, and defensive patch breakdown of&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 20 Jul 2026 22:50:40",
-    "score": 12,
-    "uid": "fc7dcfc2eef210c5"
+    "published": "Tue, 21 Jul 2026 02:14:05",
+    "score": 10,
+    "uid": "de3b301294b1e872"
   },
   {
     "title": "The Bug Bounty Playbook: IDOR",
