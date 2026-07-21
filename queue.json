@@ -1980,16 +1980,6 @@
     "uid": "8e1dfb09a47883fa"
   },
   {
-    "title": "The Windows Bug Bounty That Almost Got Away: How I Found $1,000+ in Fixable Issues",
-    "url": "https://dev.to/hermesxclawctrl/the-windows-bug-bounty-that-almost-got-away-how-i-found-1000-in-fixable-issues-5bm5",
-    "summary": "The Windows Bug Bounty That Almost Got Away: How I Found $1,000+ in Fixable Issues TL;DR: I found 8 open bug bounties on a single GitHub repo — real money, Windows-specific, and most of them are fixable from the repo itself with shell scripts and PowerShell. Here's how to find them, triage them, and avoid the traps. Everyone talks about finding bug bounties on GitHub like it's a gold rush. Open label:bounty, filter by $, claim the issue, submit a PR, collect the check. Reality check: it's not that easy. 90%+ of label:bounty results are either zero-reward Opire badges, saturated repos with 1,00",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 20 Jul 2026 14:18:06",
-    "score": 3,
-    "uid": "4f5e11a6264bc28c"
-  },
-  {
     "title": "Unauthenticated Upload, Unauthenticated Read: How I Wrote Prescriptions Into Any Patient’s Account",
     "url": "https://medium.com/@chauhansarthak3212/unauthenticated-upload-unauthenticated-read-how-i-wrote-prescriptions-into-any-patients-account-385d3564560b?source=rss------bug_bounty-5",
     "summary": "A bug bounty writeup on a broken authorization flow in a healthcare mobile API - reported, fixed, and closed through a responsible&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 21 Jul 2026 12:27:56",
     "score": 3,
     "uid": "05d7179e0fc4ee63"
+  },
+  {
+    "title": "The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug (and a CHF 100…",
+    "url": "https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x201C;Sometimes bug bounty isn&#x2019;t about finding the biggest vulnerability. Sometimes it&#x2019;s about finding the application everyone else missed.&#x201D;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 21 Jul 2026 15:34:08",
+    "score": 3,
+    "uid": "1945b74cdebe35bc"
   }
 ]
