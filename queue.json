@@ -110,16 +110,6 @@
     "uid": "4d550577f8e507b1"
   },
   {
-    "title": "Updated List: Thu Jun 25 11:09:20 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f053930b086fe29cbd35ce732e8749c609e904c3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0906f98753a95301"
-  },
-  {
     "title": "Excessive Data Exposure via Unauthenticated GraphQL Endpoint",
     "url": "https://medium.com/@am011416854/excessive-data-exposure-via-unauthenticated-graphql-endpoint-30e5dcc339ce?source=rss------bug_bounty-5",
     "summary": "Bug Bounty Write-up | Information Disclosure | GraphQL SecurityContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9890ba51329e40f4"
+  },
+  {
+    "title": "Updated List: Thu Jul 23 04:14:00 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8b22685d18c49535214d950090e5e08835714592",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6cbe9ed1a7a7433b"
   }
 ]
