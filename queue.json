@@ -1,5 +1,15 @@
 [
   {
+    "title": "Blind SQL injection attack with Conditional Responses using Sniper and Cluster Bomb",
+    "url": "https://cyberlabyrinthx.medium.com/blind-sql-injection-attack-with-conditional-responses-using-sniper-and-cluster-bomb-9759ebc69657?source=rss------bug_bounty-5",
+    "summary": "Blind SQL Injection is a type of SQL injection where the application does not show query results or database errors, but an attacker can&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 23 Jul 2026 16:23:22",
+    "score": 7,
+    "uid": "a8e5868c75459dbd"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d5178a55e28fbb80"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 20:29:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3bdace77098d9e0b2c1fd2088afac7673f62be7a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e5821ca842def47c"
   }
 ]
