@@ -120,16 +120,6 @@
     "uid": "234110cd18a834ab"
   },
   {
-    "title": "Updated List: Fri Jun 26 05:52:26 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/563e5026ebf4017992bef44b65c046a80fc8aa10",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e6c1f0ef12dabfd4"
-  },
-  {
     "title": "How I Locked a User Out of Their Own Account — My First Bug Bounty Finding",
     "url": "https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5",
     "summary": "So this is my first ever bug bounty writeup. And honestly, I didn&#x2019;t expect my first real finding to be this interesting. It&#x2019;s not an XSS&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "3bf31989e8708b7a"
+  },
+  {
+    "title": "Updated List: Fri Jul 24 09:11:12 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8c2e2406d9cc681a71f123a7ab4fc6383a1c7053",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "1f9a0b6f0159381e"
   }
 ]
