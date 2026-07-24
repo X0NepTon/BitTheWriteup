@@ -140,16 +140,6 @@
     "uid": "db44b1e5ec1c7367"
   },
   {
-    "title": "Updated List: Fri Jun 26 13:53:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c42d91bb886e07965c4b4c90b65a84d3325aa447",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "590a6c9f3bd5461d"
-  },
-  {
     "title": "Open Redirect — Tiny Bug, Real Reward",
     "url": "https://kd-200.medium.com/open-redirect-tiny-bug-real-reward-9bb4e8bed03a?source=rss------bug_bounty-5",
     "summary": "Hey everyone! Nitin here &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1f9a0b6f0159381e"
+  },
+  {
+    "title": "Updated List: Fri Jul 24 14:15:17 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/5b708a388e4bad22e056dd34ddd74c04a3c7ab3f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "815c0af69f1bd7fe"
   }
 ]
