@@ -10,16 +10,6 @@
     "uid": "502869c8487c479c"
   },
   {
-    "title": "I Modified Collections I Did Not Own: IDOR",
-    "url": "https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty-5",
-    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 12:43:58",
-    "score": 5,
-    "uid": "acd6f9e296cd3e27"
-  },
-  {
     "title": "Real Web Vulnerabilities in a Banking Lab (3 Critical, 2 High)",
     "url": "https://medium.com/@ronaega/real-web-vulnerabilities-in-a-banking-lab-3-critical-2-high-1c5b6a488891?source=rss------bug_bounty-5",
     "summary": "DisclaimerContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 25 Jul 2026 08:12:15",
     "score": 3,
     "uid": "2a7b7a9f27e66e19"
+  },
+  {
+    "title": "Updated List: Sat Jul 25 21:45:39 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/40e25d422b93a84e6ff85948610e571f9763f408",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "40e944888f696526"
   }
 ]
