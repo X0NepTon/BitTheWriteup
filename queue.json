@@ -1,15 +1,5 @@
 [
   {
-    "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
-    "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5",
-    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 06:10:27",
-    "score": 10,
-    "uid": "8357057bc2c520a8"
-  },
-  {
     "title": "I Modified Collections I Did Not Own: IDOR",
     "url": "https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5",
     "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "815c0af69f1bd7fe"
+  },
+  {
+    "title": "Lab: Developing a custom gadget chain for PHP deserialization",
+    "url": "https://medium.com/@amrsmooke321/lab-developing-a-custom-gadget-chain-for-php-deserialization-f8d655ec5e3e?source=rss------bug_bounty-5",
+    "summary": "The Blueprint of Deserialization VulnerabilitiesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 08:12:15",
+    "score": 3,
+    "uid": "2a7b7a9f27e66e19"
   }
 ]
