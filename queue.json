@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Modified Collections I Did Not Own: IDOR",
-    "url": "https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 25 Jul 2026 12:43:58",
-    "score": 5,
-    "uid": "502869c8487c479c"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fbe0c18fc52c9eff"
+  },
+  {
+    "title": "Updated List: Sat Jul 25 23:40:19 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c65b06c282d00a64b6fb11d6000735b55778358e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "19cbdbd32361906f"
   }
 ]
