@@ -1,16 +1,6 @@
 [
   {
     "title": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules",
-    "url": "https://dev.to/correctover/from-bounty-to-defense-how-7-rce-disclosures-shaped-production-detection-rules-2gfn",
-    "summary": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules Correctover — AI Runtime Security Real-time RCE, SSRF & Credential Protection in 14.5µs 24 CCS detection rules · 80K production traces · 1,730+ validated findings correctover.com/en · GitHub This article is for informational purposes. Vulnerability findings are from responsible disclosure programs. Benchmark data from Correctover internal testing.",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 01:39:08",
-    "score": 18,
-    "uid": "3594eaa7ab0e622b"
-  },
-  {
-    "title": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules",
     "url": "https://dev.to/correctover/from-bounty-to-defense-how-7-rce-disclosures-shaped-production-detection-rules-2hnh",
     "summary": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules Full article: https://correctover.com/en/blog/article-2.html Correctover — AI Runtime Security Real-time RCE, SSRF & Credential Protection in 14.5µs 24 CCS detection rules · 80K production traces · 1,730+ validated findings correctover.com/en · GitHub This article is for informational purposes. Vulnerability findings are from responsible disclosure programs. Benchmark data from Correctover internal testing.",
     "source_id": "devto",
@@ -18,6 +8,26 @@
     "published": "Sat, 25 Jul 2026 01:33:22",
     "score": 18,
     "uid": "61b023b13ffcd7ac"
+  },
+  {
+    "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
+    "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 25 Jul 2026 06:10:27",
+    "score": 11,
+    "uid": "8c19027878678b15"
+  },
+  {
+    "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
+    "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5",
+    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 06:10:27",
+    "score": 10,
+    "uid": "8357057bc2c520a8"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "87914d8ed1904d43"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 21:10:27 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/9c4a51000a42ab8fc7232d853b0034171b8fed9e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1af7c602cd5bdb2d"
   }
 ]
