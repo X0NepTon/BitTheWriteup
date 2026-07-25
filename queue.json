@@ -1,16 +1,6 @@
 [
   {
     "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
-    "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty_writeup-5",
-    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 25 Jul 2026 06:10:27",
-    "score": 11,
-    "uid": "8c19027878678b15"
-  },
-  {
-    "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
     "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5",
     "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -18,6 +8,36 @@
     "published": "Sat, 25 Jul 2026 06:10:27",
     "score": 10,
     "uid": "8357057bc2c520a8"
+  },
+  {
+    "title": "I Modified Collections I Did Not Own: IDOR",
+    "url": "https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 25 Jul 2026 12:43:58",
+    "score": 5,
+    "uid": "502869c8487c479c"
+  },
+  {
+    "title": "I Modified Collections I Did Not Own: IDOR",
+    "url": "https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty-5",
+    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 12:43:58",
+    "score": 5,
+    "uid": "acd6f9e296cd3e27"
+  },
+  {
+    "title": "Real Web Vulnerabilities in a Banking Lab (3 Critical, 2 High)",
+    "url": "https://medium.com/@ronaega/real-web-vulnerabilities-in-a-banking-lab-3-critical-2-high-1c5b6a488891?source=rss------bug_bounty-5",
+    "summary": "DisclaimerContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 11:56:27",
+    "score": 5,
+    "uid": "d3bad64c55fbedf6"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "815c0af69f1bd7fe"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 17:39:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/ba5184df00ee10082db08d162b9008ac8adb3ded",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "87914d8ed1904d43"
-  },
-  {
-    "title": "Lab: Developing a custom gadget chain for PHP deserialization",
-    "url": "https://medium.com/@amrsmooke321/lab-developing-a-custom-gadget-chain-for-php-deserialization-f8d655ec5e3e?source=rss------bug_bounty-5",
-    "summary": "The Blueprint of Deserialization VulnerabilitiesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 08:12:15",
-    "score": 3,
-    "uid": "2a7b7a9f27e66e19"
   }
 ]
