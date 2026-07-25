@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules",
-    "url": "https://dev.to/correctover/from-bounty-to-defense-how-7-rce-disclosures-shaped-production-detection-rules-2hnh",
-    "summary": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules Full article: https://correctover.com/en/blog/article-2.html Correctover — AI Runtime Security Real-time RCE, SSRF & Credential Protection in 14.5µs 24 CCS detection rules · 80K production traces · 1,730+ validated findings correctover.com/en · GitHub This article is for informational purposes. Vulnerability findings are from responsible disclosure programs. Benchmark data from Correctover internal testing.",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 01:33:22",
-    "score": 18,
-    "uid": "61b023b13ffcd7ac"
-  },
-  {
     "title": "Finding 4 Logic Vulnerabilities in a Single E-Commerce Target",
     "url": "https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty_writeup-5",
     "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x62A;&#x639;&#x627;&#x644;&#x649; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "87914d8ed1904d43"
+  },
+  {
+    "title": "Lab: Developing a custom gadget chain for PHP deserialization",
+    "url": "https://medium.com/@amrsmooke321/lab-developing-a-custom-gadget-chain-for-php-deserialization-f8d655ec5e3e?source=rss------bug_bounty-5",
+    "summary": "The Blueprint of Deserialization VulnerabilitiesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 08:12:15",
+    "score": 3,
+    "uid": "2a7b7a9f27e66e19"
   }
 ]
