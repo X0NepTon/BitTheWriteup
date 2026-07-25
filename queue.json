@@ -10,16 +10,6 @@
     "uid": "502869c8487c479c"
   },
   {
-    "title": "Real Web Vulnerabilities in a Banking Lab (3 Critical, 2 High)",
-    "url": "https://medium.com/@ronaega/real-web-vulnerabilities-in-a-banking-lab-3-critical-2-high-1c5b6a488891?source=rss------bug_bounty-5",
-    "summary": "DisclaimerContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 11:56:27",
-    "score": 5,
-    "uid": "d3bad64c55fbedf6"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "40e944888f696526"
+  },
+  {
+    "title": "Updated List: Sat Jul 25 22:47:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4ada1e8d4938fe644acc994f43a1f157b18693f6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fbe0c18fc52c9eff"
   }
 ]
