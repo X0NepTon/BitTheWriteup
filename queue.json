@@ -150,16 +150,6 @@
     "uid": "1bab2f1e54b15272"
   },
   {
-    "title": "Updated List: Sat Jun 27 00:39:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/413f3566880963a51201670d2ddf5e280c6560b0",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ebf57ef693c345de"
-  },
-  {
     "title": "From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.",
     "url": "https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5",
     "summary": "There&#x2019;s a special kind of pain in bug bounty. Not getting an Out of Scope. Not getting an informative.Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "19cbdbd32361906f"
+  },
+  {
+    "title": "Updated List: Sun Jul 26 01:58:02 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/67f78bc66a2e79a68c3441558afe2d6ad2f01566",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e1466e5b6c6d2035"
   }
 ]
