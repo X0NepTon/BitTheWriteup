@@ -1,5 +1,25 @@
 [
   {
+    "title": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules",
+    "url": "https://dev.to/correctover/from-bounty-to-defense-how-7-rce-disclosures-shaped-production-detection-rules-2gfn",
+    "summary": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules Correctover — AI Runtime Security Real-time RCE, SSRF & Credential Protection in 14.5µs 24 CCS detection rules · 80K production traces · 1,730+ validated findings correctover.com/en · GitHub This article is for informational purposes. Vulnerability findings are from responsible disclosure programs. Benchmark data from Correctover internal testing.",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 01:39:08",
+    "score": 18,
+    "uid": "3594eaa7ab0e622b"
+  },
+  {
+    "title": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules",
+    "url": "https://dev.to/correctover/from-bounty-to-defense-how-7-rce-disclosures-shaped-production-detection-rules-2hnh",
+    "summary": "From Bounty to Defense: How 7 RCE Disclosures Shaped Production Detection Rules Full article: https://correctover.com/en/blog/article-2.html Correctover — AI Runtime Security Real-time RCE, SSRF & Credential Protection in 14.5µs 24 CCS detection rules · 80K production traces · 1,730+ validated findings correctover.com/en · GitHub This article is for informational purposes. Vulnerability findings are from responsible disclosure programs. Benchmark data from Correctover internal testing.",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 25 Jul 2026 01:33:22",
+    "score": 18,
+    "uid": "61b023b13ffcd7ac"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1af7c602cd5bdb2d"
-  },
-  {
-    "title": "Updated List: Sat Jul 25 01:35:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3cb8cdaf1580bc1b4c97c528564f3f12c18cef15",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5b5d8ba73230fcc9"
-  },
-  {
-    "title": "Updated List: Sat Jul 25 02:47:48 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/44006ed55aebd726f7ced0095a08968285afdd5a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ede13d8e08d61f67"
   }
 ]
