@@ -1,13 +1,13 @@
 [
   {
-    "title": "Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT",
-    "url": "https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5",
-    "summary": "You have confirmed SQL injection against a Snowflake backend.Continue reading on InfoSec Write-ups »",
+    "title": "The Bug Bounty Playbook: SSRF",
+    "url": "https://medium.com/@Aacle/the-bug-bounty-playbook-ssrf-18e39248fedb?source=rss------bug_bounty-5",
+    "summary": "SSRF is the only bug class where the server fetches your URL. Every other bug makes the server respond to your input.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 04:01:50",
+    "published": "Sun, 26 Jul 2026 08:38:30",
     "score": 10,
-    "uid": "6b311665946260f4"
+    "uid": "8fb33f3f6049cc6e"
   },
   {
     "title": "The $100,000 GitHub Bug That Started With a Git Push -",
