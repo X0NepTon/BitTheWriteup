@@ -1,5 +1,15 @@
 [
   {
+    "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
+    "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
+    "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 25 Jul 2026 23:50:39",
+    "score": 4,
+    "uid": "b465680e782aae4d"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "75abc30872427187"
-  },
-  {
-    "title": "Updated List: Sun Jul 26 03:42:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/112801b8eb38e6e00542f8d7000770b552cd40ef",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c6ddc1b95cb56a6e"
   }
 ]
