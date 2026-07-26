@@ -1,16 +1,6 @@
 [
   {
     "title": "Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT",
-    "url": "https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty_writeup-5",
-    "summary": "You have confirmed SQL injection against a Snowflake backend.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 26 Jul 2026 04:01:50",
-    "score": 11,
-    "uid": "25bba709f39e44a5"
-  },
-  {
-    "title": "Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT",
     "url": "https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5",
     "summary": "You have confirmed SQL injection against a Snowflake backend.Continue reading on InfoSec Write-ups »",
     "source_id": "medium_bb",
@@ -18,6 +8,16 @@
     "published": "Sun, 26 Jul 2026 04:01:50",
     "score": 10,
     "uid": "6b311665946260f4"
+  },
+  {
+    "title": "The $100,000 GitHub Bug That Started With a Git Push -",
+    "url": "https://medium.com/@the.zarth.dev/the-100-000-github-bug-that-started-with-a-git-push-79206486ddb4?source=rss------bug_bounty-5",
+    "summary": "GitHub recently paid $100,000 bug bounty for discovering a critical vulnerability in GitHub&#x2019;s internal Git infrastructure. The reason lies&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 04:36:11",
+    "score": 7,
+    "uid": "d779d0cfa0cfdd40"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
