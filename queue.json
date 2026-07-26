@@ -11,6 +11,16 @@
   },
   {
     "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
+    "url": "https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5",
+    "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 12:56:50",
+    "score": 11,
+    "uid": "0cb230452bd2ab25"
+  },
+  {
+    "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
     "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5",
     "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
     "source_id": "medium_bb",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1f9a0b6f0159381e"
-  },
-  {
-    "title": "How I Bypassed Team Invites on an Intigriti Target (And Why They Ghosted My Proof)",
-    "url": "https://medium.com/@mxfizz07/how-i-bypassed-team-invites-on-an-intigriti-target-and-why-they-ghosted-my-proof-dc93592c18e5?source=rss------bug_bounty-5",
-    "summary": "Hello guys &#x2026;&#x2026; after so long sooo yaaaa dont worry it wont be a long writeup but yeah will be intresting .Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 11:05:16",
-    "score": 3,
-    "uid": "30891df77fbc8b22"
   }
 ]
