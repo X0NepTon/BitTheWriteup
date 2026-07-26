@@ -1,15 +1,5 @@
 [
   {
-    "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
-    "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5",
-    "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 12:56:50",
-    "score": 10,
-    "uid": "4920eb29b2708f1f"
-  },
-  {
     "title": "The $100,000 GitHub Bug That Started With a Git Push -",
     "url": "https://medium.com/@the.zarth.dev/the-100-000-github-bug-that-started-with-a-git-push-79206486ddb4?source=rss------bug_bounty-5",
     "summary": "GitHub recently paid $100,000 bug bounty for discovering a critical vulnerability in GitHub&#x2019;s internal Git infrastructure. The reason lies&#x2026;Continue reading on Medium »",
@@ -48,6 +38,16 @@
     "published": "Sat, 25 Jul 2026 23:50:39",
     "score": 5,
     "uid": "f005da2164b60b74"
+  },
+  {
+    "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
+    "url": "https://ismailtasdelen.medium.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
+    "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 26 Jul 2026 22:55:53",
+    "score": 5,
+    "uid": "e20a23d95a2a437d"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
