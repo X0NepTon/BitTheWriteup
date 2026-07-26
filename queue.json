@@ -1,16 +1,6 @@
 [
   {
     "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
-    "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5",
-    "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 26 Jul 2026 12:56:50",
-    "score": 11,
-    "uid": "3e495dedd8f00033"
-  },
-  {
-    "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
     "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5",
     "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 26 Jul 2026 15:52:58",
     "score": 3,
     "uid": "3159cc124c611e3e"
+  },
+  {
+    "title": "PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs",
+    "url": "https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty-5",
+    "summary": "TL;DRContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 15:52:58",
+    "score": 3,
+    "uid": "811de737beb7ba9d"
   }
 ]
