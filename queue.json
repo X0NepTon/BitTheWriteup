@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Bug Bounty Playbook: SSRF",
-    "url": "https://medium.com/@Aacle/the-bug-bounty-playbook-ssrf-18e39248fedb?source=rss------bug_bounty-5",
-    "summary": "SSRF is the only bug class where the server fetches your URL. Every other bug makes the server respond to your input.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 08:38:30",
-    "score": 10,
-    "uid": "8fb33f3f6049cc6e"
-  },
-  {
     "title": "The $100,000 GitHub Bug That Started With a Git Push -",
     "url": "https://medium.com/@the.zarth.dev/the-100-000-github-bug-that-started-with-a-git-push-79206486ddb4?source=rss------bug_bounty-5",
     "summary": "GitHub recently paid $100,000 bug bounty for discovering a critical vulnerability in GitHub&#x2019;s internal Git infrastructure. The reason lies&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "40e944888f696526"
+  },
+  {
+    "title": "How I Bypassed Team Invites on an Intigriti Target (And Why They Ghosted My Proof)",
+    "url": "https://medium.com/@mxfizz07/how-i-bypassed-team-invites-on-an-intigriti-target-and-why-they-ghosted-my-proof-dc93592c18e5?source=rss------bug_bounty-5",
+    "summary": "Hello guys &#x2026;&#x2026; after so long sooo yaaaa dont worry it wont be a long writeup but yeah will be intresting .Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 11:05:16",
+    "score": 3,
+    "uid": "30891df77fbc8b22"
   }
 ]
