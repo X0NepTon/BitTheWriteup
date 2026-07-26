@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Header That Signed Itself: Full Account Takeover in a Google SSO Flow",
+    "url": "https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty-5",
+    "summary": "How a trusted X-Forwarded-Host header was signed into OAuth state, leaked Google authorization codes, and led to unauthenticated full ATOContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 12:24:27",
+    "score": 18,
+    "uid": "b8b88246e415d398"
+  },
+  {
+    "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
+    "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5",
+    "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 26 Jul 2026 12:56:50",
+    "score": 11,
+    "uid": "3e495dedd8f00033"
+  },
+  {
+    "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
+    "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5",
+    "summary": "Author: Shikhali Jamalzade GitHub: alisalive LinkedIn: camalzads Type: Independent Security Research | WordPress Plugin CVE ResearchContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 12:56:50",
+    "score": 10,
+    "uid": "4920eb29b2708f1f"
+  },
+  {
     "title": "The $100,000 GitHub Bug That Started With a Git Push -",
     "url": "https://medium.com/@the.zarth.dev/the-100-000-github-bug-that-started-with-a-git-push-79206486ddb4?source=rss------bug_bounty-5",
     "summary": "GitHub recently paid $100,000 bug bounty for discovering a critical vulnerability in GitHub&#x2019;s internal Git infrastructure. The reason lies&#x2026;Continue reading on Medium »",
@@ -8,6 +38,16 @@
     "published": "Sun, 26 Jul 2026 04:36:11",
     "score": 7,
     "uid": "d779d0cfa0cfdd40"
+  },
+  {
+    "title": "How I Found a Critical Cloudflare Turnstile Bypass – And Got Denied a Bounty",
+    "url": "https://dev.to/allonn12/how-i-found-a-critical-cloudflare-turnstile-bypass-and-got-denied-a-bounty-5ai2",
+    "summary": "Cloudflare Turnstile stores a token in your browser. I found you can copy it from one browser, paste it into another, and skip the CAPTCHA completely. I tested it on their own demo site. Worked perfectly. I reported it. Gave them the code proof. Showed them how to do it. They said \"we see it works.\" Then they said \"out of scope\" and locked the report. They're fixing it now. Using my work. I get nothing. That's it. That's the story. How to do it: Go to demo.turnstile.workers.dev Solve the CAPTCHA Open DevTools → Local Storage Copy _cftscs_0x4AAAAAAADnPIDROrmt1Wwj Open incognito Paste it before ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sun, 26 Jul 2026 13:09:51",
+    "score": 6,
+    "uid": "633f640ece57504b"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1f9a0b6f0159381e"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 14:15:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5b708a388e4bad22e056dd34ddd74c04a3c7ab3f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "815c0af69f1bd7fe"
-  },
-  {
-    "title": "Lab: Developing a custom gadget chain for PHP deserialization",
-    "url": "https://medium.com/@amrsmooke321/lab-developing-a-custom-gadget-chain-for-php-deserialization-f8d655ec5e3e?source=rss------bug_bounty-5",
-    "summary": "The Blueprint of Deserialization VulnerabilitiesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 08:12:15",
-    "score": 3,
-    "uid": "2a7b7a9f27e66e19"
-  },
-  {
-    "title": "Updated List: Sat Jul 25 21:45:39 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/40e25d422b93a84e6ff85948610e571f9763f408",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "40e944888f696526"
-  },
-  {
-    "title": "How I Bypassed Team Invites on an Intigriti Target (And Why They Ghosted My Proof)",
-    "url": "https://medium.com/@mxfizz07/how-i-bypassed-team-invites-on-an-intigriti-target-and-why-they-ghosted-my-proof-dc93592c18e5?source=rss------bug_bounty-5",
-    "summary": "Hello guys &#x2026;&#x2026; after so long sooo yaaaa dont worry it wont be a long writeup but yeah will be intresting .Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 11:05:16",
-    "score": 3,
-    "uid": "30891df77fbc8b22"
   }
 ]
