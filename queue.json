@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found a Critical Cloudflare Turnstile Bypass – And Got Denied a Bounty",
-    "url": "https://dev.to/allonn12/how-i-found-a-critical-cloudflare-turnstile-bypass-and-got-denied-a-bounty-5ai2",
-    "summary": "Cloudflare Turnstile stores a token in your browser. I found you can copy it from one browser, paste it into another, and skip the CAPTCHA completely. I tested it on their own demo site. Worked perfectly. I reported it. Gave them the code proof. Showed them how to do it. They said \"we see it works.\" Then they said \"out of scope\" and locked the report. They're fixing it now. Using my work. I get nothing. That's it. That's the story. How to do it: Go to demo.turnstile.workers.dev Solve the CAPTCHA Open DevTools → Local Storage Copy _cftscs_0x4AAAAAAADnPIDROrmt1Wwj Open incognito Paste it before ",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sun, 26 Jul 2026 13:09:51",
-    "score": 6,
-    "uid": "633f640ece57504b"
-  },
-  {
     "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
     "url": "https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
     "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on InfoSec Write-ups »",
@@ -58,6 +48,16 @@
     "published": "Sun, 26 Jul 2026 22:55:53",
     "score": 5,
     "uid": "e20a23d95a2a437d"
+  },
+  {
+    "title": "15 Critical Bugs in Firebase Dynamic Links Can Make You $$$$$",
+    "url": "https://anontriager.medium.com/15-critical-bugs-in-firebase-dynamic-links-can-make-you-66cf177127cb?source=rss------bug_bounty-5",
+    "summary": "Friend Link&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 05:49:24",
+    "score": 5,
+    "uid": "b5531ca318f77bc3"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
