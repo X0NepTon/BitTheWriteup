@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500",
-    "url": "https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty-5",
-    "summary": "A simple directory fuzzing session uncovered a hidden GraphQL endpoint. A harmless-looking search bar eventually turned into a confirmed&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 14:58:18",
-    "score": 10,
-    "uid": "086128bf0fd6e612"
-  },
-  {
     "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
     "url": "https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
     "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1f9a0b6f0159381e"
+  },
+  {
+    "title": "PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs",
+    "url": "https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty_writeup-5",
+    "summary": "TL;DRContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 26 Jul 2026 15:52:58",
+    "score": 3,
+    "uid": "3159cc124c611e3e"
   }
 ]
