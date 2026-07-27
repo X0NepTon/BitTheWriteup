@@ -10,16 +10,6 @@
     "uid": "8ae7226d3720dc75"
   },
   {
-    "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
-    "url": "https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty-5",
-    "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 25 Jul 2026 23:50:39",
-    "score": 5,
-    "uid": "f005da2164b60b74"
-  },
-  {
     "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
     "url": "https://ismailtasdelen.medium.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
     "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 26 Jul 2026 15:52:58",
     "score": 3,
     "uid": "3159cc124c611e3e"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-2ekf",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnerabilities Have you ever clicked on a phishing email or filled out a form on an untrusted website? Maybe you've even accidentally downloaded malware from a suspicious link. If so, you've likely experienced the consequences of security vulnerabilities firsthand. In this post, we'll explore the importance of finding and fixing security vulnerabilities, and provide practical steps you can take to improve the security of your applications and earn more money. Why ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 02:00:59",
+    "score": 3,
+    "uid": "bfed195d3e1bf297"
   }
 ]
