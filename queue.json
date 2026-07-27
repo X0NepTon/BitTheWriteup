@@ -50,6 +50,16 @@
     "uid": "b5531ca318f77bc3"
   },
   {
+    "title": "Open Redirect & Bypass Techniques: A Practical Methodology for Security Testing",
+    "url": "https://medium.com/@N0aziXss/open-redirect-bypass-techniques-a-practical-methodology-for-security-testing-8cea7631b91b?source=rss------bug_bounty-5",
+    "summary": "Subtitle:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 11:54:35",
+    "score": 5,
+    "uid": "f1bc11c56659105a"
+  },
+  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Sun, 26 Jul 2026 15:52:58",
     "score": 3,
     "uid": "3159cc124c611e3e"
-  },
-  {
-    "title": "Turning Disclosed Bug Bounty Reports into a Skill Claude Can Execute",
-    "url": "https://medium.com/@badekanrohan/turning-disclosed-bug-bounty-reports-into-a-skill-claude-can-execute-6e802ba004c6?source=rss------bug_bounty-5",
-    "summary": "Part 2 of the Aii-Aii Hunter series: how to write a &#x201C;skill&#x201D; that encodes judgment, not just vocabularyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 06:08:47",
-    "score": 3,
-    "uid": "aa05c6111da5f709"
   }
 ]
