@@ -20,16 +20,6 @@
     "uid": "e20a23d95a2a437d"
   },
   {
-    "title": "15 Critical Bugs in Firebase Dynamic Links Can Make You $$$$$",
-    "url": "https://anontriager.medium.com/15-critical-bugs-in-firebase-dynamic-links-can-make-you-66cf177127cb?source=rss------bug_bounty-5",
-    "summary": "Friend Link&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 05:49:24",
-    "score": 5,
-    "uid": "b5531ca318f77bc3"
-  },
-  {
     "title": "Open Redirect & Bypass Techniques: A Practical Methodology for Security Testing",
     "url": "https://medium.com/@N0aziXss/open-redirect-bypass-techniques-a-practical-methodology-for-security-testing-8cea7631b91b?source=rss------bug_bounty-5",
     "summary": "Subtitle:Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 27 Jul 2026 02:00:59",
     "score": 3,
     "uid": "bfed195d3e1bf297"
+  },
+  {
+    "title": "Updated List: Tue Jul 28 05:18:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ff3e3cedfe20ed887195d4abf86c8d3c9db00685",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ce099db5f7fc76c7"
   }
 ]
