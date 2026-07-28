@@ -1,16 +1,6 @@
 [
   {
     "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
-    "url": "https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
-    "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 07:13:07",
-    "score": 10,
-    "uid": "b148d797a40b5ff5"
-  },
-  {
-    "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
     "url": "https://medium.com/@karthithehacker/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
     "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on Medium »",
     "source_id": "medium_bb",
@@ -18,6 +8,16 @@
     "published": "Tue, 28 Jul 2026 07:13:07",
     "score": 9,
     "uid": "95bdd6de23c70d34"
+  },
+  {
+    "title": "I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability",
+    "url": "https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5",
+    "summary": "When I&#x2019;m testing a web application, I rarely stop after the first idea fails.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 11:28:34",
+    "score": 9,
+    "uid": "5e5dcc97c365305c"
   },
   {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
