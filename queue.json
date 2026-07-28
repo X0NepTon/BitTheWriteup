@@ -1,6 +1,16 @@
 [
   {
     "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
+    "url": "https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
+    "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 07:13:07",
+    "score": 10,
+    "uid": "b148d797a40b5ff5"
+  },
+  {
+    "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
     "url": "https://medium.com/@karthithehacker/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
     "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on Medium »",
     "source_id": "medium_bb",
@@ -8,6 +18,26 @@
     "published": "Tue, 28 Jul 2026 07:13:07",
     "score": 9,
     "uid": "95bdd6de23c70d34"
+  },
+  {
+    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
+    "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 28 Jul 2026 07:05:10",
+    "score": 6,
+    "uid": "113450c2d660a9d6"
+  },
+  {
+    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
+    "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5",
+    "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 07:05:10",
+    "score": 6,
+    "uid": "63da7d34ad7b38cc"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -58,6 +88,16 @@
     "published": "Tue, 28 Jul 2026 07:05:10",
     "score": 5,
     "uid": "5621b2b292bad779"
+  },
+  {
+    "title": "Bypassing Business Logic: PortSwigger Lab Walkthrough",
+    "url": "https://medium.com/@ayeshaaghafoor48/bypassing-business-logic-portswigger-lab-walkthrough-1025c549e035?source=rss------bug_bounty-5",
+    "summary": "Business logic vulnerabilities are among the most critical flaws in web applications because they bypass traditional security defenses&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 07:31:48",
+    "score": 5,
+    "uid": "2e6d25f75631523f"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "3d3b0c5f2aff15eb"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 15:05:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c9a85579d59eb2bbbf1ed669f250b35eb0a66638",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d927f5b718e085d0"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 18:27:37 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/92a9307a912a741e955692280614e7c1ae436965",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d5178a55e28fbb80"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 00:24:00 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bfb027bd3b20529456d2a9cea39f640faf1d8137",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "93d30442ee15b8ae"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 01:37:20 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c48462c1c2ebf54d8f2fef9a8715409bd0084392",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "89c42ef59388edac"
   }
 ]
