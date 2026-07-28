@@ -50,6 +50,26 @@
     "uid": "91eb5a95fb8e59b3"
   },
   {
+    "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
+    "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5",
+    "summary": "TL;DR: HTML Injection is often marked as Informative or N/A by triagers. However, by demonstrating how a hidden CSS overlay bypassed the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 27 Jul 2026 23:57:41",
+    "score": 4,
+    "uid": "d918c8c39f6dda3d"
+  },
+  {
+    "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
+    "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5",
+    "summary": "TL;DR: HTML Injection is often marked as Informative or N/A by triagers. However, by demonstrating how a hidden CSS overlay bypassed the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 23:57:41",
+    "score": 4,
+    "uid": "9bf9d4c93b9a6fd6"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "Sun, 26 Jul 2026 15:52:58",
     "score": 3,
     "uid": "3159cc124c611e3e"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-2ekf",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnerabilities Have you ever clicked on a phishing email or filled out a form on an untrusted website? Maybe you've even accidentally downloaded malware from a suspicious link. If so, you've likely experienced the consequences of security vulnerabilities firsthand. In this post, we'll explore the importance of finding and fixing security vulnerabilities, and provide practical steps you can take to improve the security of your applications and earn more money. Why ",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 02:00:59",
-    "score": 3,
-    "uid": "bfed195d3e1bf297"
-  },
-  {
-    "title": "Updated List: Tue Jul 28 05:18:23 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/ff3e3cedfe20ed887195d4abf86c8d3c9db00685",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ce099db5f7fc76c7"
   }
 ]
