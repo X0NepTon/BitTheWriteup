@@ -1,15 +1,5 @@
 [
   {
-    "title": "Why Bug Hunters Skip Role-Based API Testing (And How I Turned a Writer Token Into an SSRF)",
-    "url": "https://cyphernova1337.medium.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss------bug_bounty-5",
-    "summary": "Most hunters test authentication. Almost nobody tests authorization at the role level.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 19:25:32",
-    "score": 8,
-    "uid": "a08a9450748a6a8e"
-  },
-  {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
     "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
     "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 27 Jul 2026 02:00:59",
     "score": 3,
     "uid": "bfed195d3e1bf297"
+  },
+  {
+    "title": "Updated List: Wed Jul 29 04:24:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/75eb18ff7e4bbb8923046130fb57b746975eadd2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "70eaedc707f64321"
   }
 ]
