@@ -1,5 +1,15 @@
 [
   {
+    "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
+    "url": "https://medium.com/@karthithehacker/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
+    "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 07:13:07",
+    "score": 9,
+    "uid": "95bdd6de23c70d34"
+  },
+  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on InfoSec Write-ups »",
@@ -28,6 +38,26 @@
     "published": "Mon, 27 Jul 2026 11:54:35",
     "score": 5,
     "uid": "f1bc11c56659105a"
+  },
+  {
+    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
+    "url": "https://marrijalikhan.medium.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello Guys,Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 28 Jul 2026 07:05:10",
+    "score": 5,
+    "uid": "b733738b1fa22945"
+  },
+  {
+    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
+    "url": "https://marrijalikhan.medium.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5",
+    "summary": "Hello Guys,Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 07:05:10",
+    "score": 5,
+    "uid": "5621b2b292bad779"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "89c42ef59388edac"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 03:48:14 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1a24e28e06d93169dcc1e54ae44a02a26c1ab4d2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3bf31989e8708b7a"
-  },
-  {
-    "title": "Updated List: Fri Jul 24 09:11:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8c2e2406d9cc681a71f123a7ab4fc6383a1c7053",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1f9a0b6f0159381e"
-  },
-  {
-    "title": "PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs",
-    "url": "https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty_writeup-5",
-    "summary": "TL;DRContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 26 Jul 2026 15:52:58",
-    "score": 3,
-    "uid": "3159cc124c611e3e"
   }
 ]
