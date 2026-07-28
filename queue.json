@@ -1,13 +1,13 @@
 [
   {
-    "title": "I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability",
-    "url": "https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5",
-    "summary": "When I&#x2019;m testing a web application, I rarely stop after the first idea fails.Continue reading on Medium »",
+    "title": "Why Bug Hunters Skip Role-Based API Testing (And How I Turned a Writer Token Into an SSRF)",
+    "url": "https://cyphernova1337.medium.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss------bug_bounty-5",
+    "summary": "Most hunters test authentication. Almost nobody tests authorization at the role level.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 11:28:34",
-    "score": 9,
-    "uid": "5e5dcc97c365305c"
+    "published": "Tue, 28 Jul 2026 19:25:32",
+    "score": 8,
+    "uid": "a08a9450748a6a8e"
   },
   {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
