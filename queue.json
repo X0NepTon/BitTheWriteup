@@ -140,6 +140,46 @@
     "uid": "9bf9d4c93b9a6fd6"
   },
   {
+    "title": "File Upload Bypasses — The $4k Bug That Sneaks Past Filters (Part 1)",
+    "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty_writeup-5",
+    "summary": "File uploads are everywhere.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 28 Jul 2026 13:23:38",
+    "score": 4,
+    "uid": "6163c3db28bf0e26"
+  },
+  {
+    "title": "How I Made $20k in One Week",
+    "url": "https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty_writeup-5",
+    "summary": "Most people think bug bounty is luck.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 28 Jul 2026 12:59:06",
+    "score": 4,
+    "uid": "4471c5ef0529d0bc"
+  },
+  {
+    "title": "File Upload Bypasses — The $4k Bug That Sneaks Past Filters (Part 1)",
+    "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty-5",
+    "summary": "File uploads are everywhere.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 13:23:38",
+    "score": 4,
+    "uid": "f4785b500b302c6f"
+  },
+  {
+    "title": "How I Made $20k in One Week",
+    "url": "https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty-5",
+    "summary": "Most people think bug bounty is luck.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 28 Jul 2026 12:59:06",
+    "score": 4,
+    "uid": "1347aeeb35f08608"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "9890ba51329e40f4"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 04:14:00 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8b22685d18c49535214d950090e5e08835714592",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6cbe9ed1a7a7433b"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 06:45:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/260572c3fd815ab79b9313814ff9e9794c4b4360",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9d828e8d50513653"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 10:06:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/55dd2aa3a1c1eb7bda232f1d413cb3721d0a77fd",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1a55d9595cb47ba6"
-  },
-  {
-    "title": "Updated List: Thu Jul 23 12:43:38 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1497ac414088ce360c011b9d8bb11a3b72cd9537",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3d3b0c5f2aff15eb"
   }
 ]
