@@ -1,15 +1,5 @@
 [
   {
-    "title": "Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)",
-    "url": "https://medium.com/@karthithehacker/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5",
-    "summary": "Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty JourneyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 07:13:07",
-    "score": 9,
-    "uid": "95bdd6de23c70d34"
-  },
-  {
     "title": "I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability",
     "url": "https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5",
     "summary": "When I&#x2019;m testing a web application, I rarely stop after the first idea fails.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9890ba51329e40f4"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-2ekf",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnerabilities Have you ever clicked on a phishing email or filled out a form on an untrusted website? Maybe you've even accidentally downloaded malware from a suspicious link. If so, you've likely experienced the consequences of security vulnerabilities firsthand. In this post, we'll explore the importance of finding and fixing security vulnerabilities, and provide practical steps you can take to improve the security of your applications and earn more money. Why ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 02:00:59",
+    "score": 3,
+    "uid": "bfed195d3e1bf297"
   }
 ]
