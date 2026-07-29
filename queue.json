@@ -1,15 +1,5 @@
 [
   {
-    "title": "Account Takeover Across Multiple Programs via Featurebase Integration",
-    "url": "https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty-5",
-    "summary": "In this blog, I am going to share an account takeover vulnerability in a third-party provider widely used by many bug bounty programs.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 29 Jul 2026 05:23:30",
-    "score": 12,
-    "uid": "47cdac07ca918f0d"
-  },
-  {
     "title": "How I Uncovered an Account Takeover Flaw via Unexpired Reset Tokens",
     "url": "https://infosecwriteups.com/how-i-uncovered-an-account-takeover-flaw-via-unexpired-reset-tokens-8cb9f69a5c6c?source=rss------bug_bounty_writeup-5",
     "summary": "Why invalidating state-changing tokens on profile updates matters more than you thinkContinue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9890ba51329e40f4"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-2ekf",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnerabilities Have you ever clicked on a phishing email or filled out a form on an untrusted website? Maybe you've even accidentally downloaded malware from a suspicious link. If so, you've likely experienced the consequences of security vulnerabilities firsthand. In this post, we'll explore the importance of finding and fixing security vulnerabilities, and provide practical steps you can take to improve the security of your applications and earn more money. Why ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 02:00:59",
+    "score": 3,
+    "uid": "bfed195d3e1bf297"
   }
 ]
