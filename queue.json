@@ -10,16 +10,6 @@
     "uid": "113450c2d660a9d6"
   },
   {
-    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
-    "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5",
-    "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 07:05:10",
-    "score": 6,
-    "uid": "63da7d34ad7b38cc"
-  },
-  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 27 Jul 2026 02:00:59",
     "score": 3,
     "uid": "bfed195d3e1bf297"
+  },
+  {
+    "title": "Updated List: Thu Jul 30 02:40:14 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2829481216564c8cdd4307094740fb42b3cf8781",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6b479ac45c8bd990"
   }
 ]
