@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Uncovered an Account Takeover Flaw via Unexpired Reset Tokens",
-    "url": "https://infosecwriteups.com/how-i-uncovered-an-account-takeover-flaw-via-unexpired-reset-tokens-8cb9f69a5c6c?source=rss------bug_bounty_writeup-5",
-    "summary": "Why invalidating state-changing tokens on profile updates matters more than you thinkContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 29 Jul 2026 08:59:41",
-    "score": 11,
-    "uid": "b381d364942d43ba"
-  },
-  {
     "title": "Solving PortSwigger Lab: Password Brute-Force via Password Change",
     "url": "https://medium.com/@ayeshaaghafoor48/solving-portswigger-lab-password-brute-force-via-password-change-5e0ab2165017?source=rss------bug_bounty_writeup-5",
     "summary": "Welcome to this step-by-step walkthrough for the &#x201C;Password brute-force via password change&#x201D; lab from PortSwigger&#x2019;s Web Security Academy.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9890ba51329e40f4"
+  },
+  {
+    "title": "Python Web Penetration Testing — Day 8: Chaining Vulnerabilities — The Art of the Exploit Chain",
+    "url": "https://osintteam.blog/python-web-penetration-testing-day-8-chaining-vulnerabilities-the-art-of-the-exploit-chain-6715826b4c1c?source=rss------bug_bounty-5",
+    "summary": "I found a self-XSS. Low severity.Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 29 Jul 2026 13:29:31",
+    "score": 3,
+    "uid": "3925b712be921add"
   }
 ]
