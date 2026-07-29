@@ -1,5 +1,15 @@
 [
   {
+    "title": "Account Takeover Across Multiple Programs via Featurebase Integration",
+    "url": "https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty-5",
+    "summary": "In this blog, I am going to share an account takeover vulnerability in a third-party provider widely used by many bug bounty programs.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 29 Jul 2026 05:23:30",
+    "score": 12,
+    "uid": "47cdac07ca918f0d"
+  },
+  {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
     "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
     "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
@@ -1988,15 +1998,5 @@
     "published": "Mon, 27 Jul 2026 02:00:59",
     "score": 3,
     "uid": "bfed195d3e1bf297"
-  },
-  {
-    "title": "Updated List: Wed Jul 29 04:24:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/75eb18ff7e4bbb8923046130fb57b746975eadd2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "70eaedc707f64321"
   }
 ]
