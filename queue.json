@@ -1,15 +1,5 @@
 [
   {
-    "title": "Solving PortSwigger Lab: Password Brute-Force via Password Change",
-    "url": "https://medium.com/@ayeshaaghafoor48/solving-portswigger-lab-password-brute-force-via-password-change-5e0ab2165017?source=rss------bug_bounty_writeup-5",
-    "summary": "Welcome to this step-by-step walkthrough for the &#x201C;Password brute-force via password change&#x201D; lab from PortSwigger&#x2019;s Web Security Academy.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 29 Jul 2026 12:48:22",
-    "score": 11,
-    "uid": "832ffbe0bbc5f799"
-  },
-  {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
     "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
     "summary": "Hello Guys,Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 29 Jul 2026 13:29:31",
     "score": 3,
     "uid": "3925b712be921add"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-2ekf",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnerabilities Have you ever clicked on a phishing email or filled out a form on an untrusted website? Maybe you've even accidentally downloaded malware from a suspicious link. If so, you've likely experienced the consequences of security vulnerabilities firsthand. In this post, we'll explore the importance of finding and fixing security vulnerabilities, and provide practical steps you can take to improve the security of your applications and earn more money. Why ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 27 Jul 2026 02:00:59",
+    "score": 3,
+    "uid": "bfed195d3e1bf297"
   }
 ]
