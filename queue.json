@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
-    "url": "https://ismailtasdelen.medium.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
-    "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 26 Jul 2026 22:55:53",
-    "score": 5,
-    "uid": "e20a23d95a2a437d"
-  },
-  {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
     "url": "https://marrijalikhan.medium.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
     "summary": "Hello Guys,Continue reading on Medium »",
@@ -118,6 +108,16 @@
     "published": "Thu, 30 Jul 2026 17:13:05",
     "score": 4,
     "uid": "97278e7facedeb96"
+  },
+  {
+    "title": "$1,500 AI System Prompt Leak: Using this Burp Suite Configuration",
+    "url": "https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5?source=rss------bug_bounty-5",
+    "summary": "Akwaaba! guys. I&#x2019;ve finally got around to putting this one together. As usual, some of my good works $1,500 Email Verification Bypass and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 30 Jul 2026 22:35:30",
+    "score": 4,
+    "uid": "069976ed336bd580"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
