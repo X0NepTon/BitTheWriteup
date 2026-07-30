@@ -120,6 +120,16 @@
     "uid": "8fc9afebaca791b4"
   },
   {
+    "title": "../../ to Admin for a $,$$$ Bounty",
+    "url": "https://0xsponge.medium.com/to-admin-for-a-bounty-b946f781607f?source=rss------bug_bounty-5",
+    "summary": "The target had two roles.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 30 Jul 2026 17:13:05",
+    "score": 4,
+    "uid": "97278e7facedeb96"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "27da0cbb2b2bc044"
-  },
-  {
-    "title": "Updated List: Thu Jul 30 11:33:03 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0813204e1be359daac24b3a511e06057eadb523a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3fd28f13ca549e20"
   }
 ]
