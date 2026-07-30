@@ -20,16 +20,6 @@
     "uid": "e20a23d95a2a437d"
   },
   {
-    "title": "Open Redirect & Bypass Techniques: A Practical Methodology for Security Testing",
-    "url": "https://medium.com/@N0aziXss/open-redirect-bypass-techniques-a-practical-methodology-for-security-testing-8cea7631b91b?source=rss------bug_bounty-5",
-    "summary": "Subtitle:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 11:54:35",
-    "score": 5,
-    "uid": "f1bc11c56659105a"
-  },
-  {
     "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
     "url": "https://marrijalikhan.medium.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5",
     "summary": "Hello Guys,Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2e91e1edf84abc28"
+  },
+  {
+    "title": "Updated List: Thu Jul 30 05:40:11 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9544bdacef4bc87c5586a171a6d9f5a3cb337017",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "27da0cbb2b2bc044"
   }
 ]
