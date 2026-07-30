@@ -30,16 +30,6 @@
     "uid": "b733738b1fa22945"
   },
   {
-    "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
-    "url": "https://marrijalikhan.medium.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5",
-    "summary": "Hello Guys,Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 07:05:10",
-    "score": 5,
-    "uid": "5621b2b292bad779"
-  },
-  {
     "title": "Bypassing Business Logic: PortSwigger Lab Walkthrough",
     "url": "https://medium.com/@ayeshaaghafoor48/bypassing-business-logic-portswigger-lab-walkthrough-1025c549e035?source=rss------bug_bounty-5",
     "summary": "Business logic vulnerabilities are among the most critical flaws in web applications because they bypass traditional security defenses&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "27da0cbb2b2bc044"
+  },
+  {
+    "title": "Updated List: Thu Jul 30 11:33:03 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0813204e1be359daac24b3a511e06057eadb523a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3fd28f13ca549e20"
   }
 ]
