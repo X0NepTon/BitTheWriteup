@@ -1,15 +1,5 @@
 [
   {
-    "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
-    "url": "https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
-    "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 25 Jul 2026 23:50:39",
-    "score": 5,
-    "uid": "8ae7226d3720dc75"
-  },
-  {
     "title": "I Found 15 Critical Vulnerabilities in One Afternoon",
     "url": "https://ismailtasdelen.medium.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5",
     "summary": "The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "27da0cbb2b2bc044"
+  },
+  {
+    "title": "Updated List: Fri Jul 31 00:33:42 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/822f3c50e13de8078d77e0572ff1059432a7c592",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8934d8cca08d41eb"
   }
 ]
