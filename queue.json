@@ -30,16 +30,6 @@
     "uid": "b733738b1fa22945"
   },
   {
-    "title": "Bypassing Business Logic: PortSwigger Lab Walkthrough",
-    "url": "https://medium.com/@ayeshaaghafoor48/bypassing-business-logic-portswigger-lab-walkthrough-1025c549e035?source=rss------bug_bounty-5",
-    "summary": "Business logic vulnerabilities are among the most critical flaws in web applications because they bypass traditional security defenses&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 07:31:48",
-    "score": 5,
-    "uid": "2e6d25f75631523f"
-  },
-  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -118,6 +108,16 @@
     "published": "Tue, 28 Jul 2026 12:59:06",
     "score": 4,
     "uid": "1347aeeb35f08608"
+  },
+  {
+    "title": "File Upload Bypasses — The $10k Bug That Sneaks Past Filters (Part 2: Advanced)",
+    "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-10k-bug-that-sneaks-past-filters-part-2-advanced-03f4e03ce16b?source=rss------bug_bounty-5",
+    "summary": "Part 1 covered the basics. Double extensions. Null bytes. Content-Type spoofing.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 30 Jul 2026 08:24:43",
+    "score": 4,
+    "uid": "8fc9afebaca791b4"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
