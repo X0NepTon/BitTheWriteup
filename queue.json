@@ -10,16 +10,6 @@
     "uid": "b465680e782aae4d"
   },
   {
-    "title": "AI Slop Is Drowning Bug Bounty Programs — Here’s How to Write Reports That Actually Get Paid $$$$",
-    "url": "https://medium.com/@ninja_mell/ai-slop-is-drowning-bug-bounty-programs-heres-how-to-write-reports-that-actually-get-paid-0e10f945405d?source=rss------bug_bounty-5",
-    "summary": "Triagers are rejecting AI-generated reports on sight. Programs are closing to new researchers. The 7-Question Gate is the framework that&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 19:35:52",
-    "score": 4,
-    "uid": "91eb5a95fb8e59b3"
-  },
-  {
     "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
     "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5",
     "summary": "TL;DR: HTML Injection is often marked as Informative or N/A by triagers. However, by demonstrating how a hidden CSS overlay bypassed the&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "6d7162bb3f6a6b7d"
+  },
+  {
+    "title": "Bypassing Account Sign-up Restrictions with a Unicode Character",
+    "url": "https://dukrov.medium.com/bypassing-account-sign-up-restrictions-with-a-unicode-character-760d9fb6a313?source=rss------bug_bounty-5",
+    "summary": "It&#x2019;s been a while since I put a writeup up here, so I&#x2019;m dusting off one of my favorites. The target was a user-management / identity&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 31 Jul 2026 19:14:40",
+    "score": 3,
+    "uid": "815967da9a30a141"
   }
 ]
