@@ -1,13 +1,13 @@
 [
   {
-    "title": "How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra",
-    "url": "https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty-5",
-    "summary": "From spotting an exposed developer portal to bypassing authentication with a single path trick.Continue reading on Medium »",
+    "title": "blind XSS vulnerability that performs actions on behalf of the administrator.",
+    "url": "https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x648; &#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A; &#x631;&#x633;&#x648;&#x644; &#x627;&#x644;&#x644;&#x647;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 31 Jul 2026 13:46:01",
-    "score": 17,
-    "uid": "3e0eda280aae17cd"
+    "published": "Fri, 31 Jul 2026 15:09:57",
+    "score": 15,
+    "uid": "ad8ed171e761a289"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
