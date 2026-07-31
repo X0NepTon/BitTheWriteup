@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra",
+    "url": "https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty-5",
+    "summary": "From spotting an exposed developer portal to bypassing authentication with a single path trick.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 31 Jul 2026 13:46:01",
+    "score": 17,
+    "uid": "3e0eda280aae17cd"
+  },
+  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8934d8cca08d41eb"
-  },
-  {
-    "title": "Updated List: Fri Jul 31 06:41:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bfa47399ed122333aa67ac9b50e389827388b0ee",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ac9dcf99f076e484"
   }
 ]
