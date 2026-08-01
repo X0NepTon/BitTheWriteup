@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Visma Case Study Part 3 Cross Account State Manipulation and Administrative Bypass",
-    "url": "https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-manipulation-and-administrative-bypass-27aef887c316?source=rss------bug_bounty-5",
-    "summary": "In my previous disclosures I talked about how Visma and Intigriti turned critical data leaks into a normal day at the office and&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 01 Aug 2026 19:51:01",
-    "score": 5,
-    "uid": "013887e04151d91b"
-  },
-  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 01 Aug 2026 13:54:49",
     "score": 3,
     "uid": "38b9458ba6d1c9ae"
+  },
+  {
+    "title": "Updated List: Sun Aug 02 04:47:53 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3e217cb0b48e8943cf65f3a704c1a700cad4ac52",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d91450e3d7bec702"
   }
 ]
