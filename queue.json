@@ -1,5 +1,25 @@
 [
   {
+    "title": "Offensive Kubernetes: 12 Privilege Escalation Techniques Every Pentester Should Master",
+    "url": "https://medium.com/@verylazytech/offensive-kubernetes-12-privilege-escalation-techniques-every-pentester-should-master-19303f68255d?source=rss------bug_bounty-5",
+    "summary": "Why do so many &#x201C;secure&#x201D; Kubernetes clusters fall to a single command or misconfigured pod? Kubernetes is powerful, but with great power&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 06:17:32",
+    "score": 7,
+    "uid": "a789ff0c60f63266"
+  },
+  {
+    "title": "Discovering an IDOR in Hoppscotch: A Deep Dive into Broken Access Control",
+    "url": "https://medium.com/@ajithprabhu15/discovering-an-idor-in-hoppscotch-a-deep-dive-into-broken-access-control-3a337d4f3791?source=rss------bug_bounty-5",
+    "summary": "How a seemingly harmless GraphQL query exposed private user history and highlighted the importance of authorization in nested resolvers.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 05:25:14",
+    "score": 7,
+    "uid": "716a33370b01dbae"
+  },
+  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "6d7162bb3f6a6b7d"
-  },
-  {
-    "title": "Bypassing Account Sign-up Restrictions with a Unicode Character",
-    "url": "https://dukrov.medium.com/bypassing-account-sign-up-restrictions-with-a-unicode-character-760d9fb6a313?source=rss------bug_bounty-5",
-    "summary": "It&#x2019;s been a while since I put a writeup up here, so I&#x2019;m dusting off one of my favorites. The target was a user-management / identity&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 31 Jul 2026 19:14:40",
-    "score": 3,
-    "uid": "815967da9a30a141"
-  },
-  {
-    "title": "Updated List: Sat Aug 01 05:08:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/25837bf969798b9d2d53c4388836c88a3df55e21",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "559de0920d3760be"
   }
 ]
