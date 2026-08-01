@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Bug Bounty Playbook: Authentication Bypass",
+    "url": "https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bug_bounty-5",
+    "summary": "The Bug Bounty Playbook &#xB7; Part 3 of 20. 317 disclosed HackerOne reports analysed across 20 programs. Five recurring patterns. One testing&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 20:28:05",
+    "score": 12,
+    "uid": "28970220602d1b82"
+  },
+  {
     "title": "Advanced Bug Bounty Write-Ups — Part 2: Deserialization, Mobile, CI/CD, Cloud, Supply Chain……..!!!",
     "url": "https://medium.com/@test.my.hack.v1/advanced-bug-bounty-write-ups-part-2-deserialization-mobile-ci-cd-cloud-supply-chain-ebd652cf304f?source=rss------bug_bounty-5",
     "summary": "Same conventions as Part 1: fictional target vulnerable-corp.com,Continue reading on Medium »",
@@ -8,6 +18,16 @@
     "published": "Sat, 01 Aug 2026 14:18:56",
     "score": 6,
     "uid": "40b397f4c5f7b8e4"
+  },
+  {
+    "title": "The Visma Case Study Part 3 Cross Account State Manipulation and Administrative Bypass",
+    "url": "https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-manipulation-and-administrative-bypass-27aef887c316?source=rss------bug_bounty-5",
+    "summary": "In my previous disclosures I talked about how Visma and Intigriti turned critical data leaks into a normal day at the office and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 19:51:01",
+    "score": 5,
+    "uid": "013887e04151d91b"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8934d8cca08d41eb"
-  },
-  {
-    "title": "Revisiting JWT Token Forgery Attack on Recent Bounty Target",
-    "url": "https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5",
-    "summary": "alg=none x Attacker-Controlled Object CheckContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 01 Aug 2026 02:44:37",
-    "score": 3,
-    "uid": "c383ad39045e06ee"
-  },
-  {
-    "title": "The Complete Dark Side of Hyperlink Injection: Email Abuse, Website Attacks, Open Redirects, and…",
-    "url": "https://medium.com/@test.my.hack.v1/the-complete-dark-side-of-hyperlink-injection-email-abuse-website-attacks-open-redirects-and-8a07df5bec2d?source=rss------bug_bounty-5",
-    "summary": "A Comprehensive Technical and Strategic AnalysisContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 01 Aug 2026 13:54:49",
-    "score": 3,
-    "uid": "38b9458ba6d1c9ae"
   }
 ]
