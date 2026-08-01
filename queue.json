@@ -1,15 +1,5 @@
 [
   {
-    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026-13156 — MailerSend WordPress Plugin CSRF Settings Deletion",
-    "url": "https://dev.to/minhhk68/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-13156-mailersend-wordpress-plugin-csrf-mnh",
-    "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026-13156 — MailerSend WordPress Plugin CSRF Settings Deletion 📖 Advisory Overview CVE-2026-13156 is a high-severity Cross-Site Request Forgery (CSRF) vulnerability discovered in the official MailerSend SMTP Integration WordPress plugin prior to version 1.0.8, analyzed and disclosed by cybersecurity researcher Huynh Kien Minh (MinhHK). The configuration deletion function mailersend_handle_configuration_delete() verifies administrative capabilities (manage_options) but completely omits WordPress Nonce verification (check_admin_referer()). An",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 01 Aug 2026 13:05:16",
-    "score": 11,
-    "uid": "a03addceab32a2cf"
-  },
-  {
     "title": "Offensive Kubernetes: 12 Privilege Escalation Techniques Every Pentester Should Master",
     "url": "https://medium.com/@verylazytech/offensive-kubernetes-12-privilege-escalation-techniques-every-pentester-should-master-19303f68255d?source=rss------bug_bounty-5",
     "summary": "Why do so many &#x201C;secure&#x201D; Kubernetes clusters fall to a single command or misconfigured pod? Kubernetes is powerful, but with great power&#x2026;Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Sat, 01 Aug 2026 05:25:14",
     "score": 7,
     "uid": "716a33370b01dbae"
+  },
+  {
+    "title": "Advanced Bug Bounty Write-Ups — Part 2: Deserialization, Mobile, CI/CD, Cloud, Supply Chain……..!!!",
+    "url": "https://medium.com/@test.my.hack.v1/advanced-bug-bounty-write-ups-part-2-deserialization-mobile-ci-cd-cloud-supply-chain-ebd652cf304f?source=rss------bug_bounty-5",
+    "summary": "Same conventions as Part 1: fictional target vulnerable-corp.com,Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 14:18:56",
+    "score": 6,
+    "uid": "40b397f4c5f7b8e4"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
