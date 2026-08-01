@@ -20,16 +20,6 @@
     "uid": "d918c8c39f6dda3d"
   },
   {
-    "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
-    "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5",
-    "summary": "TL;DR: HTML Injection is often marked as Informative or N/A by triagers. However, by demonstrating how a hidden CSS overlay bypassed the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 27 Jul 2026 23:57:41",
-    "score": 4,
-    "uid": "9bf9d4c93b9a6fd6"
-  },
-  {
     "title": "File Upload Bypasses — The $4k Bug That Sneaks Past Filters (Part 1)",
     "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty_writeup-5",
     "summary": "File uploads are everywhere.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 31 Jul 2026 19:14:40",
     "score": 3,
     "uid": "815967da9a30a141"
+  },
+  {
+    "title": "Updated List: Sat Aug 01 05:08:31 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/25837bf969798b9d2d53c4388836c88a3df55e21",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "559de0920d3760be"
   }
 ]
