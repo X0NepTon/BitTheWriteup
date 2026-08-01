@@ -1,5 +1,15 @@
 [
   {
+    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026-13156 — MailerSend WordPress Plugin CSRF Settings Deletion",
+    "url": "https://dev.to/minhhk68/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-13156-mailersend-wordpress-plugin-csrf-mnh",
+    "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026-13156 — MailerSend WordPress Plugin CSRF Settings Deletion 📖 Advisory Overview CVE-2026-13156 is a high-severity Cross-Site Request Forgery (CSRF) vulnerability discovered in the official MailerSend SMTP Integration WordPress plugin prior to version 1.0.8, analyzed and disclosed by cybersecurity researcher Huynh Kien Minh (MinhHK). The configuration deletion function mailersend_handle_configuration_delete() verifies administrative capabilities (manage_options) but completely omits WordPress Nonce verification (check_admin_referer()). An",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 01 Aug 2026 13:05:16",
+    "score": 11,
+    "uid": "a03addceab32a2cf"
+  },
+  {
     "title": "Offensive Kubernetes: 12 Privilege Escalation Techniques Every Pentester Should Master",
     "url": "https://medium.com/@verylazytech/offensive-kubernetes-12-privilege-escalation-techniques-every-pentester-should-master-19303f68255d?source=rss------bug_bounty-5",
     "summary": "Why do so many &#x201C;secure&#x201D; Kubernetes clusters fall to a single command or misconfigured pod? Kubernetes is powerful, but with great power&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8934d8cca08d41eb"
-  },
-  {
-    "title": "Updated List: Fri Jul 31 23:24:59 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/6303f34afe554029599275f836670c183d55d5d1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6d7162bb3f6a6b7d"
   }
 ]
