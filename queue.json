@@ -1,15 +1,5 @@
 [
   {
-    "title": "Offensive Kubernetes: 12 Privilege Escalation Techniques Every Pentester Should Master",
-    "url": "https://medium.com/@verylazytech/offensive-kubernetes-12-privilege-escalation-techniques-every-pentester-should-master-19303f68255d?source=rss------bug_bounty-5",
-    "summary": "Why do so many &#x201C;secure&#x201D; Kubernetes clusters fall to a single command or misconfigured pod? Kubernetes is powerful, but with great power&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 01 Aug 2026 06:17:32",
-    "score": 7,
-    "uid": "a789ff0c60f63266"
-  },
-  {
     "title": "Discovering an IDOR in Hoppscotch: A Deep Dive into Broken Access Control",
     "url": "https://medium.com/@ajithprabhu15/discovering-an-idor-in-hoppscotch-a-deep-dive-into-broken-access-control-3a337d4f3791?source=rss------bug_bounty-5",
     "summary": "How a seemingly harmless GraphQL query exposed private user history and highlighted the importance of authorization in nested resolvers.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "8934d8cca08d41eb"
+  },
+  {
+    "title": "Revisiting JWT Token Forgery Attack on Recent Bounty Target",
+    "url": "https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5",
+    "summary": "alg=none x Attacker-Controlled Object CheckContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 01 Aug 2026 02:44:37",
+    "score": 3,
+    "uid": "c383ad39045e06ee"
   }
 ]
