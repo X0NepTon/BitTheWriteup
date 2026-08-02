@@ -1,16 +1,6 @@
 [
   {
     "title": "Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass",
-    "url": "https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty_writeup-5",
-    "summary": "1. IntroductionContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 02 Aug 2026 07:36:20",
-    "score": 14,
-    "uid": "05e0cb9fcf32b057"
-  },
-  {
-    "title": "Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass",
     "url": "https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty-5",
     "summary": "1. IntroductionContinue reading on InfoSec Write-ups »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d91450e3d7bec702"
+  },
+  {
+    "title": "Updated List: Sun Aug 02 15:53:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d79464f77833b3cb878f69d0fcdea741c6322142",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "07bf1978ad36ee4d"
   }
 ]
