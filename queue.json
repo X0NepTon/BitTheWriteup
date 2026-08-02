@@ -1,5 +1,25 @@
 [
   {
+    "title": "Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass",
+    "url": "https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty_writeup-5",
+    "summary": "1. IntroductionContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 02 Aug 2026 07:36:20",
+    "score": 14,
+    "uid": "05e0cb9fcf32b057"
+  },
+  {
+    "title": "Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass",
+    "url": "https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty-5",
+    "summary": "1. IntroductionContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 02 Aug 2026 07:36:20",
+    "score": 13,
+    "uid": "ab0aed9599ab5f45"
+  },
+  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d91450e3d7bec702"
-  },
-  {
-    "title": "Updated List: Sun Aug 02 05:45:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4713564182e2e7616f4f1b38d65df62ddd021e5c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3903cbe782d20e69"
-  },
-  {
-    "title": "Updated List: Sun Aug 02 11:56:53 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/998c4ee0684004b897c8cdc1e1ebc40b5b70fa4a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e057d9019ecba557"
   }
 ]
