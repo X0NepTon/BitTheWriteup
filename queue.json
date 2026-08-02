@@ -1,13 +1,13 @@
 [
   {
-    "title": "I built an open-source OSINT tool that runs 55 modules with zero API keys",
-    "url": "https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614",
-    "summary": "Been learning web security for a while and kept jumping between different tools for every recon task so I just built my own. It's a Python script with a terminal menu. Give it a URL and it runs subdomains, directory bruteforce, JS secret scanning, DNS, headers, SSL, CORS, Shodan, VirusTotal, email security, username search across 30 platforms, GitHub commit email mining. Spits out a report at the end automatically. No API keys needed for any of it. The JS secret detection took a while to get right. Pure regex gives too much noise so I added Shannon entropy scoring on top to filter out placehol",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sun, 02 Aug 2026 12:59:46",
-    "score": 9,
-    "uid": "485343137c13573c"
+    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–13158 — Everest Toolkit Admin+ Arbitrary…",
+    "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-13158-everest-toolkit-admin-arbitrary-74403e615b63?source=rss------bug_bounty-5",
+    "summary": "By Huynh Kien Minh (MinhHK) &#x2014; Information Security Researcher & DeveloperContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 02 Aug 2026 14:19:34",
+    "score": 6,
+    "uid": "823a727b461824ca"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
