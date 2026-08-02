@@ -1,13 +1,23 @@
 [
   {
-    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–13158 — Everest Toolkit Admin+ Arbitrary…",
-    "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-13158-everest-toolkit-admin-arbitrary-74403e615b63?source=rss------bug_bounty-5",
-    "summary": "By Huynh Kien Minh (MinhHK) &#x2014; Information Security Researcher & DeveloperContinue reading on Medium »",
+    "title": "How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR",
+    "url": "https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty_writeup-5",
+    "summary": "A story about persistence, one rejected report, and why &#x201C;it&#x2019;s just an email address&#x201D; is exactly the kind of thinking attackers count on.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 02 Aug 2026 15:37:24",
+    "score": 5,
+    "uid": "c108375375eaca66"
+  },
+  {
+    "title": "How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR",
+    "url": "https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty-5",
+    "summary": "A story about persistence, one rejected report, and why &#x201C;it&#x2019;s just an email address&#x201D; is exactly the kind of thinking attackers count on.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 02 Aug 2026 14:19:34",
-    "score": 6,
-    "uid": "823a727b461824ca"
+    "published": "Sun, 02 Aug 2026 15:37:24",
+    "score": 5,
+    "uid": "b1cbbca3b69e97c4"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d91450e3d7bec702"
-  },
-  {
-    "title": "Updated List: Sun Aug 02 15:53:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d79464f77833b3cb878f69d0fcdea741c6322142",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "07bf1978ad36ee4d"
   }
 ]
