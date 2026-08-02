@@ -40,16 +40,6 @@
     "uid": "4471c5ef0529d0bc"
   },
   {
-    "title": "How I Made $20k in One Week",
-    "url": "https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty-5",
-    "summary": "Most people think bug bounty is luck.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 28 Jul 2026 12:59:06",
-    "score": 4,
-    "uid": "1347aeeb35f08608"
-  },
-  {
     "title": "File Upload Bypasses — The $10k Bug That Sneaks Past Filters (Part 2: Advanced)",
     "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-10k-bug-that-sneaks-past-filters-part-2-advanced-03f4e03ce16b?source=rss------bug_bounty-5",
     "summary": "Part 1 covered the basics. Double extensions. Null bytes. Content-Type spoofing.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "3903cbe782d20e69"
+  },
+  {
+    "title": "Updated List: Sun Aug 02 11:56:53 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/998c4ee0684004b897c8cdc1e1ebc40b5b70fa4a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e057d9019ecba557"
   }
 ]
