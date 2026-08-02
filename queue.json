@@ -1,13 +1,13 @@
 [
   {
-    "title": "Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass",
-    "url": "https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty-5",
-    "summary": "1. IntroductionContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 02 Aug 2026 07:36:20",
-    "score": 13,
-    "uid": "ab0aed9599ab5f45"
+    "title": "I built an open-source OSINT tool that runs 55 modules with zero API keys",
+    "url": "https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614",
+    "summary": "Been learning web security for a while and kept jumping between different tools for every recon task so I just built my own. It's a Python script with a terminal menu. Give it a URL and it runs subdomains, directory bruteforce, JS secret scanning, DNS, headers, SSL, CORS, Shodan, VirusTotal, email security, username search across 30 platforms, GitHub commit email mining. Spits out a report at the end automatically. No API keys needed for any of it. The JS secret detection took a while to get right. Pure regex gives too much noise so I added Shannon entropy scoring on top to filter out placehol",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sun, 02 Aug 2026 12:59:46",
+    "score": 9,
+    "uid": "485343137c13573c"
   },
   {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
