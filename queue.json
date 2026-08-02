@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR",
-    "url": "https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty_writeup-5",
-    "summary": "A story about persistence, one rejected report, and why &#x201C;it&#x2019;s just an email address&#x201D; is exactly the kind of thinking attackers count on.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 02 Aug 2026 15:37:24",
-    "score": 5,
-    "uid": "c108375375eaca66"
-  },
-  {
     "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
     "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
     "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5968ea1c1102c0ce"
+  },
+  {
+    "title": "Updated List: Mon Aug 03 02:56:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fdf56afba418ec04ff88194480f000f887c693e3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4c837399f97aa5de"
   }
 ]
