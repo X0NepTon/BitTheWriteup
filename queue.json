@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Made $20k in One Week",
-    "url": "https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty_writeup-5",
-    "summary": "Most people think bug bounty is luck.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 28 Jul 2026 12:59:06",
-    "score": 4,
-    "uid": "4471c5ef0529d0bc"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "87e1ebca431c462b"
+  },
+  {
+    "title": "Updated List: Tue Aug 04 04:13:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/21734637f0068f9fe34d6f4f48f5eefe9ca04333",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "837f159d3ac40219"
   }
 ]
