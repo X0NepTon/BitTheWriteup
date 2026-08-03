@@ -40,16 +40,6 @@
     "uid": "4471c5ef0529d0bc"
   },
   {
-    "title": "../../ to Admin for a $,$$$ Bounty",
-    "url": "https://0xsponge.medium.com/to-admin-for-a-bounty-b946f781607f?source=rss------bug_bounty-5",
-    "summary": "The target had two roles.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 30 Jul 2026 17:13:05",
-    "score": 4,
-    "uid": "97278e7facedeb96"
-  },
-  {
     "title": "$1,500 AI System Prompt Leak: Using this Burp Suite Configuration",
     "url": "https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5?source=rss------bug_bounty-5",
     "summary": "Akwaaba! guys. I&#x2019;ve finally got around to putting this one together. As usual, some of my good works $1,500 Email Verification Bypass and&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "74d6e86a895a9acd"
+  },
+  {
+    "title": "Updated List: Mon Aug 03 09:27:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/23aeef000df97c83b2ace88cc1105e76f0ce9919",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "545c59eda355d47d"
   }
 ]
