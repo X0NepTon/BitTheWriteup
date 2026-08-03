@@ -1,15 +1,5 @@
 [
   {
-    "title": "File Upload Bypasses — The $4k Bug That Sneaks Past Filters (Part 1)",
-    "url": "https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty_writeup-5",
-    "summary": "File uploads are everywhere.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 28 Jul 2026 13:23:38",
-    "score": 4,
-    "uid": "6163c3db28bf0e26"
-  },
-  {
     "title": "How I Made $20k in One Week",
     "url": "https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty_writeup-5",
     "summary": "Most people think bug bounty is luck.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a4e59ad0b85adedd"
+  },
+  {
+    "title": "Updated List: Tue Aug 04 02:10:21 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/461f8d8251be7fb6e2e5be1d585c62b43253ae6a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "87e1ebca431c462b"
   }
 ]
