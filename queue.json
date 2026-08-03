@@ -1,15 +1,5 @@
 [
   {
-    "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
-    "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5",
-    "summary": "An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer&#x2019;s&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 25 Jul 2026 23:50:39",
-    "score": 4,
-    "uid": "b465680e782aae4d"
-  },
-  {
     "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
     "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5",
     "summary": "TL;DR: HTML Injection is often marked as Informative or N/A by triagers. However, by demonstrating how a hidden CSS overlay bypassed the&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 03 Aug 2026 10:38:51",
     "score": 3,
     "uid": "f7d4b380303cb395"
+  },
+  {
+    "title": "Updated List: Mon Aug 03 18:55:55 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a6c685cddbaf7270e4e13cea223a2d4474c5a142",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d69f214637421cdd"
   }
 ]
