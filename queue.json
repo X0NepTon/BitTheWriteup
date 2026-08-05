@@ -160,16 +160,6 @@
     "uid": "734cea10c800a859"
   },
   {
-    "title": "Updated List: Sat Jun 27 13:46:18 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c2fff55589b52939d05b7e3c36cbd23ec72bcc0d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6e5cb0f39e95da71"
-  },
-  {
     "title": "Updated List: Sat Jun 27 15:56:38 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/92f20279a3d5e8e8355a3d58176ae256690b7ef1",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 05 Aug 2026 06:50:47",
     "score": 3,
     "uid": "9e523be7f8b6babe"
+  },
+  {
+    "title": "Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone",
+    "url": "https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty-5",
+    "summary": "How a failed XML-RPC login opened the door to cross-agency unauthorized associations.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 05 Aug 2026 06:50:47",
+    "score": 3,
+    "uid": "af15fc5a6d0f9816"
   }
 ]
