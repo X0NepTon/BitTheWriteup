@@ -160,16 +160,6 @@
     "uid": "734cea10c800a859"
   },
   {
-    "title": "Updated List: Sat Jun 27 05:26:15 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7ffe81260eaa55a86e11cb75e35bb1c594e8e431",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8c4ab06f196d93ce"
-  },
-  {
     "title": "Updated List: Sat Jun 27 11:12:47 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/a5457899f085747d3586d77607faed6e77e21615",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 04 Aug 2026 18:56:12",
     "score": 3,
     "uid": "7b8a477bc0babf5a"
+  },
+  {
+    "title": "How I Found a Critical Bug That Exposed Every User’s PII With a Free Account",
+    "url": "https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty-5",
+    "summary": "A private pentest, one API call, and a lesson every Supabase (or RLS-backed) team needs to hear.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 04 Aug 2026 18:56:12",
+    "score": 3,
+    "uid": "dc6df0158fcaddf7"
   }
 ]
