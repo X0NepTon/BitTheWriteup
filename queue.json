@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow (Bug Bounty…",
-    "url": "https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bug_bounty_writeup-5",
-    "summary": "I almost closed the tab on this program twice.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 05 Aug 2026 19:09:16",
-    "score": 4,
-    "uid": "8fc2c1891b57b8c1"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 05 Aug 2026 06:50:47",
     "score": 3,
     "uid": "af15fc5a6d0f9816"
+  },
+  {
+    "title": "Updated List: Thu Aug 06 03:34:43 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8318c59023e1a7d54a130d9f3cd73ec4b39a07b4",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c8160763a6ecd762"
   }
 ]
