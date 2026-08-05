@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE",
-    "url": "https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bug_bounty-5",
-    "summary": "About MeContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 04 Aug 2026 17:39:17",
-    "score": 13,
-    "uid": "e840f85e8f3c304c"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "72eea661bc53721f"
+  },
+  {
+    "title": "How I Found a Critical Bug That Exposed Every User’s PII With a Free Account",
+    "url": "https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty_writeup-5",
+    "summary": "A private pentest, one API call, and a lesson every Supabase (or RLS-backed) team needs to hear.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 04 Aug 2026 18:56:12",
+    "score": 3,
+    "uid": "7b8a477bc0babf5a"
   }
 ]
