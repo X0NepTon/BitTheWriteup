@@ -30,6 +30,16 @@
     "uid": "f2093cf84796afdd"
   },
   {
+    "title": "Python Web Penetration Testing — Day 9: Advanced SQL Injection — Beyond the Basics",
+    "url": "https://osintteam.blog/python-web-penetration-testing-day-9-advanced-sql-injection-beyond-the-basics-613a0a0ee90e?source=rss------bug_bounty-5",
+    "summary": "I thought I knew SQL injection.Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 12:46:51",
+    "score": 7,
+    "uid": "be89952fc1992e4a"
+  },
+  {
     "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
     "url": "https://medium.com/@kenjisubagja/how-a-single-unauthenticated-graphql-request-compromised-mozilla-firefox-ci-12-000-bounty-b6b29bd0becb?source=rss------bug_bounty-5",
     "summary": "OverviewContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Tue, 04 Aug 2026 18:56:12",
     "score": 3,
     "uid": "dc6df0158fcaddf7"
-  },
-  {
-    "title": "Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone",
-    "url": "https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5",
-    "summary": "How a failed XML-RPC login opened the door to cross-agency unauthorized associations.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 05 Aug 2026 06:50:47",
-    "score": 3,
-    "uid": "9e523be7f8b6babe"
   }
 ]
