@@ -1,15 +1,5 @@
 [
   {
-    "title": "OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks",
-    "url": "https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5",
-    "summary": "Apple paid $100,000 for this one. The researcher found it in an afternoon. The server issued OAuth tokens for any email address you asked&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 08:18:05",
-    "score": 11,
-    "uid": "c9dc74575ee60433"
-  },
-  {
     "title": "How I Almost Made $1,000 with a Pre-Account Takeover",
     "url": "https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty-5",
     "summary": "While testing the authentication functionality on redacted.com, I came across something quite interesting involving the combination of&#x2026;Continue reading on Medium »",
@@ -38,6 +28,36 @@
     "published": "Thu, 06 Aug 2026 12:46:51",
     "score": 7,
     "uid": "be89952fc1992e4a"
+  },
+  {
+    "title": "SQL Injection: Complete Guide",
+    "url": "https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 21:55:33",
+    "score": 7,
+    "uid": "03af9c085bc2503d"
+  },
+  {
+    "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
+    "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5",
+    "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 06 Aug 2026 16:09:15",
+    "score": 5,
+    "uid": "7e5f51962471bbc5"
+  },
+  {
+    "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
+    "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty-5",
+    "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 16:09:15",
+    "score": 5,
+    "uid": "33d1c9961edec43b"
   },
   {
     "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "72eea661bc53721f"
-  },
-  {
-    "title": "How I Found a Critical Bug That Exposed Every User’s PII With a Free Account",
-    "url": "https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty_writeup-5",
-    "summary": "A private pentest, one API call, and a lesson every Supabase (or RLS-backed) team needs to hear.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 04 Aug 2026 18:56:12",
-    "score": 3,
-    "uid": "7b8a477bc0babf5a"
-  },
-  {
-    "title": "How I Found a Critical Bug That Exposed Every User’s PII With a Free Account",
-    "url": "https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty-5",
-    "summary": "A private pentest, one API call, and a lesson every Supabase (or RLS-backed) team needs to hear.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 04 Aug 2026 18:56:12",
-    "score": 3,
-    "uid": "dc6df0158fcaddf7"
   }
 ]
