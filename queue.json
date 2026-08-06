@@ -1,5 +1,15 @@
 [
   {
+    "title": "OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks",
+    "url": "https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5",
+    "summary": "Apple paid $100,000 for this one. The researcher found it in an afternoon. The server issued OAuth tokens for any email address you asked&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 08:18:05",
+    "score": 11,
+    "uid": "c9dc74575ee60433"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "e849fc3f2cd5cfca"
-  },
-  {
-    "title": "Updated List: Thu Aug 06 11:45:43 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/25d0bd228bb22fa8d11084b0584c463662b4b349",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9b09c85df1d9f5e1"
   }
 ]
