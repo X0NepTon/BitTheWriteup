@@ -10,6 +10,36 @@
     "uid": "c9dc74575ee60433"
   },
   {
+    "title": "How I Almost Made $1,000 with a Pre-Account Takeover",
+    "url": "https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty-5",
+    "summary": "While testing the authentication functionality on redacted.com, I came across something quite interesting involving the combination of&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 12:17:57",
+    "score": 11,
+    "uid": "2ba8429021822bee"
+  },
+  {
+    "title": "From a Simple id Parameter to an Exceptional (10.0)",
+    "url": "https://medium.com/@ioldman/from-a-simple-id-parameter-to-an-exceptional-10-0-9024439fa82a?source=rss------bug_bounty-5",
+    "summary": "How a routine parameter inspection uncovered an unauthenticated SQL Injection that resulted in an Exceptional (10.0) severity rating and a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 12:21:41",
+    "score": 7,
+    "uid": "f2093cf84796afdd"
+  },
+  {
+    "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
+    "url": "https://medium.com/@kenjisubagja/how-a-single-unauthenticated-graphql-request-compromised-mozilla-firefox-ci-12-000-bounty-b6b29bd0becb?source=rss------bug_bounty-5",
+    "summary": "OverviewContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 12:18:49",
+    "score": 4,
+    "uid": "ed28314b5b95caa0"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "Wed, 05 Aug 2026 06:50:47",
     "score": 3,
     "uid": "9e523be7f8b6babe"
-  },
-  {
-    "title": "Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone",
-    "url": "https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty-5",
-    "summary": "How a failed XML-RPC login opened the door to cross-agency unauthorized associations.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 05 Aug 2026 06:50:47",
-    "score": 3,
-    "uid": "af15fc5a6d0f9816"
-  },
-  {
-    "title": "Updated List: Thu Aug 06 03:34:43 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8318c59023e1a7d54a130d9f3cd73ec4b39a07b4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c8160763a6ecd762"
-  },
-  {
-    "title": "Updated List: Thu Aug 06 09:04:11 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7ddab13779533f5ee4e97dffc8c51c043cce11a6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e849fc3f2cd5cfca"
   }
 ]
