@@ -1,15 +1,5 @@
 [
   {
-    "title": "JWT Algorithm Confusion → Admin Account Takeover",
-    "url": "https://medium.com/@mehrankiya272/jwt-algorithm-confusion-admin-account-takeover-fe3779fd026d?source=rss------bug_bounty-5",
-    "summary": "By Mehran &#x2014; cyb3rsemContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 07 Aug 2026 16:03:03",
-    "score": 9,
-    "uid": "bb83faed4ac43f3c"
-  },
-  {
     "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
     "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5",
     "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 07 Aug 2026 14:33:42",
     "score": 3,
     "uid": "8866922f8af2a3dc"
+  },
+  {
+    "title": "Updated List: Fri Aug 07 22:47:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/28703109e9d5e5c6edbe27d1d2b6df5324e304ce",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "87744c1ad27a6dce"
   }
 ]
