@@ -1,15 +1,5 @@
 [
   {
-    "title": "Python Web Penetration Testing — Day 9: Advanced SQL Injection — Beyond the Basics",
-    "url": "https://osintteam.blog/python-web-penetration-testing-day-9-advanced-sql-injection-beyond-the-basics-613a0a0ee90e?source=rss------bug_bounty-5",
-    "summary": "I thought I knew SQL injection.Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 12:46:51",
-    "score": 7,
-    "uid": "be89952fc1992e4a"
-  },
-  {
     "title": "SQL Injection: Complete Guide",
     "url": "https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "72eea661bc53721f"
+  },
+  {
+    "title": "The Bug Bounty Category No Scanner Will Ever Find",
+    "url": "https://infosecwriteups.com/the-bug-bounty-category-no-scanner-will-ever-find-30018972c479?source=rss------bug_bounty-5",
+    "summary": "Not a missing header. Not an outdated library. Just an application doing exactly what it was told to do &#x2014; in an order nobody planned for.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 07 Aug 2026 06:20:14",
+    "score": 3,
+    "uid": "ea869ccf729016bc"
   }
 ]
