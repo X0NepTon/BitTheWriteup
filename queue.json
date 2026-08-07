@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Almost Made $1,000 with a Pre-Account Takeover",
-    "url": "https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty-5",
-    "summary": "While testing the authentication functionality on redacted.com, I came across something quite interesting involving the combination of&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 12:17:57",
-    "score": 11,
-    "uid": "2ba8429021822bee"
-  },
-  {
     "title": "From a Simple id Parameter to an Exceptional (10.0)",
     "url": "https://medium.com/@ioldman/from-a-simple-id-parameter-to-an-exceptional-10-0-9024439fa82a?source=rss------bug_bounty-5",
     "summary": "How a routine parameter inspection uncovered an unauthenticated SQL Injection that resulted in an Exceptional (10.0) severity rating and a&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "72eea661bc53721f"
+  },
+  {
+    "title": "Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone",
+    "url": "https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5",
+    "summary": "How a failed XML-RPC login opened the door to cross-agency unauthorized associations.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 05 Aug 2026 06:50:47",
+    "score": 3,
+    "uid": "9e523be7f8b6babe"
   }
 ]
