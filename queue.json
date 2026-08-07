@@ -1,15 +1,5 @@
 [
   {
-    "title": "The SSRF That Wasn’t Supposed to Work Twice",
-    "url": "https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------bug_bounty_writeup-5",
-    "summary": "This one has a twist in it, so bear with the setup. The bug wasn&#x2019;t hard to find. Getting it accepted was the actual fight.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 07 Aug 2026 20:16:01",
-    "score": 8,
-    "uid": "748dbf3e27d45ac2"
-  },
-  {
     "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
     "url": "https://medium.com/@kenjisubagja/how-a-single-unauthenticated-graphql-request-compromised-mozilla-firefox-ci-12-000-bounty-b6b29bd0becb?source=rss------bug_bounty-5",
     "summary": "OverviewContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 07 Aug 2026 14:33:42",
     "score": 3,
     "uid": "8866922f8af2a3dc"
+  },
+  {
+    "title": "Updated List: Sat Aug 08 02:38:04 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/cb8ce5cebf043feed29c0c467b85a06048c39359",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "9f9bb91bddb63974"
   }
 ]
