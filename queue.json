@@ -1,15 +1,5 @@
 [
   {
-    "title": "Finding SQL Injection in a Government Website",
-    "url": "https://medium.com/@zheverxploit/finding-sql-injection-in-a-government-website-657d2fba33d6?source=rss------bug_bounty_writeup-5",
-    "summary": "Finding SQL InjectionContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 07 Aug 2026 06:27:28",
-    "score": 7,
-    "uid": "922e266bc1b65100"
-  },
-  {
     "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
     "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5",
     "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e7653df67149cf27"
+  },
+  {
+    "title": "Cyber Kill Chain: Understanding How Cyber Attacks Unfold",
+    "url": "https://medium.com/@rjstudio257/cyber-kill-chain-understanding-how-cyber-attacks-unfold-fc2ba4708b4e?source=rss------bug_bounty-5",
+    "summary": "Cyberattacks rarely happen in a single step. Most successful intrusions follow a structured sequence of actions, allowing attackers to&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 07 Aug 2026 14:33:42",
+    "score": 3,
+    "uid": "8866922f8af2a3dc"
   }
 ]
