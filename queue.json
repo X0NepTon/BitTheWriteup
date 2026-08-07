@@ -1,15 +1,5 @@
 [
   {
-    "title": "SQL Injection: Complete Guide",
-    "url": "https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 21:55:33",
-    "score": 7,
-    "uid": "03af9c085bc2503d"
-  },
-  {
     "title": "PortSwigger Web Security Academy: All NoSQL Injection Labs Solved (Full Walkthrough)",
     "url": "https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5",
     "summary": "The NoSQL Injection labs in PortSwigger Web Security Academy provide a practical introduction to exploiting modern web applications that&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 07 Aug 2026 06:20:14",
     "score": 3,
     "uid": "ea869ccf729016bc"
+  },
+  {
+    "title": "How I Hijacked Lightspark’s JSR Package and Could Have Backdoored Every Developer Using Their…",
+    "url": "https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bug_bounty-5",
+    "summary": "A supply chain attack on a Lightning Network payments company &#x2014; found in 15 minutes using a simple methodology anyone can replicate.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 06 Aug 2026 22:14:31",
+    "score": 3,
+    "uid": "8f2f7c2b60d90ac7"
   }
 ]
