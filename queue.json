@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
-    "url": "https://medium.com/@kenjisubagja/how-a-single-unauthenticated-graphql-request-compromised-mozilla-firefox-ci-12-000-bounty-b6b29bd0becb?source=rss------bug_bounty-5",
-    "summary": "OverviewContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 12:18:49",
-    "score": 4,
-    "uid": "ed28314b5b95caa0"
-  },
-  {
     "title": "CAPTCHA Bypass Bug on a Bug Bounty Program",
     "url": "https://medium.com/@mo_0xnaser/captcha-bypass-bug-on-a-bug-bounty-program-94ec4f6add57?source=rss------bug_bounty-5",
     "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645; &#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647;&#x60C; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x631;&#x633;&#x648;&#x644; &#x627;&#x644;&#x644;&#x647;.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9f9bb91bddb63974"
+  },
+  {
+    "title": "Updated List: Sat Aug 08 03:52:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0c0e1cd48df5d01f571e5993c2981bb266598c05",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2e6d0f0fdfed4dce"
   }
 ]
