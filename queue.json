@@ -1,15 +1,5 @@
 [
   {
-    "title": "PortSwigger Web Security Academy: All NoSQL Injection Labs Solved (Full Walkthrough)",
-    "url": "https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5",
-    "summary": "The NoSQL Injection labs in PortSwigger Web Security Academy provide a practical introduction to exploiting modern web applications that&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 07 Aug 2026 04:07:08",
-    "score": 7,
-    "uid": "a113e2424d6e05b1"
-  },
-  {
     "title": "Finding SQL Injection in a Government Website",
     "url": "https://medium.com/@zheverxploit/finding-sql-injection-in-a-government-website-657d2fba33d6?source=rss------bug_bounty_writeup-5",
     "summary": "Finding SQL InjectionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 06 Aug 2026 22:14:31",
     "score": 3,
     "uid": "8f2f7c2b60d90ac7"
+  },
+  {
+    "title": "Updated List: Fri Aug 07 18:14:04 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4dbbf99a740e13fa10212050faae559f6b2666fd",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e7653df67149cf27"
   }
 ]
