@@ -30,6 +30,16 @@
     "uid": "03af9c085bc2503d"
   },
   {
+    "title": "PortSwigger Web Security Academy: All NoSQL Injection Labs Solved (Full Walkthrough)",
+    "url": "https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5",
+    "summary": "The NoSQL Injection labs in PortSwigger Web Security Academy provide a practical introduction to exploiting modern web applications that&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 07 Aug 2026 04:07:08",
+    "score": 7,
+    "uid": "a113e2424d6e05b1"
+  },
+  {
     "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
     "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5",
     "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "72eea661bc53721f"
-  },
-  {
-    "title": "Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone",
-    "url": "https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5",
-    "summary": "How a failed XML-RPC login opened the door to cross-agency unauthorized associations.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 05 Aug 2026 06:50:47",
-    "score": 3,
-    "uid": "9e523be7f8b6babe"
   }
 ]
