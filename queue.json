@@ -1,15 +1,5 @@
 [
   {
-    "title": "CAPTCHA Bypass Bug on a Bug Bounty Program",
-    "url": "https://medium.com/@mo_0xnaser/captcha-bypass-bug-on-a-bug-bounty-program-94ec4f6add57?source=rss------bug_bounty-5",
-    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645; &#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647;&#x60C; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x631;&#x633;&#x648;&#x644; &#x627;&#x644;&#x644;&#x647;.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 07 Aug 2026 20:26:18",
-    "score": 4,
-    "uid": "71e22e87ba537e43"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2e6d0f0fdfed4dce"
+  },
+  {
+    "title": "Updated List: Sat Aug 08 04:56:44 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6a297a0688e84b999216420b8096fcd7d2bb82e2",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a63ed08a1d8bd4d6"
   }
 ]
