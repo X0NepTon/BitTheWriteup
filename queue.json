@@ -10,16 +10,6 @@
     "uid": "7e5f51962471bbc5"
   },
   {
-    "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
-    "url": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty-5",
-    "summary": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability &#x2014; such as an Unauthenticated Full&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 16:09:15",
-    "score": 5,
-    "uid": "33d1c9961edec43b"
-  },
-  {
     "title": "How a Single Unauthenticated GraphQL Request Compromised Mozilla Firefox CI — $12,000 Bounty",
     "url": "https://medium.com/@kenjisubagja/how-a-single-unauthenticated-graphql-request-compromised-mozilla-firefox-ci-12-000-bounty-b6b29bd0becb?source=rss------bug_bounty-5",
     "summary": "OverviewContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 07 Aug 2026 14:33:42",
     "score": 3,
     "uid": "8866922f8af2a3dc"
+  },
+  {
+    "title": "Updated List: Fri Aug 07 21:11:24 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bedc65a36b176c7a5b2eb2dd38bda3041c005dc7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "33a1f5ea3f19da36"
   }
 ]
