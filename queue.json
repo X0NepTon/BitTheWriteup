@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint",
+    "url": "https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty_writeup-5",
+    "summary": "Friend LinkContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 08 Aug 2026 08:11:11",
+    "score": 9,
+    "uid": "48e7b19feb4d8299"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "c43b22a1e5b20512"
-  },
-  {
-    "title": "Updated List: Sat Aug 08 12:39:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/583dcfa1ffb04d5e7cfa9fb6fb5b3bf44df3e059",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6794e667e08271b7"
   }
 ]
