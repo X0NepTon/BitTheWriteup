@@ -200,16 +200,6 @@
     "uid": "3421a18ea9e9635e"
   },
   {
-    "title": "Updated List: Sun Jun 28 12:17:45 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/19f2f3aca5bf5001b686ed4b7a9de9c07fde9e03",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5b32fa68459f7018"
-  },
-  {
     "title": "API Fuzzing for Bug Bounty: The Complete Attack-Focused Methodology",
     "url": "https://infosecwriteups.com/api-fuzzing-for-bug-bounty-the-complete-attack-focused-methodology-7c7b36303088?source=rss------bug_bounty-5",
     "summary": "API fuzzing is one of the most effective techniques for uncovering hidden vulnerabilities that traditional testing often misses. From&#x2026;Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "b82bf335892ab784"
+  },
+  {
+    "title": "Updated List: Sun Aug 09 00:52:07 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/aa856c915d746d84c919e2a85c5975d20269b051",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "9b8f1a36f0b0760f"
   }
 ]
