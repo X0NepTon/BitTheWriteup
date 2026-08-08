@@ -1,15 +1,5 @@
 [
   {
-    "title": "Uncovering a Privacy Bug in Proton Meet — How a Simple Logic ‘Typo’ Earned Me $100",
-    "url": "https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bug_bounty_writeup-5",
-    "summary": "this is the second bug bounty received by Proton &#x1F525;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 08 Aug 2026 00:15:51",
-    "score": 4,
-    "uid": "26e8ee929f451ff8"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2e6d0f0fdfed4dce"
+  },
+  {
+    "title": "Updated List: Sat Aug 08 08:03:31 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/6b40d59f08e25e9714e1b63f83d5d7ddd3081929",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "31ec20723a11fd74"
   }
 ]
