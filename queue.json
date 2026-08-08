@@ -210,16 +210,6 @@
     "uid": "4623c270eb3a5c7e"
   },
   {
-    "title": "Updated List: Sun Jun 28 15:20:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/17e18d2b6ec3c5e9ef94c870ac92f31f375f89fe",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2b82f88d2c5fcd24"
-  },
-  {
     "title": "Updated List: Sun Jun 28 16:58:54 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/cc0dbe6759f3fc74be6bcd5e8d46f17fc6bbb1b2",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9b8f1a36f0b0760f"
+  },
+  {
+    "title": "PoC Vault by CyberSecPlayground",
+    "url": "https://medium.com/@cybersecplayground/poc-vault-by-cybersecplayground-dffa3fad3784?source=rss------bug_bounty-5",
+    "summary": "&#x1F680; PoC Vault is Now Live!Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 08 Aug 2026 19:50:21",
+    "score": 3,
+    "uid": "56ef36912d72ace4"
   }
 ]
