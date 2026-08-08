@@ -210,16 +210,6 @@
     "uid": "4623c270eb3a5c7e"
   },
   {
-    "title": "Updated List: Sun Jun 28 16:58:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/cc0dbe6759f3fc74be6bcd5e8d46f17fc6bbb1b2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7021f9f185f07486"
-  },
-  {
     "title": "Updated List: Sun Jun 28 20:00:45 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/278c01964ec18dee78716722c2bd78c10d118c12",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 08 Aug 2026 19:50:21",
     "score": 3,
     "uid": "56ef36912d72ace4"
+  },
+  {
+    "title": "Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security…",
+    "url": "https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss------bug_bounty-5",
+    "summary": "AI-powered security scanners are becoming increasingly common. They can authenticate to applications, browse sensitive areas, inspect&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 08 Aug 2026 19:29:07",
+    "score": 3,
+    "uid": "f78fafbdb5029c63"
   }
 ]
