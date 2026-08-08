@@ -170,16 +170,6 @@
     "uid": "e0913006e2cc335b"
   },
   {
-    "title": "Updated List: Sat Jun 27 21:16:37 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/de1ff5e7fe14228dc9b736920a4e2b1d0a6c8387",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a5f4e45ba6a6e7db"
-  },
-  {
     "title": "Stored XSS via SVG File Upload in a Project Management Application",
     "url": "https://medium.com/@am011416854/stored-xss-via-svg-file-upload-in-a-project-management-application-038c0944c3f7?source=rss------bug_bounty-5",
     "summary": "Bug Bounty Write-up | Stored XSS | File Upload SecurityContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "c43b22a1e5b20512"
+  },
+  {
+    "title": "Updated List: Sat Aug 08 12:39:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/583dcfa1ffb04d5e7cfa9fb6fb5b3bf44df3e059",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6794e667e08271b7"
   }
 ]
