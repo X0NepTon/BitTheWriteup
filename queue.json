@@ -1,13 +1,13 @@
 [
   {
-    "title": "Unauthenticated Mass Data Deletion: When DELETE Has No Auth Check",
-    "url": "https://medium.com/@divakarvasani3938/unauthenticated-mass-data-deletion-when-delete-has-no-auth-check-07a095f37aa9?source=rss------bug_bounty-5",
-    "summary": "Finding and proving a cross-user resource deletion vulnerability through JS bundle analysis and sequential ID enumerationContinue reading on Medium »",
+    "title": "Indirect Prompt Injection: What LLM Bounty Triagers Actually Reward",
+    "url": "https://medium.com/infosec-writes-up/indirect-prompt-injection-what-llm-bounty-triagers-actually-reward-50bb08fc7dd3?source=rss------bug_bounty-5",
+    "summary": "Direct injection and jailbreaks keep getting closed as informational. The findings that pay chain a hidden instruction to a real&#x2026;Continue reading on InfoSec-Writes Up »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 09 Aug 2026 09:54:53",
-    "score": 10,
-    "uid": "d6252f996a62fbb8"
+    "published": "Sun, 09 Aug 2026 11:00:13",
+    "score": 5,
+    "uid": "a5faa241c71d091a"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
