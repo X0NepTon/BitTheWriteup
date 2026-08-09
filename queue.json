@@ -230,16 +230,6 @@
     "uid": "84699fd595a56350"
   },
   {
-    "title": "Updated List: Mon Jun 29 11:53:15 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bcf550368e47cb305ff392bb6cc53f5e2841092b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0cd76f3452af2104"
-  },
-  {
     "title": "I Used DigPool.AI for Bug Bounty Hunting. Here’s What Actually Changed.",
     "url": "https://medium.com/@apsoorya2020/i-used-digpool-ai-for-bug-bounty-hunting-heres-what-actually-changed-f2dd239ac4a5?source=rss------bug_bounty-5",
     "summary": "Most bug bounty write-ups skip the boring part: the hours spent just figuring out what an application is actually doing before a single&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a6554da70b48c128"
+  },
+  {
+    "title": "Updated List: Sun Aug 09 23:48:57 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/1a59524583e235d0d3041a77f394a6eb2e2a2f9b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "54fea48982daf1ab"
   }
 ]
