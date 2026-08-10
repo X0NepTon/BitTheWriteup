@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Quiet SQLi Everyone Walks Past (And How to Catch It)",
-    "url": "https://kd-200.medium.com/the-quiet-sqli-everyone-walks-past-and-how-to-catch-it-e21ff4ed0f51?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 10 Aug 2026 11:31:01",
-    "score": 7,
-    "uid": "f698c1ff931d3390"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4a47edf5f836d12e"
+  },
+  {
+    "title": "Lab: Using PHAR deserialization to deploy a custom gadget chain",
+    "url": "https://medium.com/@amrsmooke321/lab-using-phar-deserialization-to-deploy-a-custom-gadget-chain-62715de7bd27?source=rss------bug_bounty-5",
+    "summary": "Forget about the exploit payload, the Blog class, or writing code. Right now, our only goal is to find a place on the website that lets us&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 10 Aug 2026 13:00:27",
+    "score": 3,
+    "uid": "cd0bcba20f0990c7"
   }
 ]
