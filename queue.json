@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Quiet SQLi Everyone Walks Past (And How to Catch It)",
+    "url": "https://kd-200.medium.com/the-quiet-sqli-everyone-walks-past-and-how-to-catch-it-e21ff4ed0f51?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 10 Aug 2026 11:31:01",
+    "score": 7,
+    "uid": "f698c1ff931d3390"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4a47edf5f836d12e"
-  },
-  {
-    "title": "Updated List: Mon Aug 10 16:23:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/54ef193a7eda22ebffc7f484e1f76d4c103715a5",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2636af86cde10ff4"
   }
 ]
