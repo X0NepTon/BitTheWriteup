@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bug Bounty for Beginners 2026 — Earn Your First $100 with Ethical Hacking",
-    "url": "https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-2026-earn-your-first-100-with-ethical-hacking-6bbabd376013?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 12 Aug 2026 17:49:22",
-    "score": 4,
-    "uid": "03e829d8f4dcbf7b"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a52d073843a8bb1b"
+  },
+  {
+    "title": "Updated List: Thu Aug 13 01:38:56 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b46bdc31680ad0b436aa1ec8ce44e1020954a303",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e052b1f2907cd079"
   }
 ]
