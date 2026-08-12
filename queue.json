@@ -1,15 +1,5 @@
 [
   {
-    "title": "3 IDOR Bugs That Paid $113,000 Combined — Here’s the 5-Minute Pattern Behind All of Them",
-    "url": "https://medium.com/codetodeploy/3-idor-bugs-that-paid-113-000-combined-heres-the-5-minute-pattern-behind-all-of-them-7255a84dde46?source=rss------bug_bounty-5",
-    "summary": "Tags: Cybersecurity, Bug Bounty, Hacking, Web Development, IDORContinue reading on CodeToDeploy »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 12 Aug 2026 05:09:06",
-    "score": 9,
-    "uid": "43d5082d262e5b9d"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 12 Aug 2026 00:46:36",
     "score": 3,
     "uid": "59e69f3fbb0e2496"
+  },
+  {
+    "title": "How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud",
+    "url": "https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty-5",
+    "summary": "30-second version: Apple&#x2019;s Private Cloud Compute (PCC) runs the heavy-lifting for Apple Intelligence. Its first userspace process&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 12 Aug 2026 00:46:36",
+    "score": 3,
+    "uid": "c768fa99378fb9de"
   }
 ]
