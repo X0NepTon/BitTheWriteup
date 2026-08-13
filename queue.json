@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty",
-    "url": "https://medium.com/@t3nv1/how-a-broken-preview-button-exposed-800-000-private-documents-for-a-8-500-bounty-d556b3887167?source=rss------bug_bounty-5",
-    "summary": "If there&#x2019;s one lesson every bug hunter learns the hard way, it&#x2019;s this: The most dangerous features are often the ones built purely for&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 13 Aug 2026 15:36:01",
-    "score": 4,
-    "uid": "5a5d30ed16a92b87"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a3c45eaa726c72d1"
+  },
+  {
+    "title": "Updated List: Fri Aug 14 02:58:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f33f556d59d97537bad1039ecb667a8b71c0ebc5",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "39c2e3736271b36f"
   }
 ]
