@@ -1,5 +1,35 @@
 [
   {
+    "title": "Understanding Client-Side Prototype Pollution (Finally)",
+    "url": "https://systemweakness.com/understanding-client-side-prototype-pollution-finally-849e80b3554d?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on System Weakness »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 13 Aug 2026 11:31:01",
+    "score": 6,
+    "uid": "50af8333e1ee098f"
+  },
+  {
+    "title": "Bypassing Keyword and Character Filters to Achieve Reflected XSS",
+    "url": "https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5",
+    "summary": "A Bug Bounty Writeup | HackerOne ReportContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 13 Aug 2026 15:26:56",
+    "score": 5,
+    "uid": "6d0c8cfed2147b51"
+  },
+  {
+    "title": "How a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty",
+    "url": "https://medium.com/@t3nv1/how-a-broken-preview-button-exposed-800-000-private-documents-for-a-8-500-bounty-d556b3887167?source=rss------bug_bounty-5",
+    "summary": "If there&#x2019;s one lesson every bug hunter learns the hard way, it&#x2019;s this: The most dangerous features are often the ones built purely for&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 13 Aug 2026 15:36:01",
+    "score": 4,
+    "uid": "5a5d30ed16a92b87"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
-  },
-  {
-    "title": "Updated List: Thu Aug 13 14:38:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8f8094e5be7d2f60dc581174fc13b1e693e990fe",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3f3d8bf914b2ee87"
-  },
-  {
-    "title": "Updated List: Thu Aug 13 18:34:55 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f55821743561f2c55952d2cd944c870cd17014bc",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "406842c2106e8b0c"
-  },
-  {
-    "title": "Updated List: Thu Aug 13 19:57:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1e76cfc6783ceb3d711ef1d81bcc67046c2d7c67",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "663b8887367f595b"
   }
 ]
