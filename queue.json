@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bypassing Keyword and Character Filters to Achieve Reflected XSS",
-    "url": "https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5",
-    "summary": "A Bug Bounty Writeup | HackerOne ReportContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 13 Aug 2026 15:26:56",
-    "score": 5,
-    "uid": "6d0c8cfed2147b51"
-  },
-  {
     "title": "How a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty",
     "url": "https://medium.com/@t3nv1/how-a-broken-preview-button-exposed-800-000-private-documents-for-a-8-500-bounty-d556b3887167?source=rss------bug_bounty-5",
     "summary": "If there&#x2019;s one lesson every bug hunter learns the hard way, it&#x2019;s this: The most dangerous features are often the ones built purely for&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "813f89f4126e347a"
+  },
+  {
+    "title": "Updated List: Fri Aug 14 02:10:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4b2524b7044d2ac5acc4813ed150328d390141a3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a3c45eaa726c72d1"
   }
 ]
