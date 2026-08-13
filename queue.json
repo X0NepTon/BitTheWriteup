@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Client-Side Prototype Pollution (Finally)",
-    "url": "https://systemweakness.com/understanding-client-side-prototype-pollution-finally-849e80b3554d?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on System Weakness »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 13 Aug 2026 11:31:01",
-    "score": 6,
-    "uid": "50af8333e1ee098f"
-  },
-  {
     "title": "Bypassing Keyword and Character Filters to Achieve Reflected XSS",
     "url": "https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5",
     "summary": "A Bug Bounty Writeup | HackerOne ReportContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
+  },
+  {
+    "title": "Updated List: Thu Aug 13 21:47:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c2e6ce9ff296b30b99eeb6af2d872ea66f59879b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "813f89f4126e347a"
   }
 ]
