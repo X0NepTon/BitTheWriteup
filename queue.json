@@ -1,15 +1,5 @@
 [
   {
-    "title": "Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding",
-    "url": "https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty_writeup-5",
-    "summary": "How a seemingly simple input-validation issue turned into a real-world phishing and malicious-redirection scenario.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 13 Aug 2026 07:17:32",
-    "score": 7,
-    "uid": "89823c4190f7eec5"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
+  },
+  {
+    "title": "Updated List: Thu Aug 13 14:38:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8f8094e5be7d2f60dc581174fc13b1e693e990fe",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3f3d8bf914b2ee87"
   }
 ]
