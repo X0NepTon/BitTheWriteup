@@ -1,5 +1,15 @@
 [
   {
+    "title": "How to Find Your First Bug Bounty Vulnerability in 2026 (The Beginner Method That Actually Pays)",
+    "url": "https://medium.com/@b0dj0x/how-to-find-your-first-bug-bounty-vulnerability-in-2026-the-beginner-method-that-actually-pays-dbd385c063f2?source=rss------bug_bounty-5",
+    "summary": "Everyone&apos;s searching CVE-2026-50522, Here&apos;s the step-by-step IDOR method beginners actually use to find paid bugs, by b0dj0x.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 19:03:48",
+    "score": 12,
+    "uid": "cbfcdc18c40183a0"
+  },
+  {
     "title": "Dorks that could get you a good bounty in 2026",
     "url": "https://medium.com/@thenewdate24/dorks-that-could-get-you-a-good-bounty-in-2026-a8cde06f18ed?source=rss------bug_bounty-5",
     "summary": "Google can index far more than publicly intended webpages. During an authorized bug bounty assessment, search operators can help&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
-  },
-  {
-    "title": "Updated List: Sat Aug 15 00:02:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/56d31e59d13d6b15a27f6abec55fdb53b89d91d1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "df3a76b837f4b308"
   }
 ]
