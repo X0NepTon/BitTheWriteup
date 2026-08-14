@@ -1,5 +1,25 @@
 [
   {
+    "title": "How I Systematically Find SQL Injection Bugs in Bug Bounty Programs (Step-by-Step Method)",
+    "url": "https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty-5",
+    "summary": "SQLi is decades old and still one of the highest-paying bug classes in 2026 &#x2014; here&#x2019;s the exact recon-to-report process that actually finds&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 17:00:40",
+    "score": 18,
+    "uid": "cba3cb819c6b230e"
+  },
+  {
+    "title": "Dorks that could get you a good bounty in 2026",
+    "url": "https://medium.com/@thenewdate24/dorks-that-could-get-you-a-good-bounty-in-2026-a8cde06f18ed?source=rss------bug_bounty-5",
+    "summary": "Google can index far more than publicly intended webpages. During an authorized bug bounty assessment, search operators can help&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 17:01:43",
+    "score": 11,
+    "uid": "b2e11671115e1e56"
+  },
+  {
     "title": "Free Resources Every Broke College Student Can Use to Learn Hacking",
     "url": "https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5",
     "summary": "No budget. No problem. Some of the best security professionals learned everything on free resources.Continue reading on Medium »",
@@ -28,6 +48,26 @@
     "published": "Fri, 14 Aug 2026 12:51:56",
     "score": 7,
     "uid": "7a8a234665092875"
+  },
+  {
+    "title": "One IDOR, Three Leaks, $3K in Payouts",
+    "url": "https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty_writeup-5",
+    "summary": "A single access-control mistake across multiple sharing APIs turned into three accepted reports &#x2013; and three payouts.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 14 Aug 2026 17:39:40",
+    "score": 7,
+    "uid": "f776bc933a6823d2"
+  },
+  {
+    "title": "One IDOR, Three Leaks, $3K in Payouts",
+    "url": "https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty-5",
+    "summary": "A single access-control mistake across multiple sharing APIs turned into three accepted reports &#x2013; and three payouts.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 17:39:40",
+    "score": 7,
+    "uid": "008df68d609de944"
   },
   {
     "title": "Got My First $$ Bug Bounty",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
-  },
-  {
-    "title": "Updated List: Thu Aug 13 21:47:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c2e6ce9ff296b30b99eeb6af2d872ea66f59879b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "813f89f4126e347a"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 02:10:37 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4b2524b7044d2ac5acc4813ed150328d390141a3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a3c45eaa726c72d1"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 02:58:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f33f556d59d97537bad1039ecb667a8b71c0ebc5",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "39c2e3736271b36f"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 03:40:25 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f8712b8f9f261e692c3b8ff57e83d9793adbc064",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8b88602f53679e55"
   }
 ]
