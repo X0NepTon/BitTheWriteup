@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Systematically Find SQL Injection Bugs in Bug Bounty Programs (Step-by-Step Method)",
-    "url": "https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty-5",
-    "summary": "SQLi is decades old and still one of the highest-paying bug classes in 2026 &#x2014; here&#x2019;s the exact recon-to-report process that actually finds&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 17:00:40",
-    "score": 18,
-    "uid": "cba3cb819c6b230e"
-  },
-  {
     "title": "Dorks that could get you a good bounty in 2026",
     "url": "https://medium.com/@thenewdate24/dorks-that-could-get-you-a-good-bounty-in-2026-a8cde06f18ed?source=rss------bug_bounty-5",
     "summary": "Google can index far more than publicly intended webpages. During an authorized bug bounty assessment, search operators can help&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ffa50ede4c31c621"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 00:02:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/56d31e59d13d6b15a27f6abec55fdb53b89d91d1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "df3a76b837f4b308"
   }
 ]
