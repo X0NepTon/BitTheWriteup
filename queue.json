@@ -260,16 +260,6 @@
     "uid": "aed57af6b9eb89d2"
   },
   {
-    "title": "Updated List: Fri Jul 03 17:55:30 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1712f57ce6f55e0a20f0a092e116ce06713c437c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c4679095a8d4d436"
-  },
-  {
     "title": "Updated List: Fri Jul 03 21:41:44 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/6dca7c8630b3d60e62326fc8f39b1f3d46cb9065",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "6962064964b78d47"
+  },
+  {
+    "title": "Browser Exploitation: 12 Techniques From Recent CTFs You Can Actually Use",
+    "url": "https://medium.com/@verylazytech/browser-exploitation-12-techniques-from-recent-ctfs-you-can-actually-use-1779ff4c94dd?source=rss------bug_bounty-5",
+    "summary": "What if I told you that your browser &#x2014; yes, the very thing you&#x2019;re using right now &#x2014; could become the weakest link in your security chain&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 07:12:38",
+    "score": 3,
+    "uid": "36af405b11816510"
   }
 ]
