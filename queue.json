@@ -1,15 +1,5 @@
 [
   {
-    "title": "{{7*7}} = 49: A Bug Hunter’s Guide to Server-Side Template Injection",
-    "url": "https://osintteam.blog/7-7-49-a-bug-hunters-guide-to-server-side-template-injection-299cdcd6e259?source=rss------bug_bounty-5",
-    "summary": "How &#x201C;Hello, {name}&#x201D; turns into remote code execution.Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 11:26:56",
-    "score": 10,
-    "uid": "2496e3848711b9ce"
-  },
-  {
     "title": "Free Resources Every Broke College Student Can Use to Learn Hacking",
     "url": "https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5",
     "summary": "No budget. No problem. Some of the best security professionals learned everything on free resources.Continue reading on Medium »",
@@ -18,6 +8,16 @@
     "published": "Fri, 14 Aug 2026 10:16:01",
     "score": 10,
     "uid": "1a7174b331734717"
+  },
+  {
+    "title": "Shadow AI: The Breach Nobody Approved, Signed Off On, or Even Saw Coming",
+    "url": "https://medium.com/@t3nv1/shadow-ai-the-breach-nobody-approved-signed-off-on-or-even-saw-coming-e97737fe30eb?source=rss------bug_bounty-5",
+    "summary": "A developer at a mid-sized fintech company pasted a chunk of proprietary source code into a free AI chatbot last spring, just to get a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 15:41:01",
+    "score": 10,
+    "uid": "22e238b185646e40"
   },
   {
     "title": "From a Single WAF Bypass to 58,000+ Exposed Media Objects",
