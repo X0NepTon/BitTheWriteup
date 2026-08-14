@@ -1,15 +1,5 @@
 [
   {
-    "title": "Dorks that could get you a good bounty in 2026",
-    "url": "https://medium.com/@thenewdate24/dorks-that-could-get-you-a-good-bounty-in-2026-a8cde06f18ed?source=rss------bug_bounty-5",
-    "summary": "Google can index far more than publicly intended webpages. During an authorized bug bounty assessment, search operators can help&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 17:01:43",
-    "score": 11,
-    "uid": "b2e11671115e1e56"
-  },
-  {
     "title": "Free Resources Every Broke College Student Can Use to Learn Hacking",
     "url": "https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5",
     "summary": "No budget. No problem. Some of the best security professionals learned everything on free resources.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "3427823365a61fb2"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 02:32:16 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/80b15b106417cfb5b99d66d0c20eb103b2e97224",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b733300e9dfd0075"
   }
 ]
