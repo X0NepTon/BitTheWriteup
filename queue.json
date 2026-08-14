@@ -1,15 +1,5 @@
 [
   {
-    "title": "Shadow AI: The Breach Nobody Approved, Signed Off On, or Even Saw Coming",
-    "url": "https://medium.com/@t3nv1/shadow-ai-the-breach-nobody-approved-signed-off-on-or-even-saw-coming-e97737fe30eb?source=rss------bug_bounty-5",
-    "summary": "A developer at a mid-sized fintech company pasted a chunk of proprietary source code into a free AI chatbot last spring, just to get a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 15:41:01",
-    "score": 10,
-    "uid": "22e238b185646e40"
-  },
-  {
     "title": "From a Single WAF Bypass to 58,000+ Exposed Media Objects",
     "url": "https://medium.com/@tarekeldemerdash/from-a-single-waf-bypass-to-58-000-exposed-media-objects-ad5efc34640b?source=rss------bug_bounty-5",
     "summary": "A bug bounty case study in chaining overlooked misconfigurations into a full attack surfaceContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e0e33c0e79d368aa"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 04:32:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7977fabda669271822628511802728170e6c7cd7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8a3cd14a3ab0d3e2"
   }
 ]
