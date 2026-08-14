@@ -30,6 +30,16 @@
     "uid": "1a7174b331734717"
   },
   {
+    "title": "From a Single WAF Bypass to 58,000+ Exposed Media Objects",
+    "url": "https://medium.com/@tarekeldemerdash/from-a-single-waf-bypass-to-58-000-exposed-media-objects-ad5efc34640b?source=rss------bug_bounty-5",
+    "summary": "A bug bounty case study in chaining overlooked misconfigurations into a full attack surfaceContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 12:51:56",
+    "score": 7,
+    "uid": "7a8a234665092875"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8b88602f53679e55"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 05:00:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/ecf91a621d8527c7f2c25a1f1971988ea4dfecf0",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "cc92eb2840dd2079"
   }
 ]
