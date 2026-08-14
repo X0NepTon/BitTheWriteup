@@ -1,15 +1,5 @@
 [
   {
-    "title": "Free Resources Every Broke College Student Can Use to Learn Hacking",
-    "url": "https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5",
-    "summary": "No budget. No problem. Some of the best security professionals learned everything on free resources.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 10:16:01",
-    "score": 10,
-    "uid": "1a7174b331734717"
-  },
-  {
     "title": "Shadow AI: The Breach Nobody Approved, Signed Off On, or Even Saw Coming",
     "url": "https://medium.com/@t3nv1/shadow-ai-the-breach-nobody-approved-signed-off-on-or-even-saw-coming-e97737fe30eb?source=rss------bug_bounty-5",
     "summary": "A developer at a mid-sized fintech company pasted a chunk of proprietary source code into a free AI chatbot last spring, just to get a&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "b733300e9dfd0075"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 03:50:09 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8f1c78b7d9605c685fce0492df82482ae89c0f90",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e0e33c0e79d368aa"
   }
 ]
