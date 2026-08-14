@@ -1,13 +1,33 @@
 [
   {
-    "title": "How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years",
-    "url": "https://infosecwriteups.com/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5",
-    "summary": "30-Second Version: One SSRF bypass technique &#x2014; a single HTTP redirect &#x2014; worked against Infogram (2017), Slack (2018), Bitwarden (2020)&#x2026;Continue reading on InfoSec Write-ups »",
+    "title": "{{7*7}} = 49: A Bug Hunter’s Guide to Server-Side Template Injection",
+    "url": "https://osintteam.blog/7-7-49-a-bug-hunters-guide-to-server-side-template-injection-299cdcd6e259?source=rss------bug_bounty_writeup-5",
+    "summary": "How &#x201C;Hello, {name}&#x201D; turns into remote code execution.Continue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 14 Aug 2026 11:26:56",
+    "score": 11,
+    "uid": "3ea173014a4271f7"
+  },
+  {
+    "title": "{{7*7}} = 49: A Bug Hunter’s Guide to Server-Side Template Injection",
+    "url": "https://osintteam.blog/7-7-49-a-bug-hunters-guide-to-server-side-template-injection-299cdcd6e259?source=rss------bug_bounty-5",
+    "summary": "How &#x201C;Hello, {name}&#x201D; turns into remote code execution.Continue reading on OSINT Team »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 02:31:01",
-    "score": 11,
-    "uid": "ad5f9232b33ff6f5"
+    "published": "Fri, 14 Aug 2026 11:26:56",
+    "score": 10,
+    "uid": "2496e3848711b9ce"
+  },
+  {
+    "title": "Free Resources Every Broke College Student Can Use to Learn Hacking",
+    "url": "https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5",
+    "summary": "No budget. No problem. Some of the best security professionals learned everything on free resources.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 14 Aug 2026 10:16:01",
+    "score": 10,
+    "uid": "1a7174b331734717"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "cc92eb2840dd2079"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 05:38:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3607ccd0343bc7b5260e45348efcda1bafae6de3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c17ef8864ae7c53b"
-  },
-  {
-    "title": "Updated List: Fri Aug 14 11:23:44 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/762ea7c8de0805c817645366c6ab3f9283e70f12",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6962064964b78d47"
   }
 ]
