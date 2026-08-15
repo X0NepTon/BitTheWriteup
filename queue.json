@@ -1,5 +1,15 @@
 [
   {
+    "title": "How to Exploit a JWT Authentication Bypass",
+    "url": "https://medium.com/@gdefault830/how-to-exploit-a-jwt-authentication-bypass-cde76147fd7d?source=rss------bug_bounty_writeup-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 15 Aug 2026 16:54:03",
+    "score": 9,
+    "uid": "f162e9d2b798ffd7"
+  },
+  {
     "title": "How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000",
     "url": "https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5",
     "summary": "If there is a golden rule in bug bounty hunting, it&#x2019;s this: The most secure platforms in the world almost always leave their back door&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "bc3b10f3aa29e37b"
-  },
-  {
-    "title": "Updated List: Sat Aug 15 16:40:14 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/83da298069d71fdf3989f4fd0048f255b2555686",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "794e1766fe2123da"
   }
 ]
