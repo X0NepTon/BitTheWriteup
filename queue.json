@@ -260,16 +260,6 @@
     "uid": "aed57af6b9eb89d2"
   },
   {
-    "title": "Updated List: Sat Jul 04 03:49:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/418255e99150b41ce51a844546f0a5dc1fae977b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d0a6cd9a03a988f0"
-  },
-  {
     "title": "How I Discovered a Critical Data Leak Starting with a Small Clue",
     "url": "https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5",
     "summary": "INTRODUCTIONContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4438396a54941c4b"
+  },
+  {
+    "title": "Updated List: Sun Aug 16 04:40:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ad69b7fe72fd847d75d005f8e5d86838a3770284",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "9a4a301c6ec1c516"
   }
 ]
