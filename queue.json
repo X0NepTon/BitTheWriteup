@@ -1,15 +1,5 @@
 [
   {
-    "title": "Finding SSRF In Modern Web Apps",
-    "url": "https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty_writeup-5",
-    "summary": "You think Modern Web Apps are like Labs out there. C&#x2019;mon. That&#x2019;s not how Modern Web Apps work. The beginners that say that they know the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 15 Aug 2026 07:10:05",
-    "score": 8,
-    "uid": "ab1b40696a948e5c"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e1fad8c46c8f5b1d"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 14:35:30 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7f112a4a037ae05e578c17d51a013e090d637590",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bc3b10f3aa29e37b"
   }
 ]
