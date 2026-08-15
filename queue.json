@@ -1,15 +1,5 @@
 [
   {
-    "title": "From a Single WAF Bypass to 58,000+ Exposed Media Objects",
-    "url": "https://medium.com/@tarekeldemerdash/from-a-single-waf-bypass-to-58-000-exposed-media-objects-ad5efc34640b?source=rss------bug_bounty-5",
-    "summary": "A bug bounty case study in chaining overlooked misconfigurations into a full attack surfaceContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 14 Aug 2026 12:51:56",
-    "score": 7,
-    "uid": "7a8a234665092875"
-  },
-  {
     "title": "One IDOR, Three Leaks, $3K in Payouts",
     "url": "https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty_writeup-5",
     "summary": "A single access-control mistake across multiple sharing APIs turned into three accepted reports &#x2013; and three payouts.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "8a3cd14a3ab0d3e2"
+  },
+  {
+    "title": "Updated List: Sat Aug 15 06:07:56 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/eac7dfe680da4c48aee79b00931518fa15a92ca4",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c208ff44bc6ca5c3"
   }
 ]
