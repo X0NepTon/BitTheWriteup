@@ -1,5 +1,15 @@
 [
   {
+    "title": "Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data",
+    "url": "https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5",
+    "summary": "While testing a public bug bounty program, I came across an interesting file:Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 15 Aug 2026 13:09:43",
+    "score": 5,
+    "uid": "08eff721ad434526"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "794e1766fe2123da"
-  },
-  {
-    "title": "Updated List: Sat Aug 15 17:49:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d780ca1d4c3d841a5661ef1469481573ebf1d55f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6fa10acfd28dce87"
   }
 ]
