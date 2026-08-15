@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes",
+    "url": "https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty_writeup-5",
+    "summary": "Aser Ahmed &#xB7; August 8, 2026Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 15 Aug 2026 03:40:53",
+    "score": 8,
+    "uid": "39e1b93c8effeb08"
+  },
+  {
     "title": "Got My First $$ Bug Bounty",
     "url": "https://infosecwriteups.com/got-my-first-bug-bounty-9d3d017b4342?source=rss------bug_bounty-5",
     "summary": "I finally got my first bug bounty.Continue reading on InfoSec Write-ups »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "11b6701dc6fa4640"
-  },
-  {
-    "title": "Updated List: Sat Aug 15 08:57:55 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/40bab704cb8f2e26424d98d1af441ba8d753425a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d242df7f5b62293f"
   }
 ]
