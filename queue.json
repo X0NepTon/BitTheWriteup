@@ -10,16 +10,6 @@
     "uid": "df692c1d8e28b60e"
   },
   {
-    "title": "How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000",
-    "url": "https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty-5",
-    "summary": "If there is a golden rule in bug bounty hunting, it&#x2019;s this: The most secure platforms in the world almost always leave their back door&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 15 Aug 2026 15:46:01",
-    "score": 4,
-    "uid": "6dea196733c0996e"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4994f35e3dbaf480"
+  },
+  {
+    "title": "Updated List: Sun Aug 16 01:41:19 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7c97c3cff98757d0165d39e572aa73c99a852e2c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "a9ca2a0df458a4ae"
   }
 ]
