@@ -10,16 +10,6 @@
     "uid": "8236df674a64a1fa"
   },
   {
-    "title": "How a Forgot-Password “Feature” Let Me Impersonate Any Executive for a $5,500 Bounty",
-    "url": "https://medium.com/@t3nv1/how-a-forgot-password-feature-let-me-impersonate-any-executive-for-a-5-500-bounty-7a21297a18ca?source=rss------bug_bounty-5",
-    "summary": "If you talk to any senior pentester, they&#x2019;ll tell you that authentication mechanisms are like onion layers: developers focus 90% of their&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 16 Aug 2026 18:56:01",
-    "score": 4,
-    "uid": "3134a73fb6273975"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "dbb9efd1d3d48652"
+  },
+  {
+    "title": "Updated List: Mon Aug 17 01:37:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/9b3d0c55613f554eefe88dc90d2f40722dcf9c5b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "44ed0a856ad40468"
   }
 ]
