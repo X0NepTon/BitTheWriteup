@@ -280,16 +280,6 @@
     "uid": "d916855c91222df2"
   },
   {
-    "title": "Updated List: Wed Jul 08 06:38:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/363c79cbd764f249b613338e4fa86a98e4c0d32b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "cf6565b867f4a771"
-  },
-  {
     "title": "How a Trusted Header Turned Into an Open Redirect in Telekom’s System",
     "url": "https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty_writeup-5",
     "summary": "Host Header Injection &#x2192; Open RedirectContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d7d04b74fd7e5378"
+  },
+  {
+    "title": "Updated List: Sun Aug 16 08:42:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3f59ea7c360a261e5df9e899789de2a2dfb4add3",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ad11b1e7baf81103"
   }
 ]
