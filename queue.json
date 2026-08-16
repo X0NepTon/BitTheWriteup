@@ -310,16 +310,6 @@
     "uid": "eec77e78b8eb73c3"
   },
   {
-    "title": "Updated List: Wed Jul 08 18:25:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1cc4b53dece5617c6c21b0d5b044693c8849e31a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "76c5932227de3317"
-  },
-  {
     "title": "One Wildcard Character — $88,337 from Google: How brutecat Broke Cloud Tenant Isolation — A…",
     "url": "https://medium.com/@vivekps143/one-wildcard-character-88-337-from-google-how-brutecat-broke-cloud-tenant-isolation-a-7110a0efaa30?source=rss------bug_bounty-5",
     "summary": "Credit: This is a narrative review of a vulnerability originally discovered and responsibly disclosed by brutecat. The original report is&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ad11b1e7baf81103"
+  },
+  {
+    "title": "Updated List: Sun Aug 16 10:48:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/17ef31ea38392a5f0bfa63a0a23c8e2631e7828f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f99632cef7c70006"
   }
 ]
