@@ -360,16 +360,6 @@
     "uid": "5bd6711d55402dbf"
   },
   {
-    "title": "Updated List: Sat Jul 11 05:42:11 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/23a7442f9cde25cd7a1b33e343aec823608ce601",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7806901994e384b9"
-  },
-  {
     "title": "Updated List: Sat Jul 11 17:00:58 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/fd47901276ade3e590cf74c74082c4477edc8f48",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "510e536f6098a741"
+  },
+  {
+    "title": "When Client-Side Encryption Becomes a Security Blanket",
+    "url": "https://devilwrites.medium.com/when-client-side-encryption-becomes-a-security-blanket-8e124d484c76?source=rss------bug_bounty-5",
+    "summary": "Five critical bugs, one overconfident app, and a reminder that encryption is not a personality.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 16 Aug 2026 07:57:19",
+    "score": 3,
+    "uid": "24137d501dbeeac6"
   }
 ]
