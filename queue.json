@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hidden Web Paths: Smart Content Discovery Techniques",
+    "url": "https://medium.com/@ph620095/hidden-web-paths-smart-content-discovery-techniques-ea90394eb6e7?source=rss------bug_bounty-5",
+    "summary": "Understand how hidden routes and resources can be uncovered using systematic mapping, pattern analysis, and targeted content discovery.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 17 Aug 2026 16:06:39",
+    "score": 10,
+    "uid": "82668cdaeff6454a"
+  },
+  {
     "title": "How I Found an Authentication Bypass in a Target’s MCP Server",
     "url": "https://cyphernova1337.medium.com/how-i-found-an-authentication-bypass-in-a-targets-mcp-server-852442072907?source=rss------bug_bounty-5",
     "summary": "Failure at forcing authentication at MCP point.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "179f82d3b5cc563d"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 14:59:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8e9149db35e1756dad049ffa9ea028eecc207399",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a69d5a1dec6016c1"
   }
 ]
