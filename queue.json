@@ -1,5 +1,15 @@
 [
   {
+    "title": "Why Open Redirects Become Critical Inside OAuth",
+    "url": "https://kd-200.medium.com/why-open-redirects-become-critical-inside-oauth-35261b5d8b85?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 17 Aug 2026 11:31:01",
+    "score": 6,
+    "uid": "8ea243d7d033ad66"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a69d5a1dec6016c1"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 16:35:27 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e63caba86e19580d0d00c42a650ebdee5bb7b3ee",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fef93740ca248069"
   }
 ]
