@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found an Authentication Bypass in a Target’s MCP Server",
-    "url": "https://cyphernova1337.medium.com/how-i-found-an-authentication-bypass-in-a-targets-mcp-server-852442072907?source=rss------bug_bounty-5",
-    "summary": "Failure at forcing authentication at MCP point.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 17 Aug 2026 14:37:52",
-    "score": 9,
-    "uid": "ad0ba8e96a25b3b9"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "b32b02c6e5f62085"
+  },
+  {
+    "title": "Updated List: Mon Aug 17 23:59:58 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7d750b6eaa11aacefaeb2555d46f7847c6fa73ec",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ab3aa3d09555da15"
   }
 ]
