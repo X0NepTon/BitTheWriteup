@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bug Bounty Recon & Vulnerability Cheat Sheet",
+    "url": "https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------bug_bounty_writeup-5",
+    "summary": "A quick-reference guide to the specific headers, payloads, commands, and logic bypasses featured in the writeups.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 17 Aug 2026 19:01:01",
+    "score": 5,
+    "uid": "a82e6f2e234237f4"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "b32b02c6e5f62085"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 23:59:58 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7d750b6eaa11aacefaeb2555d46f7847c6fa73ec",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ab3aa3d09555da15"
   }
 ]
