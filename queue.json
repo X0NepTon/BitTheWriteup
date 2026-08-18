@@ -420,16 +420,6 @@
     "uid": "82e7d106f31f24cf"
   },
   {
-    "title": "Updated List: Sat Jul 18 10:38:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/858a655c21183dfaba9714734bb87ea0632b65c8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7127f9c7823b07fe"
-  },
-  {
     "title": "[POC] Cara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)",
     "url": "https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5",
     "summary": "PerkenalanContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ef2fb0ffc049050f"
+  },
+  {
+    "title": "Updated List: Tue Aug 18 15:38:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d69ed6c98acd9ec8df0efbe62ba83f787eefea6b",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8ba93ea5a945f3db"
   }
 ]
