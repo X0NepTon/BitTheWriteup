@@ -440,16 +440,6 @@
     "uid": "a6ec8e6b27ed3c51"
   },
   {
-    "title": "Updated List: Mon Jul 20 01:44:57 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/50cdb05eb93be47590240a2ba46b6c944f89968a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3901abc8c15990e7"
-  },
-  {
     "title": "Updated List: Mon Jul 20 02:40:02 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/184b4cc47c5c3fafc106ebc384e336b008909418",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5ede59bbfb8d5e38"
+  },
+  {
+    "title": "How I Ran a Company’s Own Internal Workflows With a Free Account",
+    "url": "https://infosecwriteups.com/how-i-ran-a-companys-own-internal-workflows-with-a-free-account-eefdf559a8af?source=rss------bug_bounty-5",
+    "summary": "Bounty Case Files #02 | How a Broken Function-Level Authorization vulnerability allowed a free-tier user to enumerate and execute internal&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 18 Aug 2026 21:14:59",
+    "score": 3,
+    "uid": "a6cd6e7b53c3f9dd"
   }
 ]
