@@ -410,16 +410,6 @@
     "uid": "e5498e4bb5d6c81f"
   },
   {
-    "title": "Updated List: Fri Jul 17 06:39:23 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f71b5d6706675d7e86f232937edb599f8e924090",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "12298655b72b5fa7"
-  },
-  {
     "title": "File Upload Bypass On Indrive",
     "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5",
     "summary": "welcome to my first write-up. I started bug hunting about 3 months ago, and this was one of my first findings, so I would love to share it.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "ff6bb1f639ada700"
+  },
+  {
+    "title": "Updated List: Tue Aug 18 08:17:09 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/eb691b93116382e5f291bf35d24e6a9332fb27fc",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "32b2e8e7f46c802f"
   }
 ]
