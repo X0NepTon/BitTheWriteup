@@ -440,16 +440,6 @@
     "uid": "a6ec8e6b27ed3c51"
   },
   {
-    "title": "Updated List: Mon Jul 20 02:40:02 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/184b4cc47c5c3fafc106ebc384e336b008909418",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "67566afcf13a26a4"
-  },
-  {
     "title": "Reverse Engineering APIs with Chrome DevTools: A Bug Bounty Practical Guide",
     "url": "https://infosecwriteups.com/reverse-engineering-apis-with-chrome-devtools-a-bug-bounty-practical-guide-6d7535e37cc4?source=rss------bug_bounty-5",
     "summary": "Every modern web application is powered by APIs. Whether you&#x2019;re hunting for your first bug bounty or you&#x2019;re a seasoned pentester, the&#x2026;Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 18 Aug 2026 21:14:59",
     "score": 3,
     "uid": "a6cd6e7b53c3f9dd"
+  },
+  {
+    "title": "Updated List: Wed Aug 19 03:41:18 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/794d4cc8bc82f16c9ef137d90083b877d562ec47",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fe69284e27bc89f1"
   }
 ]
