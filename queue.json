@@ -1,5 +1,15 @@
 [
   {
+    "title": "How to Find IDOR Vulnerabilities in Bug Bounty",
+    "url": "https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty_writeup-5",
+    "summary": "A real walkthrough of how IDOR bugs get found in bug bounty, plus the exact methodology, tools, and testing steps to start finding them&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 19 Aug 2026 20:18:39",
+    "score": 7,
+    "uid": "2ff85475e88962a4"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "Wed, 19 Aug 2026 15:31:01",
     "score": 3,
     "uid": "b1061e130bf7dcc3"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 00:34:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e4844b1617af1470c6952d8305058fb758c6d1b9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5870838772aeac85"
   }
 ]
