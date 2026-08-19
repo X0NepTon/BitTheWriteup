@@ -1,15 +1,5 @@
 [
   {
-    "title": "How to Earn $10k+/Year from Bug Bounties",
-    "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-1ejg",
-    "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strategic, and actionable. If you’re willing to ",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Wed, 19 Aug 2026 10:00:11",
-    "score": 6,
-    "uid": "09a7e909890454a8"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fe120d9c19cf30d5"
+  },
+  {
+    "title": "Updated List: Wed Aug 19 16:35:22 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/eb7d3f6d91a944ec1a698baae72cb25f05118b53",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0e70cf68814c1873"
   }
 ]
