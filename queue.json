@@ -470,16 +470,6 @@
     "uid": "1945b74cdebe35bc"
   },
   {
-    "title": "Updated List: Wed Jul 22 11:45:03 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3e1b84393a785851b1043526777935dbb0a781b5",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f710cec6e4f5e4f1"
-  },
-  {
     "title": "Updated List: Wed Jul 22 16:24:14 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/7a6fa220a4ef0f8e59bc310f19872d75cfca7f74",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a4b13af3195f7d00"
+  },
+  {
+    "title": "Recon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration",
+    "url": "https://medium.com/@verylazytech/recon-automation-12-osint-tools-every-hacker-needs-for-lightning-fast-enumeration-f7e7a18c7202?source=rss------bug_bounty-5",
+    "summary": "Are you still running manual recon that eats up hours &#x2014; or worse, missing critical attack surfaces? Research shows that 70% of initial&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 19 Aug 2026 06:00:38",
+    "score": 3,
+    "uid": "9eb934a7d424a48c"
   }
 ]
