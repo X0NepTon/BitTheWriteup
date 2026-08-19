@@ -1,5 +1,15 @@
 [
   {
+    "title": "This Is How a Hacker Hacks: Part 2 — Through the Admin Door",
+    "url": "https://cyphernova1337.medium.com/this-is-how-a-hacker-hacks-part-2-through-the-admin-door-16ba29c3c50c?source=rss------bug_bounty-5",
+    "summary": "Part 1 ended with the door identified: CVE-2008-3681, a password-reset bug in Joomla 1.5.0, proven but not yet executed. Part 2 is the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 19 Aug 2026 16:43:15",
+    "score": 5,
+    "uid": "9a3ad0ed60a21540"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a415005e74e01ed6"
-  },
-  {
-    "title": "What $12,000 of GitLab Bugs Taught Me About Business Logic",
-    "url": "https://medium.com/@rajnamdev/what-12-000-of-gitlab-bugs-taught-me-about-business-logic-ac9fcbebd529?source=rss------bug_bounty-5",
-    "summary": "30-second version: I read through HackerOne&#x2019;s top 201 disclosed &#x201C;Business Logic&#x201D; reports. Roughly 40% weren&#x2019;t business logic at all &#x2014; they&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 19 Aug 2026 15:31:01",
-    "score": 3,
-    "uid": "b1061e130bf7dcc3"
   }
 ]
