@@ -1,5 +1,15 @@
 [
   {
+    "title": "A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…",
+    "url": "https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey everyone. Welcome back.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 19 Aug 2026 09:12:53",
+    "score": 8,
+    "uid": "dde8d820e30ce65a"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "fe120d9c19cf30d5"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 13:38:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/afef451fad0d40c56218497dbd1e645121f3bdb1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "80fed9482ad2e30b"
   }
 ]
