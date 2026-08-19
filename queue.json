@@ -480,16 +480,6 @@
     "uid": "3925b712be921add"
   },
   {
-    "title": "Updated List: Fri Jul 31 00:33:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/822f3c50e13de8078d77e0572ff1059432a7c592",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8934d8cca08d41eb"
-  },
-  {
     "title": "Revisiting JWT Token Forgery Attack on Recent Bounty Target",
     "url": "https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5",
     "summary": "alg=none x Attacker-Controlled Object CheckContinue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a415005e74e01ed6"
+  },
+  {
+    "title": "What $12,000 of GitLab Bugs Taught Me About Business Logic",
+    "url": "https://medium.com/@rajnamdev/what-12-000-of-gitlab-bugs-taught-me-about-business-logic-ac9fcbebd529?source=rss------bug_bounty-5",
+    "summary": "30-second version: I read through HackerOne&#x2019;s top 201 disclosed &#x201C;Business Logic&#x201D; reports. Roughly 40% weren&#x2019;t business logic at all &#x2014; they&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 19 Aug 2026 15:31:01",
+    "score": 3,
+    "uid": "b1061e130bf7dcc3"
   }
 ]
