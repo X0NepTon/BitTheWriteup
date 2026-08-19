@@ -470,16 +470,6 @@
     "uid": "1945b74cdebe35bc"
   },
   {
-    "title": "Updated List: Thu Jul 23 02:18:46 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d1fd4688893a5799e15c0ddc6076dc2aaa86a4e2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9890ba51329e40f4"
-  },
-  {
     "title": "Python Web Penetration Testing — Day 8: Chaining Vulnerabilities — The Art of the Exploit Chain",
     "url": "https://osintteam.blog/python-web-penetration-testing-day-8-chaining-vulnerabilities-the-art-of-the-exploit-chain-6715826b4c1c?source=rss------bug_bounty-5",
     "summary": "I found a self-XSS. Low severity.Continue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fe120d9c19cf30d5"
+  },
+  {
+    "title": "Updated List: Wed Aug 19 13:38:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/afef451fad0d40c56218497dbd1e645121f3bdb1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "80fed9482ad2e30b"
   }
 ]
