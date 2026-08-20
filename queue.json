@@ -510,16 +510,6 @@
     "uid": "f7d4b380303cb395"
   },
   {
-    "title": "Updated List: Mon Aug 03 18:55:55 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a6c685cddbaf7270e4e13cea223a2d4474c5a142",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d69f214637421cdd"
-  },
-  {
     "title": "Updated List: Mon Aug 03 21:32:29 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/63cf4b1299caf4a0def6ad8a5a584dc51be2af8b",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 20 Aug 2026 01:39:26",
     "score": 3,
     "uid": "a3f6d5c2eb3407e9"
+  },
+  {
+    "title": "Hunting Open Redirects: My Practical Methodology for Web Application Testing",
+    "url": "https://medium.com/@neerajachalampalem/hunting-open-redirects-my-practical-methodology-for-web-application-testing-238a3a9e0a97?source=rss------bug_bounty_writeup-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 20 Aug 2026 06:30:01",
+    "score": 3,
+    "uid": "e1e91623c232d236"
   }
 ]
