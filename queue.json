@@ -1,5 +1,25 @@
 [
   {
+    "title": "Log4Shell (CVE-2021–44228): A Hands-On Guide to Understanding and Testing the Vulnerability",
+    "url": "https://medium.com/@dinara_dosqoja/log4shell-cve-2021-44228-a-hands-on-guide-to-understanding-and-testing-the-vulnerability-b940566cec9f?source=rss------bug_bounty-5",
+    "summary": "CVE-2021&#x2013;44228, better known as Log4Shell, is one of the most important vulnerabilities in modern application security.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 20 Aug 2026 11:36:24",
+    "score": 5,
+    "uid": "684a023a5cacb2c3"
+  },
+  {
+    "title": "Broken Authentication: A Bug Bounty Hunter’s Guide to Finding and Bypassing It",
+    "url": "https://muhammadkashifsecurityengineer.medium.com/broken-authentication-a-bug-bounty-hunters-guide-to-finding-and-bypassing-it-02b16db443e5?source=rss------bug_bounty-5",
+    "summary": "The login system is the first line of defense. If it breaks, everything behind it breaks too. If you can break the login, you can often&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 20 Aug 2026 11:29:14",
+    "score": 4,
+    "uid": "164ab65866f28233"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 20 Aug 2026 06:30:01",
     "score": 3,
     "uid": "e1e91623c232d236"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 13:41:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a5cfd7081ab9eca98b736591ba56a1b5bf21d903",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7f8a80d5f761f971"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 16:37:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/9ec9b3a8d4586f2c6f09b21abd31235300d553de",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5d02eafcb3222d80"
   }
 ]
