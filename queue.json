@@ -500,16 +500,6 @@
     "uid": "38b9458ba6d1c9ae"
   },
   {
-    "title": "Updated List: Mon Aug 03 02:56:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/fdf56afba418ec04ff88194480f000f887c693e3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4c837399f97aa5de"
-  },
-  {
     "title": "Updated List: Mon Aug 03 04:44:40 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/9f99d45c3d0ce6b7a3c3dff1dbebc5a19aa84f60",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e87d2f1010451fea"
+  },
+  {
+    "title": "How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack",
+    "url": "https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty_writeup-5",
+    "summary": "By R4yz0xContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 20 Aug 2026 02:05:21",
+    "score": 3,
+    "uid": "b6509e81717cde12"
   }
 ]
