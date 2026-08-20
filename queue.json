@@ -1,16 +1,6 @@
 [
   {
     "title": "How an Unsanitized “Filter” Input Nuked a SaaS Unicorn’s Database for a $7,000 Bounty",
-    "url": "https://medium.com/@t3nv1/how-an-unsanitized-filter-input-nuked-a-saas-unicorns-database-for-a-7-000-bounty-c74054c57533?source=rss------bug_bounty_writeup-5",
-    "summary": "If there&#x2019;s one phrase that should instantly trigger a bug hunter&#x2019;s spider-sense, it&#x2019;s this: &#x201C;Dynamic Search Filter.&#x201D;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 20 Aug 2026 12:52:01",
-    "score": 4,
-    "uid": "5790f96a828f9733"
-  },
-  {
-    "title": "How an Unsanitized “Filter” Input Nuked a SaaS Unicorn’s Database for a $7,000 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-filter-input-nuked-a-saas-unicorns-database-for-a-7-000-bounty-c74054c57533?source=rss------bug_bounty_writeup-5",
     "summary": "If there&#x2019;s one phrase that should instantly trigger a bug hunter&#x2019;s spider-sense, it&#x2019;s this: &#x201C;Dynamic Search Filter.&#x201D;Continue reading on Medium »",
     "source_id": "medium_wu",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4a4a584148c94e50"
+  },
+  {
+    "title": "Updated List: Fri Aug 21 01:35:32 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/3a6da29be797648f042c63f862ef5702e31d25c6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "53b9899c3229d59f"
   }
 ]
