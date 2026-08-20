@@ -500,16 +500,6 @@
     "uid": "38b9458ba6d1c9ae"
   },
   {
-    "title": "Updated List: Mon Aug 03 09:27:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/23aeef000df97c83b2ace88cc1105e76f0ce9919",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "545c59eda355d47d"
-  },
-  {
     "title": "LongShao (HackMyVM) — Complete Walkthrough",
     "url": "https://medium.com/@TheNotorious13/longshao-hackmyvm-complete-walkthrough-55db37878956?source=rss------bug_bounty_writeup-5",
     "summary": "LongShao turned out to be a fun machine that chained together three different users before finally reaching root. Instead of relying on a&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 20 Aug 2026 02:05:21",
     "score": 3,
     "uid": "3bb8059ceda7fe49"
+  },
+  {
+    "title": "TryHackMe Fool’s Mate Writeup: A Client-Side Trust Bypass Walkthrough",
+    "url": "https://medium.com/@siraviashok4721/tryhackme-fools-mate-writeup-a-client-side-trust-bypass-walkthrough-0f47180ac02d?source=rss------bug_bounty-5",
+    "summary": "A room disguised as a chess puzzle the real vulnerability was CWE-602, mapped to OWASP Top 10:2025&#x2019;s Broken Access Control.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 20 Aug 2026 01:39:26",
+    "score": 3,
+    "uid": "a3f6d5c2eb3407e9"
   }
 ]
