@@ -1,15 +1,5 @@
 [
   {
-    "title": "Log4Shell (CVE-2021–44228): A Hands-On Guide to Understanding and Testing the Vulnerability",
-    "url": "https://medium.com/@dinara_dosqoja/log4shell-cve-2021-44228-a-hands-on-guide-to-understanding-and-testing-the-vulnerability-b940566cec9f?source=rss------bug_bounty-5",
-    "summary": "CVE-2021&#x2013;44228, better known as Log4Shell, is one of the most important vulnerabilities in modern application security.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 20 Aug 2026 11:36:24",
-    "score": 5,
-    "uid": "684a023a5cacb2c3"
-  },
-  {
     "title": "Broken Authentication: A Bug Bounty Hunter’s Guide to Finding and Bypassing It",
     "url": "https://muhammadkashifsecurityengineer.medium.com/broken-authentication-a-bug-bounty-hunters-guide-to-finding-and-bypassing-it-02b16db443e5?source=rss------bug_bounty-5",
     "summary": "The login system is the first line of defense. If it breaks, everything behind it breaks too. If you can break the login, you can often&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 20 Aug 2026 06:30:01",
     "score": 3,
     "uid": "e1e91623c232d236"
+  },
+  {
+    "title": "Updated List: Thu Aug 20 20:40:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/81070871f24060034e22e6f22cca6fc0b9db0946",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2cee87e8e003fc21"
   }
 ]
