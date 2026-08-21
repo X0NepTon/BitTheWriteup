@@ -530,16 +530,6 @@
     "uid": "8f2f7c2b60d90ac7"
   },
   {
-    "title": "Updated List: Fri Aug 07 18:14:04 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4dbbf99a740e13fa10212050faae559f6b2666fd",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e7653df67149cf27"
-  },
-  {
     "title": "Cyber Kill Chain: Understanding How Cyber Attacks Unfold",
     "url": "https://medium.com/@rjstudio257/cyber-kill-chain-understanding-how-cyber-attacks-unfold-fc2ba4708b4e?source=rss------bug_bounty-5",
     "summary": "Cyberattacks rarely happen in a single step. Most successful intrusions follow a structured sequence of actions, allowing attackers to&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "616fd4a10a899cf8"
+  },
+  {
+    "title": "Updated List: Fri Aug 21 08:08:09 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/059d7e4769dc456cd566736c6add6dc990695d31",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b6fdbc9960d9aff7"
   }
 ]
