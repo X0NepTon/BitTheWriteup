@@ -510,16 +510,6 @@
     "uid": "f7d4b380303cb395"
   },
   {
-    "title": "Updated List: Tue Aug 04 06:39:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4a3d768c2b671294de3f7afb67247241acd92879",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "72eea661bc53721f"
-  },
-  {
     "title": "The Bug Bounty Category No Scanner Will Ever Find",
     "url": "https://infosecwriteups.com/the-bug-bounty-category-no-scanner-will-ever-find-30018972c479?source=rss------bug_bounty-5",
     "summary": "Not a missing header. Not an outdated library. Just an application doing exactly what it was told to do &#x2014; in an order nobody planned for.Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "94745291d1a51c07"
+  },
+  {
+    "title": "Updated List: Fri Aug 21 06:40:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/02042545f6a855ffb7b18f6a8b2647d6846220ac",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "616fd4a10a899cf8"
   }
 ]
