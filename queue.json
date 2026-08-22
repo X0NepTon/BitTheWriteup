@@ -1,5 +1,15 @@
 [
   {
+    "title": "How 8 of the Top 20 HackerOne SSRF Reports Escalated to Cloud Credentials Leaks",
+    "url": "https://medium.com/@Aacle/ssrf-to-cloud-credentials-how-8-of-the-top-20-hackerone-reports-escalated-e453ab59887a?source=rss------bug_bounty_writeup-5",
+    "summary": "30-second version: I mined the HackerOne report dataset and read the top 20 SSRF reports by upvotes in full. Eight of them end in stolen&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 22 Aug 2026 21:36:13",
+    "score": 8,
+    "uid": "9f1b8eecb344b458"
+  },
+  {
     "title": "How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…",
     "url": "https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5",
     "summary": "When auditing modern web apps, the highest-impact flaws rarely sit inside the obvious settings pages.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4a8d7b85b949522f"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 01:42:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/637c774f1dc7ec6a464eb3aebde03771b344ba0e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e906cdffac3476d4"
   }
 ]
