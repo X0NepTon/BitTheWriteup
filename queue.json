@@ -1,5 +1,15 @@
 [
   {
+    "title": "Google Classroom IDOR Vulnerability POC Video",
+    "url": "https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty_writeup-5",
+    "summary": "A few days ago, I shared a write-up about an IDOR vulnerability I discovered in Google Classroom.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 22 Aug 2026 18:28:40",
+    "score": 9,
+    "uid": "f17f89b0320e50bb"
+  },
+  {
     "title": "How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…",
     "url": "https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5",
     "summary": "When auditing modern web apps, the highest-impact flaws rarely sit inside the obvious settings pages.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4a8d7b85b949522f"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 21:40:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/75f1b48596e8c9643343a1290e009f8fdacb9cb1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a07e30fead8f0da5"
   }
 ]
