@@ -1,5 +1,25 @@
 [
   {
+    "title": "How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…",
+    "url": "https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5",
+    "summary": "When auditing modern web apps, the highest-impact flaws rarely sit inside the obvious settings pages.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 22 Aug 2026 13:01:03",
+    "score": 4,
+    "uid": "5bdaa8e79b13d7a6"
+  },
+  {
+    "title": "How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…",
+    "url": "https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty-5",
+    "summary": "When auditing modern web apps, the highest-impact flaws rarely sit inside the obvious settings pages.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 22 Aug 2026 13:01:03",
+    "score": 4,
+    "uid": "3b2e61316bdbad59"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4a8d7b85b949522f"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 16:32:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f421e8642ef1e4a31eea868cfefdef8146f6e3c8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "863111f7e3fdcf30"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 17:44:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0ba2a81f0c6a52631fb8de31bef2537ef1fffd27",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d5b05e3d5aa6ef73"
   }
 ]
