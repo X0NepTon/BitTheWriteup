@@ -1,5 +1,15 @@
 [
   {
+    "title": "AgentGG Found 100+ Zero-Days in Open Source Software",
+    "url": "https://infosecwriteups.com/agentgg-cli-found-100-zero-days-in-open-source-software-5269463d2e40?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 23 Aug 2026 01:01:34",
+    "score": 11,
+    "uid": "4abf4cc1c9513ef6"
+  },
+  {
     "title": "How a Single % Turned a Booking Lookup Into a PII Leak",
     "url": "https://infosecwriteups.com/how-a-single-turned-a-booking-lookup-into-a-pii-leak-c518e4e812ab?source=rss------bug_bounty-5",
     "summary": "Bounty Case Files #03 | From % to a Full PII Leak: How a Single Wildcard Bypassed Surname Verification and Exposed Passenger DataContinue reading on InfoSec Write-ups »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f8e477664017e71c"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 15:32:38 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2f7616f8eec5fa254a7fd669a22f18980d104771",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4a8d7b85b949522f"
   }
 ]
