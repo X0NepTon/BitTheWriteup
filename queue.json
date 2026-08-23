@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…",
-    "url": "https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5",
-    "summary": "When auditing modern web apps, the highest-impact flaws rarely sit inside the obvious settings pages.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 22 Aug 2026 13:01:03",
-    "score": 4,
-    "uid": "5bdaa8e79b13d7a6"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "c43566369fd3d6e6"
+  },
+  {
+    "title": "Updated List: Sun Aug 23 13:34:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bc25a529e352f7c9687611c381259903d6dd05b7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "99a31fd154876856"
   }
 ]
