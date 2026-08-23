@@ -1,13 +1,13 @@
 [
   {
-    "title": "AgentGG Found 100+ Zero-Days in Open Source Software",
-    "url": "https://infosecwriteups.com/agentgg-cli-found-100-zero-days-in-open-source-software-5269463d2e40?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on InfoSec Write-ups »",
+    "title": "From a Password Reset Form to Unauthenticated Database Access",
+    "url": "https://medium.com/@redhunter01/from-a-password-reset-form-to-unauthenticated-database-access-dc88ae0abf32?source=rss------bug_bounty-5",
+    "summary": "How a simple password-reset endpoint became a confirmed SQL injection &#x2014; and what the investigation taught me about methodology, WAFs, and&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 23 Aug 2026 01:01:34",
-    "score": 11,
-    "uid": "4abf4cc1c9513ef6"
+    "published": "Sun, 23 Aug 2026 02:47:07",
+    "score": 7,
+    "uid": "8371ef195ef80bd1"
   },
   {
     "title": "How a Single % Turned a Booking Lookup Into a PII Leak",
