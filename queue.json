@@ -1,15 +1,5 @@
 [
   {
-    "title": "How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning",
-    "url": "https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5",
-    "summary": "When auditing web applications, developers often assume that caching layers are purely transparent infrastructure &#x2014; mechanisms designed to&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 23 Aug 2026 13:01:02",
-    "score": 4,
-    "uid": "56026c32078fc1b7"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "742934957fafc5de"
+  },
+  {
+    "title": "Updated List: Sun Aug 23 19:46:10 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/5ddf4fac62e514b165f4b4e2b2dbb8adc76cfb45",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5b1478870edf5186"
   }
 ]
