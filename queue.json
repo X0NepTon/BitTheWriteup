@@ -560,16 +560,6 @@
     "uid": "f78fafbdb5029c63"
   },
   {
-    "title": "Updated List: Mon Aug 10 13:52:11 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/6fd8bd51ba67f95d6c8001bd591d804fd399ff03",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4a47edf5f836d12e"
-  },
-  {
     "title": "Lab: Using PHAR deserialization to deploy a custom gadget chain",
     "url": "https://medium.com/@amrsmooke321/lab-using-phar-deserialization-to-deploy-a-custom-gadget-chain-62715de7bd27?source=rss------bug_bounty-5",
     "summary": "Forget about the exploit payload, the Blog class, or writing code. Right now, our only goal is to find a place on the website that lets us&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "579a9b8db7fe85ad"
+  },
+  {
+    "title": "Updated List: Mon Aug 24 02:48:49 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f800e8356c3ee757d0d31a31dbec6be824ffb511",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "bc43836296cabd9c"
   }
 ]
