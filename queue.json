@@ -570,16 +570,6 @@
     "uid": "cd0bcba20f0990c7"
   },
   {
-    "title": "Updated List: Wed Aug 12 04:53:30 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4c8ee289aef746553ff4f05c2e535467fe1ae696",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e5e4283ebcd3eda0"
-  },
-  {
     "title": "How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud",
     "url": "https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5",
     "summary": "30-second version: Apple&#x2019;s Private Cloud Compute (PCC) runs the heavy-lifting for Apple Intelligence. Its first userspace process&#x2026;Continue reading on InfoSec Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5f3e54cc8494e7ed"
+  },
+  {
+    "title": "Updated List: Tue Aug 25 04:34:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/94e49bcdbd44b8fd4f0fe6414183054dd4b3fc85",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6036983b1b0021da"
   }
 ]
