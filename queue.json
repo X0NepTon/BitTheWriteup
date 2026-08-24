@@ -570,16 +570,6 @@
     "uid": "cd0bcba20f0990c7"
   },
   {
-    "title": "Updated List: Tue Aug 11 03:35:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2049e13d3ded304e988bb70f800b8e722ae58028",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5157f255147ee76e"
-  },
-  {
     "title": "Updated List: Tue Aug 11 04:53:13 IST 2026",
     "url": "https://github.com/rix4uni/medium-writeups/commit/2f482ebdabac03aa99bc5848005f62567355f16d",
     "summary": "bug bounty writeup",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1062700d186fd867"
+  },
+  {
+    "title": "Unauthenticated Strapi Relational-Filter Leak → Super-Admin Takeover → Server-Side Code Execution",
+    "url": "https://medium.com/@redhunter01/unauthenticated-strapi-relational-filter-leak-super-admin-takeover-server-side-code-execution-34fb5822e5b2?source=rss------bug_bounty-5",
+    "summary": "How a seemingly harmless public API filter became a full compromise chainContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 24 Aug 2026 07:24:03",
+    "score": 3,
+    "uid": "9693a12727955df8"
   }
 ]
