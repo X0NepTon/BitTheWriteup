@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover",
-    "url": "https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty-5",
-    "summary": "Account takeover vulnerabilities are among the most impactful findings in web and API security assessments. Sometimes they involve complex&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 24 Aug 2026 05:23:40",
-    "score": 10,
-    "uid": "abb3adbb6735be5a"
-  },
-  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fc2f368638ac4dc3"
+  },
+  {
+    "title": "Updated List: Mon Aug 24 11:58:05 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/00b691f4280134f895c2e837163ecfce4c3d914e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "1062700d186fd867"
   }
 ]
