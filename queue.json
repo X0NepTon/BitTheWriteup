@@ -1,5 +1,15 @@
 [
   {
+    "title": "How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty",
+    "url": "https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bug_bounty-5",
+    "summary": "When security engineers audit web applications, template rendering engines are often treated as low-risk utilities. Developers assume&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 25 Aug 2026 13:11:01",
+    "score": 14,
+    "uid": "37c2fdea1b9e52a9"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a854dc90bdc85faf"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 16:44:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/287617286fffb483ca05990c0b599ca099d396a4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e71401f3afa8cfff"
   }
 ]
