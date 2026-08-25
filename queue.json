@@ -1,5 +1,15 @@
 [
   {
+    "title": "Lab Write-up: Source Code Disclosure via Backup Files",
+    "url": "https://medium.com/@ayeshaaghafoor48/lab-write-up-source-code-disclosure-via-backup-files-61b078b832d7?source=rss------bug_bounty-5",
+    "summary": "ObjectiveContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 25 Aug 2026 09:51:14",
+    "score": 11,
+    "uid": "7c7cd8e1790f60eb"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a854dc90bdc85faf"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 14:43:23 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f38263e2e01374c6cbae336c5adc129999a90584",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "833eee34478e7909"
   }
 ]
