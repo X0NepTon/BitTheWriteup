@@ -1,13 +1,23 @@
 [
   {
-    "title": "Mass assignment led to ATO",
-    "url": "https://medium.com/@ay01011017/mass-assignment-led-to-ato-6a9d0f081871?source=rss------bug_bounty-5",
-    "summary": "I was testing the account settings page when I noticed something interesting.Continue reading on Medium »",
+    "title": "How I Manipulated One Parameter to Love Another User’s Comment -IDOR & Broken Authorization",
+    "url": "https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty_writeup-5",
+    "summary": "WhoAmIContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 26 Aug 2026 16:28:17",
+    "score": 5,
+    "uid": "0ffc21e4338938b7"
+  },
+  {
+    "title": "How I Manipulated One Parameter to Love Another User’s Comment -IDOR & Broken Authorization",
+    "url": "https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty-5",
+    "summary": "WhoAmIContinue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 26 Aug 2026 12:55:57",
-    "score": 9,
-    "uid": "49bc1cd91b6d1914"
+    "published": "Wed, 26 Aug 2026 16:28:17",
+    "score": 5,
+    "uid": "6986625c3c537bf5"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "97d455dd98dc780b"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 14:10:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/99d536e55e3a0cfed945434d7613a0e74df30b0c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5b2260b4c3092d1e"
   }
 ]
