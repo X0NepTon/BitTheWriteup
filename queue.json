@@ -1,5 +1,35 @@
 [
   {
+    "title": "Mass assignment led to ATO",
+    "url": "https://medium.com/@ay01011017/mass-assignment-led-to-ato-6a9d0f081871?source=rss------bug_bounty-5",
+    "summary": "I was testing the account settings page when I noticed something interesting.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 26 Aug 2026 12:55:57",
+    "score": 9,
+    "uid": "49bc1cd91b6d1914"
+  },
+  {
+    "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
+    "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
+    "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 26 Aug 2026 13:16:01",
+    "score": 4,
+    "uid": "03e90dddbd471746"
+  },
+  {
+    "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
+    "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty-5",
+    "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 26 Aug 2026 13:16:01",
+    "score": 4,
+    "uid": "c319d6dcb0feb606"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5b2260b4c3092d1e"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 14:54:57 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/06810b8186df5dbe7cee1c77b9190dd2c0690e3d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a7f2e9aaebc6fc9c"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 16:43:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4fdaf1a77ee0a9315825e26f975b6ef8bd556e9e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d8d76c0cd151d921"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 17:33:44 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/89f0e2d22c8fb808eeab53cfd9402df9a87c7e22",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ecdb48e011ee4d5f"
   }
 ]
