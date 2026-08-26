@@ -10,16 +10,6 @@
     "uid": "0ffc21e4338938b7"
   },
   {
-    "title": "How I Manipulated One Parameter to Love Another User’s Comment -IDOR & Broken Authorization",
-    "url": "https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty-5",
-    "summary": "WhoAmIContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 26 Aug 2026 16:28:17",
-    "score": 5,
-    "uid": "6986625c3c537bf5"
-  },
-  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "97d455dd98dc780b"
+  },
+  {
+    "title": "Updated List: Thu Aug 27 01:42:15 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e240c5df46492382a126773ebc05edcf59e7b803",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "13f7ca07751b2c07"
   }
 ]
