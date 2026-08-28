@@ -1,5 +1,15 @@
 [
   {
+    "title": "How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty",
+    "url": "https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty-5",
+    "summary": "When developing e-commerce platforms and transaction-based web applications, engineers usually ensure that single-use assets &#x2014; like&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 28 Aug 2026 13:26:02",
+    "score": 14,
+    "uid": "2e4b0adda0b0095c"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -28,6 +38,16 @@
     "published": "Thu, 27 Aug 2026 23:46:26",
     "score": 4,
     "uid": "0159a1efa91a5bc1"
+  },
+  {
+    "title": "When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)",
+    "url": "https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss------bug_bounty-5",
+    "summary": "Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 28 Aug 2026 13:06:19",
+    "score": 4,
+    "uid": "c5aa0d8214a7322b"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "adcd8ad67a20de9b"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 10:58:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5957305633d51b1fb641f694977716a659e8c746",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "97d455dd98dc780b"
-  },
-  {
-    "title": "Updated List: Thu Aug 27 01:42:15 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e240c5df46492382a126773ebc05edcf59e7b803",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "13f7ca07751b2c07"
   }
 ]
