@@ -20,6 +20,16 @@
     "uid": "c319d6dcb0feb606"
   },
   {
+    "title": "CSRF | How to Test — Part 1",
+    "url": "https://elusive1973.medium.com/csrf-how-to-test-part-1-7aec79191a5c?source=rss------bug_bounty-5",
+    "summary": "Hi how are u ? i am sure u missed me right &#x1F614;?Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 27 Aug 2026 23:46:26",
+    "score": 4,
+    "uid": "0159a1efa91a5bc1"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "13f7ca07751b2c07"
-  },
-  {
-    "title": "The Best-Paying Bug in Bounty Isn’t the One Everyone Hunts",
-    "url": "https://medium.com/@rajnamdev/the-best-paying-bug-in-bounty-isnt-the-one-everyone-hunts-878568269b67?source=rss------bug_bounty-5",
-    "summary": "4,590 disclosed reports. Eleven bug types. The crowd is hunting where the money isn&#x2019;t.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 27 Aug 2026 03:01:02",
-    "score": 3,
-    "uid": "3c726cba050a3e53"
   }
 ]
