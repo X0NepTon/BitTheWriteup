@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty",
-    "url": "https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty-5",
-    "summary": "When developing e-commerce platforms and transaction-based web applications, engineers usually ensure that single-use assets &#x2014; like&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 28 Aug 2026 13:26:02",
-    "score": 14,
-    "uid": "2e4b0adda0b0095c"
-  },
-  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "28f5a08bc6194092"
+  },
+  {
+    "title": "Updated List: Sat Aug 29 08:47:14 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bde8f0b8ee10ee8eae38e48b7b31047aa014e1de",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c8fe23685fd6cc2b"
   }
 ]
