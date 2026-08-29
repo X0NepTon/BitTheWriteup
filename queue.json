@@ -10,14 +10,14 @@
     "uid": "42551de8fae32c2e"
   },
   {
-    "title": "From Zero Credentials to Super Admin: An SSO Authentication Bypass on AT&T",
-    "url": "https://medium.com/@Tyrion404/from-zero-credentials-to-super-admin-an-sso-authentication-bypass-on-at-t-996fe9d0ec1e?source=rss------bug_bounty-5",
-    "summary": "The Door Was Already OpenContinue reading on Medium »",
+    "title": "Password Reset Vulnerability: How I Found a Full Account Takeover.",
+    "url": "https://medium.com/@darshanmesper13/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5",
+    "summary": "I found a full unauthenticated Account Takeover on a live booking/CRM platform (referred to here as xyz.com to keep the still-open part of&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 15:04:37",
+    "published": "Sat, 29 Aug 2026 19:54:26",
     "score": 9,
-    "uid": "23144cc4f61f213e"
+    "uid": "7faf317c3286e705"
   },
   {
     "title": "The Authorization Check That Only Fired When You Asked It To",
