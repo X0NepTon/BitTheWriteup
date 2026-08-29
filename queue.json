@@ -1,5 +1,35 @@
 [
   {
+    "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
+    "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5",
+    "summary": "DisclaimerContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 29 Aug 2026 08:24:01",
+    "score": 9,
+    "uid": "42551de8fae32c2e"
+  },
+  {
+    "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
+    "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty-5",
+    "summary": "DisclaimerContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 08:24:01",
+    "score": 9,
+    "uid": "bbb2724626eca84d"
+  },
+  {
+    "title": "The Authorization Check That Only Fired When You Asked It To",
+    "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
+    "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 06:22:43",
+    "score": 8,
+    "uid": "1e9670817c696de1"
+  },
+  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "8cbc004e31e4f1e1"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 04:52:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b9cba94d0b0e196a4c17e661f1ccb4e4ed970b17",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8c9443f40b412040"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 06:39:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/026b44d10d2a376eeb19834403ec3255bdaa46d8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "28f5a08bc6194092"
-  },
-  {
-    "title": "Updated List: Sat Aug 29 08:47:14 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bde8f0b8ee10ee8eae38e48b7b31047aa014e1de",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c8fe23685fd6cc2b"
   }
 ]
