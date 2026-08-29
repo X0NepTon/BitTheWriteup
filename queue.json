@@ -10,16 +10,6 @@
     "uid": "42551de8fae32c2e"
   },
   {
-    "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
-    "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty-5",
-    "summary": "DisclaimerContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 08:24:01",
-    "score": 9,
-    "uid": "bbb2724626eca84d"
-  },
-  {
     "title": "From Zero Credentials to Super Admin: An SSO Authentication Bypass on AT&T",
     "url": "https://medium.com/@Tyrion404/from-zero-credentials-to-super-admin-an-sso-authentication-bypass-on-at-t-996fe9d0ec1e?source=rss------bug_bounty-5",
     "summary": "The Door Was Already OpenContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "1d6d73120727af98"
+  },
+  {
+    "title": "Updated List: Sat Aug 29 23:44:05 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f160f3d1d4a11964e76cbc3ca6b2496dd9732353",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5eb4177b010ba7ec"
   }
 ]
