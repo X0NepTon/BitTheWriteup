@@ -20,6 +20,16 @@
     "uid": "bbb2724626eca84d"
   },
   {
+    "title": "From Zero Credentials to Super Admin: An SSO Authentication Bypass on AT&T",
+    "url": "https://medium.com/@Tyrion404/from-zero-credentials-to-super-admin-an-sso-authentication-bypass-on-at-t-996fe9d0ec1e?source=rss------bug_bounty-5",
+    "summary": "The Door Was Already OpenContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 15:04:37",
+    "score": 9,
+    "uid": "23144cc4f61f213e"
+  },
+  {
     "title": "The Authorization Check That Only Fired When You Asked It To",
     "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
     "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Fri, 28 Aug 2026 16:00:53",
     "score": 6,
     "uid": "3f304bea3c1b27c5"
+  },
+  {
+    "title": "One parameter & Two IDORs",
+    "url": "https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645;, &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x64A; &#x648;&#x633;&#x644;&#x645; &#x648;&#x632;&#x62F; &#x648;&#x628;&#x627;&#x631;&#x643; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x648;&#x639;&#x644;&#x649; &#x622;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 14:45:29",
+    "score": 5,
+    "uid": "aaee8ed903b681a6"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -78,6 +98,16 @@
     "published": "Fri, 28 Aug 2026 13:06:19",
     "score": 4,
     "uid": "c5aa0d8214a7322b"
+  },
+  {
+    "title": "How an Unsanitized PDF Export Engine Led to Local File Inclusion and a $14,000 Bounty",
+    "url": "https://medium.com/@t4nv1/how-an-unsanitized-pdf-export-engine-led-to-local-file-inclusion-and-a-14-000-bounty-971c19603d94?source=rss------bug_bounty-5",
+    "summary": "When auditing modern enterprise applications, reporting features like &#x201C;Export to PDF,&#x201D; &#x201C;Generate Invoice,&#x201D; or &#x201C;Download Summary&#x201D; are&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 13:31:01",
+    "score": 4,
+    "uid": "4a013e9d44a9a9ff"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1d6d73120727af98"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 23:36:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/37b8d9cff26294baa54707da748f46e55cd50eb1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6328ddc24383dfe8"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 01:36:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/da227203c765f31955d08cae46bc4af5056fc2f8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fd4882bd701fb5b6"
-  },
-  {
-    "title": "Updated List: Wed Aug 26 02:54:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/43457bcf8735f61b673802b17bbc43543e270949",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8cbc004e31e4f1e1"
   }
 ]
