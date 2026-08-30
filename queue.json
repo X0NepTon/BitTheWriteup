@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Bypassed an SSRF Filter Using an IPv6 Address",
-    "url": "https://medium.com/@chavanamit120/how-i-bypassed-an-ssrf-filter-using-an-ipv6-address-56268ea7acb9?source=rss------bug_bounty-5",
-    "summary": "How an &#x201C;unallowed&#x201D; localhost became reachable just by writing it differently &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 13:51:25",
-    "score": 10,
-    "uid": "d7d00135165a3a8c"
-  },
-  {
     "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
     "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5",
     "summary": "DisclaimerContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9c9e23e1714b85ff"
+  },
+  {
+    "title": "I found an Apple ID Enumeration Oracle in iCloud Keychain Escrow",
+    "url": "https://medium.com/@neonsmachine/i-found-an-apple-id-enumeration-oracle-in-icloud-keychain-escrow-30fc7828357c?source=rss------bug_bounty-5",
+    "summary": "How differential authentication errors in Apple&#x2019;s escrowproxy service exposed Apple ID existence and account stateContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 20:25:45",
+    "score": 3,
+    "uid": "18fcb637ba716cb1"
   }
 ]
