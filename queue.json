@@ -50,6 +50,26 @@
     "uid": "3f304bea3c1b27c5"
   },
   {
+    "title": "Why “Low Severity” Open Redirects Pay Critical Bounties",
+    "url": "https://kd-200.medium.com/why-low-severity-open-redirects-pay-critical-bounties-706d1b7b59b1?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 11:31:01",
+    "score": 6,
+    "uid": "4b5bda1a1017ef32"
+  },
+  {
+    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
+    "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-12513-shared-files-unauthenticated-a4de0e7d394d?source=rss------bug_bounty-5",
+    "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026&#x2013;12513 &#x2014; Shared Files Unauthenticated Arbitrary File Deletion via Path TraversalContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 08:36:36",
+    "score": 6,
+    "uid": "a5c7b5395a88a27b"
+  },
+  {
     "title": "One parameter & Two IDORs",
     "url": "https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5",
     "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645;, &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x64A; &#x648;&#x633;&#x644;&#x645; &#x648;&#x632;&#x62F; &#x648;&#x628;&#x627;&#x631;&#x643; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x648;&#x639;&#x644;&#x649; &#x622;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a854dc90bdc85faf"
-  },
-  {
-    "title": "15 Deepfake Security Threats Every Organization Should Prepare For: Master Critical Defenses",
-    "url": "https://medium.com/@verylazytech/15-deepfake-security-threats-every-organization-should-prepare-for-master-critical-defenses-f13dca8d6207?source=rss------bug_bounty-5",
-    "summary": "Ever seen a CEO &#x201C;announce&#x201D; a major merger in a video, only to discover it was entirely fake &#x2014; and the damage is already done? Deepfakes&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 25 Aug 2026 12:10:58",
-    "score": 3,
-    "uid": "2098c4da23e168dc"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 20:57:00 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/75408bc86062d046e85cbb2b588bde697363d7c4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c83b180c1a6e53af"
   }
 ]
