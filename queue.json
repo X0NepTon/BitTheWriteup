@@ -1,13 +1,13 @@
 [
   {
-    "title": "Password Reset Vulnerability: How I Found a Full Account Takeover.",
-    "url": "https://infosecwriteups.com/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5",
-    "summary": "I found a full unauthenticated Account Takeover on a live booking/CRM platform (referred to here as xyz.com to keep the still-open part of&#x2026;Continue reading on InfoSec Write-ups »",
+    "title": "How I Bypassed an SSRF Filter Using an IPv6 Address",
+    "url": "https://medium.com/@chavanamit120/how-i-bypassed-an-ssrf-filter-using-an-ipv6-address-56268ea7acb9?source=rss------bug_bounty-5",
+    "summary": "How an &#x201C;unallowed&#x201D; localhost became reachable just by writing it differently &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 19:54:26",
+    "published": "Sun, 30 Aug 2026 13:51:25",
     "score": 10,
-    "uid": "308bc2833e1ff2dc"
+    "uid": "d7d00135165a3a8c"
   },
   {
     "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
@@ -148,6 +148,16 @@
     "published": "Sun, 30 Aug 2026 02:01:01",
     "score": 4,
     "uid": "488486a2e6bfa763"
+  },
+  {
+    "title": "How an Unsanitized EXIF Metadata Parser Led to Command Injection and a $10,000 Bounty",
+    "url": "https://medium.com/@t4nv1/how-an-unsanitized-exif-metadata-parser-led-to-command-injection-and-a-10-000-bounty-6a6991dc1a51?source=rss------bug_bounty-5",
+    "summary": "When building media-heavy web applications, developers frequently rely on background image processing utilities (such as ImageMagick&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 13:36:01",
+    "score": 4,
+    "uid": "c837359d14e4d8e3"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "9c9e23e1714b85ff"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 12:47:50 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e170d1b45d3d8768cfa8f16184d83eb2d83e62b1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a854dc90bdc85faf"
   }
 ]
