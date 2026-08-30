@@ -1,5 +1,15 @@
 [
   {
+    "title": "Password Reset Vulnerability: How I Found a Full Account Takeover.",
+    "url": "https://infosecwriteups.com/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5",
+    "summary": "I found a full unauthenticated Account Takeover on a live booking/CRM platform (referred to here as xyz.com to keep the still-open part of&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 19:54:26",
+    "score": 10,
+    "uid": "308bc2833e1ff2dc"
+  },
+  {
     "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
     "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5",
     "summary": "DisclaimerContinue reading on Medium »",
@@ -50,6 +60,16 @@
     "uid": "aaee8ed903b681a6"
   },
   {
+    "title": "From IDOR to AI Manipulation: How I Poisoned Another User’s Persistent Chat Context",
+    "url": "https://medium.com/@manojxshrestha/from-idor-to-ai-manipulation-how-i-poisoned-another-users-persistent-chat-context-602bf0fa26fa?source=rss------bug_bounty-5",
+    "summary": "A missing ownership check let any logged-in user read and write another user&#x2019;s private AI conversations &#x2014; turning a simple IDOR into&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 03:35:29",
+    "score": 5,
+    "uid": "d7d2a15d9f38131a"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -98,6 +118,16 @@
     "published": "Sat, 29 Aug 2026 13:31:01",
     "score": 4,
     "uid": "4a013e9d44a9a9ff"
+  },
+  {
+    "title": "Your Next Triager Is a $2 API Call — and It’s Trained to Distrust You",
+    "url": "https://medium.com/@rajnamdev/your-next-triager-is-a-2-api-call-and-its-trained-to-distrust-you-555b86cc8027?source=rss------bug_bounty-5",
+    "summary": "Elastic published the internals of its AI bug bounty triage pipeline &#x2014; 1,390 reports in six months, 85% agreement with humans, 70% dead&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 02:01:01",
+    "score": 4,
+    "uid": "488486a2e6bfa763"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "c83b180c1a6e53af"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 21:37:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/87f27a4a9e5142296d545d1d81894e2d1665b55c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7b67d8a218bcbcb2"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 22:49:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d39e2b82bb6d1a3c20255ddb1669c7db64345282",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1d6d73120727af98"
-  },
-  {
-    "title": "Updated List: Sat Aug 29 23:44:05 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f160f3d1d4a11964e76cbc3ca6b2496dd9732353",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5eb4177b010ba7ec"
   }
 ]
