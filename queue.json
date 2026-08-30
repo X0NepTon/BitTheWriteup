@@ -10,16 +10,6 @@
     "uid": "42551de8fae32c2e"
   },
   {
-    "title": "Password Reset Vulnerability: How I Found a Full Account Takeover.",
-    "url": "https://medium.com/@darshanmesper13/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5",
-    "summary": "I found a full unauthenticated Account Takeover on a live booking/CRM platform (referred to here as xyz.com to keep the still-open part of&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 19:54:26",
-    "score": 9,
-    "uid": "7faf317c3286e705"
-  },
-  {
     "title": "The Authorization Check That Only Fired When You Asked It To",
     "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
     "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Sat, 29 Aug 2026 06:22:43",
     "score": 8,
     "uid": "1e9670817c696de1"
+  },
+  {
+    "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
+    "url": "https://medium.com/@belalmohamed3690/how-i-chained-4-simple-bugs-into-a-mass-compromise-of-every-organization-on-a-platform-02a8ee624d4d?source=rss------bug_bounty-5",
+    "summary": "Hey hackers, this one&#x2019;s a special write-up. It&#x2019;s the first program I ever hunted on, my first critical bug, and my first write-up ever &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 29 Aug 2026 22:36:45",
+    "score": 7,
+    "uid": "528ed2a8e4aa1cc6"
   },
   {
     "title": "How to Earn $10k+/Year from Bug Bounties",
