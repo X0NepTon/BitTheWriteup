@@ -1,16 +1,6 @@
 [
   {
     "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
-    "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5",
-    "summary": "Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 31 Aug 2026 13:41:01",
-    "score": 19,
-    "uid": "a6b63e465b636fbf"
-  },
-  {
-    "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
     "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty-5",
     "summary": "Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -40,6 +30,16 @@
     "uid": "90901b0d7bec0ef2"
   },
   {
+    "title": "My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect",
+    "url": "https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 21:40:18",
+    "score": 10,
+    "uid": "3980939eb1bf697e"
+  },
+  {
     "title": "The Authorization Check That Only Fired When You Asked It To",
     "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
     "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
@@ -48,6 +48,16 @@
     "published": "Sat, 29 Aug 2026 06:22:43",
     "score": 8,
     "uid": "1e9670817c696de1"
+  },
+  {
+    "title": "I Thought I Found a Critical IDOR. I Was Wrong.",
+    "url": "https://medium.com/@Lh1l0v3/i-thought-i-found-a-critical-idor-i-was-wrong-36fb7ad6bc03?source=rss------bug_bounty-5",
+    "summary": "I have been spending more time doing vulnerability research lately, and one of the things I have started doing differently is looking at&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 19:51:02",
+    "score": 8,
+    "uid": "1bdd900516272c30"
   },
   {
     "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5f3e54cc8494e7ed"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 04:34:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/94e49bcdbd44b8fd4f0fe6414183054dd4b3fc85",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6036983b1b0021da"
   }
 ]
