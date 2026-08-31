@@ -1,5 +1,25 @@
 [
   {
+    "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
+    "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5",
+    "summary": "Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 31 Aug 2026 13:41:01",
+    "score": 19,
+    "uid": "a6b63e465b636fbf"
+  },
+  {
+    "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
+    "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty-5",
+    "summary": "Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 13:41:01",
+    "score": 18,
+    "uid": "bcaf39493d82a4de"
+  },
+  {
     "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
     "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5",
     "summary": "On hybrid apps, the bugs usually live in the gap between two features that are both fine by themselves: a WebView serving the app&#x2019;s own&#x2026;Continue reading on Medium »",
@@ -98,6 +118,16 @@
     "published": "Mon, 31 Aug 2026 06:53:16",
     "score": 5,
     "uid": "1703c630cdeda749"
+  },
+  {
+    "title": "A Senior Pentester’ Approach to IDOR and Authorization Testing",
+    "url": "https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bug_bounty-5",
+    "summary": "When I see an id parameter during an application security assessment, I don&apos;t immediately start changing 100 to 101.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 12:33:36",
+    "score": 5,
+    "uid": "808f88701d0babd2"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "6036983b1b0021da"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 08:42:18 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/032703d3b249b5586761e12037bb83670871cb3e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c9649a2b7d69652e"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 09:58:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/ed20d5ab7cd1429a6064fff829a270f8c63c5f3e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0453a385568a0784"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 10:32:48 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a75f24e07facd71107e1b0ae5eab11e24037d7e3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "76eb6db3aa9424f3"
   }
 ]
