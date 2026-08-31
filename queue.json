@@ -1,5 +1,25 @@
 [
   {
+    "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
+    "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5",
+    "summary": "On hybrid apps, the bugs usually live in the gap between two features that are both fine by themselves: a WebView serving the app&#x2019;s own&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 07:24:50",
+    "score": 10,
+    "uid": "3f60cd2d389940bc"
+  },
+  {
+    "title": "Apple Bug Bounty Cool‑Down Explained & Mosyle Impact",
+    "url": "https://dev.to/luckytaorem/apple-bug-bounty-cool-down-explained-mosyle-impact-5e4b",
+    "summary": "Understanding Apple’s New Bug Bounty Cool‑Down In the latest episode of the Apple @ Work podcast, Apple announced a structural change to its bug‑bounty program: the introduction of a cool‑down period for submissions. The concept is simple—after a researcher submits a vulnerability, Apple will enforce a waiting window before the same issue can be reported again. While the podcast’s host and 9to5Mac contributor Arin Waichulis walked through the policy shift, the technical community is already dissecting its implications. Why does Apple feel the need to add a cool‑down? The answer lies in balanci",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 10:27:02",
+    "score": 10,
+    "uid": "90901b0d7bec0ef2"
+  },
+  {
     "title": "The Authorization Check That Only Fired When You Asked It To",
     "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
     "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
@@ -68,6 +88,16 @@
     "published": "Sun, 30 Aug 2026 03:35:29",
     "score": 5,
     "uid": "d7d2a15d9f38131a"
+  },
+  {
+    "title": "Insecure Direct Object References (IDOR) — PortSwigger Lab Walkthrough",
+    "url": "https://vivek0x.medium.com/insecure-direct-object-references-idor-portswigger-lab-walkthrough-e1c61dba9090?source=rss------bug_bounty-5",
+    "summary": "Access Control section of PortSwigger&#x2019;s Web Security Academy, and this one&#x2019;s a classic &#x2014; the kind of vulnerability that gets its own&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 31 Aug 2026 06:53:16",
+    "score": 5,
+    "uid": "1703c630cdeda749"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "76eb6db3aa9424f3"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 11:57:55 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/fb70d115406db78b9fe63dc8ddea80528a947386",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9c9e23e1714b85ff"
-  },
-  {
-    "title": "I found an Apple ID Enumeration Oracle in iCloud Keychain Escrow",
-    "url": "https://medium.com/@neonsmachine/i-found-an-apple-id-enumeration-oracle-in-icloud-keychain-escrow-30fc7828357c?source=rss------bug_bounty-5",
-    "summary": "How differential authentication errors in Apple&#x2019;s escrowproxy service exposed Apple ID existence and account stateContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 20:25:45",
-    "score": 3,
-    "uid": "18fcb637ba716cb1"
-  },
-  {
-    "title": "I found an Apple ID Enumeration Oracle in iCloud Keychain Escrow",
-    "url": "https://medium.com/@scanpt/i-found-an-apple-id-enumeration-oracle-in-icloud-keychain-escrow-30fc7828357c?source=rss------bug_bounty-5",
-    "summary": "How differential authentication errors in Apple&#x2019;s escrowproxy service exposed Apple ID existence and account stateContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 20:25:45",
-    "score": 3,
-    "uid": "b8c4f94eac53671f"
   }
 ]
