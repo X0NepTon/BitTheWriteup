@@ -1,15 +1,5 @@
 [
   {
-    "title": "From an OTP Race Condition to Zero-Interaction Account Takeover",
-    "url": "https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5",
-    "summary": "DisclaimerContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 29 Aug 2026 08:24:01",
-    "score": 9,
-    "uid": "42551de8fae32c2e"
-  },
-  {
     "title": "The Authorization Check That Only Fired When You Asked It To",
     "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
     "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 30 Aug 2026 20:25:45",
     "score": 3,
     "uid": "18fcb637ba716cb1"
+  },
+  {
+    "title": "I found an Apple ID Enumeration Oracle in iCloud Keychain Escrow",
+    "url": "https://medium.com/@scanpt/i-found-an-apple-id-enumeration-oracle-in-icloud-keychain-escrow-30fc7828357c?source=rss------bug_bounty-5",
+    "summary": "How differential authentication errors in Apple&#x2019;s escrowproxy service exposed Apple ID existence and account stateContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 30 Aug 2026 20:25:45",
+    "score": 3,
+    "uid": "b8c4f94eac53671f"
   }
 ]
