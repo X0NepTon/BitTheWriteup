@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
-    "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5",
-    "summary": "On hybrid apps, the bugs usually live in the gap between two features that are both fine by themselves: a WebView serving the app&#x2019;s own&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 31 Aug 2026 07:24:50",
-    "score": 10,
-    "uid": "3f60cd2d389940bc"
-  },
-  {
     "title": "My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect",
     "url": "https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5f3e54cc8494e7ed"
+  },
+  {
+    "title": "Updated List: Tue Sep 01 19:51:52 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/554481c3325ef14668a178d4857c60d6cd4eebd1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4b796c53e9b13f49"
   }
 ]
