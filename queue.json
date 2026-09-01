@@ -200,6 +200,16 @@
     "uid": "e85435b15cdbdfda"
   },
   {
+    "title": "Business Logic Vulnerabilities via Unrestricted GraphQL API Mutations Allow Bypass of Platform…",
+    "url": "https://medium.com/@divyanksitapara088/business-logic-vulnerabilities-via-unrestricted-graphql-api-mutations-allow-bypass-of-platform-6001dfccd709?source=rss------bug_bounty-5",
+    "summary": "HHello community &#x1F44B;,I&#x2019;m Divyank Sitapara, a Bug Bounty Hunter and Application Security Researcher. I hope you&#x2019;re all doing well. I&#x2019;m back&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 01 Sep 2026 12:28:25",
+    "score": 4,
+    "uid": "2186e6723d94c799"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5f3e54cc8494e7ed"
-  },
-  {
-    "title": "Updated List: Tue Sep 01 10:32:37 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/fcdd6aa4925690cd5c5f503ffeee9d8df47c4cee",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "331e6e506fb79dc7"
   }
 ]
