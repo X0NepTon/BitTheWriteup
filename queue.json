@@ -10,16 +10,6 @@
     "uid": "3f60cd2d389940bc"
   },
   {
-    "title": "Apple Bug Bounty Cool‑Down Explained & Mosyle Impact",
-    "url": "https://dev.to/luckytaorem/apple-bug-bounty-cool-down-explained-mosyle-impact-5e4b",
-    "summary": "Understanding Apple’s New Bug Bounty Cool‑Down In the latest episode of the Apple @ Work podcast, Apple announced a structural change to its bug‑bounty program: the introduction of a cool‑down period for submissions. The concept is simple—after a researcher submits a vulnerability, Apple will enforce a waiting window before the same issue can be reported again. While the podcast’s host and 9to5Mac contributor Arin Waichulis walked through the policy shift, the technical community is already dissecting its implications. Why does Apple feel the need to add a cool‑down? The answer lies in balanci",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 31 Aug 2026 10:27:02",
-    "score": 10,
-    "uid": "90901b0d7bec0ef2"
-  },
-  {
     "title": "My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect",
     "url": "https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5f3e54cc8494e7ed"
+  },
+  {
+    "title": "Updated List: Tue Sep 01 10:32:37 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fcdd6aa4925690cd5c5f503ffeee9d8df47c4cee",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "331e6e506fb79dc7"
   }
 ]
