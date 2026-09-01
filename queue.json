@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Authorization Check That Only Fired When You Asked It To",
-    "url": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bug_bounty-5",
-    "summary": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a criticalContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 06:22:43",
-    "score": 8,
-    "uid": "1e9670817c696de1"
-  },
-  {
     "title": "I Thought I Found a Critical IDOR. I Was Wrong.",
     "url": "https://medium.com/@Lh1l0v3/i-thought-i-found-a-critical-idor-i-was-wrong-36fb7ad6bc03?source=rss------bug_bounty-5",
     "summary": "I have been spending more time doing vulnerability research lately, and one of the things I have started doing differently is looking at&#x2026;Continue reading on Medium »",
@@ -48,6 +38,16 @@
     "published": "Tue, 01 Sep 2026 18:58:52",
     "score": 7,
     "uid": "fca9597df4412499"
+  },
+  {
+    "title": "SQLi Without SQLi: I Asked the AI, It Queried the Database",
+    "url": "https://medium.com/@Tyrion404/sqli-without-sqli-i-asked-the-ai-it-queried-the-database-1f02a4166619?source=rss------bug_bounty-5",
+    "summary": "The AI That Answered Everyone&#x2019;s QuestionsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 01 Sep 2026 20:58:58",
+    "score": 7,
+    "uid": "8192ae575153bfbc"
   },
   {
     "title": "How to Earn $10k+/Year from Bug Bounties",
