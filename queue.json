@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
-    "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty-5",
-    "summary": "Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 31 Aug 2026 13:41:01",
-    "score": 18,
-    "uid": "bcaf39493d82a4de"
-  },
-  {
     "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
     "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5",
     "summary": "On hybrid apps, the bugs usually live in the gap between two features that are both fine by themselves: a WebView serving the app&#x2019;s own&#x2026;Continue reading on Medium »",
@@ -208,6 +198,16 @@
     "published": "Sun, 30 Aug 2026 13:36:01",
     "score": 4,
     "uid": "c837359d14e4d8e3"
+  },
+  {
+    "title": "When a Toast Notification Becomes an Attacker-Controlled UI — $$$ Bug Bounty",
+    "url": "https://medium.com/@abdelfattahelsabagh/when-a-toast-notification-becomes-an-attacker-controlled-ui-bug-bounty-48d3554d15a7?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x631;&#x633;&#x648;&#x644; &#x627;&#x644;&#x644;&#x647; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x635;&#x644;&#x64A; &#x627;&#x644;&#x644;&#x647; &#x639;&#x644;&#x64A;&#x647; &#x648;&#x639;&#x644;&#x64A; &#x627;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 01 Sep 2026 01:03:18",
+    "score": 4,
+    "uid": "e85435b15cdbdfda"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
