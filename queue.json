@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
-    "url": "https://medium.com/@belalmohamed3690/how-i-chained-4-simple-bugs-into-a-mass-compromise-of-every-organization-on-a-platform-02a8ee624d4d?source=rss------bug_bounty-5",
-    "summary": "Hey hackers, this one&#x2019;s a special write-up. It&#x2019;s the first program I ever hunted on, my first critical bug, and my first write-up ever &#x2014;&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 29 Aug 2026 22:36:45",
-    "score": 7,
-    "uid": "528ed2a8e4aa1cc6"
-  },
-  {
     "title": "From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal",
     "url": "https://0x7ipher.medium.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss------bug_bounty-5",
     "summary": "Case Study Analysis of how I identified an Error-Based SQL Injection vulnerability in a production environment via (VDP).Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 02 Sep 2026 11:25:50",
     "score": 3,
     "uid": "3575b2d269027857"
+  },
+  {
+    "title": "Updated List: Thu Sep 03 01:21:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0d6bbf379cc9a92bb19efd1fa2274c162b8998de",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e4a7669f14e9d15a"
   }
 ]
