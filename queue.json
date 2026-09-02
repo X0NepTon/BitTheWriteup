@@ -1,5 +1,15 @@
 [
   {
+    "title": "Information Disclosure Through Verbose Error Messages",
+    "url": "https://medium.com/@ananya.itims/information-disclosure-through-verbose-error-messages-99f5eab634c5?source=rss------bug_bounty-5",
+    "summary": "I Sent an Empty POST Request. The Server Showed Me Its Source Code.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 02 Sep 2026 10:51:32",
+    "score": 10,
+    "uid": "bee7600eb465befb"
+  },
+  {
     "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
     "url": "https://medium.com/@belalmohamed3690/how-i-chained-4-simple-bugs-into-a-mass-compromise-of-every-organization-on-a-platform-02a8ee624d4d?source=rss------bug_bounty-5",
     "summary": "Hey hackers, this one&#x2019;s a special write-up. It&#x2019;s the first program I ever hunted on, my first critical bug, and my first write-up ever &#x2014;&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "b466ecffee409864"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 01:36:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/01be3e0aab8a87745374e5a50292148b5c9010c9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a8839617ee837771"
   }
 ]
