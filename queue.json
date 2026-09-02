@@ -130,6 +130,16 @@
     "uid": "e4c138a1bc2c98cb"
   },
   {
+    "title": "The $10,000 Ceiling",
+    "url": "https://medium.com/codetodeploy/the-10-000-ceiling-10d79ad9f626?source=rss------bug_bounty-5",
+    "summary": "GitHub cut public criticals from up to $30,000 to a flat $10,000 and moved the real money behind an invitation. The cap doesn&#x2019;t price the&#x2026;Continue reading on CodeToDeploy »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 02 Sep 2026 06:14:00",
+    "score": 5,
+    "uid": "7482c7f33e11af40"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a8839617ee837771"
-  },
-  {
-    "title": "Updated List: Wed Sep 02 06:01:25 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4f3c9d732c119755314f16c026e344c2fff2a387",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f99cfc1e7132f0ed"
   }
 ]
