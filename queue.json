@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Thought I Found a Critical IDOR. I Was Wrong.",
-    "url": "https://medium.com/@Lh1l0v3/i-thought-i-found-a-critical-idor-i-was-wrong-36fb7ad6bc03?source=rss------bug_bounty-5",
-    "summary": "I have been spending more time doing vulnerability research lately, and one of the things I have started doing differently is looking at&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 31 Aug 2026 19:51:02",
-    "score": 8,
-    "uid": "1bdd900516272c30"
-  },
-  {
     "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
     "url": "https://medium.com/@belalmohamed3690/how-i-chained-4-simple-bugs-into-a-mass-compromise-of-every-organization-on-a-platform-02a8ee624d4d?source=rss------bug_bounty-5",
     "summary": "Hey hackers, this one&#x2019;s a special write-up. It&#x2019;s the first program I ever hunted on, my first critical bug, and my first write-up ever &#x2014;&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a8839617ee837771"
+  },
+  {
+    "title": "Updated List: Wed Sep 02 06:01:25 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/4f3c9d732c119755314f16c026e344c2fff2a387",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f99cfc1e7132f0ed"
   }
 ]
