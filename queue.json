@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal",
-    "url": "https://0x7ipher.medium.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss------bug_bounty-5",
-    "summary": "Case Study Analysis of how I identified an Error-Based SQL Injection vulnerability in a production environment via (VDP).Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 01 Sep 2026 20:11:03",
-    "score": 7,
-    "uid": "3e08e479df642bf6"
-  },
-  {
     "title": "Spoofing Super Admins: An IDOR Vulnerability in Enterprise Message Forwarding By Savan Chotaliya",
     "url": "https://medium.com/@chotaliyasavan754/spoofing-super-admins-an-idor-vulnerability-in-enterprise-message-forwarding-by-savan-chotaliya-cd9da67f7b2d?source=rss------bug_bounty-5",
     "summary": "During a recent bug bounty engagement on a corporate workspace platform, I discovered an Insecure Direct Object Reference (IDOR)&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e4a7669f14e9d15a"
+  },
+  {
+    "title": "Updated List: Thu Sep 03 05:24:42 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/820cc57443db0902b5658169e7a2185ac021f902",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6f3da902b3fb77d3"
   }
 ]
