@@ -1,15 +1,5 @@
 [
   {
-    "title": "Spoofing Super Admins: An IDOR Vulnerability in Enterprise Message Forwarding By Savan Chotaliya",
-    "url": "https://medium.com/@chotaliyasavan754/spoofing-super-admins-an-idor-vulnerability-in-enterprise-message-forwarding-by-savan-chotaliya-cd9da67f7b2d?source=rss------bug_bounty-5",
-    "summary": "During a recent bug bounty engagement on a corporate workspace platform, I discovered an Insecure Direct Object Reference (IDOR)&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 01 Sep 2026 18:58:52",
-    "score": 7,
-    "uid": "fca9597df4412499"
-  },
-  {
     "title": "SQLi Without SQLi: I Asked the AI, It Queried the Database",
     "url": "https://medium.com/@Tyrion404/sqli-without-sqli-i-asked-the-ai-it-queried-the-database-1f02a4166619?source=rss------bug_bounty-5",
     "summary": "The AI That Answered Everyone&#x2019;s QuestionsContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "6f3da902b3fb77d3"
+  },
+  {
+    "title": "Updated List: Thu Sep 03 11:58:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0595e8ee059bba223ac74f29c21cb12a05496697",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ff86b19a12d1ac59"
   }
 ]
