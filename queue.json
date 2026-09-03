@@ -200,6 +200,16 @@
     "uid": "2186e6723d94c799"
   },
   {
+    "title": "How “Cancel” Button deletes entire business: Discovering a CSRF and Confirmation Logic Flaw",
+    "url": "https://medium.com/@ankitrathva/how-cancel-button-deletes-entire-business-discovering-a-csrf-and-confirmation-logic-flaw-7b2d336d0013?source=rss------bug_bounty_writeup-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 03 Sep 2026 11:32:24",
+    "score": 4,
+    "uid": "f34d1dde542a4038"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "6f3da902b3fb77d3"
-  },
-  {
-    "title": "Updated List: Thu Sep 03 11:58:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0595e8ee059bba223ac74f29c21cb12a05496697",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ff86b19a12d1ac59"
   }
 ]
