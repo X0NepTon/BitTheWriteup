@@ -10,6 +10,16 @@
     "uid": "8192ae575153bfbc"
   },
   {
+    "title": "IDOR to BOLA — Mastering Authorization Bugs in Bug Bounty",
+    "url": "https://mahfujwhh.medium.com/idor-to-bola-mastering-authorization-bugs-in-bug-bounty-d04cbddf8cf8?source=rss------bug_bounty-5",
+    "summary": "From Simple ID Manipulation to Advanced Authorization TestingContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 03 Sep 2026 16:12:59",
+    "score": 7,
+    "uid": "fb03565fa59c27c8"
+  },
+  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -108,6 +118,16 @@
     "published": "Wed, 02 Sep 2026 06:14:00",
     "score": 5,
     "uid": "7482c7f33e11af40"
+  },
+  {
+    "title": "I Automated My Bug Bounty Recon Stack — Here’s the Exact Toolchain (2026)",
+    "url": "https://medium.com/@bugitrix/i-automated-my-bug-bounty-recon-stack-heres-the-exact-toolchain-2026-fb8df3b6c0ea?source=rss------bug_bounty-5",
+    "summary": "A hands-on breakdown of the pipeline I run before I ever look at a target manually: subdomain enum &#x2192; port scan &#x2192; screenshot triage &#x2192;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 03 Sep 2026 17:59:49",
+    "score": 5,
+    "uid": "698d656b82ed98d5"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "Wed, 02 Sep 2026 11:25:50",
     "score": 3,
     "uid": "3575b2d269027857"
-  },
-  {
-    "title": "Updated List: Thu Sep 03 01:21:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0d6bbf379cc9a92bb19efd1fa2274c162b8998de",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e4a7669f14e9d15a"
-  },
-  {
-    "title": "Updated List: Thu Sep 03 05:24:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/820cc57443db0902b5658169e7a2185ac021f902",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6f3da902b3fb77d3"
   }
 ]
