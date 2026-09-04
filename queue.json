@@ -10,6 +10,16 @@
     "uid": "fb03565fa59c27c8"
   },
   {
+    "title": "How a Simple Dork Led to a Critical 10.0 CVSS",
+    "url": "https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5",
+    "summary": "A critical (CVSS 10.0) vulnerability does not necessarily involve a complicated zero-day attack chain. At times, simple misconfigurations&#x2026;Continue reading on Cyber Security Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 03 Sep 2026 22:40:43",
+    "score": 7,
+    "uid": "6429806ca8f07a06"
+  },
+  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1988,15 +1998,5 @@
     "published": "Wed, 02 Sep 2026 11:25:50",
     "score": 3,
     "uid": "3575b2d269027857"
-  },
-  {
-    "title": "From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)",
-    "url": "https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5",
-    "summary": "&#x648;&#x64E;&#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A;&#x646;&#x64E; &#x62C;&#x64E;&#x627;&#x647;&#x64E;&#x62F;&#x64F;&#x648;&#x627; &#x641;&#x650;&#x64A;&#x646;&#x64E;&#x627; &#x644;&#x64E;&#x646;&#x64E;&#x647;&#x652;&#x62F;&#x650;&#x64A;&#x64E;&#x646;&#x64E;&#x651;&#x647;&#x64F;&#x645;&#x652; &#x633;&#x64F;&#x628;&#x64F;&#x644;&#x64E;&#x646;&#x64E;&#x627; &#x6DA; &#x648;&#x64E;&#x625;&#x650;&#x646;&#x64E;&#x651; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64E; &#x644;&#x64E;&#x645;&#x64E;&#x639;&#x64E; &#x627;&#x644;&#x652;&#x645;&#x64F;&#x62D;&#x652;&#x633;&#x650;&#x646;&#x650;&#x",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 03 Sep 2026 15:53:16",
-    "score": 3,
-    "uid": "3676c13d96467b9d"
   }
 ]
