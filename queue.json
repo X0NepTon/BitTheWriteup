@@ -230,6 +230,26 @@
     "uid": "f34d1dde542a4038"
   },
   {
+    "title": "5 recon habits that still land your first $500 bug bounty",
+    "url": "https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty_writeup-5",
+    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I want to walk through five recon habits that keep working for beginners, even as the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 04 Sep 2026 03:31:01",
+    "score": 4,
+    "uid": "a09407eafb04e2ba"
+  },
+  {
+    "title": "5 recon habits that still land your first $500 bug bounty",
+    "url": "https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty-5",
+    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I want to walk through five recon habits that keep working for beginners, even as the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 03:31:01",
+    "score": 4,
+    "uid": "061514d7a47bc86e"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "25a0edb8cb3709aa"
-  },
-  {
-    "title": "Updated List: Tue Aug 25 00:52:38 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5cece727c17677e45e9ebee43cf4596f59d15604",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b466ecffee409864"
-  },
-  {
-    "title": "My Autonomous Hunt Harness Found a Critical BOLA That Let Any Authenticated User Write to a Shared…",
-    "url": "https://medium.com/@redhunter01/my-autonomous-hunt-harness-found-a-critical-bola-that-let-any-authenticated-user-write-to-a-shared-5da245ca3b23?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 02 Sep 2026 11:25:50",
-    "score": 3,
-    "uid": "3575b2d269027857"
   }
 ]
