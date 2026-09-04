@@ -1,15 +1,5 @@
 [
   {
-    "title": "IDOR to BOLA — Mastering Authorization Bugs in Bug Bounty",
-    "url": "https://mahfujwhh.medium.com/idor-to-bola-mastering-authorization-bugs-in-bug-bounty-d04cbddf8cf8?source=rss------bug_bounty-5",
-    "summary": "From Simple ID Manipulation to Advanced Authorization TestingContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 03 Sep 2026 16:12:59",
-    "score": 7,
-    "uid": "fb03565fa59c27c8"
-  },
-  {
     "title": "How a Simple Dork Led to a Critical 10.0 CVSS",
     "url": "https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5",
     "summary": "A critical (CVSS 10.0) vulnerability does not necessarily involve a complicated zero-day attack chain. At times, simple misconfigurations&#x2026;Continue reading on Cyber Security Write-ups »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "afd7df5707c62651"
+  },
+  {
+    "title": "From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)",
+    "url": "https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x648;&#x64E;&#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A;&#x646;&#x64E; &#x62C;&#x64E;&#x627;&#x647;&#x64E;&#x62F;&#x64F;&#x648;&#x627; &#x641;&#x650;&#x64A;&#x646;&#x64E;&#x627; &#x644;&#x64E;&#x646;&#x64E;&#x647;&#x652;&#x62F;&#x650;&#x64A;&#x64E;&#x646;&#x64E;&#x651;&#x647;&#x64F;&#x645;&#x652; &#x633;&#x64F;&#x628;&#x64F;&#x644;&#x64E;&#x646;&#x64E;&#x627; &#x6DA; &#x648;&#x64E;&#x625;&#x650;&#x646;&#x64E;&#x651; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64E; &#x644;&#x64E;&#x645;&#x64E;&#x639;&#x64E; &#x627;&#x644;&#x652;&#x645;&#x64F;&#x62D;&#x652;&#x633;&#x650;&#x646;&#x650;&#x",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 03 Sep 2026 15:53:16",
+    "score": 3,
+    "uid": "3676c13d96467b9d"
   }
 ]
