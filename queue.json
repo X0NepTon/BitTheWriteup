@@ -260,6 +260,26 @@
     "uid": "061514d7a47bc86e"
   },
   {
+    "title": "300$ ETag Bounty",
+    "url": "https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bug_bounty_writeup-5",
+    "summary": "I was participating a new private program at h1 and I was desperately discovering site to see anything unusual. As all expert says &#x201C;do not&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 04 Sep 2026 13:15:49",
+    "score": 4,
+    "uid": "f90a536905dc7fb8"
+  },
+  {
+    "title": "300$ ETag Bounty",
+    "url": "https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bug_bounty-5",
+    "summary": "I was participating a new private program at h1 and I was desperately discovering site to see anything unusual. As all expert says &#x201C;do not&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 13:15:49",
+    "score": 4,
+    "uid": "aa464a5062b9ad24"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "afd7df5707c62651"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 19:42:07 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/fc2c506862214175ba2852d164b2814bfdf96392",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "cf41568c35f67a18"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 22:40:43 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d163678fd91016b564d0eec67f6c095639f2d9d6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c0f65c64a66f4a07"
   }
 ]
