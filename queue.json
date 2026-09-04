@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Simple Dork Led to a Critical 10.0 CVSS",
-    "url": "https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5",
-    "summary": "A critical (CVSS 10.0) vulnerability does not necessarily involve a complicated zero-day attack chain. At times, simple misconfigurations&#x2026;Continue reading on Cyber Security Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 03 Sep 2026 22:40:43",
-    "score": 7,
-    "uid": "6429806ca8f07a06"
-  },
-  {
     "title": "From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover",
     "url": "https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5",
     "summary": "A Real Estate Web App Bug Bounty StoryContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 03 Sep 2026 15:53:16",
     "score": 3,
     "uid": "3676c13d96467b9d"
+  },
+  {
+    "title": "The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface",
+    "url": "https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------bug_bounty-5",
+    "summary": "Reconnaissance is the part of bug bounty hunting that separates the people who find bugs consistently from the people who get lucky once&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 13:33:41",
+    "score": 3,
+    "uid": "20a92f7819cf5bbf"
   }
 ]
