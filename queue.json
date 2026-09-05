@@ -1,15 +1,5 @@
 [
   {
-    "title": "Everyone Chains SSTI to RCE. I Chained It to Account Takeover.",
-    "url": "https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty-5",
-    "summary": "Three attempts at code execution paid nothing. One template expression that just read a variable paid $1,000.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 17:24:43",
-    "score": 24,
-    "uid": "b3ba944f1fdd677c"
-  },
-  {
     "title": "From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)",
     "url": "https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------bug_bounty-5",
     "summary": "Some of the most damaging bugs I&#x2019;ve found didn&#x2019;t come from exotic payloads or hours of fuzzing &#x2014; they came from a feature nobody thinks to&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "a463b65eda9673c1"
+  },
+  {
+    "title": "From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)",
+    "url": "https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x648;&#x64E;&#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A;&#x646;&#x64E; &#x62C;&#x64E;&#x627;&#x647;&#x64E;&#x62F;&#x64F;&#x648;&#x627; &#x641;&#x650;&#x64A;&#x646;&#x64E;&#x627; &#x644;&#x64E;&#x646;&#x64E;&#x647;&#x652;&#x62F;&#x650;&#x64A;&#x64E;&#x646;&#x64E;&#x651;&#x647;&#x64F;&#x645;&#x652; &#x633;&#x64F;&#x628;&#x64F;&#x644;&#x64E;&#x646;&#x64E;&#x627; &#x6DA; &#x648;&#x64E;&#x625;&#x650;&#x646;&#x64E;&#x651; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64E; &#x644;&#x64E;&#x645;&#x64E;&#x639;&#x64E; &#x627;&#x644;&#x652;&#x645;&#x64F;&#x62D;&#x652;&#x633;&#x650;&#x646;&#x650;&#x",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 03 Sep 2026 15:53:16",
+    "score": 3,
+    "uid": "3676c13d96467b9d"
   }
 ]
