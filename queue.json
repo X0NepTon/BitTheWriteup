@@ -1,15 +1,5 @@
 [
   {
-    "title": "Remote Code Execution (RCE) in 2026: From Zero to Understanding How Hackers Take Control",
-    "url": "https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty-5",
-    "summary": "When people hear Remote Code Execution (RCE) for the first time, the term itself can look very scary.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 06:35:21",
-    "score": 20,
-    "uid": "05d18dc9ed6dbae8"
-  },
-  {
     "title": "How I Found an SQL Injection Vulnerability at Universitas Negeri Jakarta (UNJ)",
     "url": "https://medium.com/@adtynll/how-i-found-an-sql-injection-vulnerability-at-universitas-negeri-jakarta-unj-f372203ffa71?source=rss------bug_bounty-5",
     "summary": "Hello everyone! This is my very first vulnerability writeup. My name is Aditya Nail Emery, a 12th-grade student at SMAN 1 Payakumbuh and a&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 03 Sep 2026 15:53:16",
     "score": 3,
     "uid": "3676c13d96467b9d"
+  },
+  {
+    "title": "Ten Years of SSTI Disclosures. $4,300 in Public Bounties.",
+    "url": "https://rajnamdev.medium.com/ten-years-of-ssti-disclosures-4-300-in-public-bounties-8d93a8ddc2ff?source=rss------bug_bounty-5",
+    "summary": "30-Second Version: I pulled every disclosed server-side template injection report on HackerOne &#x2014; twelve, total, across a decade of&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 03:01:02",
+    "score": 3,
+    "uid": "6a84a3a4b726ee75"
   }
 ]
