@@ -1,15 +1,5 @@
 [
   {
-    "title": "From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover",
-    "url": "https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5",
-    "summary": "A Real Estate Web App Bug Bounty StoryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 07:00:14",
-    "score": 7,
-    "uid": "1cb3a563e108e8a2"
-  },
-  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 13:33:41",
     "score": 3,
     "uid": "20a92f7819cf5bbf"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 12:00:10",
+    "score": 3,
+    "uid": "00c856ab96a6f3f5"
   }
 ]
