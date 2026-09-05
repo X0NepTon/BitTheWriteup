@@ -1,5 +1,45 @@
 [
   {
+    "title": "Everyone Chains SSTI to RCE. I Chained It to Account Takeover.",
+    "url": "https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty-5",
+    "summary": "Three attempts at code execution paid nothing. One template expression that just read a variable paid $1,000.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 17:24:43",
+    "score": 24,
+    "uid": "b3ba944f1fdd677c"
+  },
+  {
+    "title": "From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)",
+    "url": "https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------bug_bounty-5",
+    "summary": "Some of the most damaging bugs I&#x2019;ve found didn&#x2019;t come from exotic payloads or hours of fuzzing &#x2014; they came from a feature nobody thinks to&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 17:09:47",
+    "score": 13,
+    "uid": "fadef34558ae763d"
+  },
+  {
+    "title": "The Pass Number 12345 Got Me 50% Off. The Server Never Checked If It Existed.",
+    "url": "https://medium.com/@mohammed.hmeidat/the-pass-number-12345-got-me-50-off-the-server-never-checked-if-it-existed-0b0121f5b58c?source=rss------bug_bounty-5",
+    "summary": "How a format-only validator turned a government booking platform&#x2019;s senior-citizen discount into an anyone-discount &#x2014; Medium severity&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 15:54:41",
+    "score": 9,
+    "uid": "6b1174c3196c5dea"
+  },
+  {
+    "title": "I Found a Hidden Signup Page… and Chained 3 Bugs to Become a Super Admin ($5,000–$10,000)",
+    "url": "https://medium.com/@abinsecurityresearcher/i-found-a-hidden-signup-page-and-chained-3-bugs-to-become-a-super-admin-42326159cb50?source=rss------bug_bounty-5",
+    "summary": "Impact &#x2014; CriticalContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 16:18:39",
+    "score": 8,
+    "uid": "b484dc38ebdcd7e7"
+  },
+  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -258,6 +298,16 @@
     "published": "Fri, 04 Sep 2026 13:15:49",
     "score": 4,
     "uid": "aa464a5062b9ad24"
+  },
+  {
+    "title": "The $1 Full Video: How RedHunter Found and Self-Validated a Price-Integrity Bypass",
+    "url": "https://medium.com/@redhunter01/the-1-full-video-how-redhunter-found-and-self-validated-a-price-integrity-bypass-7d83bd690b20?source=rss------bug_bounty-5",
+    "summary": "An anonymized case study in autonomous business-logic hunting. Target details are redacted &#x2014; the value here is the mindset, not the domain.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 17:00:31",
+    "score": 4,
+    "uid": "8befdeb835915ee1"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1948,55 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a463b65eda9673c1"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 16:04:59 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f231298f2c04f4c0da9fca6fe31f83750f68a94a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f261b3889debae46"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 16:37:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/75ea509be08b880c79fc934f6c9f2f487558059e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3c180891958c9a6b"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 18:00:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/6465b40e43457446f578d1a8d862e8bb6a33b22c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "afd7df5707c62651"
-  },
-  {
-    "title": "From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)",
-    "url": "https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5",
-    "summary": "&#x648;&#x64E;&#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A;&#x646;&#x64E; &#x62C;&#x64E;&#x627;&#x647;&#x64E;&#x62F;&#x64F;&#x648;&#x627; &#x641;&#x650;&#x64A;&#x646;&#x64E;&#x627; &#x644;&#x64E;&#x646;&#x64E;&#x647;&#x652;&#x62F;&#x650;&#x64A;&#x64E;&#x646;&#x64E;&#x651;&#x647;&#x64F;&#x645;&#x652; &#x633;&#x64F;&#x628;&#x64F;&#x644;&#x64E;&#x646;&#x64E;&#x627; &#x6DA; &#x648;&#x64E;&#x625;&#x650;&#x646;&#x64E;&#x651; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64E; &#x644;&#x64E;&#x645;&#x64E;&#x639;&#x64E; &#x627;&#x644;&#x652;&#x645;&#x64F;&#x62D;&#x652;&#x633;&#x650;&#x646;&#x650;&#x",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 03 Sep 2026 15:53:16",
-    "score": 3,
-    "uid": "3676c13d96467b9d"
-  },
-  {
-    "title": "Ten Years of SSTI Disclosures. $4,300 in Public Bounties.",
-    "url": "https://rajnamdev.medium.com/ten-years-of-ssti-disclosures-4-300-in-public-bounties-8d93a8ddc2ff?source=rss------bug_bounty-5",
-    "summary": "30-Second Version: I pulled every disclosed server-side template injection report on HackerOne &#x2014; twelve, total, across a decade of&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 03:01:02",
-    "score": 3,
-    "uid": "6a84a3a4b726ee75"
   }
 ]
