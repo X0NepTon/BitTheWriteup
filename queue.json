@@ -1,15 +1,5 @@
 [
   {
-    "title": "From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)",
-    "url": "https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------bug_bounty-5",
-    "summary": "Some of the most damaging bugs I&#x2019;ve found didn&#x2019;t come from exotic payloads or hours of fuzzing &#x2014; they came from a feature nobody thinks to&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 17:09:47",
-    "score": 13,
-    "uid": "fadef34558ae763d"
-  },
-  {
     "title": "The Pass Number 12345 Got Me 50% Off. The Server Never Checked If It Existed.",
     "url": "https://medium.com/@mohammed.hmeidat/the-pass-number-12345-got-me-50-off-the-server-never-checked-if-it-existed-0b0121f5b58c?source=rss------bug_bounty-5",
     "summary": "How a format-only validator turned a government booking platform&#x2019;s senior-citizen discount into an anyone-discount &#x2014; Medium severity&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 03 Sep 2026 15:53:16",
     "score": 3,
     "uid": "3676c13d96467b9d"
+  },
+  {
+    "title": "I Got My First Bug Bounty Hall of Fame… Without Finding a Bug",
+    "url": "https://medium.com/@krish_hax/i-got-my-first-bug-bounty-hall-of-fame-without-finding-a-bug-8e78b043466a?source=rss------bug_bounty-5",
+    "summary": "My first bug bounty write-up, my first report, and somehow&#x2026; my first Hall of Fame.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 21:07:28",
+    "score": 3,
+    "uid": "2068d5e7797ff608"
   }
 ]
