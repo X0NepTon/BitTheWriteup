@@ -1,5 +1,25 @@
 [
   {
+    "title": "Remote Code Execution (RCE) in 2026: From Zero to Understanding How Hackers Take Control",
+    "url": "https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty-5",
+    "summary": "When people hear Remote Code Execution (RCE) for the first time, the term itself can look very scary.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 06:35:21",
+    "score": 20,
+    "uid": "05d18dc9ed6dbae8"
+  },
+  {
+    "title": "How I Found an SQL Injection Vulnerability at Universitas Negeri Jakarta (UNJ)",
+    "url": "https://medium.com/@adtynll/how-i-found-an-sql-injection-vulnerability-at-universitas-negeri-jakarta-unj-f372203ffa71?source=rss------bug_bounty-5",
+    "summary": "Hello everyone! This is my very first vulnerability writeup. My name is Aditya Nail Emery, a 12th-grade student at SMAN 1 Payakumbuh and a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 05 Sep 2026 05:11:24",
+    "score": 8,
+    "uid": "ca12e67f9f2c5eba"
+  },
+  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 03 Sep 2026 15:53:16",
     "score": 3,
     "uid": "3676c13d96467b9d"
-  },
-  {
-    "title": "The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface",
-    "url": "https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------bug_bounty-5",
-    "summary": "Reconnaissance is the part of bug bounty hunting that separates the people who find bugs consistently from the people who get lucky once&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 13:33:41",
-    "score": 3,
-    "uid": "20a92f7819cf5bbf"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
   }
 ]
