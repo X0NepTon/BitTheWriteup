@@ -1,15 +1,5 @@
 [
   {
-    "title": "How One OIDC URL Turned Into a Much Bigger SSRF",
-    "url": "https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty_writeup-5",
-    "summary": "Finding the fetch was easy. Understanding how far it could go was the interesting part.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 06 Sep 2026 07:36:01",
-    "score": 8,
-    "uid": "ddd380a8fee313f5"
-  },
-  {
     "title": "How to Earn $10k+/Year from Bug Bounties",
     "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-3a1j",
     "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year from bug bounties isn’t about being a genius coder; it’s about being consistent, strate",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 03 Sep 2026 15:53:16",
     "score": 3,
     "uid": "3676c13d96467b9d"
+  },
+  {
+    "title": "Turning a Harmless Self-XSS Into a Full Profile Takeover",
+    "url": "https://medium.com/@oopssec-store/turning-a-harmless-self-xss-into-a-full-profile-takeover-d06cac1c50c3?source=rss------bug_bounty-5",
+    "summary": "Two boring bugs that become a dangerous account attack once you chain themContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 06 Sep 2026 19:01:00",
+    "score": 3,
+    "uid": "c50f267186d9b0da"
   }
 ]
