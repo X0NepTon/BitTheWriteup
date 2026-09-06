@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Pass Number 12345 Got Me 50% Off. The Server Never Checked If It Existed.",
-    "url": "https://medium.com/@mohammed.hmeidat/the-pass-number-12345-got-me-50-off-the-server-never-checked-if-it-existed-0b0121f5b58c?source=rss------bug_bounty-5",
-    "summary": "How a format-only validator turned a government booking platform&#x2019;s senior-citizen discount into an anyone-discount &#x2014; Medium severity&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 15:54:41",
-    "score": 9,
-    "uid": "6b1174c3196c5dea"
-  },
-  {
     "title": "I Found a Hidden Signup Page… and Chained 3 Bugs to Become a Super Admin ($5,000–$10,000)",
     "url": "https://medium.com/@abinsecurityresearcher/i-found-a-hidden-signup-page-and-chained-3-bugs-to-become-a-super-admin-42326159cb50?source=rss------bug_bounty-5",
     "summary": "Impact &#x2014; CriticalContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 05 Sep 2026 21:07:28",
     "score": 3,
     "uid": "2068d5e7797ff608"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 12:00:10",
+    "score": 3,
+    "uid": "00c856ab96a6f3f5"
   }
 ]
