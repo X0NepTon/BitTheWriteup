@@ -1,15 +1,5 @@
 [
   {
-    "title": "Why “Low Severity” Open Redirects Pay Critical Bounties",
-    "url": "https://kd-200.medium.com/why-low-severity-open-redirects-pay-critical-bounties-706d1b7b59b1?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up everyone! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 11:31:01",
-    "score": 6,
-    "uid": "4b5bda1a1017ef32"
-  },
-  {
     "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
     "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-12513-shared-files-unauthenticated-a4de0e7d394d?source=rss------bug_bounty-5",
     "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026&#x2013;12513 &#x2014; Shared Files Unauthenticated Arbitrary File Deletion via Path TraversalContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 06 Sep 2026 17:27:53",
     "score": 3,
     "uid": "fc2cdd8082f0d3bd"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 12:00:10",
+    "score": 3,
+    "uid": "00c856ab96a6f3f5"
   }
 ]
