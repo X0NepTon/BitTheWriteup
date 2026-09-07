@@ -1,15 +1,5 @@
 [
   {
-    "title": "Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…",
-    "url": "https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------bug_bounty-5",
-    "summary": "Third-party login buttons feel like solved technology.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 07 Sep 2026 12:56:00",
-    "score": 9,
-    "uid": "648e8c80fdbcf384"
-  },
-  {
     "title": "AI Agents Went From 13% to 90% in One Year. Every “Safe” Bug Class Now Has an Expiry Date.",
     "url": "https://meetcyber.net/ai-agents-went-from-13-to-90-in-one-year-every-safe-bug-class-now-has-an-expiry-date-664e1b2dc52b?source=rss------bug_bounty-5",
     "summary": "30-Second Version: In early 2025, the best autonomous agent could exploit 13% of real-world critical web vulnerabilities on CVE-Bench.Continue reading on MeetCyber »",
@@ -38,6 +28,16 @@
     "published": "Sun, 30 Aug 2026 08:36:36",
     "score": 6,
     "uid": "a5c7b5395a88a27b"
+  },
+  {
+    "title": "How to Earn $10k+/Year from Bug Bounties",
+    "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-163d",
+    "summary": "How to Earn $10k+/Year from Bug Bounties tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking How to Earn $10k+/Year from Bug Bounties: A Practical Roadmap You’ve seen the headlines: hackers finding critical flaws in billion-dollar companies and getting paid $50,000 for a single report. It looks like a magic trick, but it’s actually a skill you can build. The truth is, earning $10,000+ per year fro",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 07 Sep 2026 18:00:27",
+    "score": 6,
+    "uid": "7fe896d1a35c5362"
   },
   {
     "title": "One parameter & Two IDORs",
