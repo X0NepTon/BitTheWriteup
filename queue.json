@@ -1,13 +1,13 @@
 [
   {
-    "title": "20 Open Source Security Tools Every Developer Should Know (with Real-World Examples)",
-    "url": "https://medium.com/@verylazytech/20-open-source-security-tools-every-developer-should-know-with-real-world-examples-d6d3f275caf3?source=rss------bug_bounty-5",
-    "summary": "Ever notice how a single slip &#x2014; a forgotten input check or outdated dependency &#x2014; can open the door to hackers? You&#x2019;re hardly alone. In&#x2026;Continue reading on Medium »",
+    "title": "Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…",
+    "url": "https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------bug_bounty-5",
+    "summary": "Third-party login buttons feel like solved technology.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 07 Sep 2026 04:38:21",
-    "score": 10,
-    "uid": "681e059aaf70afe2"
+    "published": "Mon, 07 Sep 2026 12:56:00",
+    "score": 9,
+    "uid": "648e8c80fdbcf384"
   },
   {
     "title": "AI Agents Went From 13% to 90% in One Year. Every “Safe” Bug Class Now Has an Expiry Date.",
@@ -138,6 +138,16 @@
     "published": "Sun, 06 Sep 2026 14:05:43",
     "score": 5,
     "uid": "3b0c71771f9cd441"
+  },
+  {
+    "title": "CVE-2024–1086 Explained | Linux Kernel Exploitation with Chimera Linux",
+    "url": "https://medium.com/@pentesterclubpvtltd/cve-2024-1086-explained-linux-kernel-exploitation-with-chimera-linux-19396734edf1?source=rss------bug_bounty-5",
+    "summary": "Linux kernel vulnerabilities are among the most interesting subjects in offensive security because a seemingly small memory-management bug&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 07 Sep 2026 13:20:12",
+    "score": 5,
+    "uid": "b72c3ac638a01651"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a463b65eda9673c1"
-  },
-  {
-    "title": "From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)",
-    "url": "https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5",
-    "summary": "&#x648;&#x64E;&#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A;&#x646;&#x64E; &#x62C;&#x64E;&#x627;&#x647;&#x64E;&#x62F;&#x64F;&#x648;&#x627; &#x641;&#x650;&#x64A;&#x646;&#x64E;&#x627; &#x644;&#x64E;&#x646;&#x64E;&#x647;&#x652;&#x62F;&#x650;&#x64A;&#x64E;&#x646;&#x64E;&#x651;&#x647;&#x64F;&#x645;&#x652; &#x633;&#x64F;&#x628;&#x64F;&#x644;&#x64E;&#x646;&#x64E;&#x627; &#x6DA; &#x648;&#x64E;&#x625;&#x650;&#x646;&#x64E;&#x651; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64E; &#x644;&#x64E;&#x645;&#x64E;&#x639;&#x64E; &#x627;&#x644;&#x652;&#x645;&#x64F;&#x62D;&#x652;&#x633;&#x650;&#x646;&#x650;&#x",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 03 Sep 2026 15:53:16",
-    "score": 3,
-    "uid": "3676c13d96467b9d"
   }
 ]
