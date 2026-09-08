@@ -1,13 +1,23 @@
 [
   {
-    "title": "I Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).",
-    "url": "https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf?source=rss------bug_bounty-5",
-    "summary": "Hi, I&#x2019;m El7xoot, a Bug Hunter and Security Researcher focused on web applications and APIs.Continue reading on Medium »",
+    "title": "I Used My Own Identity Provider to Take Over Another Tenant",
+    "url": "https://yaseenzubair.medium.com/i-used-my-own-identity-provider-to-take-over-another-tenant-5f356ef77d3b?source=rss------bug_bounty-5",
+    "summary": "How a missing tenant-to-SSO binding turned a valid authentication response into cross-organization account takeoverContinue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 08 Sep 2026 14:20:32",
+    "published": "Tue, 08 Sep 2026 16:42:52",
     "score": 9,
-    "uid": "28e9ee12826920a7"
+    "uid": "8546c1773bfa5eee"
+  },
+  {
+    "title": "When Pre-Account Takeover Actually Means Pre-Account Takeover",
+    "url": "https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x631;&#x64E;&#x628;&#x651;&#x650; &#x627;&#x644;&#x652;&#x639;&#x64E;&#x627;&#x644;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x64E;&#x60C; &#x648;&#x64E;&#x627;&#x644;&#x635;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x629;&#x64F; &#x648;&#x64E;&#x627;&#x644;&#x633;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x645;&#x64F; &#x639;&#x64E;&#x644;&#x64E;&#x649; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650;&#x646;&#x64E;&#x627; &#x627;&#x644;&#x652;&#x623;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x650;.Continue reading on Medi",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 08 Sep 2026 16:13:10",
+    "score": 9,
+    "uid": "fd2a5821332d7da1"
   },
   {
     "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
@@ -308,6 +318,16 @@
     "published": "Sun, 06 Sep 2026 02:29:02",
     "score": 4,
     "uid": "8032961c14e3fbcf"
+  },
+  {
+    "title": "I Found a Tiny Filename Bypass That Broke a “Safe” Loader — and Earned $$$",
+    "url": "https://medium.com/@xoemekk1/i-found-a-tiny-filename-bypass-that-broke-a-safe-loader-and-earned-7fc1afb70af3?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 08 Sep 2026 16:19:17",
+    "score": 4,
+    "uid": "52674706ba8442f8"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "Mon, 24 Aug 2026 07:24:03",
     "score": 3,
     "uid": "9693a12727955df8"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 13:55:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c709e2e345d08d8a95592b6b744c9fa9abaccc68",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d577dd087d339412"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 14:42:39 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7f521223a5dd555de6d1b0ebbf8d675870069c78",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a463b65eda9673c1"
   }
 ]
