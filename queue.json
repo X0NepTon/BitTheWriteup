@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Used My Own Identity Provider to Take Over Another Tenant",
-    "url": "https://yaseenzubair.medium.com/i-used-my-own-identity-provider-to-take-over-another-tenant-5f356ef77d3b?source=rss------bug_bounty-5",
-    "summary": "How a missing tenant-to-SSO binding turned a valid authentication response into cross-organization account takeoverContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 08 Sep 2026 16:42:52",
-    "score": 9,
-    "uid": "8546c1773bfa5eee"
-  },
-  {
     "title": "When Pre-Account Takeover Actually Means Pre-Account Takeover",
     "url": "https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5",
     "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x631;&#x64E;&#x628;&#x651;&#x650; &#x627;&#x644;&#x652;&#x639;&#x64E;&#x627;&#x644;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x64E;&#x60C; &#x648;&#x64E;&#x627;&#x644;&#x635;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x629;&#x64F; &#x648;&#x64E;&#x627;&#x644;&#x633;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x645;&#x64F; &#x639;&#x64E;&#x644;&#x64E;&#x649; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650;&#x646;&#x64E;&#x627; &#x627;&#x644;&#x652;&#x623;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x650;.Continue reading on Medi",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 24 Aug 2026 07:24:03",
     "score": 3,
     "uid": "9693a12727955df8"
+  },
+  {
+    "title": "Uncovering an Open Redirect Using Wayback",
+    "url": "https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 07 Sep 2026 09:57:32",
+    "score": 3,
+    "uid": "4b9285223a99b313"
   }
 ]
