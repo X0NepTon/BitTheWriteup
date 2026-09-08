@@ -1,5 +1,15 @@
 [
   {
+    "title": "I Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).",
+    "url": "https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf?source=rss------bug_bounty-5",
+    "summary": "Hi, I&#x2019;m El7xoot, a Bug Hunter and Security Researcher focused on web applications and APIs.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 08 Sep 2026 14:20:32",
+    "score": 9,
+    "uid": "28e9ee12826920a7"
+  },
+  {
     "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
     "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-12513-shared-files-unauthenticated-a4de0e7d394d?source=rss------bug_bounty-5",
     "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026&#x2013;12513 &#x2014; Shared Files Unauthenticated Arbitrary File Deletion via Path TraversalContinue reading on Medium »",
@@ -8,6 +18,16 @@
     "published": "Sun, 30 Aug 2026 08:36:36",
     "score": 6,
     "uid": "a5c7b5395a88a27b"
+  },
+  {
+    "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
+    "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
+    "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 08 Sep 2026 11:50:39",
+    "score": 6,
+    "uid": "10b00da2b541f5a3"
   },
   {
     "title": "One parameter & Two IDORs",
@@ -118,6 +138,16 @@
     "published": "Mon, 07 Sep 2026 13:20:12",
     "score": 5,
     "uid": "b72c3ac638a01651"
+  },
+  {
+    "title": "The Victim Paid. The Attacker Used Their Subscription (IDOR).",
+    "url": "https://medium.com/@ma6632174/the-victim-paid-the-attacker-used-their-subscription-41364e379a22?source=rss------bug_bounty-5",
+    "summary": "Hi, I&#x2019;m el7xoot, a Bug Hunter and Security Researcher focused on web applications and APIs.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 08 Sep 2026 13:11:21",
+    "score": 5,
+    "uid": "669eafecd63cb2b1"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a463b65eda9673c1"
-  },
-  {
-    "title": "Uncovering an Open Redirect Using Wayback",
-    "url": "https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 07 Sep 2026 09:57:32",
-    "score": 3,
-    "uid": "4b9285223a99b313"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "Updated List: Tue Sep 08 10:15:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/75a8bcb7fed39439bdd0ce2ae577e52f16f385fa",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "29133810752d2c54"
   }
 ]
