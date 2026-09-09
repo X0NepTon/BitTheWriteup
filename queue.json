@@ -20,6 +20,26 @@
     "uid": "f9cd7217e62d5260"
   },
   {
+    "title": "Finding an SSRF in Next.js Server Actions",
+    "url": "https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty_writeup-5",
+    "summary": "I was looking through the Next.js Server Action forwarding code when I noticed that X-Forwarded-Host could influence the host used for an&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 09 Sep 2026 17:19:28",
+    "score": 8,
+    "uid": "137235e3a3e088ab"
+  },
+  {
+    "title": "Finding an SSRF in Next.js Server Actions",
+    "url": "https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty-5",
+    "summary": "I was looking through the Next.js Server Action forwarding code when I noticed that X-Forwarded-Host could influence the host used for an&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 17:19:28",
+    "score": 8,
+    "uid": "dd3d30d54308cde1"
+  },
+  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4593c84f02feca62"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 08:10:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/07d3e075cfc41a24a55ba63d7456a9916cb081ce",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fc2f368638ac4dc3"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 11:58:05 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/00b691f4280134f895c2e837163ecfce4c3d914e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1062700d186fd867"
   }
 ]
