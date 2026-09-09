@@ -1,5 +1,25 @@
 [
   {
+    "title": "My Bug Hunting Playbook: How I Found and Fixed 8 Bugs Across 5 OSS Repos in 24 Hours",
+    "url": "https://dev.to/truongsontung/my-bug-hunting-playbook-how-i-found-and-fixed-8-bugs-across-5-oss-repos-in-24-hours-38ld",
+    "summary": "My Bug Hunting Playbook: 8 Bugs, 5 OSS Repos, 24 Hours TL;DR I found and submitted fixes for 8 bugs across 5 major open-source repositories in 24 hours — all without user signup, using only GitHub CLI and API tokens. Here's my complete playbook. Setup (5 minutes) Tools needed: GitHub CLI (gh) — for PR management GitHub API token — for issue search SSH keys — for git operations Python — for API scripting One-time setup: gh auth login git config --global user.name \"truongsontung\" Step 1: Finding Bugs (30 minutes) Primary strategy: GitHub issue search headers = {\"Authorization\": f\"token {GITHUB_T",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 08:49:33",
+    "score": 9,
+    "uid": "667aaecc60b96cc0"
+  },
+  {
+    "title": "The 28% Cost Bug: How a Single Character Broke Claude 3 Haiku Cache Pricing",
+    "url": "https://dev.to/truongsontung/the-28-cost-bug-how-a-single-character-broke-claude-3-haiku-cache-pricing-281o",
+    "summary": "The 28% Cost Bug: How a Single Character Broke Claude 3 Haiku Cache Pricing The Bug A developer filed an issue: the cache read pricing for Claude 3 Haiku was wrong — off by a factor of 10. That means every API call was either costing 9x more or generating 9x less revenue than expected. The PR title said it all: \"Claude 3 Haiku CR cache pricing fix.\" The Investigation In litellm/cost_calculators/ (or similar config files), the pricing for Claude 3 Haiku cache reads was: # Before (buggy): \"claude-3-haiku-20240307\": { \"prompt_cost\": 0.00025, # per 1K tokens \"completion_cost\": 0.00025, \"cache_read",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 08:54:20",
+    "score": 8,
+    "uid": "f9cd7217e62d5260"
+  },
+  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1062700d186fd867"
-  },
-  {
-    "title": "Unauthenticated Strapi Relational-Filter Leak → Super-Admin Takeover → Server-Side Code Execution",
-    "url": "https://medium.com/@redhunter01/unauthenticated-strapi-relational-filter-leak-super-admin-takeover-server-side-code-execution-34fb5822e5b2?source=rss------bug_bounty-5",
-    "summary": "How a seemingly harmless public API filter became a full compromise chainContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 24 Aug 2026 07:24:03",
-    "score": 3,
-    "uid": "9693a12727955df8"
-  },
-  {
-    "title": "Uncovering an Open Redirect Using Wayback",
-    "url": "https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 07 Sep 2026 09:57:32",
-    "score": 3,
-    "uid": "4b9285223a99b313"
   }
 ]
