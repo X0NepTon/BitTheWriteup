@@ -1,15 +1,5 @@
 [
   {
-    "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
-    "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-12513-shared-files-unauthenticated-a4de0e7d394d?source=rss------bug_bounty-5",
-    "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026&#x2013;12513 &#x2014; Shared Files Unauthenticated Arbitrary File Deletion via Path TraversalContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 08:36:36",
-    "score": 6,
-    "uid": "a5c7b5395a88a27b"
-  },
-  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -318,6 +308,16 @@
     "published": "Tue, 08 Sep 2026 16:19:17",
     "score": 4,
     "uid": "52674706ba8442f8"
+  },
+  {
+    "title": "I Forged My Own Admin Token by Exploiting JWT Algorithm Confusion ($8,500 Bounty)",
+    "url": "https://medium.com/@t4nv1/i-forged-my-own-admin-token-by-exploiting-jwt-algorithm-confusion-8-500-bounty-98a01d99166c?source=rss------bug_bounty-5",
+    "summary": "Most developers who implement JWT authentication understand that the token needs a signature, and they understand that the signature needs&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 08:11:00",
+    "score": 4,
+    "uid": "2d4c1e14fbf4511b"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
