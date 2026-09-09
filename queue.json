@@ -1,15 +1,5 @@
 [
   {
-    "title": "When Pre-Account Takeover Actually Means Pre-Account Takeover",
-    "url": "https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5",
-    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x631;&#x64E;&#x628;&#x651;&#x650; &#x627;&#x644;&#x652;&#x639;&#x64E;&#x627;&#x644;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x64E;&#x60C; &#x648;&#x64E;&#x627;&#x644;&#x635;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x629;&#x64F; &#x648;&#x64E;&#x627;&#x644;&#x633;&#x651;&#x64E;&#x644;&#x64E;&#x627;&#x645;&#x64F; &#x639;&#x64E;&#x644;&#x64E;&#x649; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650;&#x646;&#x64E;&#x627; &#x627;&#x644;&#x652;&#x623;&#x64E;&#x645;&#x650;&#x64A;&#x646;&#x650;.Continue reading on Medi",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 08 Sep 2026 16:13:10",
-    "score": 9,
-    "uid": "fd2a5821332d7da1"
-  },
-  {
     "title": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026–12513 — Shared Files Unauthenticated…",
     "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-12513-shared-files-unauthenticated-a4de0e7d394d?source=rss------bug_bounty-5",
     "summary": "Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026&#x2013;12513 &#x2014; Shared Files Unauthenticated Arbitrary File Deletion via Path TraversalContinue reading on Medium »",
@@ -148,6 +138,16 @@
     "published": "Tue, 08 Sep 2026 13:11:21",
     "score": 5,
     "uid": "669eafecd63cb2b1"
+  },
+  {
+    "title": "HackerOne Paid Out $81 Million Last Year. The Median Disclosed Bounty Is $500.",
+    "url": "https://rajnamdev.medium.com/hackerone-paid-out-81-million-last-year-the-median-disclosed-bounty-is-500-35cc010244d7?source=rss------bug_bounty-5",
+    "summary": "30-Second Version: HackerOne&#x2019;s latest annual report claims $81 million in bounties paid over twelve months, a growing club of 22 lifetime&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 02:51:00",
+    "score": 5,
+    "uid": "c5939aa3d7cc1b70"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
