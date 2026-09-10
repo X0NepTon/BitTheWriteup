@@ -10,16 +10,6 @@
     "uid": "bc40aca240a19ed3"
   },
   {
-    "title": "Blind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle",
-    "url": "https://medium.com/@donghcoder/blind-sql-injection-behind-a-waf-bypassing-filters-with-a-not-in-case-when-sleep-oracle-081b7eb48d50?source=rss------bug_bounty-5",
-    "summary": "durante programa de bug bounty, encontrei um par&#xE2;metro num&#xE9;rico refletido em uma query SQL **sem aspas e sem prepared statement**. Um WAF&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 09 Sep 2026 23:46:21",
-    "score": 11,
-    "uid": "eed0730a6aa04e1f"
-  },
-  {
     "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
     "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5",
     "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Wed, 09 Sep 2026 23:55:07",
     "score": 10,
     "uid": "d7d9e38b683a35e5"
+  },
+  {
+    "title": "How I Got Regular Users to Bypass Admin Approval and Accept Live Shares (Broken Access Control) —…",
+    "url": "https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5",
+    "summary": "A writeup of a Broken Access Control / Privilege Escalation bug I found and got rewarded for.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 10 Sep 2026 05:15:39",
+    "score": 10,
+    "uid": "1b022797495abda0"
   },
   {
     "title": "My Bug Hunting Playbook: How I Found and Fixed 8 Bugs Across 5 OSS Repos in 24 Hours",
