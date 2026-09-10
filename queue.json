@@ -1,16 +1,6 @@
 [
   {
     "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
-    "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5",
-    "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 09 Sep 2026 23:55:07",
-    "score": 11,
-    "uid": "bc40aca240a19ed3"
-  },
-  {
-    "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
     "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5",
     "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9a7da8e48a26872b"
+  },
+  {
+    "title": "Uncovering an Open Redirect Using Wayback",
+    "url": "https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 07 Sep 2026 09:57:32",
+    "score": 3,
+    "uid": "4b9285223a99b313"
   }
 ]
