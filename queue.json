@@ -1,15 +1,5 @@
 [
   {
-    "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
-    "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5",
-    "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 09 Sep 2026 23:55:07",
-    "score": 10,
-    "uid": "d7d9e38b683a35e5"
-  },
-  {
     "title": "How I Got Regular Users to Bypass Admin Approval and Accept Live Shares (Broken Access Control) —…",
     "url": "https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5",
     "summary": "A writeup of a Broken Access Control / Privilege Escalation bug I found and got rewarded for.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 07 Sep 2026 09:57:32",
     "score": 3,
     "uid": "4b9285223a99b313"
+  },
+  {
+    "title": "When DLP Leaves Its Kill Switch on the Endpoint",
+    "url": "https://alirezasafari.medium.com/when-dlp-leaves-its-kill-switch-on-the-endpoint-6ab2165af4ac?source=rss------bug_bounty-5",
+    "summary": "A Simple Question That Led to a Critical VulnerabilityContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 10 Sep 2026 21:42:10",
+    "score": 3,
+    "uid": "205918749db01962"
   }
 ]
