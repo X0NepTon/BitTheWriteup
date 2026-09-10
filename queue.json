@@ -1,5 +1,35 @@
 [
   {
+    "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
+    "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5",
+    "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 09 Sep 2026 23:55:07",
+    "score": 11,
+    "uid": "bc40aca240a19ed3"
+  },
+  {
+    "title": "Blind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle",
+    "url": "https://medium.com/@donghcoder/blind-sql-injection-behind-a-waf-bypassing-filters-with-a-not-in-case-when-sleep-oracle-081b7eb48d50?source=rss------bug_bounty-5",
+    "summary": "durante programa de bug bounty, encontrei um par&#xE2;metro num&#xE9;rico refletido em uma query SQL **sem aspas e sem prepared statement**. Um WAF&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 23:46:21",
+    "score": 11,
+    "uid": "eed0730a6aa04e1f"
+  },
+  {
+    "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
+    "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5",
+    "summary": "durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 09 Sep 2026 23:55:07",
+    "score": 10,
+    "uid": "d7d9e38b683a35e5"
+  },
+  {
     "title": "My Bug Hunting Playbook: How I Found and Fixed 8 Bugs Across 5 OSS Repos in 24 Hours",
     "url": "https://dev.to/truongsontung/my-bug-hunting-playbook-how-i-found-and-fixed-8-bugs-across-5-oss-repos-in-24-hours-38ld",
     "summary": "My Bug Hunting Playbook: 8 Bugs, 5 OSS Repos, 24 Hours TL;DR I found and submitted fixes for 8 bugs across 5 major open-source repositories in 24 hours — all without user signup, using only GitHub CLI and API tokens. Here's my complete playbook. Setup (5 minutes) Tools needed: GitHub CLI (gh) — for PR management GitHub API token — for issue search SSH keys — for git operations Python — for API scripting One-time setup: gh auth login git config --global user.name \"truongsontung\" Step 1: Finding Bugs (30 minutes) Primary strategy: GitHub issue search headers = {\"Authorization\": f\"token {GITHUB_T",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "bc43836296cabd9c"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 03:33:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e987297f1cbeb8a24688930fecf551da3fae12f9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9ef0beb6f7104711"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 04:47:42 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a8a3bac02fd39ca5d2e4c3b7ef40f2db5cadc682",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c2de46e65eac8a37"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 05:33:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/62a267b036637e71d67f456cdf431b093a6ff70e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4593c84f02feca62"
   }
 ]
