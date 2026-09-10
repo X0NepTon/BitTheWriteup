@@ -30,6 +30,16 @@
     "uid": "1b022797495abda0"
   },
   {
+    "title": "I Found a Real-Time “God’s Eye” OSINT Tool — And It’s Open Source!",
+    "url": "https://medium.com/@pentesterclubpvtltd/i-found-a-real-time-gods-eye-osint-tool-and-it-s-open-source-a56b064ec08b?source=rss------bug_bounty-5",
+    "summary": "What if you could open a browser, look at a 3D globe, and start exploring live aircraft, ships, satellites, earthquakes, public cameras&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 10 Sep 2026 14:19:01",
+    "score": 10,
+    "uid": "6642b9c527ff2022"
+  },
+  {
     "title": "My Bug Hunting Playbook: How I Found and Fixed 8 Bugs Across 5 OSS Repos in 24 Hours",
     "url": "https://dev.to/truongsontung/my-bug-hunting-playbook-how-i-found-and-fixed-8-bugs-across-5-oss-repos-in-24-hours-38ld",
     "summary": "My Bug Hunting Playbook: 8 Bugs, 5 OSS Repos, 24 Hours TL;DR I found and submitted fixes for 8 bugs across 5 major open-source repositories in 24 hours — all without user signup, using only GitHub CLI and API tokens. Here's my complete playbook. Setup (5 minutes) Tools needed: GitHub CLI (gh) — for PR management GitHub API token — for issue search SSH keys — for git operations Python — for API scripting One-time setup: gh auth login git config --global user.name \"truongsontung\" Step 1: Finding Bugs (30 minutes) Primary strategy: GitHub issue search headers = {\"Authorization\": f\"token {GITHUB_T",
@@ -208,6 +218,16 @@
     "published": "Wed, 09 Sep 2026 02:51:00",
     "score": 5,
     "uid": "c5939aa3d7cc1b70"
+  },
+  {
+    "title": "I Wasn’t Looking for PII. I Just Cancelled an Invite. (IDOR → PII)",
+    "url": "https://medium.com/@ma6632174/i-wasnt-looking-for-pii-i-just-cancelled-an-invite-idor-pii-41d1df546edf?source=rss------bug_bounty-5",
+    "summary": "Hi, I&#x2019;m El7xoot, a Bug Hunter and Security Researcher focused on web applications and APIs.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 10 Sep 2026 14:28:21",
+    "score": 5,
+    "uid": "f582e84254a150db"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "9a7da8e48a26872b"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 01:32:30 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2d6f5bc8253ea42a3bbeb1d4ba7b9e671120283e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "579a9b8db7fe85ad"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 02:48:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f800e8356c3ee757d0d31a31dbec6be824ffb511",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "bc43836296cabd9c"
   }
 ]
