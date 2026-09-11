@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Got Regular Users to Bypass Admin Approval and Accept Live Shares (Broken Access Control) —…",
-    "url": "https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5",
-    "summary": "A writeup of a Broken Access Control / Privilege Escalation bug I found and got rewarded for.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 10 Sep 2026 05:15:39",
-    "score": 10,
-    "uid": "1b022797495abda0"
-  },
-  {
     "title": "I Found a Real-Time “God’s Eye” OSINT Tool — And It’s Open Source!",
     "url": "https://medium.com/@pentesterclubpvtltd/i-found-a-real-time-gods-eye-osint-tool-and-it-s-open-source-a56b064ec08b?source=rss------bug_bounty-5",
     "summary": "What if you could open a browser, look at a 3D globe, and start exploring live aircraft, ships, satellites, earthquakes, public cameras&#x2026;Continue reading on Medium »",
@@ -58,6 +48,26 @@
     "published": "Wed, 09 Sep 2026 17:19:28",
     "score": 8,
     "uid": "dd3d30d54308cde1"
+  },
+  {
+    "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
+    "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
+    "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 11 Sep 2026 02:01:03",
+    "score": 7,
+    "uid": "a23e126db9edb338"
+  },
+  {
+    "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
+    "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty-5",
+    "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 11 Sep 2026 02:01:03",
+    "score": 7,
+    "uid": "0946338f38380dab"
   },
   {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
@@ -1988,15 +1998,5 @@
     "published": "Mon, 07 Sep 2026 09:57:32",
     "score": 3,
     "uid": "4b9285223a99b313"
-  },
-  {
-    "title": "When DLP Leaves Its Kill Switch on the Endpoint",
-    "url": "https://alirezasafari.medium.com/when-dlp-leaves-its-kill-switch-on-the-endpoint-6ab2165af4ac?source=rss------bug_bounty-5",
-    "summary": "A Simple Question That Led to a Critical VulnerabilityContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 10 Sep 2026 21:42:10",
-    "score": 3,
-    "uid": "205918749db01962"
   }
 ]
