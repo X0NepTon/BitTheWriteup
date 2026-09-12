@@ -10,16 +10,6 @@
     "uid": "a23e126db9edb338"
   },
   {
-    "title": "From Dead SQLi To Live Session Hijack.",
-    "url": "https://medium.com/@Darkshadow24/from-dead-sqli-to-live-session-hijack-c30a07fe2f20?source=rss------bug_bounty-5",
-    "summary": "Introduction:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 11 Sep 2026 10:25:13",
-    "score": 7,
-    "uid": "16675f5450648a93"
-  },
-  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
+  },
+  {
+    "title": "Updated List: Sun Sep 13 04:18:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/11ac3e6946e325408cc2f992c3aa50cb8e02280d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7d7a68155623922a"
   }
 ]
