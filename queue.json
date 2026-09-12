@@ -1,15 +1,5 @@
 [
   {
-    "title": "My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section",
-    "url": "https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey Researchers and Bug hunters!Continue reading on BugBountywizard »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 12 Sep 2026 10:52:27",
-    "score": 9,
-    "uid": "bb0eb7b11f72df24"
-  },
-  {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
     "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
     "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Sat, 12 Sep 2026 08:26:01",
     "score": 6,
     "uid": "eb193748a9042f71"
+  },
+  {
+    "title": "Why “Claimable” Doesn’t Always Mean “Exploitable”: A Subdomain Takeover That Wasn’t",
+    "url": "https://medium.com/@samym6624/why-claimable-doesnt-always-mean-exploitable-a-subdomain-takeover-that-wasn-t-c431e3f5dbef?source=rss------bug_bounty-5",
+    "summary": "A dangling CNAME, a claimable Mailgun domain, and a rejection that taught me more than an acceptance would have.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 12 Sep 2026 15:56:01",
+    "score": 6,
+    "uid": "9b20c65a23e3f109"
   },
   {
     "title": "One parameter & Two IDORs",
