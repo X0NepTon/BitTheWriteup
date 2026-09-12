@@ -200,6 +200,16 @@
     "uid": "f582e84254a150db"
   },
   {
+    "title": "CVE-2026–82019: How a Random Ad Led to DOM XSS While Testing chess.com",
+    "url": "https://hussein-mahmoud7.medium.com/cve-2026-82019-how-a-random-ad-led-to-dom-xss-while-testing-chess-com-f043584e1e68?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 12 Sep 2026 11:38:09",
+    "score": 5,
+    "uid": "62caae7d52a662a8"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "9a7da8e48a26872b"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
   }
 ]
