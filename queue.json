@@ -1,5 +1,15 @@
 [
   {
+    "title": "My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section",
+    "url": "https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey Researchers and Bug hunters!Continue reading on BugBountywizard »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 12 Sep 2026 10:52:27",
+    "score": 9,
+    "uid": "bb0eb7b11f72df24"
+  },
+  {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
     "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
     "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Tue, 08 Sep 2026 11:50:39",
     "score": 6,
     "uid": "10b00da2b541f5a3"
+  },
+  {
+    "title": "$750 Bug Bounty: Bypassing Password Reset Rate Limits via Header Spoofing",
+    "url": "https://medium.com/@t4nv1/750-bug-bounty-bypassing-password-reset-rate-limits-via-header-spoofing-cc6a6ffaf724?source=rss------bug_bounty-5",
+    "summary": "Rate limiting is a fundamental defense mechanism designed to protect sensitive endpoints &#x2014; such as login forms, password reset requests&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 12 Sep 2026 08:26:01",
+    "score": 6,
+    "uid": "eb193748a9042f71"
   },
   {
     "title": "One parameter & Two IDORs",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "Updated List: Sat Sep 12 05:14:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/84c24200a3fcb550347a9e7d66b318a336ae2d22",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c47059b792888cb8"
-  },
-  {
-    "title": "Updated List: Sat Sep 12 11:58:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/01131c548e36c0c6a248854697ed64f93617e1a8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "47259d4f1dbc0d44"
   }
 ]
