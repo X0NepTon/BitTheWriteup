@@ -1,15 +1,5 @@
 [
   {
-    "title": "Finding an SSRF in Next.js Server Actions",
-    "url": "https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty_writeup-5",
-    "summary": "I was looking through the Next.js Server Action forwarding code when I noticed that X-Forwarded-Host could influence the host used for an&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 09 Sep 2026 17:19:28",
-    "score": 8,
-    "uid": "137235e3a3e088ab"
-  },
-  {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
     "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
     "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "c47059b792888cb8"
+  },
+  {
+    "title": "Updated List: Sat Sep 12 11:58:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/01131c548e36c0c6a248854697ed64f93617e1a8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "47259d4f1dbc0d44"
   }
 ]
