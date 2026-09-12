@@ -10,16 +10,6 @@
     "uid": "a23e126db9edb338"
   },
   {
-    "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
-    "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty-5",
-    "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 11 Sep 2026 02:01:03",
-    "score": 7,
-    "uid": "0946338f38380dab"
-  },
-  {
     "title": "From Dead SQLi To Live Session Hijack.",
     "url": "https://medium.com/@Darkshadow24/from-dead-sqli-to-live-session-hijack-c30a07fe2f20?source=rss------bug_bounty-5",
     "summary": "Introduction:Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "9a7da8e48a26872b"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 12:00:10",
+    "score": 3,
+    "uid": "00c856ab96a6f3f5"
   }
 ]
