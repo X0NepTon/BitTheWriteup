@@ -20,6 +20,16 @@
     "uid": "a23e126db9edb338"
   },
   {
+    "title": "How a Sort Parmeter Became Blind SQL Injection",
+    "url": "https://medium.com/@edemzayaniyt/how-a-sort-parmeter-became-blind-sql-injection-6c2ffe0ec457?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 20:50:54",
+    "score": 7,
+    "uid": "c430e6d592cf6cac"
+  },
+  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
-  },
-  {
-    "title": "My Journey From 0 to 10k$",
-    "url": "https://medium.com/@Seox12/my-journey-from-0-to-10k-6cb3b2800ff1?source=rss------bug_bounty_writeup-5",
-    "summary": "So i will keep this writeup to the point without talking any fluffContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 13 Sep 2026 15:01:52",
-    "score": 3,
-    "uid": "6f06a6b4c0ae0836"
   }
 ]
