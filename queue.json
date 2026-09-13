@@ -1,15 +1,5 @@
 [
   {
-    "title": "Exotic Sources: window.name, History State, Storage, Cookies, Referrer",
-    "url": "https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5",
-    "summary": "Attacker-controlled, invisible to every server-side defence, and unguarded because developers do not think of them as input.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 13 Sep 2026 11:31:01",
-    "score": 10,
-    "uid": "9ea01aad1cb6af31"
-  },
-  {
     "title": "I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones",
     "url": "https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty_writeup-5",
     "summary": "Two hunters find the exact same IDOR. One gets $50 and a &#x201C;Low&#x201D; severity label. The other gets $8,000 and a personal thank-you from the&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
+  },
+  {
+    "title": "My Journey From 0 to 10k$",
+    "url": "https://medium.com/@Seox12/my-journey-from-0-to-10k-6cb3b2800ff1?source=rss------bug_bounty_writeup-5",
+    "summary": "So i will keep this writeup to the point without talking any fluffContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 13 Sep 2026 15:01:52",
+    "score": 3,
+    "uid": "6f06a6b4c0ae0836"
   }
 ]
