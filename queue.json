@@ -1,5 +1,15 @@
 [
   {
+    "title": "I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones",
+    "url": "https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty_writeup-5",
+    "summary": "Two hunters find the exact same IDOR. One gets $50 and a &#x201C;Low&#x201D; severity label. The other gets $8,000 and a personal thank-you from the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 13 Sep 2026 02:01:02",
+    "score": 9,
+    "uid": "dd20ad7dad4d863f"
+  },
+  {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
     "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
     "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "Updated List: Sun Sep 13 04:18:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/11ac3e6946e325408cc2f992c3aa50cb8e02280d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7d7a68155623922a"
   }
 ]
