@@ -1,5 +1,15 @@
 [
   {
+    "title": "Exotic Sources: window.name, History State, Storage, Cookies, Referrer",
+    "url": "https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5",
+    "summary": "Attacker-controlled, invisible to every server-side defence, and unguarded because developers do not think of them as input.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 11:31:01",
+    "score": 10,
+    "uid": "9ea01aad1cb6af31"
+  },
+  {
     "title": "I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones",
     "url": "https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty_writeup-5",
     "summary": "Two hunters find the exact same IDOR. One gets $50 and a &#x201C;Low&#x201D; severity label. The other gets $8,000 and a personal thank-you from the&#x2026;Continue reading on Medium »",
@@ -8,6 +18,16 @@
     "published": "Sun, 13 Sep 2026 02:01:02",
     "score": 9,
     "uid": "dd20ad7dad4d863f"
+  },
+  {
+    "title": "I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet",
+    "url": "https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om",
+    "summary": "I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet TL;DR: OpenSea runs an undocumented MCP server at mcp.opensea.io/mcp. One of its tools hands out API keys to anyone who asks, and another lets you resolve any Ethereum address with an OpenSea profile to its owner's username. Reported to Bugcrowd, now sharing the story and a free recon kit. The Setup I was poking around OpenSea's tooling one afternoon — just trying to understand how some of their internal features worked. Nothing fancy, no scanners, no brute force. Just curiosity and a browser. That's when I ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 03:28:36",
+    "score": 9,
+    "uid": "c3646ba2e6550b54"
   },
   {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
@@ -198,6 +218,26 @@
     "published": "Sat, 12 Sep 2026 11:38:09",
     "score": 5,
     "uid": "62caae7d52a662a8"
+  },
+  {
+    "title": "OTP IDOR: When One Code Verifies the Wrong Phone Number",
+    "url": "https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 13 Sep 2026 07:54:31",
+    "score": 5,
+    "uid": "a7c3289ab6559f81"
+  },
+  {
+    "title": "OTP IDOR: When One Code Verifies the Wrong Phone Number",
+    "url": "https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty-5",
+    "summary": "Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 07:54:31",
+    "score": 5,
+    "uid": "eacadda5c935a027"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -398,6 +438,16 @@
     "published": "Fri, 11 Sep 2026 14:00:02",
     "score": 4,
     "uid": "8e18a013e630e845"
+  },
+  {
+    "title": "Bug Bounty for Beginners . Earn Your First $100 with Ethical Hacking",
+    "url": "https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-earn-your-first-100-with-ethical-hacking-6408aa117f7a?source=rss------bug_bounty-5",
+    "summary": "Step-by-Step Blueprint (No Experience Needed)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 10:43:42",
+    "score": 4,
+    "uid": "ddbd0269009300da"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1948,55 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
-  },
-  {
-    "title": "Hijacking Web3 Extensions: Unvalidated Storage & TOCTOU Patch Bypass in Coin98",
-    "url": "https://infosecwriteups.com/hijacking-web3-extensions-unvalidated-storage-toctou-patch-bypass-in-coin98-b8a655f793d4?source=rss------bug_bounty-5",
-    "summary": "Vulnerabilities: Unvalidated LocalStorage Context Poisoning (coin98-161) & TOCTOU Patch Bypass (coin98-193)Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 23 Aug 2026 15:37:59",
-    "score": 3,
-    "uid": "2ccdba4ca7574fec"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 22:43:38 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0bc4894b070c2c6ed72f3e887c49bc3ff0e4cf61",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "432b1dda5acbcb14"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 23:33:07 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/64c8e0444e3d11be52ea1dc6a5c36fe60f049963",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9cc5995e89aff4fb"
-  },
-  {
-    "title": "Updated List: Mon Aug 24 00:45:26 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4dc757b4f1ee147fe20e2996baefd0c1d4c4a3d2",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9a7da8e48a26872b"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
   }
 ]
