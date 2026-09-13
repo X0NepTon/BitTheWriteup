@@ -10,16 +10,6 @@
     "uid": "dd20ad7dad4d863f"
   },
   {
-    "title": "I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet",
-    "url": "https://dev.to/tinycoder-studio/i-found-an-undocumented-mcp-server-on-opensea-and-it-leaked-usernames-for-any-wallet-43om",
-    "summary": "I Found an Undocumented MCP Server on OpenSea — and It Leaked Usernames for Any Wallet TL;DR: OpenSea runs an undocumented MCP server at mcp.opensea.io/mcp. One of its tools hands out API keys to anyone who asks, and another lets you resolve any Ethereum address with an OpenSea profile to its owner's username. Reported to Bugcrowd, now sharing the story and a free recon kit. The Setup I was poking around OpenSea's tooling one afternoon — just trying to understand how some of their internal features worked. Nothing fancy, no scanners, no brute force. Just curiosity and a browser. That's when I ",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sun, 13 Sep 2026 03:28:36",
-    "score": 9,
-    "uid": "c3646ba2e6550b54"
-  },
-  {
     "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
     "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
     "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
@@ -228,6 +218,16 @@
     "published": "Sun, 13 Sep 2026 07:54:31",
     "score": 5,
     "uid": "eacadda5c935a027"
+  },
+  {
+    "title": "Django Unchained — Breaking the Intended Path with Django SSTI",
+    "url": "https://medium.com/@or0to/django-unchained-breaking-the-intended-path-with-django-ssti-c00b1eff51b0?source=rss------bug_bounty-5",
+    "summary": "A Django SSTI chain that completely bypasses the intended approval and bot workflowContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 13 Sep 2026 20:06:00",
+    "score": 5,
+    "uid": "76ced778ca72e3db"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
