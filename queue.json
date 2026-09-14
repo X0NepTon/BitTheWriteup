@@ -1,15 +1,5 @@
 [
   {
-    "title": "API Security in 2026: The Vulnerabilities Everyone’s Missing.",
-    "url": "https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5",
-    "summary": "Most companies still test APIs like they test web apps. They run a scanner, check for SQLi and XSS, tick a box, and ship it. Then six&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 11 Sep 2026 02:01:03",
-    "score": 7,
-    "uid": "a23e126db9edb338"
-  },
-  {
     "title": "How Did I Find a Subdomain Takeover in a HackerOne Program?",
     "url": "https://medium.com/@jakalalokesh07/how-did-i-find-a-subdomain-takeover-in-a-hackerone-program-2f2ba3b3adf6?source=rss------bug_bounty-5",
     "summary": "How a forgotten DNS record led me to an unclaimed Heroku applicationContinue reading on Medium »",
@@ -428,6 +418,16 @@
     "published": "Sun, 13 Sep 2026 10:43:42",
     "score": 4,
     "uid": "ddbd0269009300da"
+  },
+  {
+    "title": "The IDOR Test You Passed Was Only Testing One Path Into the Data",
+    "url": "https://dev.to/rockyyy/the-idor-test-you-passed-was-only-testing-one-path-into-the-data-50po",
+    "summary": "The API had already been through a round of testing. Someone tried the obvious thing first: change the ID in GET /api/orders/1837 to a number that belongs to another customer and see what comes back. It came back with a 403. Good, the team had wired in an object-level check on that endpoint, does the requesting user actually own this order, and it worked exactly as designed. Broken Object Level Authorization, OWASP's API1:2023, the single most common API vulnerability class, tested and blocked. Then someone pointed the same account at the GraphQL endpoint sitting next to that REST API, serving",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 14 Sep 2026 14:42:26",
+    "score": 4,
+    "uid": "a0e35b1ca5b5192c"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
