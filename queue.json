@@ -1,15 +1,5 @@
 [
   {
-    "title": "$14,200 for an SSRF That Shouldn’t Have Existed: Turning a Link Preview Feature Into Full AWS…",
-    "url": "https://medium.com/@t4nv1/14-200-for-an-ssrf-that-shouldnt-have-existed-turning-a-link-preview-feature-into-full-aws-0161573bc64b?source=rss------bug_bounty-5",
-    "summary": "Some bugs are satisfying because they&#x2019;re clever. This one was satisfying because the target had clearly tried to prevent exactly what I&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 15 Sep 2026 12:41:01",
-    "score": 10,
-    "uid": "840afd83583e6593"
-  },
-  {
     "title": "How I Earned My First $5,000 Bug Bounty by Finding a Critical Authorization Flaw",
     "url": "https://medium.com/@whitedevil2kghost/how-i-earned-my-first-5-000-bug-bounty-by-finding-a-critical-authorization-flaw-6762106af840?source=rss------bug_bounty-5",
     "summary": "By Rohith SContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
+  },
+  {
+    "title": "HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact",
+    "url": "https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5",
+    "summary": "In Part 1 we made two servers disagree about where a request ends, using the classic Content-Length vs Transfer-Encoding split. If that&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 15 Sep 2026 15:33:17",
+    "score": 3,
+    "uid": "813ef3b723b2b18c"
   }
 ]
