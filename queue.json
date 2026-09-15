@@ -1,15 +1,5 @@
 [
   {
-    "title": "$750 Bug Bounty: Bypassing Password Reset Rate Limits via Header Spoofing",
-    "url": "https://medium.com/@t4nv1/750-bug-bounty-bypassing-password-reset-rate-limits-via-header-spoofing-cc6a6ffaf724?source=rss------bug_bounty-5",
-    "summary": "Rate limiting is a fundamental defense mechanism designed to protect sensitive endpoints &#x2014; such as login forms, password reset requests&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 12 Sep 2026 08:26:01",
-    "score": 6,
-    "uid": "eb193748a9042f71"
-  },
-  {
     "title": "Why “Claimable” Doesn’t Always Mean “Exploitable”: A Subdomain Takeover That Wasn’t",
     "url": "https://medium.com/@samym6624/why-claimable-doesnt-always-mean-exploitable-a-subdomain-takeover-that-wasn-t-c431e3f5dbef?source=rss------bug_bounty-5",
     "summary": "A dangling CNAME, a claimable Mailgun domain, and a rejection that taught me more than an acceptance would have.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
+  },
+  {
+    "title": "Updated List: Tue Sep 15 05:34:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/91c2c825b6aacc800df922bb4db278fbf24b61fb",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e45c3eb9ec8f7f93"
   }
 ]
