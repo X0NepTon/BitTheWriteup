@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Earned My First $5,000 Bug Bounty by Finding a Critical Authorization Flaw",
-    "url": "https://medium.com/@whitedevil2kghost/how-i-earned-my-first-5-000-bug-bounty-by-finding-a-critical-authorization-flaw-6762106af840?source=rss------bug_bounty-5",
-    "summary": "By Rohith SContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 15 Sep 2026 12:45:32",
-    "score": 7,
-    "uid": "e2b7037bd13d3cac"
-  },
-  {
     "title": "One parameter & Two IDORs",
     "url": "https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5",
     "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645;, &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x64A; &#x648;&#x633;&#x644;&#x645; &#x648;&#x632;&#x62F; &#x648;&#x628;&#x627;&#x631;&#x643; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x648;&#x639;&#x644;&#x649; &#x622;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 15 Sep 2026 15:33:17",
     "score": 3,
     "uid": "813ef3b723b2b18c"
+  },
+  {
+    "title": "From Duplicate to a Critical P1 — NASA",
+    "url": "https://medium.com/@m4sh_wacker/from-duplicate-to-a-nasa-p1-1bde17c634da?source=rss------bug_bounty-5",
+    "summary": "How a shark-faced recon bot named watchtower turned a pile of &#x201C;Duplicate&#x201D; badges into a real NASA P1 &#x2014; and got my name on an official&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 15 Sep 2026 16:36:03",
+    "score": 3,
+    "uid": "28ffc47ae7e9149e"
   }
 ]
