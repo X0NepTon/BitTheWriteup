@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles",
-    "url": "https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5",
-    "summary": "Everyone&#x2019;s out here chasing live targets. Meanwhile I&#x2019;m digging through an archived repo nobody&#x2019;s touched in months, because why not. So&#x2026;Continue reading on Cyber Security Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 15 Sep 2026 03:57:06",
-    "score": 6,
-    "uid": "7ab51ef08940c139"
-  },
-  {
     "title": "One parameter & Two IDORs",
     "url": "https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5",
     "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645;, &#x627;&#x644;&#x644;&#x647;&#x645; &#x635;&#x644;&#x64A; &#x648;&#x633;&#x644;&#x645; &#x648;&#x632;&#x62F; &#x648;&#x628;&#x627;&#x631;&#x643; &#x639;&#x644;&#x649; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x648;&#x639;&#x644;&#x649; &#x622;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e45c3eb9ec8f7f93"
+  },
+  {
+    "title": "Updated List: Tue Sep 15 15:09:46 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f55f7cda1d7dc93ec48ff223ced743e8dad4d2cc",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "62919117da988df3"
   }
 ]
