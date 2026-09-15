@@ -1,13 +1,13 @@
 [
   {
-    "title": "Why “Claimable” Doesn’t Always Mean “Exploitable”: A Subdomain Takeover That Wasn’t",
-    "url": "https://medium.com/@samym6624/why-claimable-doesnt-always-mean-exploitable-a-subdomain-takeover-that-wasn-t-c431e3f5dbef?source=rss------bug_bounty-5",
-    "summary": "A dangling CNAME, a claimable Mailgun domain, and a rejection that taught me more than an acceptance would have.Continue reading on Medium »",
+    "title": "How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles",
+    "url": "https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5",
+    "summary": "Everyone&#x2019;s out here chasing live targets. Meanwhile I&#x2019;m digging through an archived repo nobody&#x2019;s touched in months, because why not. So&#x2026;Continue reading on Cyber Security Write-ups »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 12 Sep 2026 15:56:01",
+    "published": "Tue, 15 Sep 2026 03:57:06",
     "score": 6,
-    "uid": "9b20c65a23e3f109"
+    "uid": "7ab51ef08940c139"
   },
   {
     "title": "One parameter & Two IDORs",
