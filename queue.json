@@ -1,5 +1,15 @@
 [
   {
+    "title": "Leaked account lead to RCE",
+    "url": "https://medium.com/@1moonlightlabs/leaked-account-lead-to-rce-d4206a772083?source=rss------bug_bounty-5",
+    "summary": "Hello guys welcome to my new writeup, today i will explain how did i got from leaked accounts lead to RCE.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 16 Sep 2026 16:59:11",
+    "score": 11,
+    "uid": "ea3eb33ac63a6980"
+  },
+  {
     "title": "Insecure Direct Object References (IDOR) — PortSwigger Lab Walkthrough",
     "url": "https://vivek0x.medium.com/insecure-direct-object-references-idor-portswigger-lab-walkthrough-e1c61dba9090?source=rss------bug_bounty-5",
     "summary": "Access Control section of PortSwigger&#x2019;s Web Security Academy, and this one&#x2019;s a classic &#x2014; the kind of vulnerability that gets its own&#x2026;Continue reading on Medium »",
@@ -418,6 +428,26 @@
     "published": "Mon, 14 Sep 2026 17:55:19",
     "score": 4,
     "uid": "521f689c8839b411"
+  },
+  {
+    "title": "Best use of the regex for the Bug Bounty, No fluff [Do not skip this article]",
+    "url": "https://meetcyber.net/best-use-of-the-regex-for-the-bug-bounty-no-fluff-do-not-skip-this-article-88905daa9ae1?source=rss------bug_bounty-5",
+    "summary": "How to Turn GitHub, JavaScript, Archived URLs, and Broken Validation Into High-Signal Bug Bounty ReconContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 16 Sep 2026 18:02:02",
+    "score": 4,
+    "uid": "9abc80df377f7f1f"
+  },
+  {
+    "title": "How a Race Condition Turned a Simple Feedback Form Into a $700 Bounty",
+    "url": "https://medium.com/@ekanshchoudhary.96/how-a-race-condition-turned-a-simple-feedback-form-into-a-700-bounty-d0594b1e7c78?source=rss------bug_bounty-5",
+    "summary": "When we hear race condition, most security researchers probably think about the usual suspects.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 16 Sep 2026 15:44:58",
+    "score": 4,
+    "uid": "366a1564eac4c36c"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
-  },
-  {
-    "title": "My Journey From 0 to 10k$",
-    "url": "https://medium.com/@Seox12/my-journey-from-0-to-10k-6cb3b2800ff1?source=rss------bug_bounty_writeup-5",
-    "summary": "So i will keep this writeup to the point without talking any fluffContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 13 Sep 2026 15:01:52",
-    "score": 3,
-    "uid": "6f06a6b4c0ae0836"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact",
-    "url": "https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5",
-    "summary": "In Part 1 we made two servers disagree about where a request ends, using the classic Content-Length vs Transfer-Encoding split. If that&#x2026;Continue reading on OSINT Team »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 15 Sep 2026 15:33:17",
-    "score": 3,
-    "uid": "813ef3b723b2b18c"
   }
 ]
