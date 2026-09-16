@@ -1,15 +1,5 @@
 [
   {
-    "title": "From IDOR to AI Manipulation: How I Poisoned Another User’s Persistent Chat Context",
-    "url": "https://medium.com/@manojxshrestha/from-idor-to-ai-manipulation-how-i-poisoned-another-users-persistent-chat-context-602bf0fa26fa?source=rss------bug_bounty-5",
-    "summary": "A missing ownership check let any logged-in user read and write another user&#x2019;s private AI conversations &#x2014; turning a simple IDOR into&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 03:35:29",
-    "score": 5,
-    "uid": "d7d2a15d9f38131a"
-  },
-  {
     "title": "Insecure Direct Object References (IDOR) — PortSwigger Lab Walkthrough",
     "url": "https://vivek0x.medium.com/insecure-direct-object-references-idor-portswigger-lab-walkthrough-e1c61dba9090?source=rss------bug_bounty-5",
     "summary": "Access Control section of PortSwigger&#x2019;s Web Security Academy, and this one&#x2019;s a classic &#x2014; the kind of vulnerability that gets its own&#x2026;Continue reading on Medium »",
@@ -168,6 +158,36 @@
     "published": "Sun, 13 Sep 2026 20:06:00",
     "score": 5,
     "uid": "76ced778ca72e3db"
+  },
+  {
+    "title": "Sensitive Customer Data Exposure Through a Reservation XLSX Export",
+    "url": "https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty_writeup-5",
+    "summary": "An IDOR allowed unauthorized access to another restaurant&#x2019;s reservation data.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 16 Sep 2026 10:33:01",
+    "score": 5,
+    "uid": "47a485ada8deab64"
+  },
+  {
+    "title": "How I Found My First CVE: CVE-2026–79630: Unauthenticated Price Manipulation in WPFunnels",
+    "url": "https://medium.com/@adityagurav1712/how-i-found-my-first-cve-cve-2026-79630-unauthenticated-price-manipulation-in-wpfunnels-d1dbba5ae5ec?source=rss------bug_bounty-5",
+    "summary": "I spend a lot of time testing WordPress plugins for security issues. I usually check plugins which are newly released or recently updated&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 16 Sep 2026 10:43:52",
+    "score": 5,
+    "uid": "522772a13c2756f5"
+  },
+  {
+    "title": "Sensitive Customer Data Exposure Through a Reservation XLSX Export",
+    "url": "https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty-5",
+    "summary": "An IDOR allowed unauthorized access to another restaurant&#x2019;s reservation data.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 16 Sep 2026 10:33:01",
+    "score": 5,
+    "uid": "d3fb628cf253e6da"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "Tue, 15 Sep 2026 15:33:17",
     "score": 3,
     "uid": "813ef3b723b2b18c"
-  },
-  {
-    "title": "From Duplicate to a Critical P1 — NASA",
-    "url": "https://medium.com/@m4sh_wacker/from-duplicate-to-a-nasa-p1-1bde17c634da?source=rss------bug_bounty-5",
-    "summary": "How a shark-faced recon bot named watchtower turned a pile of &#x201C;Duplicate&#x201D; badges into a real NASA P1 &#x2014; and got my name on an official&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 15 Sep 2026 16:36:03",
-    "score": 3,
-    "uid": "28ffc47ae7e9149e"
-  },
-  {
-    "title": "Updated List: Wed Sep 16 07:09:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/99ea22823b3ac88345131a8d554326a88df9f233",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1405ffaa1f1f95db"
   }
 ]
