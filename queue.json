@@ -1,15 +1,5 @@
 [
   {
-    "title": "Leaked account lead to RCE",
-    "url": "https://medium.com/@1moonlightlabs/leaked-account-lead-to-rce-d4206a772083?source=rss------bug_bounty-5",
-    "summary": "Hello guys welcome to my new writeup, today i will explain how did i got from leaked accounts lead to RCE.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 16 Sep 2026 16:59:11",
-    "score": 11,
-    "uid": "ea3eb33ac63a6980"
-  },
-  {
     "title": "Insecure Direct Object References (IDOR) — PortSwigger Lab Walkthrough",
     "url": "https://vivek0x.medium.com/insecure-direct-object-references-idor-portswigger-lab-walkthrough-e1c61dba9090?source=rss------bug_bounty-5",
     "summary": "Access Control section of PortSwigger&#x2019;s Web Security Academy, and this one&#x2019;s a classic &#x2014; the kind of vulnerability that gets its own&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
+  },
+  {
+    "title": "HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact",
+    "url": "https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5",
+    "summary": "In Part 1 we made two servers disagree about where a request ends, using the classic Content-Length vs Transfer-Encoding split. If that&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 15 Sep 2026 15:33:17",
+    "score": 3,
+    "uid": "813ef3b723b2b18c"
   }
 ]
