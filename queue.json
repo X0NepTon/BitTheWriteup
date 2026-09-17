@@ -1,5 +1,15 @@
 [
   {
+    "title": "From a Payment Receipt Upload to Full Server Compromise: An Arbitrary File Upload Case Study",
+    "url": "https://medium.com/@shyderali74/from-a-payment-receipt-upload-to-full-server-compromise-an-arbitrary-file-upload-case-study-5f97a9b52be5?source=rss------bug_bounty-5",
+    "summary": "How a public &#x201C;upload your receipt&#x201D; feature became remote code execution and full server takeover, and the controls that would have stopped&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 17 Sep 2026 14:33:38",
+    "score": 10,
+    "uid": "3d5b483de829e317"
+  },
+  {
     "title": "A Senior Pentester’ Approach to IDOR and Authorization Testing",
     "url": "https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bug_bounty-5",
     "summary": "When I see an id parameter during an application security assessment, I don&apos;t immediately start changing 100 to 101.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Tue, 15 Sep 2026 15:33:17",
     "score": 3,
     "uid": "813ef3b723b2b18c"
-  },
-  {
-    "title": "My Journey From 0 to 10k$",
-    "url": "https://medium.com/@Seox12/my-journey-from-0-to-10k-6cb3b2800ff1?source=rss------bug_bounty_writeup-5",
-    "summary": "So i will keep this writeup to the point without talking any fluffContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 13 Sep 2026 15:01:52",
-    "score": 3,
-    "uid": "6f06a6b4c0ae0836"
   }
 ]
