@@ -1,15 +1,5 @@
 [
   {
-    "title": "A Senior Pentester’ Approach to IDOR and Authorization Testing",
-    "url": "https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bug_bounty-5",
-    "summary": "When I see an id parameter during an application security assessment, I don&apos;t immediately start changing 100 to 101.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 31 Aug 2026 12:33:36",
-    "score": 5,
-    "uid": "808f88701d0babd2"
-  },
-  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
+  },
+  {
+    "title": "HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact",
+    "url": "https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5",
+    "summary": "In Part 1 we made two servers disagree about where a request ends, using the classic Content-Length vs Transfer-Encoding split. If that&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 15 Sep 2026 15:33:17",
+    "score": 3,
+    "uid": "813ef3b723b2b18c"
   }
 ]
