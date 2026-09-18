@@ -1,5 +1,15 @@
 [
   {
+    "title": "I’m Starting My 100-Hour Bug Bounty Challenge — Here’s My Method",
+    "url": "https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=rss------bug_bounty-5",
+    "summary": "https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=friends_link&sk=bContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 07:47:26",
+    "score": 12,
+    "uid": "19829f29d7aba805"
+  },
+  {
     "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
     "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
     "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
@@ -8,6 +18,26 @@
     "published": "Fri, 18 Sep 2026 00:10:50",
     "score": 9,
     "uid": "9d47fa03839d6557"
+  },
+  {
+    "title": "Mass Assignment to Admin: How a Missing Allow-List Let Me Self-Promote to Administrator",
+    "url": "https://medium.com/@neel.chauhan09/mass-assignment-to-admin-how-a-missing-allow-list-let-me-self-promote-to-administrator-4d30dfcf8c04?source=rss------bug_bounty-5",
+    "summary": "CWE-915: Improperly Controlled Modification of Dynamically-Determined Object Attributes CWE-269: Improper Privilege Management CVSS 3.1&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 08:23:20",
+    "score": 9,
+    "uid": "11a4a23333b208e9"
+  },
+  {
+    "title": "How a Random Password-less “SSO Token” Let a Full Account Takeover",
+    "url": "https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5",
+    "summary": "What&#x2019;s up folks. So this one wasn&#x2019;t some deep, multi-hour recon grind &#x2014; it was one of those bugs that just falls into your lap while&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 06:25:04",
+    "score": 9,
+    "uid": "cdbc227c0c0f7032"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -198,6 +228,16 @@
     "published": "Thu, 17 Sep 2026 18:32:59",
     "score": 5,
     "uid": "efbb7a82fc583555"
+  },
+  {
+    "title": "CVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags",
+    "url": "https://medium.com/@dahalkabish/cve-2026-2619-how-a-read-only-gitlab-auditor-could-modify-vulnerability-flags-768c33ab8cbb?source=rss------bug_bounty_writeup-5",
+    "summary": "An authorization flaw in GitLab&#x2019;s AI detection API, the evidence behind my report, and the permission change that fixed it.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 18 Sep 2026 06:51:38",
+    "score": 5,
+    "uid": "3036d48938fcb1cd"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "99a31fd154876856"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 14:36:43 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c74a7579e8ff98de2bc392501d1c82a52dc1d2c6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d1f80fd2937e4950"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 15:43:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4c9e8b5d10be1797e9d51c93681fd2ca5dd16ed8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d873d4666b6a921c"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 16:42:10 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d918b60ce19fffe2ba9a4aeccc973f5a869e76b4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "742934957fafc5de"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 19:46:10 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5ddf4fac62e514b165f4b4e2b2dbb8adc76cfb45",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5b1478870edf5186"
   }
 ]
