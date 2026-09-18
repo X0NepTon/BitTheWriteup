@@ -1,5 +1,15 @@
 [
   {
+    "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
+    "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
+    "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 18 Sep 2026 00:10:50",
+    "score": 9,
+    "uid": "9d47fa03839d6557"
+  },
+  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5b1478870edf5186"
-  },
-  {
-    "title": "HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact",
-    "url": "https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5",
-    "summary": "In Part 1 we made two servers disagree about where a request ends, using the classic Content-Length vs Transfer-Encoding split. If that&#x2026;Continue reading on OSINT Team »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 15 Sep 2026 15:33:17",
-    "score": 3,
-    "uid": "813ef3b723b2b18c"
   }
 ]
