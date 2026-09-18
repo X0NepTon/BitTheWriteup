@@ -1,15 +1,5 @@
 [
   {
-    "title": "I’m Starting My 100-Hour Bug Bounty Challenge — Here’s My Method",
-    "url": "https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=rss------bug_bounty-5",
-    "summary": "https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=friends_link&sk=bContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 07:47:26",
-    "score": 12,
-    "uid": "19829f29d7aba805"
-  },
-  {
     "title": "$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE",
     "url": "https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty-5",
     "summary": "I&#x2019;ve stopped counting how many targets I&#x2019;ve fingerprinted as Java without finding anything usable. This one almost joined that pile. What&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Fri, 18 Sep 2026 12:48:09",
     "score": 7,
     "uid": "5e6376bb6efa01da"
+  },
+  {
+    "title": "PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data",
+    "url": "https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5",
+    "summary": "Difficulty: ApprenticeContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 15:12:46",
+    "score": 7,
+    "uid": "260971d8416e4b59"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
