@@ -10,6 +10,16 @@
     "uid": "19829f29d7aba805"
   },
   {
+    "title": "$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE",
+    "url": "https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty-5",
+    "summary": "I&#x2019;ve stopped counting how many targets I&#x2019;ve fingerprinted as Java without finding anything usable. This one almost joined that pile. What&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 13:00:00",
+    "score": 12,
+    "uid": "6d62971eed416ab8"
+  },
+  {
     "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
     "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
     "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Fri, 18 Sep 2026 06:25:04",
     "score": 9,
     "uid": "cdbc227c0c0f7032"
+  },
+  {
+    "title": "How I Found a Critical Jenkins Vulnerability in 10 Minutes and Earned an $800 Bug Bounty",
+    "url": "https://medium.com/@whitedevil2kghost/how-i-found-a-critical-jenkins-vulnerability-in-10-minutes-and-earned-an-800-bug-bounty-e5004ec6fd46?source=rss------bug_bounty-5",
+    "summary": "Sometimes a security finding doesn&#x2019;t start with an exploit.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 18 Sep 2026 12:48:09",
+    "score": 7,
+    "uid": "5e6376bb6efa01da"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "48b17c5247767450"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 10:37:30 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2881a46df925e36e59265752020fe49a93db369b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c43566369fd3d6e6"
-  },
-  {
-    "title": "Updated List: Sun Aug 23 13:34:25 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bc25a529e352f7c9687611c381259903d6dd05b7",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "99a31fd154876856"
   }
 ]
