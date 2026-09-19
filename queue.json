@@ -510,6 +510,16 @@
     "uid": "49196b3ec99db268"
   },
   {
+    "title": "How I Found an Unauthenticated Grafana Loki Endpoint That Leaked 234 Employee Identities ($1,200…",
+    "url": "https://medium.com/@anshbohra10/how-i-found-an-unauthenticated-grafana-loki-endpoint-that-leaked-234-employee-identities-1-200-94049fde7e7b?source=rss------bug_bounty-5",
+    "summary": "Every other endpoint on the API returned 401. Except one proxy path. That single route bypassed the auth middleware entirely, exposing a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 08:04:06",
+    "score": 4,
+    "uid": "0fa37265d8212eac"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f8e477664017e71c"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
   }
 ]
