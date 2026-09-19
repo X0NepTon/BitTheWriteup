@@ -20,6 +20,26 @@
     "uid": "eaa1a240ab0abb75"
   },
   {
+    "title": "ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls",
+    "url": "https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5",
+    "summary": "Discover a commonly overlooked vulnerability class in seconds during pentests and bug bountiesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 19:09:01",
+    "score": 10,
+    "uid": "65a7f4db72ee0dcd"
+  },
+  {
+    "title": "AI Legion Explained | Open-Source AI-Powered Network Penetration Testing",
+    "url": "https://medium.com/@pentesterclubpvtltd/ai-legion-explained-open-source-ai-powered-network-penetration-testing-0aac1e0519e4?source=rss------bug_bounty-5",
+    "summary": "What if your penetration-testing workflow could do more than simply launch Nmap, collect results, and leave you with hundreds of ports to&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 18:09:48",
+    "score": 10,
+    "uid": "f4e8e607a3509be1"
+  },
+  {
     "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
     "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
     "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
@@ -68,6 +88,26 @@
     "published": "Fri, 18 Sep 2026 15:12:46",
     "score": 7,
     "uid": "260971d8416e4b59"
+  },
+  {
+    "title": "Privilege Escalation: How to Make Yourself an Admin",
+    "url": "https://medium.com/@osamabauomi/privilege-escalation-how-to-make-yourself-an-admin-7835eea11ee2?source=rss------bug_bounty-5",
+    "summary": "Hello Hunters! &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 17:53:55",
+    "score": 7,
+    "uid": "bad6b70421508fe7"
+  },
+  {
+    "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
+    "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
+    "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 18:29:39",
+    "score": 6,
+    "uid": "b4ff3c9f6fe956dd"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ea820fcaeb0afce8"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 08:58:20 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3055565389b5be377cfadeb4c7e05386999fae91",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "bb2620ec5a9bd521"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 09:34:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bbdd530b0c2b83c2095b42404f1eeff919ac4602",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e7cd06b6caf631e8"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 10:38:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/354f244dac2a9202f3ea8acc08ece4b6c9ee88af",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5b3a016dc3244909"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 11:51:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a0ea36a4b27b71a3f50e273490aa708cb409f8e9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "767e3d7e511307c5"
   }
 ]
