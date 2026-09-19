@@ -1,5 +1,25 @@
 [
   {
+    "title": "Beginner-Friendly Vulnerabilities: IDOR, XSS, and Open Redirects",
+    "url": "https://sukhveersingh97997.medium.com/beginner-friendly-vulnerabilities-idor-xss-and-open-redirects-b75ae13ef1ac?source=rss------bug_bounty-5",
+    "summary": "When I started my bug bounty journey, I made the same mistake most beginners do: I chased the &#x201C;cool&#x201D; stuff. I read writeups about&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 12:57:43",
+    "score": 11,
+    "uid": "d53fc25e427fc6a0"
+  },
+  {
+    "title": "Non-Blind SSRF via Avatar-from-URL: Reaching Loopback Services and Reading the Response",
+    "url": "https://medium.com/@neel.chauhan09/non-blind-ssrf-via-avatar-from-url-reaching-loopback-services-and-reading-the-response-7f5133f4a283?source=rss------bug_bounty-5",
+    "summary": "CWE-918: Server-Side Request Forgery CVSS 3.1: 7.7 (High) &#x2014; AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:NContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 12:46:20",
+    "score": 10,
+    "uid": "eaa1a240ab0abb75"
+  },
+  {
     "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
     "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
     "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
@@ -248,6 +268,16 @@
     "published": "Fri, 18 Sep 2026 06:51:38",
     "score": 5,
     "uid": "3036d48938fcb1cd"
+  },
+  {
+    "title": "From a Blocked Login Screen to Full Data Chain — How I Exploited Broken Access Control on Schneider…",
+    "url": "https://medium.com/@ahmed1sedeeq/from-a-blocked-login-screen-to-full-data-chain-how-i-exploited-broken-access-control-on-schneider-39d31132b2ce?source=rss------bug_bounty-5",
+    "summary": "Can a broken login screen with zero access lead to an 8.2 High vulnerability?Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 13:01:04",
+    "score": 5,
+    "uid": "a10467068987cad5"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "767e3d7e511307c5"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 12:34:46 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/da475b67197416c8a84edb50a3d6c7cf4e16ce76",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9d9228f65ced8d6d"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 13:51:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/54ea82b7b8cb41f6060edf6407588c2dd8b6fb4a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2c5addbb3be2053d"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 14:44:24 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d3a7ee3267e37d70d829370c7c3cf37d077300f8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f8e477664017e71c"
   }
 ]
