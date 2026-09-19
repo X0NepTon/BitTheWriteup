@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Arbitrary File Download to Admin Panel and Database Access",
-    "url": "https://medium.com/@hossein.za68/from-arbitrary-file-download-to-admin-panel-and-database-access-6bd1b45b477b?source=rss------bug_bounty-5",
-    "summary": "A while ago, I was browsing the source code of different GitHub projects while looking into some frameworks and services.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 19:12:21",
-    "score": 10,
-    "uid": "7a5ac38082ec700e"
-  },
-  {
     "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
     "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
     "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "f8e477664017e71c"
+  },
+  {
+    "title": "How to Find and Fix Security Vulnerabilities for Money",
+    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
+    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 04 Sep 2026 12:00:10",
+    "score": 3,
+    "uid": "00c856ab96a6f3f5"
   }
 ]
