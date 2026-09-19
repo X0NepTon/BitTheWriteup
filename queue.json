@@ -1,15 +1,5 @@
 [
   {
-    "title": "Beginner-Friendly Vulnerabilities: IDOR, XSS, and Open Redirects",
-    "url": "https://sukhveersingh97997.medium.com/beginner-friendly-vulnerabilities-idor-xss-and-open-redirects-b75ae13ef1ac?source=rss------bug_bounty-5",
-    "summary": "When I started my bug bounty journey, I made the same mistake most beginners do: I chased the &#x201C;cool&#x201D; stuff. I read writeups about&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 12:57:43",
-    "score": 11,
-    "uid": "d53fc25e427fc6a0"
-  },
-  {
     "title": "Non-Blind SSRF via Avatar-from-URL: Reaching Loopback Services and Reading the Response",
     "url": "https://medium.com/@neel.chauhan09/non-blind-ssrf-via-avatar-from-url-reaching-loopback-services-and-reading-the-response-7f5133f4a283?source=rss------bug_bounty-5",
     "summary": "CWE-918: Server-Side Request Forgery CVSS 3.1: 7.7 (High) &#x2014; AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:NContinue reading on Medium »",
@@ -98,6 +88,26 @@
     "published": "Sat, 19 Sep 2026 17:53:55",
     "score": 7,
     "uid": "bad6b70421508fe7"
+  },
+  {
+    "title": "SQL Injection: Time-Based Blind Detection Payload",
+    "url": "https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty_writeup-5",
+    "summary": "Time-based blind SQL injection is one of the most reliable techniques when no data is reflected in the response. Instead of seeing output&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 19 Sep 2026 19:20:12",
+    "score": 7,
+    "uid": "ba7834ab59c15a4c"
+  },
+  {
+    "title": "SQL Injection: Time-Based Blind Detection Payload",
+    "url": "https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty-5",
+    "summary": "Time-based blind SQL injection is one of the most reliable techniques when no data is reflected in the response. Instead of seeing output&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 19 Sep 2026 19:20:12",
+    "score": 7,
+    "uid": "b16a12f9b00802fe"
   },
   {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 05:58:03 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d16c5c4a3f0468380e16773c3bbd300be99240d8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ea820fcaeb0afce8"
   }
 ]
