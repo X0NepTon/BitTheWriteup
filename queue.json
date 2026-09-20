@@ -1,15 +1,5 @@
 [
   {
-    "title": "ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls",
-    "url": "https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5",
-    "summary": "Discover a commonly overlooked vulnerability class in seconds during pentests and bug bountiesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 19:09:01",
-    "score": 10,
-    "uid": "65a7f4db72ee0dcd"
-  },
-  {
     "title": "AI Legion Explained | Open-Source AI-Powered Network Penetration Testing",
     "url": "https://medium.com/@pentesterclubpvtltd/ai-legion-explained-open-source-ai-powered-network-penetration-testing-0aac1e0519e4?source=rss------bug_bounty-5",
     "summary": "What if your penetration-testing workflow could do more than simply launch Nmap, collect results, and leave you with hundreds of ports to&#x2026;Continue reading on Medium »",
@@ -98,6 +88,16 @@
     "published": "Sat, 19 Sep 2026 19:20:12",
     "score": 7,
     "uid": "b16a12f9b00802fe"
+  },
+  {
+    "title": "\"403 Forbidden Bypass: How to Find Critical Security Bugs (2026 Guide)\"",
+    "url": "https://medium.com/@padhyepushkar/403-forbidden-bypass-how-to-find-critical-security-bugs-2026-guide-ff2af258d882?source=rss------bug_bounty-5",
+    "summary": "\"Master 403 Bypasses, HTTP/2 exploits, & TLS fingerprinting to turn rejections into bug bounty paydays.\"Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 20 Sep 2026 05:58:03",
+    "score": 7,
+    "uid": "d7b0a57214b5c6d7"
   },
   {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
@@ -318,6 +318,16 @@
     "published": "Sat, 19 Sep 2026 13:01:04",
     "score": 5,
     "uid": "a10467068987cad5"
+  },
+  {
+    "title": "Hunting TOCTOU Races and Memory-Safety Bugs in NVIDIA’s Native Toolchain",
+    "url": "https://medium.com/@titsecop/hunting-toctou-races-and-memory-safety-bugs-in-nvidias-native-toolchain-922df7617d93?source=rss------bug_bounty-5",
+    "summary": "Titsec&#x2019;s log from the NVIDIA Public Bug Bounty (via Intigriti): what I actually ran, what happened when I filed it, and the methodology&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 20 Sep 2026 10:33:32",
+    "score": 5,
+    "uid": "b11dfd9e530e6962"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
-  },
-  {
-    "title": "How a Simple Stored XSS Turned Into an Account Action Chain",
-    "url": "https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5",
-    "summary": "I was testing a community management platform where users could create events and add formatted content to their event pages.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 19 Sep 2026 08:44:34",
-    "score": 3,
-    "uid": "bde853685426a9eb"
   }
 ]
