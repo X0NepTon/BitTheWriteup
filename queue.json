@@ -10,16 +10,6 @@
     "uid": "9d47fa03839d6557"
   },
   {
-    "title": "How a Random Password-less “SSO Token” Let a Full Account Takeover",
-    "url": "https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5",
-    "summary": "What&#x2019;s up folks. So this one wasn&#x2019;t some deep, multi-hour recon grind &#x2014; it was one of those bugs that just falls into your lap while&#x2026;Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 06:25:04",
-    "score": 9,
-    "uid": "cdbc227c0c0f7032"
-  },
-  {
     "title": "Lab: Exploiting XSS to bypass CSRF defenses",
     "url": "https://medium.com/@amrsmooke321/lab-exploiting-xss-to-bypass-csrf-defenses-c45e387bb30f?source=rss------bug_bounty-5",
     "summary": "Deconstruct the Attack ChainContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 19 Sep 2026 08:44:34",
     "score": 3,
     "uid": "bde853685426a9eb"
+  },
+  {
+    "title": "The Report Nobody Read (And What I Learned From It)",
+    "url": "https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5",
+    "summary": "A few years into my career as a security engineer, I finished what I thought was the best pentest of my life. I had chained three separate&#x2026;Continue reading on System Weakness »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 20 Sep 2026 19:51:01",
+    "score": 3,
+    "uid": "212a710714601221"
   }
 ]
