@@ -1,15 +1,5 @@
 [
   {
-    "title": "Non-Blind SSRF via Avatar-from-URL: Reaching Loopback Services and Reading the Response",
-    "url": "https://medium.com/@neel.chauhan09/non-blind-ssrf-via-avatar-from-url-reaching-loopback-services-and-reading-the-response-7f5133f4a283?source=rss------bug_bounty-5",
-    "summary": "CWE-918: Server-Side Request Forgery CVSS 3.1: 7.7 (High) &#x2014; AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:NContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 12:46:20",
-    "score": 10,
-    "uid": "eaa1a240ab0abb75"
-  },
-  {
     "title": "ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls",
     "url": "https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5",
     "summary": "Discover a commonly overlooked vulnerability class in seconds during pentests and bug bountiesContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
+  },
+  {
+    "title": "How a Simple Stored XSS Turned Into an Account Action Chain",
+    "url": "https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5",
+    "summary": "I was testing a community management platform where users could create events and add formatted content to their event pages.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 19 Sep 2026 08:44:34",
+    "score": 3,
+    "uid": "bde853685426a9eb"
   }
 ]
