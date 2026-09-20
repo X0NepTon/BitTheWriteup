@@ -10,16 +10,6 @@
     "uid": "9d47fa03839d6557"
   },
   {
-    "title": "Mass Assignment to Admin: How a Missing Allow-List Let Me Self-Promote to Administrator",
-    "url": "https://medium.com/@neel.chauhan09/mass-assignment-to-admin-how-a-missing-allow-list-let-me-self-promote-to-administrator-4d30dfcf8c04?source=rss------bug_bounty-5",
-    "summary": "CWE-915: Improperly Controlled Modification of Dynamically-Determined Object Attributes CWE-269: Improper Privilege Management CVSS 3.1&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 08:23:20",
-    "score": 9,
-    "uid": "11a4a23333b208e9"
-  },
-  {
     "title": "How a Random Password-less “SSO Token” Let a Full Account Takeover",
     "url": "https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5",
     "summary": "What&#x2019;s up folks. So this one wasn&#x2019;t some deep, multi-hour recon grind &#x2014; it was one of those bugs that just falls into your lap while&#x2026;Continue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
+  },
+  {
+    "title": "How a Simple Stored XSS Turned Into an Account Action Chain",
+    "url": "https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5",
+    "summary": "I was testing a community management platform where users could create events and add formatted content to their event pages.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 19 Sep 2026 08:44:34",
+    "score": 3,
+    "uid": "bde853685426a9eb"
   }
 ]
