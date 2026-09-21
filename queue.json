@@ -10,6 +10,16 @@
     "uid": "dbd14b8cd5de9447"
   },
   {
+    "title": "Unauthenticated Account Takeover: When the Password Reset API Hands You the Token",
+    "url": "https://medium.com/@neel.chauhan09/unauthenticated-account-takeover-when-the-password-reset-api-hands-you-the-token-11a62b9d4cf8?source=rss------bug_bounty-5",
+    "summary": "CWE-640: Weak Password Recovery Mechanism CWE-200: Exposure of Sensitive Information to an Unauthorized Actor CWE-204: Observable Response&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 21 Sep 2026 20:11:21",
+    "score": 9,
+    "uid": "7fd017db2d29c52f"
+  },
+  {
     "title": "PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data",
     "url": "https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5",
     "summary": "Difficulty: ApprenticeContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "Updated List: Mon Sep 21 06:51:20 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0e0c10371b5121efdd34c62fe4b2216417d7a163",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5bae27a7f477689b"
   }
 ]
