@@ -1,5 +1,15 @@
 [
   {
+    "title": "CORS Misconfigurations: The Door Developers Install in Their Own Wall",
+    "url": "https://medium.com/@l4zz3rj0d/cors-misconfigurations-the-door-developers-install-in-their-own-wall-6a77cfe5bd57?source=rss------bug_bounty-5",
+    "summary": "Every browser you&#x2019;ve ever used enforces a rule most people never think about, a webpage can&#x2019;t just reach into a different website and read&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 21 Sep 2026 09:53:53",
+    "score": 10,
+    "uid": "dbd14b8cd5de9447"
+  },
+  {
     "title": "PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data",
     "url": "https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5",
     "summary": "Difficulty: ApprenticeContinue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5bae27a7f477689b"
-  },
-  {
-    "title": "Crack the Gate 2 - picoCTF Write-up | Bypassing Rate Limiting with X-Forwarded-For",
-    "url": "https://medium.com/@affanhaxor/crack-the-gate-2-picoctf-write-up-bypassing-rate-limiting-with-x-forwarded-for-201189133839?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 21 Sep 2026 05:44:55",
-    "score": 3,
-    "uid": "f8e66f6a8478bed1"
   }
 ]
