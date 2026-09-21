@@ -1,15 +1,5 @@
 [
   {
-    "title": "CORS Misconfigurations: The Door Developers Install in Their Own Wall",
-    "url": "https://medium.com/@l4zz3rj0d/cors-misconfigurations-the-door-developers-install-in-their-own-wall-6a77cfe5bd57?source=rss------bug_bounty-5",
-    "summary": "Every browser you&#x2019;ve ever used enforces a rule most people never think about, a webpage can&#x2019;t just reach into a different website and read&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 21 Sep 2026 09:53:53",
-    "score": 10,
-    "uid": "dbd14b8cd5de9447"
-  },
-  {
     "title": "Unauthenticated Account Takeover: When the Password Reset API Hands You the Token",
     "url": "https://medium.com/@neel.chauhan09/unauthenticated-account-takeover-when-the-password-reset-api-hands-you-the-token-11a62b9d4cf8?source=rss------bug_bounty-5",
     "summary": "CWE-640: Weak Password Recovery Mechanism CWE-200: Exposure of Sensitive Information to an Unauthorized Actor CWE-204: Observable Response&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
+  },
+  {
+    "title": "Updated List: Tue Sep 22 03:42:36 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/b20d6df68bf1350d16d0421789712775709e8c85",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "830c8a1501c4d27b"
   }
 ]
