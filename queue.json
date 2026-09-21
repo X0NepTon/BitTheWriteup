@@ -1,15 +1,5 @@
 [
   {
-    "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
-    "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5",
-    "summary": "OAuth is often treated as a solved problem: authenticate the user, issue an authorization code, exchange it for a token, and move on.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 18 Sep 2026 00:10:50",
-    "score": 9,
-    "uid": "9d47fa03839d6557"
-  },
-  {
     "title": "How I Found a Critical Jenkins Vulnerability in 10 Minutes and Earned an $800 Bug Bounty",
     "url": "https://medium.com/@whitedevil2kghost/how-i-found-a-critical-jenkins-vulnerability-in-10-minutes-and-earned-an-800-bug-bounty-e5004ec6fd46?source=rss------bug_bounty-5",
     "summary": "Sometimes a security finding doesn&#x2019;t start with an exploit.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 04 Sep 2026 12:00:10",
     "score": 3,
     "uid": "00c856ab96a6f3f5"
+  },
+  {
+    "title": "Updated List: Mon Sep 21 06:51:20 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/0e0c10371b5121efdd34c62fe4b2216417d7a163",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "5bae27a7f477689b"
   }
 ]
