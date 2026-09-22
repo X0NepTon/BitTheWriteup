@@ -1,15 +1,5 @@
 [
   {
-    "title": "PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data",
-    "url": "https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5",
-    "summary": "Difficulty: ApprenticeContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 15:12:46",
-    "score": 7,
-    "uid": "260971d8416e4b59"
-  },
-  {
     "title": "Privilege Escalation: How to Make Yourself an Admin",
     "url": "https://medium.com/@osamabauomi/privilege-escalation-how-to-make-yourself-an-admin-7835eea11ee2?source=rss------bug_bounty-5",
     "summary": "Hello Hunters! &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d2f1148ad8ea589a"
+  },
+  {
+    "title": "The Incomplete Fix: How a Critical Auth Vulnerability’s Patch Left a Second Door Open",
+    "url": "https://cyphernova1337.medium.com/the-incomplete-fix-how-a-critical-auth-vulnerabilitys-patch-left-a-second-door-open-7ba6e2a08ad0?source=rss------bug_bounty-5",
+    "summary": "Patching one code path while its sibling stays unguarded is the most reliable way to ship a second critical &#x2014; here&#x2019;s how it happened, and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 22 Sep 2026 16:24:12",
+    "score": 3,
+    "uid": "2988d42805bd29f2"
   }
 ]
