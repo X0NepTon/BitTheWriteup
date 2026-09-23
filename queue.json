@@ -10,16 +10,6 @@
     "uid": "ba7834ab59c15a4c"
   },
   {
-    "title": "A Hacker Broke Into OpenAI Using Claude. He Got Paid $6,500. Here’s Why That Number Matters.",
-    "url": "https://medium.com/@riyalimba/a-hacker-broke-into-openai-using-claude-he-got-paid-6-500-heres-why-that-number-matters-e66e51807cdf?source=rss------bug_bounty-5",
-    "summary": "The bug bounty debate nobody wants to have: when the target is a trillion-dollar AI company, what&#x2019;s a critical bug actually worth?Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 23 Sep 2026 09:42:49",
-    "score": 7,
-    "uid": "9dd4c211e8fd0db9"
-  },
-  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 23 Sep 2026 10:39:08",
     "score": 3,
     "uid": "8520e16702c6e86f"
+  },
+  {
+    "title": "How I Started Getting Bug Bounties in Just My Second Month",
+    "url": "https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5",
+    "summary": "Initially, I knew nothing about bug bounty hunting when I began it. Actually, I did not know anything about the way web applications work&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 22 Sep 2026 11:15:20",
+    "score": 3,
+    "uid": "1aef8f7991e15a63"
   }
 ]
