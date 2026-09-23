@@ -1,15 +1,5 @@
 [
   {
-    "title": "$6,800 for Sending Fields Nobody Asked Me To Send: A Mass Assignment Privilege Escalation",
-    "url": "https://medium.com/@t4nv1/6-800-for-sending-fields-nobody-asked-me-to-send-a-mass-assignment-privilege-escalation-f04982df5e5e?source=rss------bug_bounty-5",
-    "summary": "This is the bug I&#x2019;m most tempted to describe as &#x201C;free,&#x201D; because building the payload took about four minutes once I understood the shape&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 22 Sep 2026 19:06:01",
-    "score": 9,
-    "uid": "1da98972f3310ffd"
-  },
-  {
     "title": "Privilege Escalation: How to Make Yourself an Admin",
     "url": "https://medium.com/@osamabauomi/privilege-escalation-how-to-make-yourself-an-admin-7835eea11ee2?source=rss------bug_bounty-5",
     "summary": "Hello Hunters! &#x1F44B;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d2f1148ad8ea589a"
+  },
+  {
+    "title": "How I Started Getting Bug Bounties in Just My Second Month",
+    "url": "https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5",
+    "summary": "Initially, I knew nothing about bug bounty hunting when I began it. Actually, I did not know anything about the way web applications work&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 22 Sep 2026 11:15:20",
+    "score": 3,
+    "uid": "1aef8f7991e15a63"
   }
 ]
