@@ -10,16 +10,6 @@
     "uid": "ba7834ab59c15a4c"
   },
   {
-    "title": "SQL Injection: Time-Based Blind Detection Payload",
-    "url": "https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty-5",
-    "summary": "Time-based blind SQL injection is one of the most reliable techniques when no data is reflected in the response. Instead of seeing output&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 19:20:12",
-    "score": 7,
-    "uid": "b16a12f9b00802fe"
-  },
-  {
     "title": "\"403 Forbidden Bypass: How to Find Critical Security Bugs (2026 Guide)\"",
     "url": "https://medium.com/@padhyepushkar/403-forbidden-bypass-how-to-find-critical-security-bugs-2026-guide-ff2af258d882?source=rss------bug_bounty-5",
     "summary": "\"Master 403 Bypasses, HTTP/2 exploits, & TLS fingerprinting to turn rejections into bug bounty paydays.\"Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Sun, 20 Sep 2026 05:58:03",
     "score": 7,
     "uid": "d7b0a57214b5c6d7"
+  },
+  {
+    "title": "A Hacker Broke Into OpenAI Using Claude. He Got Paid $6,500. Here’s Why That Number Matters.",
+    "url": "https://medium.com/@riyalimba/a-hacker-broke-into-openai-using-claude-he-got-paid-6-500-heres-why-that-number-matters-e66e51807cdf?source=rss------bug_bounty-5",
+    "summary": "The bug bounty debate nobody wants to have: when the target is a trillion-dollar AI company, what&#x2019;s a critical bug actually worth?Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 23 Sep 2026 09:42:49",
+    "score": 7,
+    "uid": "9dd4c211e8fd0db9"
   },
   {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
@@ -258,6 +258,16 @@
     "published": "Sun, 20 Sep 2026 10:33:32",
     "score": 5,
     "uid": "b11dfd9e530e6962"
+  },
+  {
+    "title": "I Found an Unauthenticated XSS in a WordPress Hotel Plugin — Then Someone Beat Me to It by a Week",
+    "url": "https://osintteam.blog/i-found-an-unauthenticated-xss-in-a-wordpress-hotel-plugin-then-someone-beat-me-to-it-by-a-week-580906008ac5?source=rss------bug_bounty-5",
+    "summary": "A reflected XSS in nd-booking, a display:none trap that fools most PoCs, and an honest look at what &#x201C;duplicate&#x201D; really means in bug bounty.Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 23 Sep 2026 07:47:00",
+    "score": 5,
+    "uid": "bd1ca62c116954ec"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -528,6 +538,16 @@
     "published": "Sat, 19 Sep 2026 08:04:06",
     "score": 4,
     "uid": "0fa37265d8212eac"
+  },
+  {
+    "title": "How I Found a DOM XSS Through a JWT alg:none — and Earned a $400 Bounty",
+    "url": "https://medium.com/@yOnly_/how-i-found-a-dom-xss-through-a-jwt-alg-none-and-earned-a-400-bounty-3595093eacec?source=rss------bug_bounty-5",
+    "summary": "When I was testing a KYC verification flow during a bug bounty program, I came across an endpoint that accepted a JWT through a URL&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 23 Sep 2026 08:50:43",
+    "score": 4,
+    "uid": "6594d116dc61d37f"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d2f1148ad8ea589a"
-  },
-  {
-    "title": "How I Started Getting Bug Bounties in Just My Second Month",
-    "url": "https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5",
-    "summary": "Initially, I knew nothing about bug bounty hunting when I began it. Actually, I did not know anything about the way web applications work&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 22 Sep 2026 11:15:20",
-    "score": 3,
-    "uid": "1aef8f7991e15a63"
-  },
-  {
-    "title": "How a single broken button got me £150 from a bug bounty program",
-    "url": "https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5",
-    "summary": "Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 21 Sep 2026 23:00:36",
-    "score": 3,
-    "uid": "13919ee39a2c13fb"
   }
 ]
