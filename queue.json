@@ -10,16 +10,6 @@
     "uid": "ba7834ab59c15a4c"
   },
   {
-    "title": "\"403 Forbidden Bypass: How to Find Critical Security Bugs (2026 Guide)\"",
-    "url": "https://medium.com/@padhyepushkar/403-forbidden-bypass-how-to-find-critical-security-bugs-2026-guide-ff2af258d882?source=rss------bug_bounty-5",
-    "summary": "\"Master 403 Bypasses, HTTP/2 exploits, & TLS fingerprinting to turn rejections into bug bounty paydays.\"Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 20 Sep 2026 05:58:03",
-    "score": 7,
-    "uid": "d7b0a57214b5c6d7"
-  },
-  {
     "title": "A Hacker Broke Into OpenAI Using Claude. He Got Paid $6,500. Here’s Why That Number Matters.",
     "url": "https://medium.com/@riyalimba/a-hacker-broke-into-openai-using-claude-he-got-paid-6-500-heres-why-that-number-matters-e66e51807cdf?source=rss------bug_bounty-5",
     "summary": "The bug bounty debate nobody wants to have: when the target is a trillion-dollar AI company, what&#x2019;s a critical bug actually worth?Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d2f1148ad8ea589a"
+  },
+  {
+    "title": "From a Strange Base64 Parameter to a Critical PHP Deserialization Vulnerability",
+    "url": "https://babycoder143.medium.com/from-a-strange-base64-parameter-to-a-critical-php-deserialization-vulnerability-dc9c93468f50?source=rss------bug_bounty_writeup-5",
+    "summary": "A hidden field carried real server-side application state &#x2014; and changing the serialized object changed what the backend did next.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 23 Sep 2026 10:39:08",
+    "score": 3,
+    "uid": "8520e16702c6e86f"
   }
 ]
