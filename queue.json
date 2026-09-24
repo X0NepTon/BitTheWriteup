@@ -10,6 +10,16 @@
     "uid": "9df0fa4445385f69"
   },
   {
+    "title": "Researchers Used Claude to Hack OpenAI Here's Exactly How the Chain Worked",
+    "url": "https://dev.to/thefluxread/researchers-used-claude-to-hack-openai-heres-exactly-how-the-chain-worked-1dca",
+    "summary": "In late July, three security researchers at a small firm called Hacktron spent 72 hours doing something that should honestly embarrass a company with OpenAI's massive resources. They took over internal employee ChatGPT and Codex accounts, reached private code repositories, and proved it by quietly merging a pull request directly into OpenAI's own codebase. The most fascinating part? They didn’t use some high-end, custom-built hacking framework. They built the exploit using Claude. OpenAI paid them a $6,500 bounty for the discovery. As it turns out, the underlying bug had been sitting there qui",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 16:15:44",
+    "score": 17,
+    "uid": "d72c8bb3a8742c53"
+  },
+  {
     "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
     "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty_writeup-5",
     "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
@@ -298,6 +308,16 @@
     "published": "Thu, 24 Sep 2026 07:10:30",
     "score": 5,
     "uid": "09d0a8d51762b321"
+  },
+  {
+    "title": "Bypassing AI Quotas: How a Null Value Led to Infinite AI Generation on RebelMouse",
+    "url": "https://medium.com/@ziadabdo1255/bypassing-ai-quotas-how-a-null-value-led-to-infinite-ai-generation-on-rebelmouse-ebc56c386328?source=rss------bug_bounty-5",
+    "summary": "&#x200B;A deep dive into a critical Business Logic vulnerability that bypassed billing checks and allowed unrestricted AI access.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 17:02:37",
+    "score": 5,
+    "uid": "374b8ebe5c9773f3"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
-  },
-  {
-    "title": "How a Simple Stored XSS Turned Into an Account Action Chain",
-    "url": "https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5",
-    "summary": "I was testing a community management platform where users could create events and add formatted content to their event pages.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 19 Sep 2026 08:44:34",
-    "score": 3,
-    "uid": "bde853685426a9eb"
-  },
-  {
-    "title": "The Report Nobody Read (And What I Learned From It)",
-    "url": "https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5",
-    "summary": "A few years into my career as a security engineer, I finished what I thought was the best pentest of my life. I had chained three separate&#x2026;Continue reading on System Weakness »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 20 Sep 2026 19:51:01",
-    "score": 3,
-    "uid": "212a710714601221"
   }
 ]
