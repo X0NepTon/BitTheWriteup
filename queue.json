@@ -1,5 +1,55 @@
 [
   {
+    "title": "From Open Redirect to Account Takeover: How I Turned a \"Low\" Bug into a $1,500 Critical",
+    "url": "https://medium.com/@whitedevil2kghost/from-open-redirect-to-account-takeover-how-i-turned-a-low-bug-into-a-1-500-critical-0b38ffdf6435?source=rss------bug_bounty-5",
+    "summary": "###Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 10:02:19",
+    "score": 17,
+    "uid": "9df0fa4445385f69"
+  },
+  {
+    "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
+    "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty_writeup-5",
+    "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 24 Sep 2026 13:02:22",
+    "score": 15,
+    "uid": "cdb297da8da23060"
+  },
+  {
+    "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
+    "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty-5",
+    "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 13:02:22",
+    "score": 14,
+    "uid": "7746f2448a6a333d"
+  },
+  {
+    "title": "The Removed Email That Led to a $500 Account Takeover",
+    "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty_writeup-5",
+    "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 24 Sep 2026 11:25:34",
+    "score": 12,
+    "uid": "6e696009c45ed3bd"
+  },
+  {
+    "title": "The Removed Email That Led to a $500 Account Takeover",
+    "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty-5",
+    "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 11:25:34",
+    "score": 11,
+    "uid": "f89d2de9c533ab77"
+  },
+  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -238,6 +288,16 @@
     "published": "Wed, 23 Sep 2026 07:47:00",
     "score": 5,
     "uid": "bd1ca62c116954ec"
+  },
+  {
+    "title": "Why Security Headers Matter — And What Happens When They’re Missing",
+    "url": "https://medium.com/@shrutishinde1319/why-security-headers-matter-and-what-happens-when-theyre-missing-25ec91881094?source=rss------bug_bounty-5",
+    "summary": "You&#x2019;ve tested the login form, checked the API, maybe even found an IDOR or two.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 07:10:30",
+    "score": 5,
+    "uid": "09d0a8d51762b321"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1938,65 +1998,5 @@
     "published": "Sun, 20 Sep 2026 19:51:01",
     "score": 3,
     "uid": "212a710714601221"
-  },
-  {
-    "title": "How to Find and Fix Security Vulnerabilities for Money",
-    "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-140i",
-    "summary": "How to Find and Fix Security Vulnerabilities for Money tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking tags: security, bugbounty, money, hacking The High-Stakes Hunt for Security Vulnera",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 12:00:10",
-    "score": 3,
-    "uid": "00c856ab96a6f3f5"
-  },
-  {
-    "title": "Updated List: Tue Sep 22 03:42:36 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b20d6df68bf1350d16d0421789712775709e8c85",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "830c8a1501c4d27b"
-  },
-  {
-    "title": "Updated List: Tue Sep 22 06:19:44 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8b2924da584bd8f02883760c4d881675fc9b04bd",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d2f1148ad8ea589a"
-  },
-  {
-    "title": "From a Strange Base64 Parameter to a Critical PHP Deserialization Vulnerability",
-    "url": "https://babycoder143.medium.com/from-a-strange-base64-parameter-to-a-critical-php-deserialization-vulnerability-dc9c93468f50?source=rss------bug_bounty_writeup-5",
-    "summary": "A hidden field carried real server-side application state &#x2014; and changing the serialized object changed what the backend did next.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 23 Sep 2026 10:39:08",
-    "score": 3,
-    "uid": "8520e16702c6e86f"
-  },
-  {
-    "title": "How I Started Getting Bug Bounties in Just My Second Month",
-    "url": "https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5",
-    "summary": "Initially, I knew nothing about bug bounty hunting when I began it. Actually, I did not know anything about the way web applications work&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 22 Sep 2026 11:15:20",
-    "score": 3,
-    "uid": "1aef8f7991e15a63"
-  },
-  {
-    "title": "How a single broken button got me £150 from a bug bounty program",
-    "url": "https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5",
-    "summary": "Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 21 Sep 2026 23:00:36",
-    "score": 3,
-    "uid": "13919ee39a2c13fb"
   }
 ]
