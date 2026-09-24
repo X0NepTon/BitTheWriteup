@@ -1,15 +1,5 @@
 [
   {
-    "title": "SQL Injection: Time-Based Blind Detection Payload",
-    "url": "https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty_writeup-5",
-    "summary": "Time-based blind SQL injection is one of the most reliable techniques when no data is reflected in the response. Instead of seeing output&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 19 Sep 2026 19:20:12",
-    "score": 7,
-    "uid": "ba7834ab59c15a4c"
-  },
-  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 22 Sep 2026 11:15:20",
     "score": 3,
     "uid": "1aef8f7991e15a63"
+  },
+  {
+    "title": "How a single broken button got me £150 from a bug bounty program",
+    "url": "https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5",
+    "summary": "Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 21 Sep 2026 23:00:36",
+    "score": 3,
+    "uid": "13919ee39a2c13fb"
   }
 ]
