@@ -10,16 +10,6 @@
     "uid": "9df0fa4445385f69"
   },
   {
-    "title": "Researchers Used Claude to Hack OpenAI Here's Exactly How the Chain Worked",
-    "url": "https://dev.to/thefluxread/researchers-used-claude-to-hack-openai-heres-exactly-how-the-chain-worked-1dca",
-    "summary": "In late July, three security researchers at a small firm called Hacktron spent 72 hours doing something that should honestly embarrass a company with OpenAI's massive resources. They took over internal employee ChatGPT and Codex accounts, reached private code repositories, and proved it by quietly merging a pull request directly into OpenAI's own codebase. The most fascinating part? They didn’t use some high-end, custom-built hacking framework. They built the exploit using Claude. OpenAI paid them a $6,500 bounty for the discovery. As it turns out, the underlying bug had been sitting there qui",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Thu, 24 Sep 2026 16:15:44",
-    "score": 17,
-    "uid": "d72c8bb3a8742c53"
-  },
-  {
     "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
     "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty_writeup-5",
     "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
@@ -38,6 +28,16 @@
     "published": "Thu, 24 Sep 2026 13:02:22",
     "score": 14,
     "uid": "7746f2448a6a333d"
+  },
+  {
+    "title": "Critical Remote Code Execution via Insecure Deserialization in Custom Cloud Storage Sync Service",
+    "url": "https://medium.com/@t4nv1/critical-remote-code-execution-via-insecure-deserialization-in-custom-cloud-storage-sync-service-264f5a997848?source=rss------bug_bounty-5",
+    "summary": "Executive SummaryContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 24 Sep 2026 19:11:01",
+    "score": 13,
+    "uid": "924672cf8a4e9a99"
   },
   {
     "title": "The Removed Email That Led to a $500 Account Takeover",
