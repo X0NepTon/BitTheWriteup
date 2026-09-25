@@ -1,16 +1,6 @@
 [
   {
     "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
-    "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty_writeup-5",
-    "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 24 Sep 2026 13:02:22",
-    "score": 15,
-    "uid": "cdb297da8da23060"
-  },
-  {
-    "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
     "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty-5",
     "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -308,6 +298,16 @@
     "published": "Thu, 24 Sep 2026 17:02:37",
     "score": 5,
     "uid": "374b8ebe5c9773f3"
+  },
+  {
+    "title": "Bug Bounty Essentials: 5 Things I Wish I’d Done Before Starting Bug Bounty",
+    "url": "https://medium.com/@Matthew202/bug-bounty-essentials-5-things-i-wish-id-done-before-starting-bug-bounty-5a304e72e1a5?source=rss------bug_bounty-5",
+    "summary": "When I first heard about bug bounty programs, I pictured myself finding a critical vulnerability in my first week, collecting a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 25 Sep 2026 04:41:47",
+    "score": 5,
+    "uid": "aca39ca0a3148a59"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
