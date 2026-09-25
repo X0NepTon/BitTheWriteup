@@ -1,15 +1,5 @@
 [
   {
-    "title": "Critical Remote Code Execution via Insecure Deserialization in Custom Cloud Storage Sync Service",
-    "url": "https://medium.com/@t4nv1/critical-remote-code-execution-via-insecure-deserialization-in-custom-cloud-storage-sync-service-264f5a997848?source=rss------bug_bounty-5",
-    "summary": "Executive SummaryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 24 Sep 2026 19:11:01",
-    "score": 13,
-    "uid": "924672cf8a4e9a99"
-  },
-  {
     "title": "The Removed Email That Led to a $500 Account Takeover",
     "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty_writeup-5",
     "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
@@ -30,6 +20,36 @@
     "uid": "f89d2de9c533ab77"
   },
   {
+    "title": "Telegram Desktop: From Proxy to RCE in 35 Seconds",
+    "url": "https://medium.com/@expatch/telegram-desktop-from-proxy-to-rce-in-35-seconds-64de025fb0b4?source=rss------bug_bounty-5",
+    "summary": "A proxy gets your work chat back online. On Windows builds, it could also expose your identity, leak credentials, and open a path into&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 25 Sep 2026 15:52:23",
+    "score": 10,
+    "uid": "1e0e9c0c38d1f168"
+  },
+  {
+    "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
+    "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5",
+    "summary": "There is a particular kind of bug-hunting moment that looks completely uninteresting at first.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 25 Sep 2026 11:41:15",
+    "score": 8,
+    "uid": "63bf3d87f105d6a1"
+  },
+  {
+    "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
+    "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty-5",
+    "summary": "There is a particular kind of bug-hunting moment that looks completely uninteresting at first.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 25 Sep 2026 11:41:15",
+    "score": 8,
+    "uid": "be16a8b4f21afe4d"
+  },
+  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -38,6 +58,16 @@
     "published": "Sat, 19 Sep 2026 18:29:39",
     "score": 6,
     "uid": "b4ff3c9f6fe956dd"
+  },
+  {
+    "title": "Blind XSS: Stop Thinking About Payloads, Start Thinking About People",
+    "url": "https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5",
+    "summary": "You cannot see whether your payload worked, so cleverness buys nothing. Coverage is the only variable you control.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 25 Sep 2026 11:31:02",
+    "score": 6,
+    "uid": "de5e300fb72794d2"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "2df7462a3c29d486"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 04:43:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4a4ff79d32fe998f93f978cbda2d802309209767",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "85edc00c12b35dcd"
-  },
-  {
-    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
-    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 24 Sep 2026 06:13:53",
-    "score": 3,
-    "uid": "64b4f8feb1f1b893"
-  },
-  {
-    "title": "A Hacker Read 64KB of Another Customer’s Data on Cloudflare.",
-    "url": "https://medium.com/@riyalimba/a-hacker-read-64kb-of-another-customers-data-on-cloudflare-036aac808328?source=rss------bug_bounty-5",
-    "summary": "The simplest attack chain I&#x2019;ve ever read about &#x2014; and the most terrifying.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 25 Sep 2026 07:16:20",
-    "score": 3,
-    "uid": "9f3f880bd4cd5669"
   }
 ]
