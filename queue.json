@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Open Redirect to Account Takeover: How I Turned a \"Low\" Bug into a $1,500 Critical",
-    "url": "https://medium.com/@whitedevil2kghost/from-open-redirect-to-account-takeover-how-i-turned-a-low-bug-into-a-1-500-critical-0b38ffdf6435?source=rss------bug_bounty-5",
-    "summary": "###Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 24 Sep 2026 10:02:19",
-    "score": 17,
-    "uid": "9df0fa4445385f69"
-  },
-  {
     "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
     "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty_writeup-5",
     "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "85edc00c12b35dcd"
+  },
+  {
+    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
+    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
+    "summary": "SummaryContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 24 Sep 2026 06:13:53",
+    "score": 3,
+    "uid": "64b4f8feb1f1b893"
   }
 ]
