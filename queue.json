@@ -1,16 +1,6 @@
 [
   {
     "title": "The Removed Email That Led to a $500 Account Takeover",
-    "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty_writeup-5",
-    "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 24 Sep 2026 11:25:34",
-    "score": 12,
-    "uid": "6e696009c45ed3bd"
-  },
-  {
-    "title": "The Removed Email That Led to a $500 Account Takeover",
     "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty-5",
     "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2df7462a3c29d486"
+  },
+  {
+    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
+    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
+    "summary": "SummaryContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 24 Sep 2026 06:13:53",
+    "score": 3,
+    "uid": "64b4f8feb1f1b893"
   }
 ]
