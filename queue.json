@@ -1,15 +1,5 @@
 [
   {
-    "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
-    "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty-5",
-    "summary": "Beginners often focus on vulnerabilities such as SQL injection, Broken Access Control, IDOR, and BOLA. While these are important, there is&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 24 Sep 2026 13:02:22",
-    "score": 14,
-    "uid": "7746f2448a6a333d"
-  },
-  {
     "title": "Critical Remote Code Execution via Insecure Deserialization in Custom Cloud Storage Sync Service",
     "url": "https://medium.com/@t4nv1/critical-remote-code-execution-via-insecure-deserialization-in-custom-cloud-storage-sync-service-264f5a997848?source=rss------bug_bounty-5",
     "summary": "Executive SummaryContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 24 Sep 2026 06:13:53",
     "score": 3,
     "uid": "64b4f8feb1f1b893"
+  },
+  {
+    "title": "A Hacker Read 64KB of Another Customer’s Data on Cloudflare.",
+    "url": "https://medium.com/@riyalimba/a-hacker-read-64kb-of-another-customers-data-on-cloudflare-036aac808328?source=rss------bug_bounty-5",
+    "summary": "The simplest attack chain I&#x2019;ve ever read about &#x2014; and the most terrifying.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 25 Sep 2026 07:16:20",
+    "score": 3,
+    "uid": "9f3f880bd4cd5669"
   }
 ]
