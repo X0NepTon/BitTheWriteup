@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Removed Email That Led to a $500 Account Takeover",
-    "url": "https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty-5",
-    "summary": "How a removed email address continued to receive password-reset links.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 24 Sep 2026 11:25:34",
-    "score": 11,
-    "uid": "f89d2de9c533ab77"
-  },
-  {
     "title": "Telegram Desktop: From Proxy to RCE in 35 Seconds",
     "url": "https://medium.com/@expatch/telegram-desktop-from-proxy-to-rce-in-35-seconds-64de025fb0b4?source=rss------bug_bounty-5",
     "summary": "A proxy gets your work chat back online. On Windows builds, it could also expose your identity, leak credentials, and open a path into&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 24 Sep 2026 06:13:53",
     "score": 3,
     "uid": "64b4f8feb1f1b893"
+  },
+  {
+    "title": "Updated List: Sat Sep 26 06:13:17 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/288c0a059a8e4143cf176eb4221ebea1730860f0",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0187ba21bb29a169"
   }
 ]
