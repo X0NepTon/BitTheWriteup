@@ -1,13 +1,13 @@
 [
   {
-    "title": "Telegram Desktop: From Proxy to RCE in 35 Seconds",
-    "url": "https://medium.com/@expatch/telegram-desktop-from-proxy-to-rce-in-35-seconds-64de025fb0b4?source=rss------bug_bounty-5",
-    "summary": "A proxy gets your work chat back online. On Windows builds, it could also expose your identity, leak credentials, and open a path into&#x2026;Continue reading on Medium »",
+    "title": "It Is Not Prompt Injection. It Is Output Handling.",
+    "url": "https://kd-200.medium.com/it-is-not-prompt-injection-it-is-output-handling-f1875135d0cc?source=rss------bug_bounty-5",
+    "summary": "Developers treat the model as part of their own system. It is a text generator steered by input an attacker may control.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 25 Sep 2026 15:52:23",
-    "score": 10,
-    "uid": "1e0e9c0c38d1f168"
+    "published": "Sat, 26 Sep 2026 11:31:01",
+    "score": 9,
+    "uid": "d8040380229e1245"
   },
   {
     "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
