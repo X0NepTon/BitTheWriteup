@@ -1,13 +1,13 @@
 [
   {
-    "title": "It Is Not Prompt Injection. It Is Output Handling.",
-    "url": "https://kd-200.medium.com/it-is-not-prompt-injection-it-is-output-handling-f1875135d0cc?source=rss------bug_bounty-5",
-    "summary": "Developers treat the model as part of their own system. It is a text generator steered by input an attacker may control.Continue reading on Medium »",
+    "title": "I Took Over the Infrastructure. The CDN Still Said No.",
+    "url": "https://medium.com/@samym6624/i-took-over-the-infrastructure-the-cdn-still-said-no-2d32b7a30280?source=rss------bug_bounty-5",
+    "summary": "A clean subdomain takeover, a live PoC with full administrative control &#x2014; and a CDN error that meant none of it mattered.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 26 Sep 2026 11:31:01",
+    "published": "Sat, 26 Sep 2026 17:31:02",
     "score": 9,
-    "uid": "d8040380229e1245"
+    "uid": "bd5771a3163a831e"
   },
   {
     "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
@@ -48,6 +48,16 @@
     "published": "Fri, 25 Sep 2026 11:31:02",
     "score": 6,
     "uid": "de5e300fb72794d2"
+  },
+  {
+    "title": "From Open Redirect to Cookie Bombing: How I Chained Two Web Security Issues",
+    "url": "https://medium.com/@sahilmaurya2575/from-open-redirect-to-cookie-bombing-how-i-chained-two-web-security-issues-cb6316cfca84?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 26 Sep 2026 16:57:12",
+    "score": 6,
+    "uid": "627146cd629c77ec"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "2df7462a3c29d486"
-  },
-  {
-    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
-    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 24 Sep 2026 06:13:53",
-    "score": 3,
-    "uid": "64b4f8feb1f1b893"
   }
 ]
