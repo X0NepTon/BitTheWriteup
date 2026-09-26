@@ -310,6 +310,16 @@
     "uid": "aca39ca0a3148a59"
   },
   {
+    "title": "One ID Was All It Took: How I Found an Unauthenticated IDOR",
+    "url": "https://medium.com/@anchalrajawat009/one-id-was-all-it-took-how-i-found-an-unauthenticated-idor-826256195b2e?source=rss------bug_bounty-5",
+    "summary": "Hello Guyzzzzzzzz, It&#x2019;s me again&#x2026; your Chota-mota H@ck3r :)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 26 Sep 2026 07:06:47",
+    "score": 5,
+    "uid": "334ce1b89cfd6b5e"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Thu, 24 Sep 2026 06:13:53",
     "score": 3,
     "uid": "64b4f8feb1f1b893"
-  },
-  {
-    "title": "Updated List: Sat Sep 26 06:13:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/288c0a059a8e4143cf176eb4221ebea1730860f0",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0187ba21bb29a169"
   }
 ]
