@@ -10,16 +10,6 @@
     "uid": "63bf3d87f105d6a1"
   },
   {
-    "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
-    "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty-5",
-    "summary": "There is a particular kind of bug-hunting moment that looks completely uninteresting at first.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 25 Sep 2026 11:41:15",
-    "score": 8,
-    "uid": "be16a8b4f21afe4d"
-  },
-  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -598,6 +588,16 @@
     "published": "Wed, 23 Sep 2026 08:50:43",
     "score": 4,
     "uid": "6594d116dc61d37f"
+  },
+  {
+    "title": "Self-XSS Is Not a Dead End: Five Ways to Deliver It to Someone Else",
+    "url": "https://kd-200.medium.com/self-xss-is-not-a-dead-end-five-ways-to-deliver-it-to-someone-else-bd5732e0232a?source=rss------bug_bounty-5",
+    "summary": "The payload already works. Everything that matters now is delivery &#x2014; CSRF on the write, login CSRF, cookie tossing, jar overflow, and the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 27 Sep 2026 11:31:01",
+    "score": 4,
+    "uid": "ca4e2ce620dca2f3"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
