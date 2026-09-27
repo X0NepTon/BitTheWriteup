@@ -1,15 +1,5 @@
 [
   {
-    "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
-    "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
-    "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 18:29:39",
-    "score": 6,
-    "uid": "b4ff3c9f6fe956dd"
-  },
-  {
     "title": "Blind XSS: Stop Thinking About Payloads, Start Thinking About People",
     "url": "https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5",
     "summary": "You cannot see whether your payload worked, so cleverness buys nothing. Coverage is the only variable you control.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "8bbd697fdf778391"
+  },
+  {
+    "title": "Updated List: Mon Sep 28 00:38:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f23c694e5f5af8216de4484dcb4be7f8291fd1f7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "c1a10d0a95630640"
   }
 ]
