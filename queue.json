@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Took Over the Infrastructure. The CDN Still Said No.",
-    "url": "https://medium.com/@samym6624/i-took-over-the-infrastructure-the-cdn-still-said-no-2d32b7a30280?source=rss------bug_bounty-5",
-    "summary": "A clean subdomain takeover, a live PoC with full administrative control &#x2014; and a CDN error that meant none of it mattered.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 26 Sep 2026 17:31:02",
-    "score": 9,
-    "uid": "bd5771a3163a831e"
-  },
-  {
     "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
     "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5",
     "summary": "There is a particular kind of bug-hunting moment that looks completely uninteresting at first.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 24 Sep 2026 06:13:53",
     "score": 3,
     "uid": "64b4f8feb1f1b893"
+  },
+  {
+    "title": "Updated List: Sun Sep 27 11:27:48 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/443a7b89136d6e2f657586eeb5a2f879e7f66802",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2ca9411bff3345a7"
   }
 ]
