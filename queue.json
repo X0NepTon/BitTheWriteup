@@ -1,15 +1,5 @@
 [
   {
-    "title": "Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting…",
-    "url": "https://medium.com/@t4nv1/critical-server-side-template-injection-ssti-to-remote-code-execution-in-enterprise-reporting-e0d3d80f0ec3?source=rss------bug_bounty-5",
-    "summary": "Executive SummaryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 26 Sep 2026 19:21:01",
-    "score": 13,
-    "uid": "f5c5d1d179a1c381"
-  },
-  {
     "title": "I Took Over the Infrastructure. The CDN Still Said No.",
     "url": "https://medium.com/@samym6624/i-took-over-the-infrastructure-the-cdn-still-said-no-2d32b7a30280?source=rss------bug_bounty-5",
     "summary": "A clean subdomain takeover, a live PoC with full administrative control &#x2014; and a CDN error that meant none of it mattered.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "7332d75a8944f8d1"
+  },
+  {
+    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
+    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
+    "summary": "SummaryContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 24 Sep 2026 06:13:53",
+    "score": 3,
+    "uid": "64b4f8feb1f1b893"
   }
 ]
