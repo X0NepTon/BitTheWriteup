@@ -1,15 +1,5 @@
 [
   {
-    "title": "Blind XSS: Stop Thinking About Payloads, Start Thinking About People",
-    "url": "https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5",
-    "summary": "You cannot see whether your payload worked, so cleverness buys nothing. Coverage is the only variable you control.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 25 Sep 2026 11:31:02",
-    "score": 6,
-    "uid": "de5e300fb72794d2"
-  },
-  {
     "title": "From Open Redirect to Cookie Bombing: How I Chained Two Web Security Issues",
     "url": "https://medium.com/@sahilmaurya2575/from-open-redirect-to-cookie-bombing-how-i-chained-two-web-security-issues-cb6316cfca84?source=rss------bug_bounty-5",
     "summary": "Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "c1a10d0a95630640"
+  },
+  {
+    "title": "Updated List: Mon Sep 28 03:34:12 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/ada2a8349dc310c7d16d2ef4ea7c86992e8077bd",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "26f2f78bbfe8758a"
   }
 ]
