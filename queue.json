@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
-    "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5",
-    "summary": "There is a particular kind of bug-hunting moment that looks completely uninteresting at first.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 25 Sep 2026 11:41:15",
-    "score": 8,
-    "uid": "63bf3d87f105d6a1"
-  },
-  {
     "title": "Chaining API Bugs: How Low-Severity Findings Become Critical",
     "url": "https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bug_bounty-5",
     "summary": "API Vulnerability Hunter, Part 5 of 5 (Series Finale)Continue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2ca9411bff3345a7"
+  },
+  {
+    "title": "Updated List: Sun Sep 27 20:57:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8318c5c0643c695b4bfd95ce457874874850767a",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "8bbd697fdf778391"
   }
 ]
