@@ -20,6 +20,36 @@
     "uid": "b9544076a1b043b9"
   },
   {
+    "title": "How a Flawed OTP Flow Led to Full Account Takeover",
+    "url": "https://medium.com/@kingsamoray50/how-a-flawed-otp-flow-led-to-full-account-takeover-3a398b4df5ff?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 28 Sep 2026 19:18:56",
+    "score": 9,
+    "uid": "335543a2daae63bf"
+  },
+  {
+    "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
+    "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5",
+    "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 28 Sep 2026 23:31:37",
+    "score": 8,
+    "uid": "84eaf2b9bd11a7c7"
+  },
+  {
+    "title": "Full-Read SSRF via DNS Rebinding & AWS IMDSv2 Token Relay in Multi-Tenant Webhooks",
+    "url": "https://medium.com/@t4nv1/full-read-ssrf-via-dns-rebinding-aws-imdsv2-token-relay-in-multi-tenant-webhooks-a8e14adf9b0a?source=rss------bug_bounty-5",
+    "summary": "Executive SummaryContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 28 Sep 2026 19:26:01",
+    "score": 8,
+    "uid": "6f14495156e60e0c"
+  },
+  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1968,35 +1998,5 @@
     "published": "Thu, 24 Sep 2026 06:13:53",
     "score": 3,
     "uid": "64b4f8feb1f1b893"
-  },
-  {
-    "title": "Updated List: Sun Sep 27 11:27:48 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/443a7b89136d6e2f657586eeb5a2f879e7f66802",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2ca9411bff3345a7"
-  },
-  {
-    "title": "Updated List: Sun Sep 27 20:57:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8318c5c0643c695b4bfd95ce457874874850767a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8bbd697fdf778391"
-  },
-  {
-    "title": "Updated List: Mon Sep 28 00:38:23 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f23c694e5f5af8216de4484dcb4be7f8291fd1f7",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c1a10d0a95630640"
   }
 ]
