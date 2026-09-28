@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Open Redirect to Cookie Bombing: How I Chained Two Web Security Issues",
-    "url": "https://medium.com/@sahilmaurya2575/from-open-redirect-to-cookie-bombing-how-i-chained-two-web-security-issues-cb6316cfca84?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 26 Sep 2026 16:57:12",
-    "score": 6,
-    "uid": "627146cd629c77ec"
-  },
-  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -568,6 +558,16 @@
     "published": "Sun, 27 Sep 2026 11:31:01",
     "score": 4,
     "uid": "ca4e2ce620dca2f3"
+  },
+  {
+    "title": "How I Found My First $$$ Bug on HackerOne (A Simple API Call Changed Everything)",
+    "url": "https://medium.com/@princelassey/how-i-found-my-first-bug-on-hackerone-a-simple-api-call-changed-everything-2be8ac3db822?source=rss------bug_bounty-5",
+    "summary": "A story about a LinkedIn DM that aged surprisingly well, why I started caring about bug bounty when I swore I never would, and the exact&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 28 Sep 2026 03:17:11",
+    "score": 4,
+    "uid": "eb412bfaf8fb08d9"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
