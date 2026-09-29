@@ -1,15 +1,5 @@
 [
   {
-    "title": "From a Public FileBucket to Full Account Takeover via Stored XSS",
-    "url": "https://medium.com/@mammad0xrz/from-a-public-filebucket-to-full-account-takeover-via-stored-xss-5d10bcae49b7?source=rss------bug_bounty_writeup-5",
-    "summary": "How a seemingly harmless public file bucket turned into a full account takeover.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 28 Sep 2026 18:09:33",
-    "score": 9,
-    "uid": "3961331ec12c9805"
-  },
-  {
     "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
     "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5",
     "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d5edfca8a727dd5d"
+  },
+  {
+    "title": "How a Simple Business Logic Flaw Allowed Arbitrary Price Manipulation",
+    "url": "https://medium.com/@elahefahimi2004/how-a-simple-business-logic-flaw-allowed-arbitrary-price-manipulation-c40d554cdca0?source=rss------bug_bounty-5",
+    "summary": "A technical breakdown of parameter tampering during checkout and why client-side trust leads to critical financial risks.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 29 Sep 2026 17:26:04",
+    "score": 3,
+    "uid": "a108e7b01124d399"
   }
 ]
