@@ -10,16 +10,6 @@
     "uid": "3961331ec12c9805"
   },
   {
-    "title": "SQL Injection — Lab #2 SQL injection vulnerability allowing login bypass",
-    "url": "https://m-abdullah-lab.medium.com/sql-injection-lab-2-sql-injection-vulnerability-allowing-login-bypass-2bf1279c3d5d?source=rss------bug_bounty-5",
-    "summary": "Post OverviewContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 28 Sep 2026 16:43:43",
-    "score": 9,
-    "uid": "b9544076a1b043b9"
-  },
-  {
     "title": "How a Flawed OTP Flow Led to Full Account Takeover",
     "url": "https://medium.com/@kingsamoray50/how-a-flawed-otp-flow-led-to-full-account-takeover-3a398b4df5ff?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -68,6 +58,16 @@
     "published": "Tue, 29 Sep 2026 00:01:02",
     "score": 7,
     "uid": "cc47553150292a8d"
+  },
+  {
+    "title": "How a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926",
+    "url": "https://medium.com/@amankunwar283/how-a-cute-fox-led-to-sql-injection-hacking-intigritis-september-challenge-0926-a513a80c7c81?source=rss------bug_bounty-5",
+    "summary": "Author: aman_kunwarContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 29 Sep 2026 09:38:15",
+    "score": 7,
+    "uid": "a77ae95812261343"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
