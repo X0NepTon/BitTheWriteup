@@ -50,6 +50,26 @@
     "uid": "6f14495156e60e0c"
   },
   {
+    "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
+    "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty-5",
+    "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 28 Sep 2026 23:31:37",
+    "score": 8,
+    "uid": "e2072d319a6874b7"
+  },
+  {
+    "title": "How I Solved Intigriti’s September 2026 Challenge",
+    "url": "https://medium.com/@ronaldo.shrestha713/how-i-solved-intigritis-september-2026-challenge-e29292a20662?source=rss------bug_bounty-5",
+    "summary": "Critter Gallery &#x2014; Boolean-Based Blind SQL InjectionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 29 Sep 2026 00:01:02",
+    "score": 7,
+    "uid": "cc47553150292a8d"
+  },
+  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d5edfca8a727dd5d"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 02:43:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d4b8d22f7757e7808be4c493913b676aa27d366e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "7332d75a8944f8d1"
-  },
-  {
-    "title": "From Admin to Owner: How I Discovered a Critical Full Organization Takeover",
-    "url": "https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 24 Sep 2026 06:13:53",
-    "score": 3,
-    "uid": "64b4f8feb1f1b893"
   }
 ]
