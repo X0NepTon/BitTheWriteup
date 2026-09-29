@@ -10,16 +10,6 @@
     "uid": "3961331ec12c9805"
   },
   {
-    "title": "How a Flawed OTP Flow Led to Full Account Takeover",
-    "url": "https://medium.com/@kingsamoray50/how-a-flawed-otp-flow-led-to-full-account-takeover-3a398b4df5ff?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 28 Sep 2026 19:18:56",
-    "score": 9,
-    "uid": "335543a2daae63bf"
-  },
-  {
     "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
     "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5",
     "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
@@ -68,6 +58,16 @@
     "published": "Tue, 29 Sep 2026 09:38:15",
     "score": 7,
     "uid": "a77ae95812261343"
+  },
+  {
+    "title": "Intigriti CTF -Critter Gallery SQL Injection to Flag",
+    "url": "https://blackmambaa.medium.com/intigriti-ctf-critter-gallery-sql-injection-to-flag-6208496d6516?source=rss------bug_bounty-5",
+    "summary": "A steel heart, disappointed by its master [Aura 9999+&#x1F5FF;&#x1F976;]Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 29 Sep 2026 11:42:42",
+    "score": 7,
+    "uid": "6bb6d64269fe81d9"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
