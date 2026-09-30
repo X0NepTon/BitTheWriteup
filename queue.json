@@ -10,16 +10,6 @@
     "uid": "84eaf2b9bd11a7c7"
   },
   {
-    "title": "Full-Read SSRF via DNS Rebinding & AWS IMDSv2 Token Relay in Multi-Tenant Webhooks",
-    "url": "https://medium.com/@t4nv1/full-read-ssrf-via-dns-rebinding-aws-imdsv2-token-relay-in-multi-tenant-webhooks-a8e14adf9b0a?source=rss------bug_bounty-5",
-    "summary": "Executive SummaryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 28 Sep 2026 19:26:01",
-    "score": 8,
-    "uid": "6f14495156e60e0c"
-  },
-  {
     "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
     "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty-5",
     "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 29 Sep 2026 17:26:04",
     "score": 3,
     "uid": "a108e7b01124d399"
+  },
+  {
+    "title": "I Asked “What is OAST?” and Fell Down a Rabbit Hole — Here’s What I Learned",
+    "url": "https://medium.com/@sivanesa2016/i-asked-what-is-oast-and-fell-down-a-rabbit-hole-heres-what-i-learned-c2d20129857e?source=rss------bug_bounty-5",
+    "summary": "A few days ago, I stumbled across a term in a bug bounty write-up: OAST payload.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 29 Sep 2026 16:23:24",
+    "score": 3,
+    "uid": "64afa4b1c4325793"
   }
 ]
