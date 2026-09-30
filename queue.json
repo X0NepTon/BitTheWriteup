@@ -1,15 +1,5 @@
 [
   {
-    "title": "SAP IAS Open Self-Registration: How I Accessed a Fortune 500 Production Supply Chain System in 10…",
-    "url": "https://medium.com/@pro.wasskouri/sap-ias-open-self-registration-how-i-accessed-a-fortune-500-production-supply-chain-system-in-10-62681ec50ed5?source=rss------bug_bounty-5",
-    "summary": "During a bug bounty engagement on Bugcrowd, I identified an authentication bypass on the supplier portal of a major international sports&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 30 Sep 2026 12:55:12",
-    "score": 14,
-    "uid": "37d6e1d0195f7b38"
-  },
-  {
     "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
     "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5",
     "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d5edfca8a727dd5d"
+  },
+  {
+    "title": "Updated List: Thu Oct 01 01:39:13 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c554d2bdffdc4765474eb17731083054484b63cf",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "f05805dcc29b4f12"
   }
 ]
