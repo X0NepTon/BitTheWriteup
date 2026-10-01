@@ -1,5 +1,15 @@
 [
   {
+    "title": "CraftFall Explained | Remote Code Execution & Bug Bounty Automation",
+    "url": "https://medium.com/@pentesterclubpvtltd/craftfall-explained-remote-code-execution-bug-bounty-automation-cfc2b8413021?source=rss------bug_bounty-5",
+    "summary": "One vulnerable CMS endpoint. A dangerous framework behavior. And a remote-code-execution vulnerability that security researchers cannot&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 17:26:55",
+    "score": 12,
+    "uid": "1bf7a8c889406c50"
+  },
+  {
     "title": "Intigriti CTF -Critter Gallery SQL Injection to Flag",
     "url": "https://blackmambaa.medium.com/intigriti-ctf-critter-gallery-sql-injection-to-flag-6208496d6516?source=rss------bug_bounty-5",
     "summary": "A steel heart, disappointed by its master [Aura 9999+&#x1F5FF;&#x1F976;]Continue reading on Medium »",
@@ -28,6 +38,16 @@
     "published": "Wed, 30 Sep 2026 07:41:30",
     "score": 7,
     "uid": "32996e8e5d283b3e"
+  },
+  {
+    "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
+    "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
+    "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 15:45:13",
+    "score": 6,
+    "uid": "580b30e089c6f3ce"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -288,6 +308,36 @@
     "published": "Sat, 26 Sep 2026 07:06:47",
     "score": 5,
     "uid": "334ce1b89cfd6b5e"
+  },
+  {
+    "title": "Broken Object Level Authorization (BOLA / IDOR) in Linktree GraphQL API Allows Unauthorized…",
+    "url": "https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?source=rss------bug_bounty_writeup-5",
+    "summary": "OverviewContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 01 Oct 2026 14:53:23",
+    "score": 5,
+    "uid": "8a608aefeccf03f0"
+  },
+  {
+    "title": "The Bug That Needs No Hacking: IDOR and Broken Access Control",
+    "url": "https://medium.com/@faizan8717/the-bug-that-needs-no-hacking-idor-and-broken-access-control-3232ecc2108d?source=rss------bug_bounty-5",
+    "summary": "One number. Someone else&#x2019;s data.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 19:15:09",
+    "score": 5,
+    "uid": "249473dd6de188d1"
+  },
+  {
+    "title": "Broken Object Level Authorization (BOLA / IDOR) in Linktree GraphQL API Allows Unauthorized…",
+    "url": "https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?source=rss------bug_bounty-5",
+    "summary": "OverviewContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 14:53:23",
+    "score": 5,
+    "uid": "94a9b1790b5e29f4"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -608,6 +658,26 @@
     "published": "Thu, 01 Oct 2026 10:53:33",
     "score": 4,
     "uid": "0e52f7c9c1349006"
+  },
+  {
+    "title": "How Changing One Customer ID Exposed Other Users’ Pet Recommendations and Earned Me a $1,000 Bounty",
+    "url": "https://medium.com/@papjm/how-changing-one-customer-id-exposed-other-users-pet-recommendations-and-earned-me-a-1-000-bounty-82c0179e62aa?source=rss------bug_bounty-5",
+    "summary": "Researcher: papjm Vulnerabilities: Broken Access Control and Information Disclosure Reward: $1,000Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 16:12:01",
+    "score": 4,
+    "uid": "dacfaeb3ac165105"
+  },
+  {
+    "title": "How Changing a POST Request to GET Exposed Users’ PII and Earned Me a $5,000 Bounty",
+    "url": "https://medium.com/@papjm/how-changing-a-post-request-to-get-exposed-users-pii-and-earned-me-a-5-000-bounty-a9980c5b7df0?source=rss------bug_bounty-5",
+    "summary": "How Changing a POST Request to GET Exposed Users&#x2019; Privacy RequestsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 15:17:28",
+    "score": 4,
+    "uid": "fab16517ad11fcba"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1928,75 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "822c544ffde9e63c"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 19:59:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/88b5795e6d485157ccee5e56e046a2cee7092716",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ec3e96330c93acd2"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 20:32:59 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7061c03b72bdd19e4049fa8da8313604856306b8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "58a0a2c1a5290dbe"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 21:55:44 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a8f520bde4c689a64bc07c3879ab4a12e20f8847",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "178ac8b3bd31ffee"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 00:48:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/307a83e5ca9099776e32a70a96b305adb9e6c8c1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6384ee443bb61726"
-  },
-  {
-    "title": "Updated List: Sat Aug 22 01:43:05 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/90f117e4b6bb0eb3c13389302f9dd640b309df15",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d5edfca8a727dd5d"
-  },
-  {
-    "title": "Updated List: Thu Oct 01 01:39:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c554d2bdffdc4765474eb17731083054484b63cf",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f05805dcc29b4f12"
-  },
-  {
-    "title": "Updated List: Thu Oct 01 05:14:02 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8ec78cb9a5cdb2a419df6ee7fe0aa66f4b2975b0",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e3ba8ed195f8e3e0"
   }
 ]
