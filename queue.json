@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926",
-    "url": "https://medium.com/@amankunwar283/how-a-cute-fox-led-to-sql-injection-hacking-intigritis-september-challenge-0926-a513a80c7c81?source=rss------bug_bounty-5",
-    "summary": "Author: aman_kunwarContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 29 Sep 2026 09:38:15",
-    "score": 7,
-    "uid": "a77ae95812261343"
-  },
-  {
     "title": "Intigriti CTF -Critter Gallery SQL Injection to Flag",
     "url": "https://blackmambaa.medium.com/intigriti-ctf-critter-gallery-sql-injection-to-flag-6208496d6516?source=rss------bug_bounty-5",
     "summary": "A steel heart, disappointed by its master [Aura 9999+&#x1F5FF;&#x1F976;]Continue reading on Medium »",
@@ -598,6 +588,26 @@
     "published": "Mon, 28 Sep 2026 03:17:11",
     "score": 4,
     "uid": "eb412bfaf8fb08d9"
+  },
+  {
+    "title": "How I Got My First CVE: Turning a Nexus Privilege Editor into an Admin",
+    "url": "https://bebensap.medium.com/how-i-got-my-first-cve-turning-a-nexus-privilege-editor-into-an-admin-980bf343e622?source=rss------bug_bounty-5",
+    "summary": "One wildcard update gave me full admin access to Nexus Repository, my first CVE, and a $1,000 bounty.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 10:58:54",
+    "score": 4,
+    "uid": "e9e3a72959c94325"
+  },
+  {
+    "title": "The Fastest Bug Bounty Win I’ve Ever Read About Took 3 People, 72 Hours, and $3,000 in API Costs",
+    "url": "https://medium.com/@riyalimba/the-fastest-bug-bounty-win-ive-ever-read-about-took-3-people-72-hours-and-3-000-in-api-costs-1f7a8bbea553?source=rss------bug_bounty-5",
+    "summary": "They used Claude to break into OpenAI, got paid $6,500, and then got $115,000 from Meta for the same bug class. Here&#x2019;s what that actually&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 01 Oct 2026 10:53:33",
+    "score": 4,
+    "uid": "0e52f7c9c1349006"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "e3ba8ed195f8e3e0"
-  },
-  {
-    "title": "Updated List: Thu Oct 01 08:00:11 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b699a1ba1288a83a71cbb0f1e818c2ab069a1ad6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "af486a7d0f5eca2f"
   }
 ]
