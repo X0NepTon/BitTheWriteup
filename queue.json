@@ -1,15 +1,5 @@
 [
   {
-    "title": "Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery",
-    "url": "https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5",
-    "summary": "Challenge: Critter Gallery Platform: Intigriti Category: Web Security / SQL Injection Vulnerability: UNION-Based SQL Injection Difficulty&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 28 Sep 2026 23:31:37",
-    "score": 8,
-    "uid": "84eaf2b9bd11a7c7"
-  },
-  {
     "title": "How I Solved Intigriti’s September 2026 Challenge",
     "url": "https://medium.com/@ronaldo.shrestha713/how-i-solved-intigritis-september-2026-challenge-e29292a20662?source=rss------bug_bounty-5",
     "summary": "Critter Gallery &#x2014; Boolean-Based Blind SQL InjectionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "f05805dcc29b4f12"
+  },
+  {
+    "title": "Updated List: Thu Oct 01 05:14:02 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8ec78cb9a5cdb2a419df6ee7fe0aa66f4b2975b0",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e3ba8ed195f8e3e0"
   }
 ]
