@@ -10,16 +10,6 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
-    "title": "$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access",
-    "url": "https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty-5",
-    "summary": "Bounty: $10,000Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 30 Sep 2026 07:41:30",
-    "score": 7,
-    "uid": "32996e8e5d283b3e"
-  },
-  {
     "title": "$$$: How a Simple IDOR Turned Into a Full Organization Takeover",
     "url": "https://medium.com/@xoemekk1/how-a-simple-idor-turned-into-a-full-organization-takeover-545f9d522672?source=rss------bug_bounty-5",
     "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "822c544ffde9e63c"
+  },
+  {
+    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
+    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
+    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 02 Oct 2026 14:05:38",
+    "score": 3,
+    "uid": "d758a88a72e1568b"
   }
 ]
