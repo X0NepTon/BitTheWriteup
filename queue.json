@@ -1,15 +1,5 @@
 [
   {
-    "title": "CraftFall Explained | Remote Code Execution & Bug Bounty Automation",
-    "url": "https://medium.com/@pentesterclubpvtltd/craftfall-explained-remote-code-execution-bug-bounty-automation-cfc2b8413021?source=rss------bug_bounty-5",
-    "summary": "One vulnerable CMS endpoint. A dangerous framework behavior. And a remote-code-execution vulnerability that security researchers cannot&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 17:26:55",
-    "score": 12,
-    "uid": "1bf7a8c889406c50"
-  },
-  {
     "title": "Intigriti CTF -Critter Gallery SQL Injection to Flag",
     "url": "https://blackmambaa.medium.com/intigriti-ctf-critter-gallery-sql-injection-to-flag-6208496d6516?source=rss------bug_bounty-5",
     "summary": "A steel heart, disappointed by its master [Aura 9999+&#x1F5FF;&#x1F976;]Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "822c544ffde9e63c"
+  },
+  {
+    "title": "Updated List: Fri Oct 02 02:40:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2a788c9488a4ce36ffc9640e63cc6d748c64a827",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7d823dc5bf0281cf"
   }
 ]
