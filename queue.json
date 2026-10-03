@@ -10,16 +10,6 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
-    "title": "$$$: How a Simple IDOR Turned Into a Full Organization Takeover",
-    "url": "https://medium.com/@xoemekk1/how-a-simple-idor-turned-into-a-full-organization-takeover-545f9d522672?source=rss------bug_bounty-5",
-    "summary": "&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64A;&#x643;&#x645; &#x648;&#x631;&#x62D;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62A;&#x647;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 02 Oct 2026 13:06:08",
-    "score": 7,
-    "uid": "c6fe8644819c4676"
-  },
-  {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
     "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
     "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
+  },
+  {
+    "title": "Updated List: Sat Oct 03 11:19:34 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/99d26c16d7c7f8724a2fd5a0abf9a80162a6ccfc",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "92811dcac9232e72"
   }
 ]
