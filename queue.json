@@ -1,15 +1,5 @@
 [
   {
-    "title": "Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”",
-    "url": "https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5",
-    "summary": "Difficulty: Medium Category: Web Application Pentesting Techniques: Credential Brute-Forcing, Insecure Cookie Trust, Local File Inclusion&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 02 Oct 2026 22:33:27",
-    "score": 15,
-    "uid": "22d083ece18b3ecb"
-  },
-  {
     "title": "$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access",
     "url": "https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty_writeup-5",
     "summary": "Bounty: $10,000Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "822c544ffde9e63c"
+  },
+  {
+    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
+    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
+    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 02 Oct 2026 14:05:38",
+    "score": 3,
+    "uid": "d758a88a72e1568b"
   }
 ]
