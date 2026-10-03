@@ -1,5 +1,15 @@
 [
   {
+    "title": "Stored XSS lead to full account take over",
+    "url": "https://medium.com/@mo.muwafak2001/stored-xss-lead-to-full-account-take-over-d530e7f6b26a?source=rss------bug_bounty_writeup-5",
+    "summary": "Vulnerability: XSS Stored (Stored Cross site scripting) Severity: High Owasp rank: (A05:2025 Injection)Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 03 Oct 2026 15:34:59",
+    "score": 8,
+    "uid": "ce02bdf37d44bd47"
+  },
+  {
     "title": "$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access",
     "url": "https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty_writeup-5",
     "summary": "Bounty: $10,000Continue reading on Medium »",
@@ -328,6 +338,16 @@
     "published": "Fri, 02 Oct 2026 01:10:40",
     "score": 5,
     "uid": "10e741cd2df34b77"
+  },
+  {
+    "title": "CVE-2026–103648: How a Decoding Bug Breaks image-downloader",
+    "url": "https://eternull.medium.com/cve-2026-103648-how-a-decoding-bug-breaks-image-downloader-77aece722ab0?source=rss------bug_bounty-5",
+    "summary": "TL;DR: A path traversal vulnerability in the npm package image-downloader (< 4.3.1, ~38,000 downloads/month) lets an attacker write files&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 03 Oct 2026 15:07:06",
+    "score": 5,
+    "uid": "0ae96becfcb8d1be"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "70ffdbd2e3981a06"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 18:45:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b349cf2539c38a1b43a31e4290be31c0f126e291",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "822c544ffde9e63c"
-  },
-  {
-    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
-    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
-    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 02 Oct 2026 14:05:38",
-    "score": 3,
-    "uid": "d758a88a72e1568b"
   }
 ]
