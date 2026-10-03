@@ -10,14 +10,14 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
-    "title": "SQL Injection — Lab #4 SQL injection UNION attack, finding a column containing text",
-    "url": "https://m-abdullah-lab.medium.com/sql-injection-lab-4-sql-injection-union-attack-finding-a-column-containing-text-55a9f685aaa1?source=rss------bug_bounty-5",
-    "summary": "Post OverviewContinue reading on Medium »",
+    "title": "A Beginner’s Guide to SQL Injection",
+    "url": "https://medium.com/@adelekeismailifeoluwa/a-beginners-guide-to-sql-injection-d91a738bee3c?source=rss------bug_bounty-5",
+    "summary": "Hi, I&#x2019;m Ifeoluwa (@ife0x01 on X) and I&#x2019;ll be talking about SQL Injection.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 03 Oct 2026 11:48:05",
+    "published": "Sat, 03 Oct 2026 20:34:56",
     "score": 7,
-    "uid": "6907f339a6efeb0d"
+    "uid": "b36b7bbbf7d1c3f4"
   },
   {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
