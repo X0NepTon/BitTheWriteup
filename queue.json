@@ -10,16 +10,6 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
-    "title": "SQL Injection — Lab #5 SQL injection UNION attack, retrieving data from other tables",
-    "url": "https://m-abdullah-lab.medium.com/sql-injection-lab-5-sql-injection-union-attack-retrieving-data-from-other-tables-82500db264ae?source=rss------bug_bounty-5",
-    "summary": "Post OverviewContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 04 Oct 2026 05:49:57",
-    "score": 7,
-    "uid": "55c15773d786f856"
-  },
-  {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
     "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
     "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
@@ -708,6 +698,16 @@
     "published": "Sun, 04 Oct 2026 10:16:06",
     "score": 4,
     "uid": "16cf28d752f89974"
+  },
+  {
+    "title": "The Bug Bounty Math Nobody Shows Beginners: $6,548 vs $24,500,000",
+    "url": "https://medium.com/@riyalimba/the-bug-bounty-math-nobody-shows-beginners-6-548-vs-24-500-000-6d12588900ed?source=rss------bug_bounty-5",
+    "summary": "Immunefi&#x2019;s data proves that finding a bug before an attacker does isn&#x2019;t just ethical &#x2014; it&#x2019;s the most cost-effective security strategy that&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 13:31:17",
+    "score": 4,
+    "uid": "3589d8d424215118"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
