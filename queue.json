@@ -10,6 +10,16 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
+    "title": "SQL Injection — Lab #5 SQL injection UNION attack, retrieving data from other tables",
+    "url": "https://m-abdullah-lab.medium.com/sql-injection-lab-5-sql-injection-union-attack-retrieving-data-from-other-tables-82500db264ae?source=rss------bug_bounty-5",
+    "summary": "Post OverviewContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 05:49:57",
+    "score": 7,
+    "uid": "55c15773d786f856"
+  },
+  {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
     "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
     "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
@@ -328,6 +338,16 @@
     "published": "Sat, 03 Oct 2026 15:07:06",
     "score": 5,
     "uid": "0ae96becfcb8d1be"
+  },
+  {
+    "title": "How I Discovered CVE-2026–102628 — From a WHOIS Lookup to a CISA CVE",
+    "url": "https://xhunter101.medium.com/how-i-discovered-cve-2026-102628-from-a-whois-lookup-to-a-cisa-cve-635835fa3971?source=rss------bug_bounty-5",
+    "summary": "By Dibyataru Chakraborty (Xhunter)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 07:55:32",
+    "score": 5,
+    "uid": "93f2680e9167c1df"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -668,6 +688,26 @@
     "published": "Thu, 01 Oct 2026 15:17:28",
     "score": 4,
     "uid": "fab16517ad11fcba"
+  },
+  {
+    "title": "A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation",
+    "url": "https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty_writeup-5",
+    "summary": "A 403 Bypass Worth $900: How a Semicolon Exposed API DocumentationContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sun, 04 Oct 2026 10:16:06",
+    "score": 4,
+    "uid": "e01476c249ef8950"
+  },
+  {
+    "title": "A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation",
+    "url": "https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty-5",
+    "summary": "A 403 Bypass Worth $900: How a Semicolon Exposed API DocumentationContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 10:16:06",
+    "score": 4,
+    "uid": "16cf28d752f89974"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "63ecb3a56575386a"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 15:45:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/14d6cd07b73970982380a77c4b676585f23ed771",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d6ffd29c6626a8e6"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 16:37:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/65bf26207e02ab5d22f020888b1194425ca39379",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "70ffdbd2e3981a06"
-  },
-  {
-    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
-    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
-    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 02 Oct 2026 14:05:38",
-    "score": 3,
-    "uid": "d758a88a72e1568b"
-  },
-  {
-    "title": "Updated List: Sun Oct 04 09:23:57 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2c25600253c839a4c3baef9b3c38cc2409b06719",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ec06f66c30ed3073"
   }
 ]
