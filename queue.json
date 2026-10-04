@@ -10,16 +10,6 @@
     "uid": "77d0115c5b73ec4f"
   },
   {
-    "title": "A Beginner’s Guide to SQL Injection",
-    "url": "https://medium.com/@adelekeismailifeoluwa/a-beginners-guide-to-sql-injection-d91a738bee3c?source=rss------bug_bounty-5",
-    "summary": "Hi, I&#x2019;m Ifeoluwa (@ife0x01 on X) and I&#x2019;ll be talking about SQL Injection.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 03 Oct 2026 20:34:56",
-    "score": 7,
-    "uid": "b36b7bbbf7d1c3f4"
-  },
-  {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
     "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
     "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
+  },
+  {
+    "title": "Updated List: Sun Oct 04 09:23:57 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2c25600253c839a4c3baef9b3c38cc2409b06719",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ec06f66c30ed3073"
   }
 ]
