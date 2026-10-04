@@ -1,5 +1,15 @@
 [
   {
+    "title": "From Named Pipe to SYSTEM: How I Found a Local Privilege Escalation in a Major Windows Application",
+    "url": "https://sneharghya.medium.com/from-named-pipe-to-system-how-i-found-a-local-privilege-escalation-in-a-major-windows-application-6a77a179a461?source=rss------bug_bounty-5",
+    "summary": "A local privilege-escalation vulnerability in a major Windows tax and financial software product, chaining an overly permissive named pipe&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 15:48:13",
+    "score": 10,
+    "uid": "cd3da326dbc24174"
+  },
+  {
     "title": "$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access",
     "url": "https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty_writeup-5",
     "summary": "Bounty: $10,000Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "d277f6c2636fb969"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 14:38:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/367b9ee31312db9ed58299d793a107f974c0a8f1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "63ecb3a56575386a"
   }
 ]
