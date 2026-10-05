@@ -1,15 +1,5 @@
 [
   {
-    "title": "$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access",
-    "url": "https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty_writeup-5",
-    "summary": "Bounty: $10,000Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 30 Sep 2026 07:41:30",
-    "score": 7,
-    "uid": "77d0115c5b73ec4f"
-  },
-  {
     "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
     "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
     "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
+  },
+  {
+    "title": "Hijacking Your VPN with one Deep Link",
+    "url": "https://medium.com/@husein.ayoub/hijacking-your-vpn-with-one-deep-link-3ce9ca778306?source=rss------bug_bounty-5",
+    "summary": "This is a write-up of a vulnerability I reported to a private bug bounty program. The target is a carrier-grade mobile VPN / secure-access&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 04 Oct 2026 21:14:27",
+    "score": 3,
+    "uid": "bf3f3b3a5f6e0e28"
   }
 ]
