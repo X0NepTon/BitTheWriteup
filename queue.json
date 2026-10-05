@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 Bounty",
-    "url": "https://medium.com/@papjm/how-a-predictable-activity-id-bypassed-an-unguessable-invite-link-and-earned-me-a-1-000-bounty-59b0e8b30016?source=rss------bug_bounty-5",
-    "summary": "How a Predictable Activity ID Bypassed an Unguessable Invite Link and Earned Me a $1,000 BountyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 15:45:13",
-    "score": 6,
-    "uid": "580b30e089c6f3ce"
-  },
-  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 04 Oct 2026 21:14:27",
     "score": 3,
     "uid": "bf3f3b3a5f6e0e28"
+  },
+  {
+    "title": "Updated List: Mon Oct 05 11:29:16 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e41dab2c9ded0da6a9bb9db18f08cb5ae8e31b09",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "7201ec3fb29897bb"
   }
 ]
