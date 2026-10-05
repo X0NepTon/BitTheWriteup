@@ -330,6 +330,16 @@
     "uid": "8f50f9b25f0942bd"
   },
   {
+    "title": "CVE-2024–48914_Attack",
+    "url": "https://medium.com/@SilentExploit/cve-2024-48914-attack-abad5f01229b?source=rss------bug_bounty-5",
+    "summary": "Box: CVE-2024&#x2013;48914 Difficulty: EasyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 05 Oct 2026 20:57:36",
+    "score": 5,
+    "uid": "6a64e74ad0b9e80b"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
-  },
-  {
-    "title": "Hijacking Your VPN with one Deep Link",
-    "url": "https://medium.com/@husein.ayoub/hijacking-your-vpn-with-one-deep-link-3ce9ca778306?source=rss------bug_bounty-5",
-    "summary": "This is a write-up of a vulnerability I reported to a private bug bounty program. The target is a carrier-grade mobile VPN / secure-access&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 04 Oct 2026 21:14:27",
-    "score": 3,
-    "uid": "bf3f3b3a5f6e0e28"
   }
 ]
