@@ -10,16 +10,6 @@
     "uid": "d6d9d7651aeb8b9d"
   },
   {
-    "title": "I Automated My Bug Bounty Recon Stack — Here’s the Exact Toolchain (2026)",
-    "url": "https://medium.com/@bugitrix/i-automated-my-bug-bounty-recon-stack-heres-the-exact-toolchain-2026-fb8df3b6c0ea?source=rss------bug_bounty-5",
-    "summary": "A hands-on breakdown of the pipeline I run before I ever look at a target manually: subdomain enum &#x2192; port scan &#x2192; screenshot triage &#x2192;&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 03 Sep 2026 17:59:49",
-    "score": 5,
-    "uid": "698d656b82ed98d5"
-  },
-  {
     "title": "️ 6 IDORs, 1 Root Cause: The “Duplicate” Saga of a FinTech API",
     "url": "https://medium.com/@samym6624/%EF%B8%8F-6-idors-1-root-cause-the-duplicate-saga-of-a-fintech-api-1333d4ad9522?source=rss------bug_bounty-5",
     "summary": "I found 6 ways to see someone else&#x2019;s money. Their team told me they already knew about all of them.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e5a4ea5f6fe90d7f"
+  },
+  {
+    "title": "Updated List: Tue Oct 06 13:36:38 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/eaf0afcec84c3041bd272f4decb6e08e0628616c",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "3e14c681e8b85a1a"
   }
 ]
