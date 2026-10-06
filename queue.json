@@ -10,16 +10,6 @@
     "uid": "d6d9d7651aeb8b9d"
   },
   {
-    "title": "The $10,000 Ceiling",
-    "url": "https://medium.com/codetodeploy/the-10-000-ceiling-10d79ad9f626?source=rss------bug_bounty-5",
-    "summary": "GitHub cut public criticals from up to $30,000 to a flat $10,000 and moved the real money behind an invitation. The cap doesn&#x2019;t price the&#x2026;Continue reading on CodeToDeploy »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 02 Sep 2026 06:14:00",
-    "score": 5,
-    "uid": "7482c7f33e11af40"
-  },
-  {
     "title": "I Automated My Bug Bounty Recon Stack — Here’s the Exact Toolchain (2026)",
     "url": "https://medium.com/@bugitrix/i-automated-my-bug-bounty-recon-stack-heres-the-exact-toolchain-2026-fb8df3b6c0ea?source=rss------bug_bounty-5",
     "summary": "A hands-on breakdown of the pipeline I run before I ever look at a target manually: subdomain enum &#x2192; port scan &#x2192; screenshot triage &#x2192;&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
+  },
+  {
+    "title": "Updated List: Tue Oct 06 07:04:51 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/950f98d1b24db9890a1c49fd77709854c933ff54",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e5a4ea5f6fe90d7f"
   }
 ]
