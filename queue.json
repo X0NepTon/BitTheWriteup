@@ -320,6 +320,16 @@
     "uid": "6a64e74ad0b9e80b"
   },
   {
+    "title": "Uncovering CVE-2026–105692: Why No Security Flaw Is Too Small to Ignore",
+    "url": "https://medium.com/@jsrini96/uncovering-cve-2026-105692-why-no-security-flaw-is-too-small-to-ignore-c50b9f5b6437?source=rss------bug_bounty-5",
+    "summary": "I wasn&#x2019;t running an intentional penetration test or actively hunting for bugs. I was simply using Penpot for standard work. As security&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 06 Oct 2026 17:36:04",
+    "score": 5,
+    "uid": "e662ab5ae8134c10"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "e5a4ea5f6fe90d7f"
-  },
-  {
-    "title": "Updated List: Tue Oct 06 13:36:38 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/eaf0afcec84c3041bd272f4decb6e08e0628616c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "3e14c681e8b85a1a"
   }
 ]
