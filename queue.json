@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Found an IDOR Bug That Exposed Other Users’ Account Information | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/how-i-found-an-idor-bug-that-exposed-other-users-account-information-by-samadhan-shimple-dbea18d00ccd?source=rss------bug_bounty-5",
+    "summary": "Bug bounty hunting is funny sometimes.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 06:01:01",
+    "score": 7,
+    "uid": "fa7c00920d73318b"
+  },
+  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -338,6 +348,16 @@
     "published": "Wed, 07 Oct 2026 01:28:46",
     "score": 5,
     "uid": "9a9b90c73b110b24"
+  },
+  {
+    "title": "Unauthenticated IDOR in Marketing Consent Management: From Enumerable IDs to Unauthorized…",
+    "url": "https://medium.com/@redhunter01/unauthenticated-idor-in-marketing-consent-management-from-enumerable-ids-to-unauthorized-f1ef66dda8ce?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 06:57:32",
+    "score": 5,
+    "uid": "1d137b2f8678307d"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "644f63c9d2af8431"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 13:59:57 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c45d00e42b099181876ba6da2aef6802fe01ac19",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d277f6c2636fb969"
-  },
-  {
-    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
-    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
-    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 02 Oct 2026 14:05:38",
-    "score": 3,
-    "uid": "d758a88a72e1568b"
   }
 ]
