@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found an IDOR Bug That Exposed Other Users’ Account Information | by Samadhan Shimple",
-    "url": "https://samadhanshimple.medium.com/how-i-found-an-idor-bug-that-exposed-other-users-account-information-by-samadhan-shimple-dbea18d00ccd?source=rss------bug_bounty-5",
-    "summary": "Bug bounty hunting is funny sometimes.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 07 Oct 2026 06:01:01",
-    "score": 7,
-    "uid": "fa7c00920d73318b"
-  },
-  {
     "title": "From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…",
     "url": "https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bug_bounty-5",
     "summary": "Hey, hackers! In this blog, I&#x2019;m going to explain how I found an SQL Injection vulnerability in a university website and how I was able to&#x2026;Continue reading on Medium »",
@@ -18,6 +8,26 @@
     "published": "Wed, 07 Oct 2026 11:46:39",
     "score": 7,
     "uid": "45e0ef68ff7fe579"
+  },
+  {
+    "title": "How a Simple IDOR Earned $5,000 on Reddit",
+    "url": "https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5",
+    "summary": "A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from itContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 21:44:53",
+    "score": 7,
+    "uid": "da8c0852de4874f6"
+  },
+  {
+    "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
+    "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
+    "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 21:22:27",
+    "score": 6,
+    "uid": "31f9ec20a4b90704"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -738,6 +748,16 @@
     "published": "Sun, 04 Oct 2026 13:31:17",
     "score": 4,
     "uid": "3589d8d424215118"
+  },
+  {
+    "title": "How I Earned My First $$$ Bounty from Google — And What I Learned",
+    "url": "https://medium.com/@himxch/how-i-earned-my-first-bounty-from-google-and-what-i-learned-4952e25771e9?source=rss------bug_bounty-5",
+    "summary": "Bug Bounty | Cloud Security | Responsible DisclosureContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 18:30:16",
+    "score": 4,
+    "uid": "5c42d239f7e58975"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "616fd4a10a899cf8"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 08:08:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/059d7e4769dc456cd566736c6add6dc990695d31",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b6fdbc9960d9aff7"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 11:53:52 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/faa6ef181b7c0bd57afd65b534df782cbf041000",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "96bdf5804079f160"
   }
 ]
