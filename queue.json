@@ -330,6 +330,16 @@
     "uid": "e662ab5ae8134c10"
   },
   {
+    "title": "IDOR Trick Leads to Damage Across the Entire Business",
+    "url": "https://medium.com/@mahmoudfarag.rm4/idor-trick-leads-to-damage-across-the-entire-business-3ef86b1507aa?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 07 Oct 2026 01:28:46",
+    "score": 5,
+    "uid": "9a9b90c73b110b24"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 02 Oct 2026 14:05:38",
     "score": 3,
     "uid": "d758a88a72e1568b"
-  },
-  {
-    "title": "Updated List: Tue Oct 06 07:04:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/950f98d1b24db9890a1c49fd77709854c933ff54",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e5a4ea5f6fe90d7f"
   }
 ]
