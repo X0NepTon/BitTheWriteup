@@ -1,15 +1,5 @@
 [
   {
-    "title": "From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…",
-    "url": "https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bug_bounty-5",
-    "summary": "Hey, hackers! In this blog, I&#x2019;m going to explain how I found an SQL Injection vulnerability in a university website and how I was able to&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 07 Oct 2026 11:46:39",
-    "score": 7,
-    "uid": "45e0ef68ff7fe579"
-  },
-  {
     "title": "How a Simple IDOR Earned $5,000 on Reddit",
     "url": "https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5",
     "summary": "A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from itContinue reading on MeetCyber »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "616fd4a10a899cf8"
+  },
+  {
+    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
+    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
+    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 02 Oct 2026 14:05:38",
+    "score": 3,
+    "uid": "d758a88a72e1568b"
   }
 ]
