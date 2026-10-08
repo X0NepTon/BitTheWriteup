@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple",
-    "url": "https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5",
-    "summary": "While testing a web application, I came across an interesting session-management issue involving the PHPSESSID cookie.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 08 Oct 2026 06:01:01",
-    "score": 9,
-    "uid": "8a15d35ed590532d"
-  },
-  {
     "title": "How a Simple IDOR Earned $5,000 on Reddit",
     "url": "https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5",
     "summary": "A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from itContinue reading on MeetCyber »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "616fd4a10a899cf8"
+  },
+  {
+    "title": "Updated List: Fri Oct 09 01:42:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/96b94bf0ed9530c54c8efbdaefd5a7a842b08281",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "fe13c139f7ec4830"
   }
 ]
