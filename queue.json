@@ -1,5 +1,15 @@
 [
   {
+    "title": "How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5",
+    "summary": "While testing a web application, I came across an interesting session-management issue involving the PHPSESSID cookie.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 08 Oct 2026 06:01:01",
+    "score": 9,
+    "uid": "8a15d35ed590532d"
+  },
+  {
     "title": "How a Simple IDOR Earned $5,000 on Reddit",
     "url": "https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5",
     "summary": "A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from itContinue reading on MeetCyber »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "616fd4a10a899cf8"
-  },
-  {
-    "title": "HTTP Request Smuggling (TE.CL) to Session Hijacking via GraphQL",
-    "url": "https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5",
-    "summary": "A deep dive into how an HTTP request-smuggling desynchronization can be chained with a flexible GraphQL request format to capture a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 02 Oct 2026 14:05:38",
-    "score": 3,
-    "uid": "d758a88a72e1568b"
   }
 ]
