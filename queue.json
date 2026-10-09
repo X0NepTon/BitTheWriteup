@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found a Blind SSRF Through a Referer Header — Here’s How I Confirmed It | by Samadhan Shimple",
-    "url": "https://samadhanshimple.medium.com/how-i-found-a-blind-ssrf-through-a-referer-header-heres-how-i-confirmed-it-by-samadhan-shimple-7e9344a55e03?source=rss------bug_bounty-5",
-    "summary": "While testing a web application&#x2019;s password-reset functionality, I noticed something that initially looked completely ordinary: a Referer&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 09 Oct 2026 14:46:01",
-    "score": 8,
-    "uid": "66d7387d231c947f"
-  },
-  {
     "title": "Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id",
     "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5",
     "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
@@ -38,6 +28,16 @@
     "published": "Wed, 07 Oct 2026 21:22:27",
     "score": 6,
     "uid": "31f9ec20a4b90704"
+  },
+  {
+    "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
+    "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
+    "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 18:07:57",
+    "score": 6,
+    "uid": "8fdd05fb7a9778f3"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -398,6 +398,26 @@
     "published": "Fri, 09 Oct 2026 13:58:07",
     "score": 5,
     "uid": "a10f956aa9e06e20"
+  },
+  {
+    "title": "PortSwigger Access Control Notes: Mass Assignment and IDOR Variants",
+    "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-mass-assignment-and-idor-variants-c10b2a70cd50?source=rss------bug_bounty-5",
+    "summary": "&#x1F1F9;&#x1F1F7; T&#xFC;rk&#xE7;e okumak i&#xE7;in t&#x131;klay&#x131;n:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 17:41:01",
+    "score": 5,
+    "uid": "9478a81aa36613c9"
+  },
+  {
+    "title": "PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri",
+    "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bug_bounty-5",
+    "summary": "&#x1F1EC;&#x1F1E7; Read this article in English:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 17:36:42",
+    "score": 5,
+    "uid": "88c63ec9a043dc2a"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4a4a584148c94e50"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 01:35:32 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3a6da29be797648f042c63f862ef5702e31d25c6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "53b9899c3229d59f"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 02:32:56 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/54c6af8373bfaa040635b540c47186f5882341f0",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "893c6208f24b71e4"
   }
 ]
