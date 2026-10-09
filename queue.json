@@ -1,5 +1,35 @@
 [
   {
+    "title": "How I Found a Blind SSRF Through a Referer Header — Here’s How I Confirmed It | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/how-i-found-a-blind-ssrf-through-a-referer-header-heres-how-i-confirmed-it-by-samadhan-shimple-7e9344a55e03?source=rss------bug_bounty-5",
+    "summary": "While testing a web application&#x2019;s password-reset functionality, I noticed something that initially looked completely ordinary: a Referer&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 14:46:01",
+    "score": 8,
+    "uid": "66d7387d231c947f"
+  },
+  {
+    "title": "Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id",
+    "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5",
+    "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 09 Oct 2026 11:19:46",
+    "score": 7,
+    "uid": "222c8e6e81783c08"
+  },
+  {
+    "title": "Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news",
+    "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5",
+    "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 09 Oct 2026 11:08:26",
+    "score": 7,
+    "uid": "4c08042e496041f9"
+  },
+  {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
     "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
     "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
@@ -358,6 +388,16 @@
     "published": "Wed, 07 Oct 2026 06:57:32",
     "score": 5,
     "uid": "1d137b2f8678307d"
+  },
+  {
+    "title": "UUIDs vs Sequential IDs: Which One Actually Stops IDOR?",
+    "url": "https://medium.com/@haroon_shahid/uuids-vs-sequential-ids-which-one-actually-stops-idor-7fdba11e722e?source=rss------bug_bounty-5",
+    "summary": "Making an ID harder to guess isn&#x2019;t the same as protecting the data behind it.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 13:58:07",
+    "score": 5,
+    "uid": "a10f956aa9e06e20"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -738,6 +778,16 @@
     "published": "Wed, 07 Oct 2026 18:30:16",
     "score": 4,
     "uid": "5c42d239f7e58975"
+  },
+  {
+    "title": "Bug Bounty Just Paid a Record $89 Million. Here’s the Number Nobody’s Celebrating.",
+    "url": "https://medium.com/@riyalimba/bug-bounty-just-paid-a-record-89-million-heres-the-number-nobody-s-celebrating-83e2add89b55?source=rss------bug_bounty-5",
+    "summary": "HackerOne&#x2019;s latest report shows exposure debt is up 131%. The bugs are being found. They&#x2019;re not being fixed.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 09 Oct 2026 13:15:04",
+    "score": 4,
+    "uid": "6bea184417492742"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1948,55 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "893c6208f24b71e4"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 03:36:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0424f5dd1dc7f4f37262d9e5b8da19dfaebd0707",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2626245c3fa09c80"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 04:51:58 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/4c8b9f408dbe8d0fbee5666d307ae75733a64a4d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "94745291d1a51c07"
-  },
-  {
-    "title": "Updated List: Fri Aug 21 06:40:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/02042545f6a855ffb7b18f6a8b2647d6846220ac",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "616fd4a10a899cf8"
-  },
-  {
-    "title": "Updated List: Fri Oct 09 01:42:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/96b94bf0ed9530c54c8efbdaefd5a7a842b08281",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fe13c139f7ec4830"
-  },
-  {
-    "title": "Updated List: Fri Oct 09 05:50:45 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/7b96bb5fae3271ccdaaacf2b25518f71a6e0ee07",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "cc123565c9833b78"
   }
 ]
