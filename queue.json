@@ -1,15 +1,5 @@
 [
   {
-    "title": "How a Simple IDOR Earned $5,000 on Reddit",
-    "url": "https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5",
-    "summary": "A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from itContinue reading on MeetCyber »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 07 Oct 2026 21:44:53",
-    "score": 7,
-    "uid": "da8c0852de4874f6"
-  },
-  {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
     "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
     "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "fe13c139f7ec4830"
+  },
+  {
+    "title": "Updated List: Fri Oct 09 05:50:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/7b96bb5fae3271ccdaaacf2b25518f71a6e0ee07",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "cc123565c9833b78"
   }
 ]
