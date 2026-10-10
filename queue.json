@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Thought Knowing the Payloads Made Me a Hacker — I Was Wrong",
-    "url": "https://medium.com/codetodeploy/i-thought-knowing-the-payloads-made-me-a-hacker-i-was-wrong-44d48045fa7f?source=rss------bug_bounty-5",
-    "summary": "I had lists of XSS strings, SQL injection tricks, and command injection examples. But real security testing taught me that knowing what to&#x2026;Continue reading on CodeToDeploy »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 10 Oct 2026 13:02:51",
-    "score": 7,
-    "uid": "709818c1ed85f95f"
-  },
-  {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
     "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
     "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "d8421f407184c68b"
+  },
+  {
+    "title": "Updated List: Sun Oct 11 03:17:16 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/edafaef0a03317f8dd53e8700db4e321837b2539",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "25834d5c558e1dbf"
   }
 ]
