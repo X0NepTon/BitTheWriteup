@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Tested an AI Chat API and Found a Missing Rate Limiting Vulnerability |by Samadhan Shimple",
-    "url": "https://medium.com/penetration-testing-and-different-vulnerabilities/i-tested-an-ai-chat-api-and-found-a-missing-rate-limiting-vulnerability-by-samadhan-shimple-419452d0b14c?source=rss------bug_bounty-5",
-    "summary": "How missing rate limits can turn an ordinary AI chat feature into a resource-consumption risk.Continue reading on Cyber Chronicles »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 10 Oct 2026 12:01:01",
-    "score": 10,
-    "uid": "80b6b2ef2e493a23"
-  },
-  {
     "title": "I Thought Knowing the Payloads Made Me a Hacker — I Was Wrong",
     "url": "https://medium.com/codetodeploy/i-thought-knowing-the-payloads-made-me-a-hacker-i-was-wrong-44d48045fa7f?source=rss------bug_bounty-5",
     "summary": "I had lists of XSS strings, SQL injection tricks, and command injection examples. But real security testing taught me that knowing what to&#x2026;Continue reading on CodeToDeploy »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "2cee87e8e003fc21"
+  },
+  {
+    "title": "Updated List: Sat Oct 10 23:46:41 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c3bb4a63ddc50147979db6845521cef201b7115d",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "d8421f407184c68b"
   }
 ]
