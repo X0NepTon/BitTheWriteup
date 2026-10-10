@@ -1,15 +1,5 @@
 [
   {
-    "title": "Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news",
-    "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5",
-    "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 09 Oct 2026 11:08:26",
-    "score": 7,
-    "uid": "4c08042e496041f9"
-  },
-  {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
     "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
     "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "4a4a584148c94e50"
+  },
+  {
+    "title": "Updated List: Sat Oct 10 13:27:28 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/17813dad1ca04b21098f54afb2086521a955a89f",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "28b19daf56107918"
   }
 ]
