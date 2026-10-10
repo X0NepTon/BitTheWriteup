@@ -1,15 +1,5 @@
 [
   {
-    "title": "Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id",
-    "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5",
-    "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 09 Oct 2026 11:19:46",
-    "score": 7,
-    "uid": "222c8e6e81783c08"
-  },
-  {
     "title": "Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news",
     "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5",
     "summary": "1. Ringkasan Eksekutif (Executive Summary / TL;DR)Continue reading on Medium »",
@@ -418,6 +408,16 @@
     "published": "Fri, 09 Oct 2026 17:36:42",
     "score": 5,
     "uid": "88c63ec9a043dc2a"
+  },
+  {
+    "title": "CVE-2026–93485 Explained: How One WordPress Comment Can Hand Over the Server",
+    "url": "https://medium.com/@guidancewhite/cve-2026-93485-explained-how-one-wordpress-comment-can-hand-over-the-server-e3e3725e7d88?source=rss------bug_bounty-5",
+    "summary": "OverviewContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 10 Oct 2026 01:05:13",
+    "score": 5,
+    "uid": "37820f8d9f1b4de8"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
