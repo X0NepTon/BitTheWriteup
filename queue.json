@@ -1,13 +1,13 @@
 [
   {
-    "title": "How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds",
-    "url": "https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty-5",
-    "summary": "This research was conducted on a live target, and the issue was privately reported to the platform.Continue reading on Medium »",
+    "title": "Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough",
+    "url": "https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5",
+    "summary": "How I tested a TrackingId cookie, investigated PostgreSQL errors, and learned the reasoning behind error-based SQL injection.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 10 Oct 2026 23:18:56",
-    "score": 10,
-    "uid": "fe12e6065dd0c59b"
+    "published": "Sun, 11 Oct 2026 06:44:27",
+    "score": 7,
+    "uid": "a61a6c20a98bcc64"
   },
   {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
@@ -28,6 +28,16 @@
     "published": "Fri, 09 Oct 2026 18:07:57",
     "score": 6,
     "uid": "8fdd05fb7a9778f3"
+  },
+  {
+    "title": "My First Bug Bounty: How I Found Leaked Credentials in NASA’s Git History",
+    "url": "https://infosecwriteups.com/my-first-bug-bounty-how-i-found-leaked-credentials-in-nasas-git-history-785316ba7eb8?source=rss------bug_bounty-5",
+    "summary": "Hardcoded secrets, CI/CD supply chains, and a lesson in writing reports that actually get triaged.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 11 Oct 2026 09:01:24",
+    "score": 6,
+    "uid": "cbe0f9e0d09e48dc"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "2cee87e8e003fc21"
-  },
-  {
-    "title": "Updated List: Sat Oct 10 23:46:41 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c3bb4a63ddc50147979db6845521cef201b7115d",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d8421f407184c68b"
   }
 ]
