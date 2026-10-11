@@ -840,6 +840,16 @@
     "uid": "6bea184417492742"
   },
   {
+    "title": "$2,500 Bug Bounty Lesson in OAuth: How Race Conditions Can Break Token Revocation",
+    "url": "https://meetcyber.net/2-500-bug-bounty-lesson-in-oauth-how-race-conditions-can-break-token-revocation-b5fede3a4d32?source=rss------bug_bounty-5",
+    "summary": "One-time authorization codes, refresh tokens, and a concurrency bug that can leave revoked access aliveContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 11 Oct 2026 17:56:57",
+    "score": 4,
+    "uid": "8942553399d8353f"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "e87d2f1010451fea"
-  },
-  {
-    "title": "How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack",
-    "url": "https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty_writeup-5",
-    "summary": "By R4yz0xContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 20 Aug 2026 02:05:21",
-    "score": 3,
-    "uid": "b6509e81717cde12"
   }
 ]
