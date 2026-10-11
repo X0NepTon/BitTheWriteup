@@ -1,13 +1,13 @@
 [
   {
-    "title": "Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough",
-    "url": "https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5",
-    "summary": "How I tested a TrackingId cookie, investigated PostgreSQL errors, and learned the reasoning behind error-based SQL injection.Continue reading on Medium »",
+    "title": "Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining &…",
+    "url": "https://pratik-khairnar-sec.medium.com/beyond-latency-eliminating-false-positives-in-time-based-blind-sqli-with-empirical-3%CF%83-baselining-f457501f3c0d?source=rss------bug_bounty-5",
+    "summary": "Why traditional sleep-payload scanners drown security engineers in phantom alerts during cloud network jitter, and how BlindStrike v7.0&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 11 Oct 2026 06:44:27",
+    "published": "Sun, 11 Oct 2026 13:31:01",
     "score": 7,
-    "uid": "a61a6c20a98bcc64"
+    "uid": "31bb8664cd848d82"
   },
   {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
@@ -428,6 +428,26 @@
     "published": "Sat, 10 Oct 2026 01:05:13",
     "score": 5,
     "uid": "37820f8d9f1b4de8"
+  },
+  {
+    "title": "PortSwigger Access Control Notes: Data Leakage, Password Disclosure, and File-Based IDOR",
+    "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-data-leakage-password-disclosure-and-file-based-idor-e1728925bba0?source=rss------bug_bounty-5",
+    "summary": "&#x1F1F9;&#x1F1F7; T&#xFC;rk&#xE7;e okumak i&#xE7;in t&#x131;klay&#x131;n:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 11 Oct 2026 13:20:50",
+    "score": 5,
+    "uid": "28d5e89c430da2c8"
+  },
+  {
+    "title": "PortSwigger Access Control Masterclass: Veri Sızıntıları, Şifre İfşası ve Dosya IDOR Zafiyetleri",
+    "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-veri-s%C4%B1z%C4%B1nt%C4%B1lar%C4%B1-%C5%9Fifre-i%CC%87f%C5%9Fas%C4%B1-ve-dosya-idor-zafiyetleri-cfa51d445481?source=rss------bug_bounty-5",
+    "summary": "&#x1F1EC;&#x1F1E7; Read this article in English:Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 11 Oct 2026 13:12:29",
+    "score": 5,
+    "uid": "e33bf658154eb7be"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 20 Aug 2026 02:05:21",
     "score": 3,
     "uid": "b6509e81717cde12"
-  },
-  {
-    "title": "Hunting Open Redirects: My Practical Methodology for Web Application Testing",
-    "url": "https://medium.com/@neerajachalampalem/hunting-open-redirects-my-practical-methodology-for-web-application-testing-238a3a9e0a97?source=rss------bug_bounty_writeup-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 20 Aug 2026 06:30:01",
-    "score": 3,
-    "uid": "e1e91623c232d236"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 20:40:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/81070871f24060034e22e6f22cca6fc0b9db0946",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "2cee87e8e003fc21"
   }
 ]
