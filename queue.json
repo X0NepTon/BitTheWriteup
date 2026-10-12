@@ -440,6 +440,16 @@
     "uid": "7b17dbfca632dc32"
   },
   {
+    "title": "$8,800 for a Redirect Nobody Validated: Stealing OAuth Tokens Through an Open Redirect",
+    "url": "https://medium.com/@t4nv1/8-800-for-a-redirect-nobody-validated-stealing-oauth-tokens-through-an-open-redirect-7645d4122944?source=rss------bug_bounty_writeup-5",
+    "summary": "Open redirects usually get dismissed quickly during triage, and for good reason &#x2014; on their own, &#x201C;this URL redirects somewhere I chose&#x201D;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 12 Oct 2026 09:21:01",
+    "score": 5,
+    "uid": "b649fb6327c91260"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -838,6 +848,16 @@
     "published": "Sun, 11 Oct 2026 17:56:57",
     "score": 4,
     "uid": "8942553399d8353f"
+  },
+  {
+    "title": "An AI Agent Found a Bug Worth $94 Billion. The Humans Still Had to Understand It.",
+    "url": "https://medium.com/@riyalimba/an-ai-agent-found-a-bug-worth-94-billion-the-humans-still-had-to-understand-it-48116bf31b19?source=rss------bug_bounty-5",
+    "summary": "A decade-old integer overflow in the XRP Ledger could have minted 18 trillion XRP. The bounty was $250,000. Here&#x2019;s what that means for&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 12 Oct 2026 13:26:38",
+    "score": 4,
+    "uid": "4bad58cf8b65e9de"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ae03fafd98e4d1e0"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 05:58:32 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/11c4c06120cde98bafccc54b43538391c5ff182f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e87d2f1010451fea"
-  },
-  {
-    "title": "Updated List: Mon Oct 12 11:46:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c2d1f4fe2aff2e080abc7e0c56ce3c752d567951",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4cc5cdece84a9e64"
   }
 ]
