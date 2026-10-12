@@ -1,15 +1,5 @@
 [
   {
-    "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
-    "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
-    "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 07 Oct 2026 21:22:27",
-    "score": 6,
-    "uid": "31f9ec20a4b90704"
-  },
-  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "e87d2f1010451fea"
+  },
+  {
+    "title": "Updated List: Mon Oct 12 11:46:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/c2d1f4fe2aff2e080abc7e0c56ce3c752d567951",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4cc5cdece84a9e64"
   }
 ]
