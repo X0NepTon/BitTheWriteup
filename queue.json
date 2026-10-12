@@ -1,15 +1,5 @@
 [
   {
-    "title": "Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining &…",
-    "url": "https://pratik-khairnar-sec.medium.com/beyond-latency-eliminating-false-positives-in-time-based-blind-sqli-with-empirical-3%CF%83-baselining-f457501f3c0d?source=rss------bug_bounty-5",
-    "summary": "Why traditional sleep-payload scanners drown security engineers in phantom alerts during cloud network jitter, and how BlindStrike v7.0&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 11 Oct 2026 13:31:01",
-    "score": 7,
-    "uid": "31bb8664cd848d82"
-  },
-  {
     "title": "Prototype Pollution | The Masterclass: Client-Side vs. Server-Side",
     "url": "https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bug_bounty-5",
     "summary": "Hi how are u ? i am sure u missed me right ..?Continue reading on Medium »",
@@ -448,6 +438,16 @@
     "published": "Sun, 11 Oct 2026 13:12:29",
     "score": 5,
     "uid": "e33bf658154eb7be"
+  },
+  {
+    "title": "From Recon to Full Read/Write DB Access — A Bug Bounty Story",
+    "url": "https://medium.com/@sadinfinite/from-recon-to-full-read-write-db-access-a-bug-bounty-story-ce1197a0983c?source=rss------bug_bounty-5",
+    "summary": "Here is how I gained a critical access over one their main infrastructure easily !Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 11 Oct 2026 22:30:25",
+    "score": 5,
+    "uid": "7b17dbfca632dc32"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
