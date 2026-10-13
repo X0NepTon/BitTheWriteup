@@ -1,5 +1,25 @@
 [
   {
+    "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
+    "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
+    "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 12 Oct 2026 18:59:25",
+    "score": 7,
+    "uid": "00e4bf13262af1e7"
+  },
+  {
+    "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
+    "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty-5",
+    "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 12 Oct 2026 18:59:25",
+    "score": 7,
+    "uid": "7343699902a73244"
+  },
+  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "a415005e74e01ed6"
-  },
-  {
-    "title": "What $12,000 of GitLab Bugs Taught Me About Business Logic",
-    "url": "https://medium.com/@rajnamdev/what-12-000-of-gitlab-bugs-taught-me-about-business-logic-ac9fcbebd529?source=rss------bug_bounty-5",
-    "summary": "30-second version: I read through HackerOne&#x2019;s top 201 disclosed &#x201C;Business Logic&#x201D; reports. Roughly 40% weren&#x2019;t business logic at all &#x2014; they&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 19 Aug 2026 15:31:01",
-    "score": 3,
-    "uid": "b1061e130bf7dcc3"
-  },
-  {
-    "title": "Updated List: Thu Aug 20 04:34:00 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b3764ea3bcf414071253d0eb003528287881c41a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ae03fafd98e4d1e0"
   }
 ]
