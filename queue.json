@@ -1,5 +1,25 @@
 [
   {
+    "title": "The Ultimate OSINT Search Engine List for Cybersecurity | by Samadhan Shimple",
+    "url": "https://infosecwriteups.com/the-ultimate-osint-search-engine-list-for-cybersecurity-by-samadhan-shimple-7db90bfcba0e?source=rss------bug_bounty-5",
+    "summary": "From internet-wide asset discovery to threat intelligence, source code analysis, and digital reconnaissance, these tools can help security&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 02:46:01",
+    "score": 11,
+    "uid": "b7ff909ce8e9d60e"
+  },
+  {
+    "title": "Breaking Business Logic: Understanding Price Manipulation in Web Applications",
+    "url": "https://medium.com/@dhxrxx/breaking-business-logic-understanding-price-manipulation-in-web-applications-950ddf2533ac?source=rss------bug_bounty-5",
+    "summary": "Exploring how client-controlled pricing parameters can expose weaknesses in e-commerce applications, and what developers can do to prevent&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 08:39:40",
+    "score": 10,
+    "uid": "be4c71aac58382d5"
+  },
+  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -38,6 +58,16 @@
     "published": "Sun, 11 Oct 2026 09:01:24",
     "score": 6,
     "uid": "cbe0f9e0d09e48dc"
+  },
+  {
+    "title": "Cross-Account JavaScript Execution in Basecamp's Fizzy: How Pirikara Chained Five Quiet Bugs Into a One-Click Token Theft — Analysis & Lessons",
+    "url": "https://dev.to/iamfaizanakhtar/cross-account-javascript-execution-in-basecamps-fizzy-how-pirikara-chained-five-quiet-bugs-into-a-3p23",
+    "summary": "Original research by Pirikara — read the full writeup here: https://hackerone.com/reports/3943339 · Researcher's profile: https://hackerone.com/pirikara Analysis by Faizan Akhtar. One link. One click. A stranger's browser quietly mints an API token — and hands it to you. That is the shape of the finding independent researcher Pirikara disclosed against Basecamp's Fizzy application in early October 2026 (HackerOne report #3943339), rated CVSS 8.7 High. What makes it worth studying is not a single clever payload but the architecture of the attack: five small, individually unremarkable weaknesses",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 06:57:49",
+    "score": 6,
+    "uid": "faa96e11e7e3eeb0"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "0e70cf68814c1873"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 17:49:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3abac7d3c77ab0e86985f2f710b10cd220643b50",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5951a0aff22c4f59"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 19:53:17 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d3382a597c54b85ef63e94a0c5ced25f453445e9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "106f1a5e823500d8"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 20:50:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/16316c79335b8678edd38ded53799405717eabfe",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a415005e74e01ed6"
   }
 ]
