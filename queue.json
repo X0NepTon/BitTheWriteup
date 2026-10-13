@@ -20,6 +20,16 @@
     "uid": "be4c71aac58382d5"
   },
   {
+    "title": "$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report",
+    "url": "https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty_writeup-5",
+    "summary": "First-order SQL injection shows up immediately &#x2014; you send a payload, the vulnerable query runs right then, and you see the effect in the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 13 Oct 2026 09:21:01",
+    "score": 9,
+    "uid": "2dfd053deb6a82de"
+  },
+  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Mon, 12 Oct 2026 18:59:25",
     "score": 7,
     "uid": "7343699902a73244"
+  },
+  {
+    "title": "Local Privilege Escalation via Keploy’s Log File",
+    "url": "https://medium.com/@ajithprabhu15/local-privilege-escalation-via-keploys-log-file-b8ace0674918?source=rss------bug_bounty-5",
+    "summary": "How a symlinked keploy-logs.txt in a project directory could make root turn /etc/passwd world-writable.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 12:14:48",
+    "score": 7,
+    "uid": "78a8650d4abc5de9"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -500,6 +520,16 @@
     "uid": "b649fb6327c91260"
   },
   {
+    "title": "How I Discovered 5,000+ Subdomains in Seconds Using Subfinder on Kali Linux",
+    "url": "https://medium.com/@pharuq411/how-i-discovered-5-000-subdomains-in-seconds-using-subfinder-on-kali-linux-669e6c4e0ecd?source=rss------bug_bounty-5",
+    "summary": "When breaking into cybersecurity as a penetration tester or bug bounty hunter, the first and most critical stage of any assessment is&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 13:42:24",
+    "score": 5,
+    "uid": "aacce97d9cbb45de"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -908,6 +938,16 @@
     "published": "Mon, 12 Oct 2026 13:26:38",
     "score": 4,
     "uid": "4bad58cf8b65e9de"
+  },
+  {
+    "title": "How I Bypassed a Trusted URL Allowlist to Inject CSS and Trigger External Browser Requests",
+    "url": "https://medium.com/@redhunter01/how-i-bypassed-a-trusted-url-allowlist-to-inject-css-and-trigger-external-browser-requests-d65ceeead703?source=rss------bug_bounty-5",
+    "summary": "An in-depth bug bounty case study on client-side CSS injection, weak URL validation, and how a seemingly harmless image parameter became&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 13:49:27",
+    "score": 4,
+    "uid": "7b9d88979890c4ed"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4d926d673cc7008c"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 10:24:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d8bcde4c0d4583fb8c9e75f0648b0dda8cf83753",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "a4b13af3195f7d00"
-  },
-  {
-    "title": "Recon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration",
-    "url": "https://medium.com/@verylazytech/recon-automation-12-osint-tools-every-hacker-needs-for-lightning-fast-enumeration-f7e7a18c7202?source=rss------bug_bounty-5",
-    "summary": "Are you still running manual recon that eats up hours &#x2014; or worse, missing critical attack surfaces? Research shows that 70% of initial&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 19 Aug 2026 06:00:38",
-    "score": 3,
-    "uid": "9eb934a7d424a48c"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 13:06:48 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/37a0393a58d4b1356d5e7ebd61c1d0da78e999a9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fe120d9c19cf30d5"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 16:35:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/eb7d3f6d91a944ec1a698baae72cb25f05118b53",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0e70cf68814c1873"
   }
 ]
