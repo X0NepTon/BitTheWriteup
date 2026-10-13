@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Ultimate OSINT Search Engine List for Cybersecurity | by Samadhan Shimple",
-    "url": "https://infosecwriteups.com/the-ultimate-osint-search-engine-list-for-cybersecurity-by-samadhan-shimple-7db90bfcba0e?source=rss------bug_bounty-5",
-    "summary": "From internet-wide asset discovery to threat intelligence, source code analysis, and digital reconnaissance, these tools can help security&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 13 Oct 2026 02:46:01",
-    "score": 11,
-    "uid": "b7ff909ce8e9d60e"
-  },
-  {
     "title": "Breaking Business Logic: Understanding Price Manipulation in Web Applications",
     "url": "https://medium.com/@dhxrxx/breaking-business-logic-understanding-price-manipulation-in-web-applications-950ddf2533ac?source=rss------bug_bounty-5",
     "summary": "Exploring how client-controlled pricing parameters can expose weaknesses in e-commerce applications, and what developers can do to prevent&#x2026;Continue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Tue, 13 Oct 2026 09:21:01",
     "score": 9,
     "uid": "2dfd053deb6a82de"
+  },
+  {
+    "title": "0-Click Account Takeover via Cookie Switching",
+    "url": "https://medium.com/@l4zz3rj0d/0-click-account-takeover-via-cookie-switching-cb90cd68cbed?source=rss------bug_bounty-5",
+    "summary": "A router reseller running both a staging and a production environment, the kind of setup every company has somewhere, test build on one&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 16:51:08",
+    "score": 9,
+    "uid": "8663c39df375ef02"
   },
   {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
