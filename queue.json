@@ -10,16 +10,6 @@
     "uid": "2dfd053deb6a82de"
   },
   {
-    "title": "0-Click Account Takeover via Cookie Switching",
-    "url": "https://medium.com/@l4zz3rj0d/0-click-account-takeover-via-cookie-switching-cb90cd68cbed?source=rss------bug_bounty-5",
-    "summary": "A router reseller running both a staging and a production environment, the kind of setup every company has somewhere, test build on one&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 13 Oct 2026 16:51:08",
-    "score": 9,
-    "uid": "8663c39df375ef02"
-  },
-  {
     "title": "How I found a Zero-Click Account Tack over via password rest link",
     "url": "https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5",
     "summary": "Account Takeover Through a Password Reset Logic FlawContinue reading on Medium »",
@@ -560,6 +550,16 @@
     "uid": "51699b4454773b67"
   },
   {
+    "title": "My First Blockchain Bug Bounty Investigation: What a Duplicate Report Taught Me About Security…",
+    "url": "https://medium.com/@nsm10a01akhil/my-first-blockchain-bug-bounty-investigation-what-a-duplicate-report-taught-me-about-security-20065a0e7ae0?source=rss------bug_bounty-5",
+    "summary": "An honest account of exploring a Rust codebase, investigating an Engine API validation hypothesis, testing locally, and learning that&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 14 Oct 2026 21:11:55",
+    "score": 5,
+    "uid": "160233403237a331"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -988,6 +988,26 @@
     "published": "Wed, 14 Oct 2026 13:09:49",
     "score": 4,
     "uid": "a3888e46443f74b1"
+  },
+  {
+    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$",
+    "url": "https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey everyone, Dhruv here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 14 Oct 2026 21:21:15",
+    "score": 4,
+    "uid": "eb1572d6bece7ebb"
+  },
+  {
+    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$",
+    "url": "https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty-5",
+    "summary": "Hey everyone, Dhruv here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 14 Oct 2026 21:21:15",
+    "score": 4,
+    "uid": "1728a1d79c6503b6"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
@@ -1978,25 +1998,5 @@
     "published": "Tue, 18 Aug 2026 21:14:59",
     "score": 3,
     "uid": "a6cd6e7b53c3f9dd"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 03:41:18 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/794d4cc8bc82f16c9ef137d90083b877d562ec47",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fe69284e27bc89f1"
-  },
-  {
-    "title": "Updated List: Thu Oct 15 00:57:15 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/30ef81f2625c3e43a719dd9300815facc0b0c55e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "104bf8dcccb99053"
   }
 ]
