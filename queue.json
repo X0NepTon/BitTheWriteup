@@ -1,15 +1,5 @@
 [
   {
-    "title": "Breaking Business Logic: Understanding Price Manipulation in Web Applications",
-    "url": "https://medium.com/@dhxrxx/breaking-business-logic-understanding-price-manipulation-in-web-applications-950ddf2533ac?source=rss------bug_bounty-5",
-    "summary": "Exploring how client-controlled pricing parameters can expose weaknesses in e-commerce applications, and what developers can do to prevent&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 13 Oct 2026 08:39:40",
-    "score": 10,
-    "uid": "be4c71aac58382d5"
-  },
-  {
     "title": "$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report",
     "url": "https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty_writeup-5",
     "summary": "First-order SQL injection shows up immediately &#x2014; you send a payload, the vulnerable query runs right then, and you see the effect in the&#x2026;Continue reading on Medium »",
@@ -528,6 +518,16 @@
     "published": "Tue, 13 Oct 2026 13:42:24",
     "score": 5,
     "uid": "aacce97d9cbb45de"
+  },
+  {
+    "title": "Gitea Guarded Three Doors and Forgot the Fourth",
+    "url": "https://mayssare.medium.com/gitea-guarded-three-doors-and-forgot-the-fourth-e44d6e76e5e6?source=rss------bug_bounty-5",
+    "summary": "CVE-2026-89430: how push mirrors skipped the host block list on every syncContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 13 Oct 2026 21:46:10",
+    "score": 5,
+    "uid": "51699b4454773b67"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
