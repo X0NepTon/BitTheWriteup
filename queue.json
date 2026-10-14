@@ -1,5 +1,25 @@
 [
   {
+    "title": "Harmless Link Becomes RCE",
+    "url": "https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty_writeup-5",
+    "summary": "A web form that accepts a custom URI scheme looks like a low severity nuisance until you check whether the same product also ships a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 14 Oct 2026 08:00:46",
+    "score": 11,
+    "uid": "d7f0a18548111bae"
+  },
+  {
+    "title": "Harmless Link Becomes RCE",
+    "url": "https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty-5",
+    "summary": "A web form that accepts a custom URI scheme looks like a low severity nuisance until you check whether the same product also ships a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 14 Oct 2026 08:00:46",
+    "score": 10,
+    "uid": "e536e4d6ab42c0e2"
+  },
+  {
     "title": "$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report",
     "url": "https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty_writeup-5",
     "summary": "First-order SQL injection shows up immediately &#x2014; you send a payload, the vulnerable query runs right then, and you see the effect in the&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f0360ab914036740"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 09:04:13 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/908194f6a1209e82beb1da346a060fa7953e40c4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "98d55941590316b4"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 09:44:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1f9ccb4a36c7157d5b4389ffb8b580e05eee9fa8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4d926d673cc7008c"
   }
 ]
