@@ -20,16 +20,6 @@
     "uid": "1c10b44f940ed3e6"
   },
   {
-    "title": "Bypassing Login with SQL Injection: PortSwigger Lab Walkthrough.",
-    "url": "https://vivek0x.medium.com/bypassing-login-with-sql-injection-portswigger-lab-walkthrough-210087fb87cf?source=rss------bug_bounty-5",
-    "summary": "If you&#x2019;re going through PortSwigger&#x2019;s Web Security Academy, the &#x201C;SQL injection vulnerability allowing login bypass&#x201D; lab is one of the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 14 Oct 2026 14:46:10",
-    "score": 9,
-    "uid": "4a182f726f82751c"
-  },
-  {
     "title": "How I found a Zero-Click Account Tack over via password rest link",
     "url": "https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty-5",
     "summary": "Account Takeover Through a Password Reset Logic FlawContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 18 Aug 2026 21:14:59",
     "score": 3,
     "uid": "a6cd6e7b53c3f9dd"
+  },
+  {
+    "title": "Updated List: Thu Oct 15 06:10:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/53962f7c6e9a60545700be60d0be831dd4999c85",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "abb85aa2a893cb0e"
   }
 ]
