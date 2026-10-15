@@ -80,6 +80,16 @@
     "uid": "78a8650d4abc5de9"
   },
   {
+    "title": "$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files",
+    "url": "https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------bug_bounty-5",
+    "summary": "Cloud object storage has made a certain category of bug both more common and, somehow, more invisible than it was a decade ago. When every&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 15 Oct 2026 09:31:01",
+    "score": 7,
+    "uid": "3f1f83ea7457d0d5"
+  },
+  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -568,6 +578,16 @@
     "published": "Wed, 14 Oct 2026 21:11:55",
     "score": 5,
     "uid": "160233403237a331"
+  },
+  {
+    "title": "What ID verification changes mean for public bug bounty programs at Intigriti",
+    "url": "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
+    "summary": "Across the bug bounty ecosystem, providers are moving ID verification on platforms earlier in the researcher journey. This is an industry-wide change. ID verification was historically a payout requirement, but it has now shifted to a submission requirement for programs that offer monetary rewards. What has changed Researchers who have completed ID verification tend to produce a higher signal ratio than researchers who have not. Moving verification before submission introduces friction at the poi…",
+    "source_id": "intigriti",
+    "source_name": "Intigriti Blog",
+    "published": "Thu, 15 Oct 2026 00:00:00",
+    "score": 5,
+    "uid": "1ddf1fafa8c86db5"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f1873fa9025e2314"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 00:36:06 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a1fec79e8e01cc71a13aab1973443f967c2f4d8b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4dd7700e4907c328"
-  },
-  {
-    "title": "Updated List: Wed Aug 19 01:41:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5a861409c397fe169cc218bb5494fdc7f40ce633",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "5ede59bbfb8d5e38"
   }
 ]
