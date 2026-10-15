@@ -1,5 +1,15 @@
 [
   {
+    "title": "CVE-2026–47644 ($12,000): Edge Copilot Prompt Injection Leads to Cross-Tab Data Exfiltration",
+    "url": "https://jianyangsong.medium.com/cve-2026-47644-12-000-edge-copilot-prompt-injection-leads-to-cross-tab-data-exfiltration-34373b81b865?source=rss------bug_bounty-5",
+    "summary": "I reported this vulnerability to Microsoft MSRC on March 15, 2026. Microsoft confirmed the issue, rated it as Critical, awarded a $12,000&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 15 Oct 2026 00:00:03",
+    "score": 10,
+    "uid": "9547ec4fff003f1f"
+  },
+  {
     "title": "$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report",
     "url": "https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty_writeup-5",
     "summary": "First-order SQL injection shows up immediately &#x2014; you send a payload, the vulnerable query runs right then, and you see the effect in the&#x2026;Continue reading on Medium »",
@@ -28,6 +38,16 @@
     "published": "Wed, 14 Oct 2026 11:35:16",
     "score": 9,
     "uid": "85c22c9f37dbbc82"
+  },
+  {
+    "title": "The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5",
+    "summary": "How improperly handled image metadata can expose private location informationContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 15 Oct 2026 08:20:28",
+    "score": 9,
+    "uid": "b8b91221f43efe9f"
   },
   {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "5ede59bbfb8d5e38"
-  },
-  {
-    "title": "How I Ran a Company’s Own Internal Workflows With a Free Account",
-    "url": "https://infosecwriteups.com/how-i-ran-a-companys-own-internal-workflows-with-a-free-account-eefdf559a8af?source=rss------bug_bounty-5",
-    "summary": "Bounty Case Files #02 | How a Broken Function-Level Authorization vulnerability allowed a free-tier user to enumerate and execute internal&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 18 Aug 2026 21:14:59",
-    "score": 3,
-    "uid": "a6cd6e7b53c3f9dd"
-  },
-  {
-    "title": "Updated List: Thu Oct 15 06:10:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/53962f7c6e9a60545700be60d0be831dd4999c85",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "abb85aa2a893cb0e"
   }
 ]
