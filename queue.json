@@ -1030,6 +1030,26 @@
     "uid": "1728a1d79c6503b6"
   },
   {
+    "title": "Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform",
+    "url": "https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty_writeup-5",
+    "summary": "Author: Mohamed Atef Date: October 2026 Program: Disclosed via Private Bug Bounty Program (HackerOne) &#x2014; Pending Public Disclosure Severity&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 16 Oct 2026 02:16:57",
+    "score": 4,
+    "uid": "45095449a7f4959e"
+  },
+  {
+    "title": "Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform",
+    "url": "https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty-5",
+    "summary": "Author: Mohamed Atef Date: October 2026 Program: Disclosed via Private Bug Bounty Program (HackerOne) &#x2014; Pending Public Disclosure Severity&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 16 Oct 2026 02:16:57",
+    "score": 4,
+    "uid": "b734b21faa5c323f"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "375b532454de7ee0"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 23:54:10 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/92df7a2d285eb1d73949aa01486d510515d04e66",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f1873fa9025e2314"
-  },
-  {
-    "title": "AWS STS AssumeRole Explained: How Temporary Credentials Work and What Security Researchers Should…",
-    "url": "https://medium.com/@paraskhorwal9/aws-sts-assumerole-explained-how-temporary-credentials-work-and-what-security-researchers-should-4b99a49b243f?source=rss------bug_bounty-5",
-    "summary": "Learn how AWS Security Token Service issues temporary credentials, how AssumeRole works, how role chaining and session policies affect&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 15 Oct 2026 16:08:55",
-    "score": 3,
-    "uid": "17da88c7feb698cd"
   }
 ]
