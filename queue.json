@@ -80,6 +80,16 @@
     "uid": "3f1f83ea7457d0d5"
   },
   {
+    "title": "IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100",
+    "url": "https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bug_bounty-5",
+    "summary": "It&#x2019;s been a long day since I wrote my last bug! I&#x2019;m busy these days! Alright, so let&#x2019;s get started.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 16 Oct 2026 17:02:52",
+    "score": 7,
+    "uid": "50e0cd5ea923b0a7"
+  },
+  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -578,6 +588,16 @@
     "published": "Thu, 15 Oct 2026 00:00:00",
     "score": 5,
     "uid": "1ddf1fafa8c86db5"
+  },
+  {
+    "title": "How a 56KB PNG Brought Down a Library with Millions of Downloads (CVE-2026–109398)",
+    "url": "https://medium.com/@shaikikram2005/how-a-56kb-png-brought-down-a-library-with-millions-of-downloads-cve-2026-109398-b7826d4f38a0?source=rss------bug_bounty-5",
+    "summary": "By Ikram (@Ikram-4)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 16 Oct 2026 16:24:54",
+    "score": 5,
+    "uid": "72df7553830e05c8"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "cb401ad0c502a13b"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 19:02:48 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a4e6d95352f41f535179ede8ff292dbc217e1b74",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f86523d731921c81"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 19:38:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1ee6ef358b53c5209d12256bb1b1043b54baacaf",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b3d85a4ab52e3426"
   }
 ]
