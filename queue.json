@@ -1050,6 +1050,26 @@
     "uid": "b734b21faa5c323f"
   },
   {
+    "title": "$6,500 for a Regex That Couldn’t Say No: ReDoS in an Email Validation Field",
+    "url": "https://medium.com/@t4nv1/6-500-for-a-regex-that-couldnt-say-no-redos-in-an-email-validation-field-93a75bfb3d8a?source=rss------bug_bounty-5",
+    "summary": "Most denial-of-service findings in bug bounty programs get an immediate, reasonable skepticism from triage, because flooding an endpoint&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 16 Oct 2026 09:31:01",
+    "score": 4,
+    "uid": "23c6c1facd31c0df"
+  },
+  {
+    "title": "How a Public S3 Bucket Exposed Sensitive Data",
+    "url": "https://medium.com/@iamsaad360/how-a-public-s3-bucket-exposed-sensitive-data-63c76c0ba76d?source=rss------bug_bounty-5",
+    "summary": "A cloud storage misconfiguration, its security impact, and the responsible disclosure that led to remediation and a $XXXX bug bounty.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 16 Oct 2026 08:06:36",
+    "score": 4,
+    "uid": "6ef4bc19ccd68c33"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "b3d85a4ab52e3426"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 20:45:25 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/facbf381f25a3cfb1acdebae5a42eaabfe3513f7",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "95c0ad7736002690"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 22:36:51 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/aa1c643dee1193108034411a6b35255ec81275e6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "375b532454de7ee0"
   }
 ]
