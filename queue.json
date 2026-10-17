@@ -1,5 +1,15 @@
 [
   {
+    "title": "$12,000 for Listening to How Long ‘No’ Takes: A Timing Attack That Recovered a Secret API Key",
+    "url": "https://medium.com/@t4nv1/12-000-for-listening-to-how-long-no-takes-a-timing-attack-that-recovered-a-secret-api-key-b45f45acf2ef?source=rss------bug_bounty-5",
+    "summary": "Most authentication bypasses I&#x2019;ve found involve getting a system to accept something it shouldn&#x2019;t.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 17 Oct 2026 09:31:01",
+    "score": 11,
+    "uid": "8bc183a64db4f09f"
+  },
+  {
     "title": "How I found a Zero-Click Account Tack over via password rest link",
     "url": "https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5",
     "summary": "Account Takeover Through a Password Reset Logic FlawContinue reading on Medium »",
@@ -1060,6 +1070,26 @@
     "uid": "6ef4bc19ccd68c33"
   },
   {
+    "title": "My Bug Bounty Report Was Marked N/A. Then I Received $1,200.",
+    "url": "https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty_writeup-5",
+    "summary": "I was expecting feedback on a bug bounty report. Instead, the first response said the issue could not be reproduced and marked it Not&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 17 Oct 2026 10:07:59",
+    "score": 4,
+    "uid": "5e7d476c86c10b98"
+  },
+  {
+    "title": "My Bug Bounty Report Was Marked N/A. Then I Received $1,200.",
+    "url": "https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty-5",
+    "summary": "I was expecting feedback on a bug bounty report. Instead, the first response said the issue could not be reproduced and marked it Not&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 17 Oct 2026 10:07:59",
+    "score": 4,
+    "uid": "04e34ab0de53099f"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "cb401ad0c502a13b"
-  },
-  {
-    "title": "Updated List: Sat Oct 17 03:25:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c6933179a43fd6bca65197161d2e9617b5a80e7b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "eec04e1634dcdfe7"
-  },
-  {
-    "title": "Updated List: Sat Oct 17 05:32:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/03f5b0e3d127344e4f6915afb14ab3a8c82fc96e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0a77f86d90b32845"
-  },
-  {
-    "title": "Updated List: Sat Oct 17 08:31:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e7c374bc84fa449a78d2adc861b620dbaae8d410",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4ca28a6fb0409bbf"
   }
 ]
