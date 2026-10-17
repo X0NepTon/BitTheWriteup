@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I found a Zero-Click Account Tack over via password rest link",
-    "url": "https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5",
-    "summary": "Account Takeover Through a Password Reset Logic FlawContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 14 Oct 2026 11:35:16",
-    "score": 9,
-    "uid": "1c10b44f940ed3e6"
-  },
-  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "df5a311339705d8a"
+  },
+  {
+    "title": "Updated List: Sat Oct 17 22:54:35 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d7002e695b382509fe80c5486481195a0854f994",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "78c0543cb74fff54"
   }
 ]
