@@ -20,16 +20,6 @@
     "uid": "1c10b44f940ed3e6"
   },
   {
-    "title": "The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple",
-    "url": "https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5",
-    "summary": "How improperly handled image metadata can expose private location informationContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 15 Oct 2026 08:20:28",
-    "score": 9,
-    "uid": "b8b91221f43efe9f"
-  },
-  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "eec04e1634dcdfe7"
+  },
+  {
+    "title": "Updated List: Sat Oct 17 05:32:47 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/03f5b0e3d127344e4f6915afb14ab3a8c82fc96e",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0a77f86d90b32845"
   }
 ]
