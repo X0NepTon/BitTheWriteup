@@ -1,15 +1,5 @@
 [
   {
-    "title": "$12,000 for Listening to How Long ‘No’ Takes: A Timing Attack That Recovered a Secret API Key",
-    "url": "https://medium.com/@t4nv1/12-000-for-listening-to-how-long-no-takes-a-timing-attack-that-recovered-a-secret-api-key-b45f45acf2ef?source=rss------bug_bounty-5",
-    "summary": "Most authentication bypasses I&#x2019;ve found involve getting a system to accept something it shouldn&#x2019;t.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 17 Oct 2026 09:31:01",
-    "score": 11,
-    "uid": "8bc183a64db4f09f"
-  },
-  {
     "title": "How I found a Zero-Click Account Tack over via password rest link",
     "url": "https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5",
     "summary": "Account Takeover Through a Password Reset Logic FlawContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "cb401ad0c502a13b"
+  },
+  {
+    "title": "Updated List: Sat Oct 17 19:58:54 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/670ee7a322274fef2db384cddef0b70a67fb0f18",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "df5a311339705d8a"
   }
 ]
