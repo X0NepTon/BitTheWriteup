@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Open Redirect Hunter’s Guide: How URL Path Manipulation Leads to Critical Security Risks | by…",
-    "url": "https://medium.com/bug-bounty-hunting/the-open-redirect-hunters-guide-how-url-path-manipulation-leads-to-critical-security-risks-by-6525c4eb0aea?source=rss------bug_bounty-5",
-    "summary": "During a web application security assessment, I investigated how an application handled unusual URL paths and whether its redirect logic&#x2026;Continue reading on Bug Bounty Hunting »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 18 Oct 2026 12:30:27",
-    "score": 8,
-    "uid": "76eeef1a7b3fb70f"
-  },
-  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "f64f89f3c638d978"
+  },
+  {
+    "title": "Updated List: Mon Oct 19 02:57:40 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/aeccf877d8962d10c21047d5ca69c2c1ffb154f8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "233c359bc5ea4da2"
   }
 ]
