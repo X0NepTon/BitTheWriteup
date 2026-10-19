@@ -1,15 +1,5 @@
 [
   {
-    "title": "Intercept HTTP Traffic Using Bettercap | Ethical Hacking Tutorial",
-    "url": "https://medium.com/@pentesterclubpvtltd/intercept-http-traffic-using-bettercap-ethical-hacking-tutorial-bf060a447371?source=rss------bug_bounty-5",
-    "summary": "Want to understand how attackers intercept network traffic &#x2014; and how ethical hackers detect these risks before they become security&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 19 Oct 2026 17:42:48",
-    "score": 10,
-    "uid": "8ce9ce09ed48b412"
-  },
-  {
     "title": "MITRE ATT&CK Learning Tip",
     "url": "https://dev.to/abhinavsingwal/mitre-attck-learning-tip-bif",
     "summary": "Start with the matrix: ATT&CK is a map of attacker behavior. Columns = Tactics (goals like \"Initial Access\"), rows = Techniques (methods like \"Phishing\"), and sub-items = Procedures (real tools/groups using them). Learn by scenario: Pick one attack (e.g., ransomware) and trace it across tactics — Initial Access (T1566 phishing) → Execution (T1059 PowerShell) → Persistence (T1547 registry run keys) → Exfiltration (T1041 C2 channel). Practice: Use the free ATT&CK Navigator tool to highlight techniques seen in logs/reports and spot your detection blind spots. For more tips join our Telegram chann",
@@ -48,6 +38,26 @@
     "published": "Mon, 19 Oct 2026 09:03:42",
     "score": 7,
     "uid": "9a24c0bce0ed6723"
+  },
+  {
+    "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
+    "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
+    "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 19 Oct 2026 19:03:08",
+    "score": 7,
+    "uid": "b21bd02d2341c0c2"
+  },
+  {
+    "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
+    "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty-5",
+    "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 19 Oct 2026 19:03:08",
+    "score": 7,
+    "uid": "9896d0182a060482"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "61992148d94ab69c"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 14:48:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2848d3e6428fcf4b53d416030faccaff5792c734",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ef2fb0ffc049050f"
   }
 ]
