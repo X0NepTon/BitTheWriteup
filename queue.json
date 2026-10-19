@@ -1,5 +1,25 @@
 [
   {
+    "title": "Intercept HTTP Traffic Using Bettercap | Ethical Hacking Tutorial",
+    "url": "https://medium.com/@pentesterclubpvtltd/intercept-http-traffic-using-bettercap-ethical-hacking-tutorial-bf060a447371?source=rss------bug_bounty-5",
+    "summary": "Want to understand how attackers intercept network traffic &#x2014; and how ethical hackers detect these risks before they become security&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 19 Oct 2026 17:42:48",
+    "score": 10,
+    "uid": "8ce9ce09ed48b412"
+  },
+  {
+    "title": "MITRE ATT&CK Learning Tip",
+    "url": "https://dev.to/abhinavsingwal/mitre-attck-learning-tip-bif",
+    "summary": "Start with the matrix: ATT&CK is a map of attacker behavior. Columns = Tactics (goals like \"Initial Access\"), rows = Techniques (methods like \"Phishing\"), and sub-items = Procedures (real tools/groups using them). Learn by scenario: Pick one attack (e.g., ransomware) and trace it across tactics — Initial Access (T1566 phishing) → Execution (T1059 PowerShell) → Persistence (T1547 registry run keys) → Exfiltration (T1041 C2 channel). Practice: Use the free ATT&CK Navigator tool to highlight techniques seen in logs/reports and spot your detection blind spots. For more tips join our Telegram chann",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 19 Oct 2026 17:58:53",
+    "score": 9,
+    "uid": "e8b54c2823c5c99c"
+  },
+  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ef2fb0ffc049050f"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 15:38:35 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d69ed6c98acd9ec8df0efbe62ba83f787eefea6b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "8ba93ea5a945f3db"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 16:52:22 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2f47bcff0a10e3736020241273622f3b2ea43bdb",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f64f89f3c638d978"
   }
 ]
