@@ -20,6 +20,16 @@
     "uid": "50e0cd5ea923b0a7"
   },
   {
+    "title": "Business Logic Flaws That Pay More Than SQLi — And How to Find Them",
+    "url": "https://medium.com/@bughuntersjournal/business-logic-flaws-that-pay-more-than-sqli-and-how-to-find-them-29de26b3cc93?source=rss------bug_bounty-5",
+    "summary": "The &#x201C;Promise Test&#x201D;: a simple way to find bugs that no scanner can see, with real cases, real payouts (small ones too), and one honest&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 19 Oct 2026 09:03:42",
+    "score": 7,
+    "uid": "9a24c0bce0ed6723"
+  },
+  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -548,6 +558,16 @@
     "published": "Fri, 16 Oct 2026 16:24:54",
     "score": 5,
     "uid": "72df7553830e05c8"
+  },
+  {
+    "title": "The User Changed One ID. I Tested What the Server Actually Trusted.",
+    "url": "https://medium.com/@clipp3r/the-user-changed-one-id-i-tested-what-the-server-actually-trusted-6bbf3c5e821f?source=rss------bug_bounty-5",
+    "summary": "An IDOR investigation that started with one HTTP request and ended with a much better question.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 19 Oct 2026 11:48:42",
+    "score": 5,
+    "uid": "f7cb06da22f9b530"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f64f89f3c638d978"
-  },
-  {
-    "title": "Updated List: Mon Oct 19 02:57:40 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/aeccf877d8962d10c21047d5ca69c2c1ffb154f8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "233c359bc5ea4da2"
-  },
-  {
-    "title": "Updated List: Mon Oct 19 04:57:01 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/50afd0b2673b93e32648a077575d69a4db0c85c4",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ea99d5a2166d08d4"
   }
 ]
