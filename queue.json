@@ -100,6 +100,26 @@
     "uid": "023f4ce9cdf8b635"
   },
   {
+    "title": "IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure",
+    "url": "https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty_writeup-5",
+    "summary": "Hey everyone, Priyanshu here.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 20 Oct 2026 03:58:09",
+    "score": 6,
+    "uid": "79bb66424ac76a6d"
+  },
+  {
+    "title": "IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure",
+    "url": "https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty-5",
+    "summary": "Hey everyone, Priyanshu here.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 20 Oct 2026 03:58:09",
+    "score": 6,
+    "uid": "b13ac55757c3a3b1"
+  },
+  {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
     "url": "https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5",
     "summary": "How a decades-old ambiguity in the HTTP specification still lets attackers hijack sessions, poison caches, and bypass security controls.Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "6362f1158e5b93d9"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 13:03:56 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/9e6c625437e6c9f95cbe171a28635c613e23b1d9",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "61992148d94ab69c"
-  },
-  {
-    "title": "Updated List: Tue Oct 20 06:53:45 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/d4e3382e7711992d2b35c3149ea314f6e3875b91",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0192363ba062c91a"
   }
 ]
