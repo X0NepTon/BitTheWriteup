@@ -10,16 +10,6 @@
     "uid": "00e4bf13262af1e7"
   },
   {
-    "title": "IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100",
-    "url": "https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bug_bounty-5",
-    "summary": "It&#x2019;s been a long day since I wrote my last bug! I&#x2019;m busy these days! Alright, so let&#x2019;s get started.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 16 Oct 2026 17:02:52",
-    "score": 7,
-    "uid": "50e0cd5ea923b0a7"
-  },
-  {
     "title": "Business Logic Flaws That Pay More Than SQLi — And How to Find Them",
     "url": "https://medium.com/@bughuntersjournal/business-logic-flaws-that-pay-more-than-sqli-and-how-to-find-them-29de26b3cc93?source=rss------bug_bounty-5",
     "summary": "The &#x201C;Promise Test&#x201D;: a simple way to find bugs that no scanner can see, with real cases, real payouts (small ones too), and one honest&#x2026;Continue reading on Medium »",
@@ -608,6 +598,16 @@
     "published": "Mon, 19 Oct 2026 11:48:42",
     "score": 5,
     "uid": "f7cb06da22f9b530"
+  },
+  {
+    "title": "WorldWAP — TryHackMe Writeup",
+    "url": "https://shahadatfahim.medium.com/worldwap-tryhackme-writeup-f2fccab78cd3?source=rss------bug_bounty-5",
+    "summary": "Category: Client-Side Exploitation (Stored XSS &#xB7; Cookie Theft &#xB7; CORS/CSRF &#xB7; Same-Origin Exfiltration)Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 20 Oct 2026 09:05:37",
+    "score": 5,
+    "uid": "830eccad53934a2f"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
