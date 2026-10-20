@@ -1,15 +1,5 @@
 [
   {
-    "title": "MITRE ATT&CK Learning Tip",
-    "url": "https://dev.to/abhinavsingwal/mitre-attck-learning-tip-bif",
-    "summary": "Start with the matrix: ATT&CK is a map of attacker behavior. Columns = Tactics (goals like \"Initial Access\"), rows = Techniques (methods like \"Phishing\"), and sub-items = Procedures (real tools/groups using them). Learn by scenario: Pick one attack (e.g., ransomware) and trace it across tactics — Initial Access (T1566 phishing) → Execution (T1059 PowerShell) → Persistence (T1547 registry run keys) → Exfiltration (T1041 C2 channel). Practice: Use the free ATT&CK Navigator tool to highlight techniques seen in logs/reports and spot your detection blind spots. For more tips join our Telegram chann",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 19 Oct 2026 17:58:53",
-    "score": 9,
-    "uid": "e8b54c2823c5c99c"
-  },
-  {
     "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
     "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
     "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "61992148d94ab69c"
+  },
+  {
+    "title": "Updated List: Tue Oct 20 06:53:45 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/d4e3382e7711992d2b35c3149ea314f6e3875b91",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "0192363ba062c91a"
   }
 ]
