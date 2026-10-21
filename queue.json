@@ -590,6 +590,46 @@
     "uid": "830eccad53934a2f"
   },
   {
+    "title": "IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It",
+    "url": "https://xalgord.medium.com/idor-bola-how-to-find-the-1-api-vulnerability-and-actually-prove-it-cfb5cff0ba80?source=rss------bug_bounty-5",
+    "summary": "Broken Object Level Authorization &#x2014; IDOR, to most of us &#x2014; is the single most common serious bug in modern APIs. It sits at #1 on the OWASP&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 21 Oct 2026 04:09:01",
+    "score": 5,
+    "uid": "f112a5d653f26ec0"
+  },
+  {
+    "title": "🔓 IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/idor-bola-how-to-find-the-1-api-vulnerability-and-actually-prove-it-41h4",
+    "summary": "Broken Object Level Authorization — IDOR, to most of us — is the single most common serious bug in modern APIs. It sits at #1 on the OWASP API Security Top 10 (2023), and it's the one I watch sail past a scanner, past a code review, and straight into production, where it lives for years. Not because it's clever. Because it's boring: the application carefully checks who you are, and then forgets to check whether the thing you just asked for is actually yours. This guide walks the whole path — what IDOR/BOLA is, how it works, how to find it, and the part most write-ups skip entirely: how to prov",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 21 Oct 2026 06:40:54",
+    "score": 5,
+    "uid": "244ca98e0511241c"
+  },
+  {
+    "title": "🔓 IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/idor-bola-how-to-find-the-1-api-vulnerability-and-actually-prove-it-56dn",
+    "summary": "Broken Object Level Authorization — IDOR, to most of us — is the single most common serious bug in modern APIs. It sits at #1 on the OWASP API Security Top 10 (2023), and it's the one I watch sail past a scanner, past a code review, and straight into production, where it lives for years. Not because it's clever. Because it's boring: the application carefully checks who you are, and then forgets to check whether the thing you just asked for is actually yours. This guide walks the whole path — what IDOR/BOLA is, how it works, how to find it, and the part most write-ups skip entirely: how to prov",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 21 Oct 2026 04:08:22",
+    "score": 5,
+    "uid": "f5a62f1d7f6cca16"
+  },
+  {
+    "title": "🔓 IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/idor-bola-how-to-find-the-1-api-vulnerability-and-actually-prove-it-29e",
+    "summary": "Broken Object Level Authorization — IDOR, to most of us — is the single most common serious bug in modern APIs. It sits at #1 on the OWASP API Security Top 10 (2023), and it's the one I watch sail past a scanner, past a code review, and straight into production, where it lives for years. Not because it's clever. Because it's boring: the application carefully checks who you are, and then forgets to check whether the thing you just asked for is actually yours. This guide walks the whole path — what IDOR/BOLA is, how it works, how to find it, and the part most write-ups skip entirely: how to prov",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 21 Oct 2026 03:57:40",
+    "score": 5,
+    "uid": "805122d051399b53"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "32b2e8e7f46c802f"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 09:37:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/27a070ecc051bc21a7687c05d5da5c6abe2e2c48",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "858ddf578e64cadc"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 10:46:26 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3e9236f6604049cf4771070ab9998b66d10a401b",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6362f1158e5b93d9"
-  },
-  {
-    "title": "6 Hours = 25 Reflected XSS and 2 Open Redirects",
-    "url": "https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5",
-    "summary": "Like my friend Mohamed Abdelmoatie (3at3ot) said, there are two types of bug hunting:Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 20 Oct 2026 18:11:36",
-    "score": 3,
-    "uid": "48abe01fb6b925a0"
-  },
-  {
-    "title": "6 Hours = 25 Reflected XSS and 2 Open Redirects",
-    "url": "https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty-5",
-    "summary": "Like my friend Mohamed Abdelmoatie (3at3ot) said, there are two types of bug hunting:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 20 Oct 2026 18:11:36",
-    "score": 3,
-    "uid": "be628729b8ba9700"
   }
 ]
