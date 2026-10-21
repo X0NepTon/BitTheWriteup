@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bug Bounty Tip: SSTI via Payload Fuzzing",
+    "url": "https://dev.to/abhinavsingwal/bug-bounty-tip-ssti-via-payload-fuzzing-5262",
+    "summary": "Look for: Reflected input in templates, PDF generators, email renderers, and params like ?name=, ?message= Test payload: {{7*7}} If the response shows 49, it may indicate Server-Side Template Injection then escalate with {{7*'7'}} (returns 7777777 in Jinja2) to confirm engine. For more tips join our Telegram channel: https://t.me/bugbountyusa BugBounty #SSTI #PayloadFuzzing #InfoSec",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 21 Oct 2026 18:30:51",
+    "score": 9,
+    "uid": "8962e5fe91e83b36"
+  },
+  {
     "title": "How to Find Subdomain Takeovers Step-by-Step Bug Bounty Guide",
     "url": "https://meetcyber.net/how-to-find-subdomain-takeovers-step-by-step-bug-bounty-guide-984321f51fc6?source=rss------bug_bounty-5",
     "summary": "A practical, beginner-friendly method to find abandoned subdomains and claim them before anyone else doesContinue reading on MeetCyber »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "ff6bb1f639ada700"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 08:17:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/eb691b93116382e5f291bf35d24e6a9332fb27fc",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "32b2e8e7f46c802f"
   }
 ]
