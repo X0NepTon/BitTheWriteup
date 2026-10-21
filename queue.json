@@ -1,15 +1,5 @@
 [
   {
-    "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
-    "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5",
-    "summary": "SQL injection has been sitting at or near the top of the OWASP Top 10 for over a decade, and yet it&#x2019;s still one of the most common&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 12 Oct 2026 18:59:25",
-    "score": 7,
-    "uid": "00e4bf13262af1e7"
-  },
-  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "32b2e8e7f46c802f"
+  },
+  {
+    "title": "6 Hours = 25 Reflected XSS and 2 Open Redirects",
+    "url": "https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5",
+    "summary": "Like my friend Mohamed Abdelmoatie (3at3ot) said, there are two types of bug hunting:Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 20 Oct 2026 18:11:36",
+    "score": 3,
+    "uid": "48abe01fb6b925a0"
   }
 ]
