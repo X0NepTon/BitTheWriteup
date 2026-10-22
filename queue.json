@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bug Bounty Tip: SSTI via Payload Fuzzing",
-    "url": "https://dev.to/abhinavsingwal/bug-bounty-tip-ssti-via-payload-fuzzing-5262",
-    "summary": "Look for: Reflected input in templates, PDF generators, email renderers, and params like ?name=, ?message= Test payload: {{7*7}} If the response shows 49, it may indicate Server-Side Template Injection then escalate with {{7*'7'}} (returns 7777777 in Jinja2) to confirm engine. For more tips join our Telegram channel: https://t.me/bugbountyusa BugBounty #SSTI #PayloadFuzzing #InfoSec",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Wed, 21 Oct 2026 18:30:51",
-    "score": 9,
-    "uid": "8962e5fe91e83b36"
-  },
-  {
     "title": "How to Find Subdomain Takeovers Step-by-Step Bug Bounty Guide",
     "url": "https://meetcyber.net/how-to-find-subdomain-takeovers-step-by-step-bug-bounty-guide-984321f51fc6?source=rss------bug_bounty-5",
     "summary": "A practical, beginner-friendly method to find abandoned subdomains and claim them before anyone else doesContinue reading on MeetCyber »",
@@ -1200,6 +1190,26 @@
     "uid": "47f91e2594e8a7fa"
   },
   {
+    "title": "Rate Limiting Bypass: Step-by-Step Bug Bounty Guide",
+    "url": "https://meetcyber.net/rate-limiting-bypass-step-by-step-bug-bounty-guide-958953831352?source=rss------bug_bounty_writeup-5",
+    "summary": "A detailed, practical method to test rate limits properly &#x2014; and the tricks that actually bypass themContinue reading on MeetCyber »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 22 Oct 2026 21:56:00",
+    "score": 4,
+    "uid": "463138bd673da695"
+  },
+  {
+    "title": "Rate Limiting Bypass: Step-by-Step Bug Bounty Guide",
+    "url": "https://meetcyber.net/rate-limiting-bypass-step-by-step-bug-bounty-guide-958953831352?source=rss------bug_bounty-5",
+    "summary": "A detailed, practical method to test rate limits properly &#x2014; and the tricks that actually bypass themContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 22 Oct 2026 21:56:00",
+    "score": 4,
+    "uid": "ca85540abbfb886d"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "b32b02c6e5f62085"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 01:44:10 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0d7ba3e367306ea05ca9c21c0d1a8c548df4afd1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "97b781561948ec7f"
   }
 ]
