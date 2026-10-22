@@ -660,6 +660,16 @@
     "uid": "bc3c704c2409a923"
   },
   {
+    "title": "When a “Secret” S3 Link Isn’t So Secret: IDOR in a Whistleblowing System",
+    "url": "https://medium.com/@prabaswaradaffa2/when-a-secret-s3-link-isnt-so-secret-idor-in-a-whistleblowing-system-4e6b47471435?source=rss------bug_bounty_writeup-5",
+    "summary": "A whistleblowing channel exists for exactly one reason: so a reporter can say what happened without fear of being identified. So what&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 22 Oct 2026 14:10:19",
+    "score": 5,
+    "uid": "47fd7231b090be35"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "97b781561948ec7f"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 03:42:47 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/6799be8275fd0872dc0b38d10134a7c5bc3523d1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4d29894b9bbb1aa6"
   }
 ]
