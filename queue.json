@@ -20,6 +20,16 @@
     "uid": "06ad0a1119df1d6c"
   },
   {
+    "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
+    "url": "https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 22 Oct 2026 05:24:20",
+    "score": 8,
+    "uid": "9348950e26933936"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -638,6 +648,16 @@
     "published": "Wed, 21 Oct 2026 03:57:40",
     "score": 5,
     "uid": "805122d051399b53"
+  },
+  {
+    "title": "$19,500 for a Package Name That Didn’t Exist Yet: A Dependency Confusion Supply Chain Takeover",
+    "url": "https://medium.com/@t4nv1/19-500-for-a-package-name-that-didnt-exist-yet-a-dependency-confusion-supply-chain-takeover-b6c0be37ea78?source=rss------bug_bounty-5",
+    "summary": "This bug never touched Hartwell&#x2019;s actual application code, their servers, or anything resembling a traditional request-response exploit&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 22 Oct 2026 06:41:01",
+    "score": 5,
+    "uid": "bc3c704c2409a923"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "4d29894b9bbb1aa6"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 04:42:53 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/5c2df90a337937047cf451b6961b0909210eef37",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "9a425c830884a8bd"
-  },
-  {
-    "title": "Updated List: Tue Aug 18 05:57:49 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/ed9616a5d34cfaf679f06ec22d1de323dd16d720",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ff6bb1f639ada700"
   }
 ]
