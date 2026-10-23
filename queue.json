@@ -1,5 +1,15 @@
 [
   {
+    "title": "JaWT Scratchpad : CyLab Security Academy Write-up | JWT Secret Key and Authentication Bypass",
+    "url": "https://medium.com/@affanhaxor/jawt-scratchpad-cylab-security-academy-write-up-jwt-secret-key-and-authentication-bypass-07966d6a7277?source=rss------bug_bounty-5",
+    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Topics: JSON Web Tokens (JWT), HMAC-SHA256, Authentication&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 05:50:14",
+    "score": 10,
+    "uid": "2b7970ff96037844"
+  },
+  {
     "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
     "url": "https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1200,6 +1210,16 @@
     "uid": "ca85540abbfb886d"
   },
   {
+    "title": "$8,400 for a Message With No Return Address Check: postMessage Origin Validation Bypass to Account…",
+    "url": "https://medium.com/@t4nv1/8-400-for-a-message-with-no-return-address-check-postmessage-origin-validation-bypass-to-account-f16ecc793369?source=rss------bug_bounty-5",
+    "summary": "Browsers give web pages a way to talk to each other across different origins when they genuinely need to &#x2014; an embedded payment widget&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 06:41:01",
+    "score": 4,
+    "uid": "67f1ae7ed223579d"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "179f82d3b5cc563d"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 22:37:09 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/acc7b55ce92c44808612729a951638cbe26faa43",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b32b02c6e5f62085"
-  },
-  {
-    "title": "6 Hours = 25 Reflected XSS and 2 Open Redirects",
-    "url": "https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5",
-    "summary": "Like my friend Mohamed Abdelmoatie (3at3ot) said, there are two types of bug hunting:Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 20 Oct 2026 18:11:36",
-    "score": 3,
-    "uid": "48abe01fb6b925a0"
   }
 ]
