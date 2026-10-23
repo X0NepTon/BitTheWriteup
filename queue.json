@@ -1,15 +1,5 @@
 [
   {
-    "title": "PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet",
-    "url": "https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty-5",
-    "summary": "Two critical vulnerabilities. A CVSS score of 9.2. Potential exposure on a massive scale.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 12:46:37",
-    "score": 13,
-    "uid": "facf2af9c3ff3267"
-  },
-  {
     "title": "JaWT Scratchpad : CyLab Security Academy Write-up | JWT Secret Key and Authentication Bypass",
     "url": "https://medium.com/@affanhaxor/jawt-scratchpad-cylab-security-academy-write-up-jwt-secret-key-and-authentication-bypass-07966d6a7277?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Topics: JSON Web Tokens (JWT), HMAC-SHA256, Authentication&#x2026;Continue reading on Medium »",
@@ -18,6 +8,36 @@
     "published": "Fri, 23 Oct 2026 05:50:14",
     "score": 10,
     "uid": "2b7970ff96037844"
+  },
+  {
+    "title": "How I found BAC leads to De-escalate the Administrator privilege",
+    "url": "https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty_writeup-5",
+    "summary": "SummaryContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 23 Oct 2026 13:13:55",
+    "score": 9,
+    "uid": "b49079e2aedd47d0"
+  },
+  {
+    "title": "Web Cache Deception: How a Harmless .css Becomes Full Account Takeover",
+    "url": "https://xalgord.medium.com/web-cache-deception-how-a-harmless-css-becomes-full-account-takeover-ff1b55ca8922?source=rss------bug_bounty-5",
+    "summary": "A CDN and your app can read the exact same URL two different ways. That tiny disagreement is enough to hand one user&#x2019;s session token to a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 14:09:45",
+    "score": 9,
+    "uid": "aa7efd03ac696db6"
+  },
+  {
+    "title": "How I found BAC leads to De-escalate the Administrator privilege",
+    "url": "https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty-5",
+    "summary": "SummaryContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 13:13:55",
+    "score": 9,
+    "uid": "addbee32e3f097a4"
   },
   {
     "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
@@ -38,6 +58,16 @@
     "published": "Mon, 19 Oct 2026 19:03:08",
     "score": 7,
     "uid": "b21bd02d2341c0c2"
+  },
+  {
+    "title": "How can a zero width character leads to privilege escalation",
+    "url": "https://medium.com/@tomahawk0ctf/how-can-a-zero-width-character-leads-to-privilege-escalation-fefe3ef4836f?source=rss------bug_bounty-5",
+    "summary": "Whoami??Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 14:23:44",
+    "score": 7,
+    "uid": "8f94b8e5da4ceff6"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1968,35 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "1f7681eb78a7a35b"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 10:50:59 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/128ff59094eeec2413017ab400f730d676c99b2f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1b1fcae10e475b0b"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 11:57:20 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3149246d39fbb3c5f8b2ca24bcb3a318b329ee44",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "0146277dad7b8ed3"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 13:01:31 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/0afa0629712d9dfb8e564231d9bcf01798c863bd",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "230aefe9ce23ef38"
   }
 ]
