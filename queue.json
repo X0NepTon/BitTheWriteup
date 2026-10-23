@@ -1,13 +1,23 @@
 [
   {
-    "title": "JaWT Scratchpad : CyLab Security Academy Write-up | JWT Secret Key and Authentication Bypass",
-    "url": "https://medium.com/@affanhaxor/jawt-scratchpad-cylab-security-academy-write-up-jwt-secret-key-and-authentication-bypass-07966d6a7277?source=rss------bug_bounty-5",
-    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Topics: JSON Web Tokens (JWT), HMAC-SHA256, Authentication&#x2026;Continue reading on Medium »",
+    "title": "A source map published half a million lines of Claude Code",
+    "url": "https://osintteam.blog/a-source-map-published-half-a-million-lines-of-claude-code-4c313126a271?source=rss------bug_bounty-5",
+    "summary": "A debugging file can turn a minified bundle back into readable source. In March 2026, one packaging mistake showed how much that can&#x2026;Continue reading on OSINT Team »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 05:50:14",
+    "published": "Fri, 23 Oct 2026 20:50:27",
     "score": 10,
-    "uid": "2b7970ff96037844"
+    "uid": "0823f8dd09a29042"
+  },
+  {
+    "title": "OSINT Without Paid APIs: 5 Free Sources to Start With",
+    "url": "https://osintteam.blog/osint-without-paid-apis-5-free-sources-to-start-with-46d8d4d24ca3?source=rss------bug_bounty-5",
+    "summary": "Wikidata, Overpass, RDAP, crt.sh&#x2026;and the last one is the tool you probably haven&#x2019;t tried yetContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 20:43:27",
+    "score": 10,
+    "uid": "94fefe0e8a181366"
   },
   {
     "title": "How I found BAC leads to De-escalate the Administrator privilege",
@@ -38,6 +48,16 @@
     "published": "Fri, 23 Oct 2026 13:13:55",
     "score": 9,
     "uid": "addbee32e3f097a4"
+  },
+  {
+    "title": "When One Login Works Across Multiple Customers: Understanding Cross-Tenant Authentication Bypass",
+    "url": "https://osintteam.blog/when-one-login-works-across-multiple-customers-understanding-cross-tenant-authentication-bypass-993b2707cc67?source=rss------bug_bounty-5",
+    "summary": "How shared sessions, authentication mechanisms, and weak tenant isolation can expose one customer&#x2019;s environment to another.Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 21:01:45",
+    "score": 9,
+    "uid": "15d35be5dbf9b5be"
   },
   {
     "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "95b34c74e1e8ab37"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 04:39:29 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/09282765b3f598ee3c9eb5cadd8a8ff7ed2a197e",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c65dbe223aef926f"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 06:03:15 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/1e8d1bbc24ebba09157cd6a05076e8530ec6ebdb",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "1f7681eb78a7a35b"
   }
 ]
