@@ -1,5 +1,15 @@
 [
   {
+    "title": "PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet",
+    "url": "https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty-5",
+    "summary": "Two critical vulnerabilities. A CVSS score of 9.2. Potential exposure on a massive scale.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 23 Oct 2026 12:46:37",
+    "score": 13,
+    "uid": "facf2af9c3ff3267"
+  },
+  {
     "title": "JaWT Scratchpad : CyLab Security Academy Write-up | JWT Secret Key and Authentication Bypass",
     "url": "https://medium.com/@affanhaxor/jawt-scratchpad-cylab-security-academy-write-up-jwt-secret-key-and-authentication-bypass-07966d6a7277?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Topics: JSON Web Tokens (JWT), HMAC-SHA256, Authentication&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "230aefe9ce23ef38"
-  },
-  {
-    "title": "Updated List: Mon Aug 17 13:38:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/312f2ba3282ec880c40dc4b236e10cbb29861531",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "179f82d3b5cc563d"
   }
 ]
