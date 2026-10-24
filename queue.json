@@ -10,16 +10,6 @@
     "uid": "b49079e2aedd47d0"
   },
   {
-    "title": "Web Cache Deception: How a Harmless .css Becomes Full Account Takeover",
-    "url": "https://xalgord.medium.com/web-cache-deception-how-a-harmless-css-becomes-full-account-takeover-ff1b55ca8922?source=rss------bug_bounty-5",
-    "summary": "A CDN and your app can read the exact same URL two different ways. That tiny disagreement is enough to hand one user&#x2019;s session token to a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 14:09:45",
-    "score": 9,
-    "uid": "aa7efd03ac696db6"
-  },
-  {
     "title": "How I found BAC leads to De-escalate the Administrator privilege",
     "url": "https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty-5",
     "summary": "SummaryContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "aac4f33a261102c4"
+  },
+  {
+    "title": "Updated List: Sat Oct 24 22:08:14 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/f84f1fdebe5900767540a7997a6906335bd76ee6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "dc9a7ebe81ed75b3"
   }
 ]
