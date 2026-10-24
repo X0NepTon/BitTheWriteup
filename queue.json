@@ -1,15 +1,5 @@
 [
   {
-    "title": "OSINT Without Paid APIs: 5 Free Sources to Start With",
-    "url": "https://osintteam.blog/osint-without-paid-apis-5-free-sources-to-start-with-46d8d4d24ca3?source=rss------bug_bounty-5",
-    "summary": "Wikidata, Overpass, RDAP, crt.sh&#x2026;and the last one is the tool you probably haven&#x2019;t tried yetContinue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 20:43:27",
-    "score": 10,
-    "uid": "94fefe0e8a181366"
-  },
-  {
     "title": "How I found BAC leads to De-escalate the Administrator privilege",
     "url": "https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty_writeup-5",
     "summary": "SummaryContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "57e76cc71d24a553"
+  },
+  {
+    "title": "Updated List: Sat Oct 24 18:48:23 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/72e343b031af54d6a3ce41d00914dc74c1148887",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "aac4f33a261102c4"
   }
 ]
