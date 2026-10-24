@@ -1,15 +1,5 @@
 [
   {
-    "title": "A source map published half a million lines of Claude Code",
-    "url": "https://osintteam.blog/a-source-map-published-half-a-million-lines-of-claude-code-4c313126a271?source=rss------bug_bounty-5",
-    "summary": "A debugging file can turn a minified bundle back into readable source. In March 2026, one packaging mistake showed how much that can&#x2026;Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 20:50:27",
-    "score": 10,
-    "uid": "0823f8dd09a29042"
-  },
-  {
     "title": "OSINT Without Paid APIs: 5 Free Sources to Start With",
     "url": "https://osintteam.blog/osint-without-paid-apis-5-free-sources-to-start-with-46d8d4d24ca3?source=rss------bug_bounty-5",
     "summary": "Wikidata, Overpass, RDAP, crt.sh&#x2026;and the last one is the tool you probably haven&#x2019;t tried yetContinue reading on OSINT Team »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "601aecedf6b30964"
+  },
+  {
+    "title": "Updated List: Sat Oct 24 14:37:11 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/a10cc2a187a242efd15e27c9fd8b31d451f8f0c1",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "57e76cc71d24a553"
   }
 ]
