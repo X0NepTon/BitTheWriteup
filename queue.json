@@ -10,16 +10,6 @@
     "uid": "b49079e2aedd47d0"
   },
   {
-    "title": "When One Login Works Across Multiple Customers: Understanding Cross-Tenant Authentication Bypass",
-    "url": "https://osintteam.blog/when-one-login-works-across-multiple-customers-understanding-cross-tenant-authentication-bypass-993b2707cc67?source=rss------bug_bounty-5",
-    "summary": "How shared sessions, authentication mechanisms, and weak tenant isolation can expose one customer&#x2019;s environment to another.Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 21:01:45",
-    "score": 9,
-    "uid": "15d35be5dbf9b5be"
-  },
-  {
     "title": "Insufficient Session Expiration leads to Account Takeover via Password Change",
     "url": "https://medium.com/@xlr99/insufficient-session-expiration-leads-to-account-takeover-via-password-change-8ba38191df52?source=rss------bug_bounty-5",
     "summary": "Howdy fellers! During my recent bug hunting in VDP programs, I was analyzing a presentation platform and came across a vulnerability. At&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 24 Oct 2026 18:59:07",
     "score": 3,
     "uid": "759aee0fa34652ba"
+  },
+  {
+    "title": "Updated List: Sun Oct 25 02:52:27 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/23f73ef6eea4e8a5d015656b65557513e79619d6",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "6b7901d78932d698"
   }
 ]
