@@ -10,16 +10,6 @@
     "uid": "b49079e2aedd47d0"
   },
   {
-    "title": "Insufficient Session Expiration leads to Account Takeover via Password Change",
-    "url": "https://medium.com/@xlr99/insufficient-session-expiration-leads-to-account-takeover-via-password-change-8ba38191df52?source=rss------bug_bounty-5",
-    "summary": "Howdy fellers! During my recent bug hunting in VDP programs, I was analyzing a presentation platform and came across a vulnerability. At&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 23 Oct 2026 23:43:31",
-    "score": 9,
-    "uid": "807046bcc2bc5c80"
-  },
-  {
     "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
     "url": "https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "6b7901d78932d698"
+  },
+  {
+    "title": "Updated List: Sun Oct 25 04:53:27 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/e0ccadc07f8386aae3a54101f6d08718c0317265",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "ce8f9dd4afbcb363"
   }
 ]
