@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I found BAC leads to De-escalate the Administrator privilege",
-    "url": "https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty_writeup-5",
-    "summary": "SummaryContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 23 Oct 2026 13:13:55",
-    "score": 9,
-    "uid": "b49079e2aedd47d0"
-  },
-  {
     "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
     "url": "https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "dc9a7ebe81ed75b3"
+  },
+  {
+    "title": "What 24,817 Bug Bounty Reports Reveal About Real-World Hacking",
+    "url": "https://infosecwriteups.com/what-24-817-bug-bounty-reports-reveal-about-real-world-hacking-cb2cfe5c3328?source=rss------bug_bounty-5",
+    "summary": "Why XSS, curl, and mastering the fundamentals still matter more than collecting hundreds of hacking tools.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 25 Oct 2026 16:08:42",
+    "score": 3,
+    "uid": "218f67cab95e1624"
   }
 ]
