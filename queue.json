@@ -710,6 +710,26 @@
     "uid": "67da2503f80609c6"
   },
   {
+    "title": "Open Redirect in Employer OAuth Flow via Backslash Validation Bypass",
+    "url": "https://medium.com/@apop69166/open-redirect-in-employer-oauth-flow-via-backslash-validation-bypass-0fe571e0d9cf?source=rss------bug_bounty-5",
+    "summary": "A client-side URL validation weakness that allows navigation away from a trusted Employer origin.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 25 Oct 2026 14:02:28",
+    "score": 5,
+    "uid": "0f3a63b539921305"
+  },
+  {
+    "title": "How I Use AI to Find Potential IDOR Vulnerabilities: A Practical 6-Step Guide | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/how-i-use-ai-to-find-potential-idor-vulnerabilities-a-practical-6-step-guide-by-samadhan-shimple-54b873c7d560?source=rss------bug_bounty-5",
+    "summary": "Finding an IDOR vulnerability is not always as simple as changing a number in a URL.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 25 Oct 2026 13:43:36",
+    "score": 5,
+    "uid": "37d28586f1671beb"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "dc9a7ebe81ed75b3"
-  },
-  {
-    "title": "PHP2Shell: Two Critical Vulnerabilities That Could Let Attackers Take Over Web Servers",
-    "url": "https://medium.com/@munnaza.cyber/php2shell-two-critical-vulnerabilities-that-could-let-attackers-take-over-web-servers-65fd888fdeea?source=rss------bug_bounty-5",
-    "summary": "Recent incident of PHP Vulnerabilties which effect worldwide wordpress websites and others, here is how???Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 24 Oct 2026 18:59:07",
-    "score": 3,
-    "uid": "759aee0fa34652ba"
-  },
-  {
-    "title": "Updated List: Sun Oct 25 02:52:27 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/23f73ef6eea4e8a5d015656b65557513e79619d6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "6b7901d78932d698"
   }
 ]
