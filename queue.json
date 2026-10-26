@@ -1,5 +1,45 @@
 [
   {
+    "title": "Critical Account Takeover via CSRF Header Bypass",
+    "url": "https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645; &#x2014; &#x648;&#x64E;&#x645;&#x64E;&#x627; &#x628;&#x650;&#x643;&#x64F;&#x645; &#x645;&#x650;&#x651;&#x646; &#x646;&#x650;&#x651;&#x639;&#x652;&#x645;&#x64E;&#x629;&#x64D; &#x641;&#x64E;&#x645;&#x650;&#x646;&#x64E; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 13:23:58",
+    "score": 18,
+    "uid": "7346d89c382e952b"
+  },
+  {
+    "title": "SSRF Attacks Explained: From Zero to Cloud Credential Theft Complete Bug Bounty Guide",
+    "url": "https://osintteam.blog/ssrf-attacks-explained-from-zero-to-cloud-credential-theft-complete-bug-bounty-guide-bbf3d78f5391?source=rss------bug_bounty-5",
+    "summary": "Everything you need to understand, find, and exploit Server-Side Request Forgery &#x2014; written for beginners, detailed enough for professionalsContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 13:42:59",
+    "score": 10,
+    "uid": "a878fa6b56eed1d8"
+  },
+  {
+    "title": "Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens",
+    "url": "https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------bug_bounty-5",
+    "summary": "Every password reset flow makes the same implicit promise: the link in your inbox is the only way in, because the token inside it could&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 16:26:01",
+    "score": 9,
+    "uid": "d56877400cb4b3a8"
+  },
+  {
+    "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
+    "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
+    "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 16:14:04",
+    "score": 8,
+    "uid": "ae89cd0ab38f9581"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "aac4f33a261102c4"
-  },
-  {
-    "title": "Updated List: Sat Oct 24 22:08:14 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f84f1fdebe5900767540a7997a6906335bd76ee6",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "dc9a7ebe81ed75b3"
-  },
-  {
-    "title": "What 24,817 Bug Bounty Reports Reveal About Real-World Hacking",
-    "url": "https://infosecwriteups.com/what-24-817-bug-bounty-reports-reveal-about-real-world-hacking-cb2cfe5c3328?source=rss------bug_bounty-5",
-    "summary": "Why XSS, curl, and mastering the fundamentals still matter more than collecting hundreds of hacking tools.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 25 Oct 2026 16:08:42",
-    "score": 3,
-    "uid": "218f67cab95e1624"
-  },
-  {
-    "title": "Updated List: Mon Oct 26 06:12:19 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/bf49153ec80e3e4f7dd7bbcee3c55a55815190f7",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "b2e1208b3dfc7581"
-  },
-  {
-    "title": "An Open Redirect Isn’t a Phishing Bug. It’s a Token Delivery Failure.",
-    "url": "https://medium.com/codetodeploy/an-open-redirect-isnt-a-phishing-bug-it-s-a-token-delivery-failure-5b6d77f9c794?source=rss------bug_bounty-5",
-    "summary": "When the browser is carrying a credential, a redirect isn&#x2019;t a redirect. It&#x2019;s a delivery.Continue reading on CodeToDeploy »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 05:42:31",
-    "score": 3,
-    "uid": "20376e52fff06021"
   }
 ]
