@@ -1,15 +1,5 @@
 [
   {
-    "title": "Critical Account Takeover via CSRF Header Bypass",
-    "url": "https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5",
-    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645; &#x2014; &#x648;&#x64E;&#x645;&#x64E;&#x627; &#x628;&#x650;&#x643;&#x64F;&#x645; &#x645;&#x650;&#x651;&#x646; &#x646;&#x650;&#x651;&#x639;&#x652;&#x645;&#x64E;&#x629;&#x64D; &#x641;&#x64E;&#x645;&#x650;&#x646;&#x64E; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 13:23:58",
-    "score": 18,
-    "uid": "7346d89c382e952b"
-  },
-  {
     "title": "SSRF Attacks Explained: From Zero to Cloud Credential Theft Complete Bug Bounty Guide",
     "url": "https://osintteam.blog/ssrf-attacks-explained-from-zero-to-cloud-credential-theft-complete-bug-bounty-guide-bbf3d78f5391?source=rss------bug_bounty-5",
     "summary": "Everything you need to understand, find, and exploit Server-Side Request Forgery &#x2014; written for beginners, detailed enough for professionalsContinue reading on OSINT Team »",
@@ -20,6 +10,16 @@
     "uid": "a878fa6b56eed1d8"
   },
   {
+    "title": "How I Found SSRF in 6 Known Companies Using One Methodology in 2026",
+    "url": "https://medium.com/@shawkat7h/how-i-found-ssrf-in-6-known-companies-using-one-methodology-in-2026-987d79b27620?source=rss------bug_bounty-5",
+    "summary": "Bug Bounty SSRF Web Security Methodology KubernetesContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 20:28:09",
+    "score": 10,
+    "uid": "4f4d2a9db7f0dfe6"
+  },
+  {
     "title": "Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens",
     "url": "https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------bug_bounty-5",
     "summary": "Every password reset flow makes the same implicit promise: the link in your inbox is the only way in, because the token inside it could&#x2026;Continue reading on Medium »",
@@ -28,6 +28,16 @@
     "published": "Mon, 26 Oct 2026 16:26:01",
     "score": 9,
     "uid": "d56877400cb4b3a8"
+  },
+  {
+    "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
+    "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
+    "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 26 Oct 2026 17:03:26",
+    "score": 9,
+    "uid": "26defe23de7c293b"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "57e76cc71d24a553"
-  },
-  {
-    "title": "Updated List: Sat Oct 24 18:48:23 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/72e343b031af54d6a3ce41d00914dc74c1148887",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "aac4f33a261102c4"
   }
 ]
