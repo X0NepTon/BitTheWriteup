@@ -1,15 +1,5 @@
 [
   {
-    "title": "Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection",
-    "url": "https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 22 Oct 2026 05:24:20",
-    "score": 8,
-    "uid": "9348950e26933936"
-  },
-  {
     "title": "Blind SSRF Isn’t Blind If You Build the Channel Back",
     "url": "https://rajnamdev.medium.com/blind-ssrf-isnt-blind-if-you-build-the-channel-back-e66d317f606a?source=rss------bug_bounty-5",
     "summary": "It&#x2019;s not the request you fire. It&#x2019;s whether the response comes home.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 25 Oct 2026 16:08:42",
     "score": 3,
     "uid": "218f67cab95e1624"
+  },
+  {
+    "title": "Updated List: Mon Oct 26 06:12:19 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/bf49153ec80e3e4f7dd7bbcee3c55a55815190f7",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "b2e1208b3dfc7581"
   }
 ]
