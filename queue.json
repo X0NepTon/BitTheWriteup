@@ -1,15 +1,5 @@
 [
   {
-    "title": "Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens",
-    "url": "https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------bug_bounty-5",
-    "summary": "Every password reset flow makes the same implicit promise: the link in your inbox is the only way in, because the token inside it could&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 16:26:01",
-    "score": 9,
-    "uid": "d56877400cb4b3a8"
-  },
-  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -758,6 +748,26 @@
     "published": "Tue, 27 Oct 2026 06:56:54",
     "score": 5,
     "uid": "0ff0973cb609078f"
+  },
+  {
+    "title": "Understanding and Mitigating Log4Shell CVE-2021–44228",
+    "url": "https://masimshahzad.medium.com/understanding-and-mitigating-log4shell-cve-2021-44228-13bf7fec8057?source=rss------bug_bounty_writeup-5",
+    "summary": "A logging library trusted a lookup hidden inside user input, and defenders had to find every copy of that library. Here is the concept&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 27 Oct 2026 12:56:25",
+    "score": 5,
+    "uid": "8cc11d8075f8857a"
+  },
+  {
+    "title": "Understanding and Mitigating Log4Shell CVE-2021–44228",
+    "url": "https://masimshahzad.medium.com/understanding-and-mitigating-log4shell-cve-2021-44228-13bf7fec8057?source=rss------bug_bounty-5",
+    "summary": "A logging library trusted a lookup hidden inside user input, and defenders had to find every copy of that library. Here is the concept&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 12:56:25",
+    "score": 5,
+    "uid": "60117661a1e1af76"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1988,15 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "fd1f936c8e2dea98"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 18:44:21 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/f72cb8af436facaa887bef677a9ef6a41abe1e65",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "601aecedf6b30964"
   }
 ]
