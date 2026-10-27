@@ -1,15 +1,5 @@
 [
   {
-    "title": "How I Found SSRF in 6 Known Companies Using One Methodology in 2026",
-    "url": "https://medium.com/@shawkat7h/how-i-found-ssrf-in-6-known-companies-using-one-methodology-in-2026-987d79b27620?source=rss------bug_bounty-5",
-    "summary": "Bug Bounty SSRF Web Security Methodology KubernetesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 20:28:09",
-    "score": 10,
-    "uid": "4f4d2a9db7f0dfe6"
-  },
-  {
     "title": "Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens",
     "url": "https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------bug_bounty-5",
     "summary": "Every password reset flow makes the same implicit promise: the link in your inbox is the only way in, because the token inside it could&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Fri, 23 Oct 2026 14:23:44",
     "score": 7,
     "uid": "8f94b8e5da4ceff6"
+  },
+  {
+    "title": "IDOR Hunting Techniques Every Bug Bounty Hunter Should Know | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/idor-hunting-techniques-every-bug-bounty-hunter-should-know-by-samadhan-shimple-ac30043f3251?source=rss------bug_bounty-5",
+    "summary": "IDOR is one of the most interesting vulnerabilities to look for during a bug bounty hunt. It can appear in a simple profile page, a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 03:01:03",
+    "score": 7,
+    "uid": "6876a1a29ae5ab37"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -738,6 +738,26 @@
     "published": "Sun, 25 Oct 2026 13:43:36",
     "score": 5,
     "uid": "37d28586f1671beb"
+  },
+  {
+    "title": "Chained Information Disclosure and Broken Object-Level Authorization Leading to Cross-Account Data…",
+    "url": "https://medium.com/@akashmotkar001/chained-information-disclosure-and-broken-object-level-authorization-leading-to-cross-account-data-4fceb2b92c16?source=rss------bug_bounty_writeup-5",
+    "summary": "Severity: High &#x2014; P2 Status: Confirmed CWE: CWE-200 &#x2014; Exposure of Sensitive Information to an Unauthorized Actor Related CWE: CWE-862 &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 27 Oct 2026 06:56:54",
+    "score": 5,
+    "uid": "b689ed9b284ebac0"
+  },
+  {
+    "title": "Chained Information Disclosure and Broken Object-Level Authorization Leading to Cross-Account Data…",
+    "url": "https://medium.com/@akashmotkar001/chained-information-disclosure-and-broken-object-level-authorization-leading-to-cross-account-data-4fceb2b92c16?source=rss------bug_bounty-5",
+    "summary": "Severity: High &#x2014; P2 Status: Confirmed CWE: CWE-200 &#x2014; Exposure of Sensitive Information to an Unauthorized Actor Related CWE: CWE-862 &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 06:56:54",
+    "score": 5,
+    "uid": "0ff0973cb609078f"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1978,25 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "601aecedf6b30964"
-  },
-  {
-    "title": "Updated List: Sat Oct 24 14:37:11 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/a10cc2a187a242efd15e27c9fd8b31d451f8f0c1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "57e76cc71d24a553"
-  },
-  {
-    "title": "Updated List: Tue Oct 27 06:19:12 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2904423e8ba51b84a42fd907684b29da36a0e1e8",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "e1a77238a9bebeb1"
   }
 ]
