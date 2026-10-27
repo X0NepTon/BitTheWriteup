@@ -1,5 +1,25 @@
 [
   {
+    "title": "I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough",
+    "url": "https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5",
+    "summary": "I Bypassed a Whitelist-Based SSRF Filter &#x2014; PortSwigger Expert Lab WalkthroughContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 27 Oct 2026 17:37:02",
+    "score": 11,
+    "uid": "4e2505033d7541ab"
+  },
+  {
+    "title": "I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough",
+    "url": "https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty-5",
+    "summary": "I Bypassed a Whitelist-Based SSRF Filter &#x2014; PortSwigger Expert Lab WalkthroughContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 17:37:02",
+    "score": 10,
+    "uid": "48f2e9247d41ec27"
+  },
+  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -8,6 +28,26 @@
     "published": "Mon, 26 Oct 2026 17:03:26",
     "score": 9,
     "uid": "26defe23de7c293b"
+  },
+  {
+    "title": "Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…",
+    "url": "https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 18:03:02",
+    "score": 9,
+    "uid": "e5bf49db0fb4349f"
+  },
+  {
+    "title": "How Stale Reset Tokens Led to Full Account Takeover (Even After Changing Email)",
+    "url": "https://aboutal3b.medium.com/how-stale-reset-tokens-led-to-full-account-takeover-even-after-changing-email-2f5c984e39b0?source=rss------bug_bounty-5",
+    "summary": "&#x201C;&#x648;&#x64E;&#x642;&#x64F;&#x644;&#x650; &#x627;&#x639;&#x652;&#x645;&#x64E;&#x644;&#x64F;&#x648;&#x627; &#x641;&#x64E;&#x633;&#x64E;&#x64A;&#x64E;&#x631;&#x64E;&#x649; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x64F; &#x639;&#x64E;&#x645;&#x64E;&#x644;&#x64E;&#x643;&#x64F;&#x645;&#x652; &#x648;&#x64E;&#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x64F;&#x647;&#x64F; &#x648;&#x64E;&#x627;&#x644;&#x652;&#x645;&#x64F;&#x624;&#x652;&#x645;&#x650;&#x646;&#x64F;&#x648;&#x646;&#x64E;&#x201D; Hey everyone! &#x1F44B;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 16:11:01",
+    "score": 9,
+    "uid": "b4d5d9f4acfbef18"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1958,45 +1998,5 @@
     "published": "",
     "score": 3,
     "uid": "f99632cef7c70006"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 12:53:39 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/afd6cb4388430f52076de49d258eb3c81ce9f147",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "510e536f6098a741"
-  },
-  {
-    "title": "When Client-Side Encryption Becomes a Security Blanket",
-    "url": "https://devilwrites.medium.com/when-client-side-encryption-becomes-a-security-blanket-8e124d484c76?source=rss------bug_bounty-5",
-    "summary": "Five critical bugs, one overconfident app, and a reminder that encryption is not a personality.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 16 Aug 2026 07:57:19",
-    "score": 3,
-    "uid": "24137d501dbeeac6"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 14:33:33 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/e1147b5ef7b1c283c78a13e076ec25306c1d385a",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fd3dfe73cb94f0f6"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 16:48:56 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/2da4e26a0e3040cd30384299a43d6413b5d0888c",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "fd1f936c8e2dea98"
   }
 ]
