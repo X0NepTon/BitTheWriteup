@@ -1,15 +1,5 @@
 [
   {
-    "title": "SSRF Attacks Explained: From Zero to Cloud Credential Theft Complete Bug Bounty Guide",
-    "url": "https://osintteam.blog/ssrf-attacks-explained-from-zero-to-cloud-credential-theft-complete-bug-bounty-guide-bbf3d78f5391?source=rss------bug_bounty-5",
-    "summary": "Everything you need to understand, find, and exploit Server-Side Request Forgery &#x2014; written for beginners, detailed enough for professionalsContinue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 13:42:59",
-    "score": 10,
-    "uid": "a878fa6b56eed1d8"
-  },
-  {
     "title": "How I Found SSRF in 6 Known Companies Using One Methodology in 2026",
     "url": "https://medium.com/@shawkat7h/how-i-found-ssrf-in-6-known-companies-using-one-methodology-in-2026-987d79b27620?source=rss------bug_bounty-5",
     "summary": "Bug Bounty SSRF Web Security Methodology KubernetesContinue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "",
     "score": 3,
     "uid": "57e76cc71d24a553"
+  },
+  {
+    "title": "Updated List: Tue Oct 27 06:19:12 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/2904423e8ba51b84a42fd907684b29da36a0e1e8",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "e1a77238a9bebeb1"
   }
 ]
