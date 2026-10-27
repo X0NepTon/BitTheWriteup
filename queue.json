@@ -1,16 +1,6 @@
 [
   {
     "title": "I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough",
-    "url": "https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5",
-    "summary": "I Bypassed a Whitelist-Based SSRF Filter &#x2014; PortSwigger Expert Lab WalkthroughContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 27 Oct 2026 17:37:02",
-    "score": 11,
-    "uid": "4e2505033d7541ab"
-  },
-  {
-    "title": "I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough",
     "url": "https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty-5",
     "summary": "I Bypassed a Whitelist-Based SSRF Filter &#x2014; PortSwigger Expert Lab WalkthroughContinue reading on Medium »",
     "source_id": "medium_bb",
@@ -88,6 +78,16 @@
     "published": "Tue, 27 Oct 2026 03:01:03",
     "score": 7,
     "uid": "6876a1a29ae5ab37"
+  },
+  {
+    "title": "Discovering and Reporting SQL Injection: A Technical Walkthrough of CAN-2026–2040978",
+    "url": "https://medium.com/@mjoker22mjoker22/discovering-and-reporting-sql-injection-a-technical-walkthrough-of-can-2026-2040978-f3d52aabcdb1?source=rss------bug_bounty-5",
+    "summary": "Author: Mahdi Karimi Date: October 28, 2026 Vulnerability Type: SQL Injection (CWE-89) Affected Target: Lower Niger River Basin&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 27 Oct 2026 21:40:33",
+    "score": 7,
+    "uid": "ce0825aff77838af"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
