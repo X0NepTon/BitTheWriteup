@@ -1,13 +1,13 @@
 [
   {
-    "title": "Four Redirects, One URL, Full Account Takeover: An OAuth Chain Autopsy",
-    "url": "https://medium.com/codetodeploy/four-redirects-one-url-full-account-takeover-an-oauth-chain-autopsy-426b0f65f73f?source=rss------bug_bounty-5",
-    "summary": "Not one sophisticated bug. Three string comparisons that were each almost right.Continue reading on CodeToDeploy »",
+    "title": "CRLF Injection: When a Newline Becomes a Weapon",
+    "url": "https://medium.com/@raksharoot/crlf-injection-when-a-newline-becomes-a-weapon-494da369b99f?source=rss------bug_bounty-5",
+    "summary": "Response splitting, header injection, session poisoning, and the chain that turned a newline into an auth bypass.Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 04:34:34",
+    "published": "Wed, 28 Oct 2026 16:50:48",
     "score": 12,
-    "uid": "31a53bd7e5f77669"
+    "uid": "ac278542e672e63b"
   },
   {
     "title": "Secrets : CyLab Security Academy Write-up | Discovering Hidden Web Paths",
@@ -18,6 +18,16 @@
     "published": "Wed, 28 Oct 2026 05:18:14",
     "score": 11,
     "uid": "be8420ee061492d0"
+  },
+  {
+    "title": "Account Takeover via Password Reset Poisoning : Step-by-Step Bug Bounty Guide",
+    "url": "https://meetcyber.net/account-takeover-via-password-reset-poisoning-step-by-step-bug-bounty-guide-7f6a9dc0b33c?source=rss------bug_bounty-5",
+    "summary": "How a single HTTP header can turn a &#x201C;forgot password&#x201D; feature into a full account takeoverContinue reading on MeetCyber »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 15:50:59",
+    "score": 11,
+    "uid": "219f2b7f535f35b4"
   },
   {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
@@ -38,6 +48,26 @@
     "published": "Wed, 28 Oct 2026 07:10:24",
     "score": 10,
     "uid": "aedb5df4325973a4"
+  },
+  {
+    "title": "Ninja Forms and WooCommerce Plugin Attack: How to Check Your WordPress Site for Hidden Admins",
+    "url": "https://medium.com/write-your-world/ninja-forms-and-woocommerce-plugin-attack-how-to-check-your-wordpress-site-for-hidden-admins-861377213738?source=rss------bug_bounty-5",
+    "summary": "If you run Ninja Forms or the WPC Product Bundles plugin for WooCommerce, an active attack campaign deserves your attention today&#x2026;Continue reading on Write Your World »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 16:14:34",
+    "score": 10,
+    "uid": "60bd8a0e4e55b392"
+  },
+  {
+    "title": "Pwning 15M+ Systems by Renaming a Song: From a CMS Audit to an Upstream RCE in getID3…",
+    "url": "https://medium.com/@shaikikram2005/pwning-15m-systems-by-renaming-a-song-from-a-cms-audit-to-an-upstream-rce-in-getid3-180e8fe8ac80?source=rss------bug_bounty-5",
+    "summary": "The GistContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 11:48:10",
+    "score": 10,
+    "uid": "89a4170d456e3f99"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -88,6 +118,16 @@
     "published": "Wed, 28 Oct 2026 06:42:33",
     "score": 9,
     "uid": "ccd58cc8d658b188"
+  },
+  {
+    "title": "How a Sneaker Order Led Me to an IDOR Vulnerability (and $50)",
+    "url": "https://medium.com/@0xnexus0xfault0x/how-a-sneaker-order-led-me-to-an-idor-vulnerability-and-50-d3553a9f9136?source=rss------bug_bounty-5",
+    "summary": "How a simple sneaker purchase led me to a Broken Access Control bug &#x2014; and a small bug bounty reward.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 13:46:17",
+    "score": 9,
+    "uid": "cf4d8d4cbe2f29ff"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1958,45 +1998,5 @@
     "published": "Thu, 06 Aug 2026 22:14:31",
     "score": 3,
     "uid": "8f2f7c2b60d90ac7"
-  },
-  {
-    "title": "Cyber Kill Chain: Understanding How Cyber Attacks Unfold",
-    "url": "https://medium.com/@rjstudio257/cyber-kill-chain-understanding-how-cyber-attacks-unfold-fc2ba4708b4e?source=rss------bug_bounty-5",
-    "summary": "Cyberattacks rarely happen in a single step. Most successful intrusions follow a structured sequence of actions, allowing attackers to&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 07 Aug 2026 14:33:42",
-    "score": 3,
-    "uid": "8866922f8af2a3dc"
-  },
-  {
-    "title": "PoC Vault by CyberSecPlayground",
-    "url": "https://medium.com/@cybersecplayground/poc-vault-by-cybersecplayground-dffa3fad3784?source=rss------bug_bounty-5",
-    "summary": "&#x1F680; PoC Vault is Now Live!Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 08 Aug 2026 19:50:21",
-    "score": 3,
-    "uid": "56ef36912d72ace4"
-  },
-  {
-    "title": "Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security…",
-    "url": "https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss------bug_bounty-5",
-    "summary": "AI-powered security scanners are becoming increasingly common. They can authenticate to applications, browse sensitive areas, inspect&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 08 Aug 2026 19:29:07",
-    "score": 3,
-    "uid": "f78fafbdb5029c63"
-  },
-  {
-    "title": "Lab: Using PHAR deserialization to deploy a custom gadget chain",
-    "url": "https://medium.com/@amrsmooke321/lab-using-phar-deserialization-to-deploy-a-custom-gadget-chain-62715de7bd27?source=rss------bug_bounty-5",
-    "summary": "Forget about the exploit payload, the Blog class, or writing code. Right now, our only goal is to find a place on the website that lets us&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 10 Aug 2026 13:00:27",
-    "score": 3,
-    "uid": "cd0bcba20f0990c7"
   }
 ]
