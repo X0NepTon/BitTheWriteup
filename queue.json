@@ -1,13 +1,13 @@
 [
   {
-    "title": "I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough",
-    "url": "https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty-5",
-    "summary": "I Bypassed a Whitelist-Based SSRF Filter &#x2014; PortSwigger Expert Lab WalkthroughContinue reading on Medium »",
+    "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
+    "url": "https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bug_bounty-5",
+    "summary": "Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 27 Oct 2026 17:37:02",
+    "published": "Wed, 28 Oct 2026 03:01:05",
     "score": 10,
-    "uid": "48f2e9247d41ec27"
+    "uid": "6ba6054b2491e78b"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
