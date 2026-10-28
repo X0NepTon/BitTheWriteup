@@ -1,5 +1,25 @@
 [
   {
+    "title": "Four Redirects, One URL, Full Account Takeover: An OAuth Chain Autopsy",
+    "url": "https://medium.com/codetodeploy/four-redirects-one-url-full-account-takeover-an-oauth-chain-autopsy-426b0f65f73f?source=rss------bug_bounty-5",
+    "summary": "Not one sophisticated bug. Three string comparisons that were each almost right.Continue reading on CodeToDeploy »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 04:34:34",
+    "score": 12,
+    "uid": "31a53bd7e5f77669"
+  },
+  {
+    "title": "Secrets : CyLab Security Academy Write-up | Discovering Hidden Web Paths",
+    "url": "https://medium.com/@affanhaxor/secrets-cylab-security-academy-write-up-discovering-hidden-web-paths-3091dd53cbcb?source=rss------bug_bounty-5",
+    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Secrets Topic: Directory Discovery, Source Code&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 05:18:14",
+    "score": 11,
+    "uid": "be8420ee061492d0"
+  },
+  {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
     "url": "https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bug_bounty-5",
     "summary": "Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input&#x2026;Continue reading on Medium »",
@@ -8,6 +28,16 @@
     "published": "Wed, 28 Oct 2026 03:01:05",
     "score": 10,
     "uid": "6ba6054b2491e78b"
+  },
+  {
+    "title": "How Pentesters Hunt for Secrets in Page Source (Real-World Walkthrough Using a Lab)",
+    "url": "https://oxdzubair.medium.com/how-pentesters-hunt-for-secrets-in-page-source-real-world-walkthrough-using-a-lab-c34005382deb?source=rss------bug_bounty-5",
+    "summary": "One forgotten HTML comment leaked an admin path, a token and a flag. Here is the exact process I follow to find leaks like this on real&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 07:10:24",
+    "score": 10,
+    "uid": "aedb5df4325973a4"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -38,6 +68,26 @@
     "published": "Tue, 27 Oct 2026 16:11:01",
     "score": 9,
     "uid": "b4d5d9f4acfbef18"
+  },
+  {
+    "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
+    "url": "https://medium.com/@rdennisius/catatan-tentang-penetrasi-keamanan-sistem-oracle-identity-manager-di-u-s-c7bfb97e37fe?source=rss------bug_bounty_writeup-5",
+    "summary": "Bagian 1: Anatomi Celah &#x2014; Dua Kelemahan yang DirangkaiContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 28 Oct 2026 08:18:52",
+    "score": 9,
+    "uid": "514f2fcd06d53e90"
+  },
+  {
+    "title": "From POST-Based XSS to Full Account Takeover",
+    "url": "https://medium.com/@duckeg97/from-post-based-xss-to-full-account-takeover-73e6aba4e458?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62D;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62D;&#x64A;&#x645; &#x2014; &#x648;&#x64E;&#x645;&#x64E;&#x627; &#x628;&#x650;&#x643;&#x64F;&#x645; &#x645;&#x650;&#x651;&#x646; &#x646;&#x650;&#x651;&#x639;&#x652;&#x645;&#x64E;&#x629;&#x64D; &#x641;&#x64E;&#x645;&#x650;&#x646;&#x64E; &#x627;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 06:42:33",
+    "score": 9,
+    "uid": "ccd58cc8d658b188"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -808,6 +858,16 @@
     "published": "Tue, 27 Oct 2026 12:56:25",
     "score": 5,
     "uid": "60117661a1e1af76"
+  },
+  {
+    "title": "From P4 to P1 — Day 5: Open Redirect Vulnerabilities in Bug Bounty Hunting",
+    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-5-open-redirect-vulnerabilities-in-bug-bounty-hunting-396b9bb7d8b5?source=rss------bug_bounty-5",
+    "summary": "Series: From P4 to P1: The Bug Hunter&#x2019;s Journey Day: 05/30 Topic: Open Redirect, Manual Validation, and Impact AssessmentContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 05:14:02",
+    "score": 5,
+    "uid": "f6557948404d3620"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1938,65 +1998,5 @@
     "published": "Mon, 10 Aug 2026 13:00:27",
     "score": 3,
     "uid": "cd0bcba20f0990c7"
-  },
-  {
-    "title": "How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud",
-    "url": "https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5",
-    "summary": "30-second version: Apple&#x2019;s Private Cloud Compute (PCC) runs the heavy-lifting for Apple Intelligence. Its first userspace process&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 12 Aug 2026 00:46:36",
-    "score": 3,
-    "uid": "59e69f3fbb0e2496"
-  },
-  {
-    "title": "How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud",
-    "url": "https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty-5",
-    "summary": "30-second version: Apple&#x2019;s Private Cloud Compute (PCC) runs the heavy-lifting for Apple Intelligence. Its first userspace process&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 12 Aug 2026 00:46:36",
-    "score": 3,
-    "uid": "c768fa99378fb9de"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 06:12:27 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/c74a4707cf5f543105a5f5d4d1689dbbce810166",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "c10f625d30c0df21"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 07:42:08 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/b11ed50a88154bd3b1fd896530e23535325a57e1",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "d7d04b74fd7e5378"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 08:42:28 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/3f59ea7c360a261e5df9e899789de2a2dfb4add3",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "ad11b1e7baf81103"
-  },
-  {
-    "title": "Updated List: Sun Aug 16 10:48:54 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/17ef31ea38392a5f0bfa63a0a23c8e2631e7828f",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "f99632cef7c70006"
   }
 ]
