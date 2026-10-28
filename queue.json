@@ -1,15 +1,5 @@
 [
   {
-    "title": "CRLF Injection: When a Newline Becomes a Weapon",
-    "url": "https://medium.com/@raksharoot/crlf-injection-when-a-newline-becomes-a-weapon-494da369b99f?source=rss------bug_bounty-5",
-    "summary": "Response splitting, header injection, session poisoning, and the chain that turned a newline into an auth bypass.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 16:50:48",
-    "score": 12,
-    "uid": "ac278542e672e63b"
-  },
-  {
     "title": "Secrets : CyLab Security Academy Write-up | Discovering Hidden Web Paths",
     "url": "https://medium.com/@affanhaxor/secrets-cylab-security-academy-write-up-discovering-hidden-web-paths-3091dd53cbcb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Secrets Topic: Directory Discovery, Source Code&#x2026;Continue reading on Medium »",
@@ -138,6 +128,26 @@
     "published": "Mon, 26 Oct 2026 16:14:04",
     "score": 8,
     "uid": "ae89cd0ab38f9581"
+  },
+  {
+    "title": "How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…",
+    "url": "https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty_writeup-5",
+    "summary": "The server will fetch any URL you give it. The whole game is choosing a URL the server should never visit.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 28 Oct 2026 18:02:34",
+    "score": 8,
+    "uid": "2fd237db167fe52c"
+  },
+  {
+    "title": "How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…",
+    "url": "https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty-5",
+    "summary": "The server will fetch any URL you give it. The whole game is choosing a URL the server should never visit.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 28 Oct 2026 18:02:34",
+    "score": 8,
+    "uid": "13f7ef6b9848c25c"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 07 Aug 2026 06:20:14",
     "score": 3,
     "uid": "ea869ccf729016bc"
-  },
-  {
-    "title": "How I Hijacked Lightspark’s JSR Package and Could Have Backdoored Every Developer Using Their…",
-    "url": "https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bug_bounty-5",
-    "summary": "A supply chain attack on a Lightning Network payments company &#x2014; found in 15 minutes using a simple methodology anyone can replicate.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 06 Aug 2026 22:14:31",
-    "score": 3,
-    "uid": "8f2f7c2b60d90ac7"
   }
 ]
