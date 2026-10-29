@@ -1,15 +1,5 @@
 [
   {
-    "title": "PHP2Shell Explained: Two Critical PHP Flaws, the RCE Risk, and How to Protect Your Server",
-    "url": "https://medium.com/@vipulsonule71/php2shell-explained-two-critical-php-flaws-the-rce-risk-and-how-to-protect-your-server-15265fad2b64?source=rss------bug_bounty-5",
-    "summary": "What PHP2Shell is, why it works below your application code, and a practical checklist to find, patch, and investigate your PHP servers &#x1F6E1;&#xFE0F;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 29 Oct 2026 15:29:51",
-    "score": 13,
-    "uid": "149918529832442c"
-  },
-  {
     "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
     "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Wed, 28 Oct 2026 11:48:10",
     "score": 10,
     "uid": "89a4170d456e3f99"
+  },
+  {
+    "title": "The Query That Forgot to Ask Whose Data It Was: Cross-Tenant Leakage in a Multi-Tenant SaaS…",
+    "url": "https://medium.com/@t4nv1/the-query-that-forgot-to-ask-whose-data-it-was-cross-tenant-leakage-in-a-multi-tenant-saas-6516597c38d4?source=rss------bug_bounty-5",
+    "summary": "Multi-tenant architecture makes a promise that&#x2019;s easy to state and surprisingly hard to enforce everywhere, every time, across an entire&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 16:36:01",
+    "score": 10,
+    "uid": "2ada188fecd38709"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
