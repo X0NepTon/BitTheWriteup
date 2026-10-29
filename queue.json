@@ -1,5 +1,15 @@
 [
   {
+    "title": "PHP2Shell Explained: Two Critical PHP Flaws, the RCE Risk, and How to Protect Your Server",
+    "url": "https://medium.com/@vipulsonule71/php2shell-explained-two-critical-php-flaws-the-rce-risk-and-how-to-protect-your-server-15265fad2b64?source=rss------bug_bounty-5",
+    "summary": "What PHP2Shell is, why it works below your application code, and a practical checklist to find, patch, and investigate your PHP servers &#x1F6E1;&#xFE0F;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 15:29:51",
+    "score": 13,
+    "uid": "149918529832442c"
+  },
+  {
     "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
     "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
@@ -108,6 +118,36 @@
     "published": "Wed, 28 Oct 2026 13:46:17",
     "score": 9,
     "uid": "cf4d8d4cbe2f29ff"
+  },
+  {
+    "title": "When OAuth Bypasses 2FA: Finding an Authentication Misconfiguration",
+    "url": "https://medium.com/@ankitrathva/when-oauth-bypasses-2fa-finding-an-authentication-misconfiguration-fa1455e760a8?source=rss------bug_bounty_writeup-5",
+    "summary": "Multi-factor authentication (MFA) is an important security layer that helps protect user accounts even when passwords or other&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 29 Oct 2026 12:10:45",
+    "score": 9,
+    "uid": "a402e596d70a1f8f"
+  },
+  {
+    "title": "When OAuth Bypasses 2FA: Finding an Authentication Misconfiguration",
+    "url": "https://medium.com/@ankitrathva/when-oauth-bypasses-2fa-finding-an-authentication-misconfiguration-fa1455e760a8?source=rss------bug_bounty-5",
+    "summary": "Multi-factor authentication (MFA) is an important security layer that helps protect user accounts even when passwords or other&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 12:10:45",
+    "score": 9,
+    "uid": "81d46b6d1e69549e"
+  },
+  {
+    "title": "OTP Login Security Test: I Found a Possible Auth Bypass | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/otp-login-security-test-i-found-a-possible-auth-bypass-by-samadhan-shimple-789c0966fa51?source=rss------bug_bounty-5",
+    "summary": "Multi-factor authentication (MFA) is an important security feature used to protect user accounts.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 11:03:53",
+    "score": 9,
+    "uid": "9f3f2536d829bc10"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1958,45 +1998,5 @@
     "published": "Sat, 01 Aug 2026 02:44:37",
     "score": 3,
     "uid": "c383ad39045e06ee"
-  },
-  {
-    "title": "The Complete Dark Side of Hyperlink Injection: Email Abuse, Website Attacks, Open Redirects, and…",
-    "url": "https://medium.com/@test.my.hack.v1/the-complete-dark-side-of-hyperlink-injection-email-abuse-website-attacks-open-redirects-and-8a07df5bec2d?source=rss------bug_bounty-5",
-    "summary": "A Comprehensive Technical and Strategic AnalysisContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 01 Aug 2026 13:54:49",
-    "score": 3,
-    "uid": "38b9458ba6d1c9ae"
-  },
-  {
-    "title": "LongShao (HackMyVM) — Complete Walkthrough",
-    "url": "https://medium.com/@TheNotorious13/longshao-hackmyvm-complete-walkthrough-55db37878956?source=rss------bug_bounty_writeup-5",
-    "summary": "LongShao turned out to be a fun machine that chained together three different users before finally reaching root. Instead of relying on a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 03 Aug 2026 10:38:51",
-    "score": 3,
-    "uid": "f7d4b380303cb395"
-  },
-  {
-    "title": "The Bug Bounty Category No Scanner Will Ever Find",
-    "url": "https://infosecwriteups.com/the-bug-bounty-category-no-scanner-will-ever-find-30018972c479?source=rss------bug_bounty-5",
-    "summary": "Not a missing header. Not an outdated library. Just an application doing exactly what it was told to do &#x2014; in an order nobody planned for.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 07 Aug 2026 06:20:14",
-    "score": 3,
-    "uid": "ea869ccf729016bc"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
