@@ -1,13 +1,13 @@
 [
   {
-    "title": "Account Takeover via Password Reset Poisoning : Step-by-Step Bug Bounty Guide",
-    "url": "https://meetcyber.net/account-takeover-via-password-reset-poisoning-step-by-step-bug-bounty-guide-7f6a9dc0b33c?source=rss------bug_bounty-5",
-    "summary": "How a single HTTP header can turn a &#x201C;forgot password&#x201D; feature into a full account takeoverContinue reading on MeetCyber »",
+    "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
+    "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
+    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 15:50:59",
+    "published": "Thu, 29 Oct 2026 05:06:29",
     "score": 11,
-    "uid": "219f2b7f535f35b4"
+    "uid": "c766823404b5674b"
   },
   {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
