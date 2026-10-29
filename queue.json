@@ -1,15 +1,5 @@
 [
   {
-    "title": "Secrets : CyLab Security Academy Write-up | Discovering Hidden Web Paths",
-    "url": "https://medium.com/@affanhaxor/secrets-cylab-security-academy-write-up-discovering-hidden-web-paths-3091dd53cbcb?source=rss------bug_bounty-5",
-    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Secrets Topic: Directory Discovery, Source Code&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 05:18:14",
-    "score": 11,
-    "uid": "be8420ee061492d0"
-  },
-  {
     "title": "Account Takeover via Password Reset Poisoning : Step-by-Step Bug Bounty Guide",
     "url": "https://meetcyber.net/account-takeover-via-password-reset-poisoning-step-by-step-bug-bounty-guide-7f6a9dc0b33c?source=rss------bug_bounty-5",
     "summary": "How a single HTTP header can turn a &#x201C;forgot password&#x201D; feature into a full account takeoverContinue reading on MeetCyber »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 07 Aug 2026 06:20:14",
     "score": 3,
     "uid": "ea869ccf729016bc"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
