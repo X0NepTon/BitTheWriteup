@@ -20,6 +20,16 @@
     "uid": "c766823404b5674b"
   },
   {
+    "title": "Github Authentication Bypass on Major CRM",
+    "url": "https://medium.com/@l4zz3rj0d/github-authentication-bypass-on-major-crm-519b141718d8?source=rss------bug_bounty-5",
+    "summary": "This one&#x2019;s a genuinely tiny lab, which is honestly fitting given what it&#x2019;s actually teaching. Same Nagli-hosted Bug Bounty Masterclass&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 06:49:16",
+    "score": 11,
+    "uid": "c2654852945cdc8b"
+  },
+  {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
     "url": "https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bug_bounty-5",
     "summary": "Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input&#x2026;Continue reading on Medium »",
@@ -68,6 +78,16 @@
     "published": "Thu, 29 Oct 2026 16:36:01",
     "score": 10,
     "uid": "2ada188fecd38709"
+  },
+  {
+    "title": "Mastering Open Redirect Vulnerabilities: From Simple Bypasses to Critical Bug Bounties",
+    "url": "https://medium.com/@nish.pawar.25/mastering-open-redirect-vulnerabilities-from-simple-bypasses-to-critical-bug-bounties-07731b7e987a?source=rss------bug_bounty-5",
+    "summary": "If you spend any time reading public bug bounty disclosures on platforms like HackerOne or Bugcrowd, you will often see Open Redirection&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 05:18:34",
+    "score": 10,
+    "uid": "9f114b6715f1e049"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -160,6 +180,16 @@
     "uid": "9f3f2536d829bc10"
   },
   {
+    "title": "Unauthenticated Spring Boot Actuator: Credential-Shaped Secrets Leaking from /actuator/env and…",
+    "url": "https://medium.com/@abdoalkaser53/unauthenticated-spring-boot-actuator-credential-shaped-secrets-leaking-from-actuator-env-and-4f9649a41656?source=rss------bug_bounty-5",
+    "summary": "When a sanitizer masks everything except the two values that matterContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 06:09:12",
+    "score": 9,
+    "uid": "fe4032e6f132515b"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -188,6 +218,16 @@
     "published": "Wed, 28 Oct 2026 18:02:34",
     "score": 8,
     "uid": "13f7ef6b9848c25c"
+  },
+  {
+    "title": "SQLMap 1 ~ CyLab Security Academy Write-up | Exploiting SQL Injection and Accessing Protected Data",
+    "url": "https://medium.com/@affanhaxor/sqlmap-1-cylab-security-academy-write-up-exploiting-sql-injection-and-accessing-protected-data-b86c4fa5955f?source=rss------bug_bounty-5",
+    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: SQLMap 1 Topic: SQL Injection, Database&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 05:37:46",
+    "score": 8,
+    "uid": "48a810a9ca1d38ac"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -238,6 +278,16 @@
     "published": "Thu, 29 Oct 2026 22:44:33",
     "score": 7,
     "uid": "7ca8b663b6f1a33e"
+  },
+  {
+    "title": "From P4 to P1 — Day 7: IDOR and Broken Object-Level Authorization (BOLA) in Bug Bounty Hunting",
+    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-7-idor-and-broken-object-level-authorization-bola-in-bug-bounty-hunting-753591f3405a?source=rss------bug_bounty-5",
+    "summary": "Series: From P4 to P1: The Bug Hunter&#x2019;s Journey Day: 07/30 Topic: IDOR, BOLA, Access Control Testing, and Manual ValidationContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 06:00:00",
+    "score": 7,
+    "uid": "e0081df1835cce67"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1948,55 +1998,5 @@
     "published": "Wed, 15 Jul 2026 06:58:03",
     "score": 3,
     "uid": "a34ab606cec0d8c9"
-  },
-  {
-    "title": "The Endpoint Everyone Ignored Just Took Down a Server",
-    "url": "https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-server-c32d51cf886e?source=rss------bug_bounty-5",
-    "summary": "A $1,024 bug hidden inside the most ignored endpoint on the platform &#x2014; and the mistake every developer makes without knowing it.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 15 Jul 2026 15:14:54",
-    "score": 3,
-    "uid": "e5498e4bb5d6c81f"
-  },
-  {
-    "title": "File Upload Bypass On Indrive",
-    "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5",
-    "summary": "welcome to my first write-up. I started bug hunting about 3 months ago, and this was one of my first findings, so I would love to share it.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 17 Jul 2026 04:19:09",
-    "score": 3,
-    "uid": "82e7d106f31f24cf"
-  },
-  {
-    "title": "[POC] Cara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)",
-    "url": "https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5",
-    "summary": "PerkenalanContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 17 Jul 2026 17:05:53",
-    "score": 3,
-    "uid": "320016b04c183192"
-  },
-  {
-    "title": "From Reflected XSS to Critical Bug Led to Sensitive Data Leakage",
-    "url": "https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5",
-    "summary": "Hello Hackers,Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 18 Jul 2026 18:43:37",
-    "score": 3,
-    "uid": "a6ec8e6b27ed3c51"
-  },
-  {
-    "title": "Reverse Engineering APIs with Chrome DevTools: A Bug Bounty Practical Guide",
-    "url": "https://infosecwriteups.com/reverse-engineering-apis-with-chrome-devtools-a-bug-bounty-practical-guide-6d7535e37cc4?source=rss------bug_bounty-5",
-    "summary": "Every modern web application is powered by APIs. Whether you&#x2019;re hunting for your first bug bounty or you&#x2019;re a seasoned pentester, the&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 21 Jul 2026 08:10:38",
-    "score": 3,
-    "uid": "8e1dfb09a47883fa"
   }
 ]
