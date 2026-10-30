@@ -1,5 +1,25 @@
 [
   {
+    "title": "ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab",
+    "url": "https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty_writeup-5",
+    "summary": "A path confusion, a privilege elevation and a file write. Alone they look manageable. Chained, they own the mail server.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 30 Oct 2026 17:57:09",
+    "score": 14,
+    "uid": "c189fd6dc0ba9097"
+  },
+  {
+    "title": "ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab",
+    "url": "https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty-5",
+    "summary": "A path confusion, a privilege elevation and a file write. Alone they look manageable. Chained, they own the mail server.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 17:57:09",
+    "score": 13,
+    "uid": "c44af0ba6f5de36d"
+  },
+  {
     "title": "Access Control Vulnerabilities: A Practical Guide to Broken Authorization",
     "url": "https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5",
     "summary": "Understanding vertical and horizontal privilege escalation, IDOR, and common access control weaknesses through PortSwigger Web Security&#x2026;Continue reading on Medium »",
@@ -38,6 +58,16 @@
     "published": "Fri, 30 Oct 2026 06:49:16",
     "score": 11,
     "uid": "c2654852945cdc8b"
+  },
+  {
+    "title": "Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…",
+    "url": "https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty_writeup-5",
+    "summary": "One nested property path in a request is enough to rewrite how the server logs, and then to write a web shell in a lab.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 30 Oct 2026 17:55:09",
+    "score": 11,
+    "uid": "bf155b602449b8a3"
   },
   {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
@@ -98,6 +128,16 @@
     "published": "Fri, 30 Oct 2026 05:18:34",
     "score": 10,
     "uid": "9f114b6715f1e049"
+  },
+  {
+    "title": "Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…",
+    "url": "https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty-5",
+    "summary": "One nested property path in a request is enough to rewrite how the server logs, and then to write a web shell in a lab.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 17:55:09",
+    "score": 10,
+    "uid": "8bf153e90a8dbf86"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -1958,45 +1998,5 @@
     "published": "Thu, 09 Jul 2026 14:29:41",
     "score": 3,
     "uid": "ec64eb3b52a8c2c1"
-  },
-  {
-    "title": "Google Fixes Critical Android Zero-Day | Pixel Security Update Explained",
-    "url": "https://medium.com/@pentesterclubpvtltd/google-fixes-critical-android-zero-day-pixel-security-update-explained-23dc73dfa527?source=rss------bug_bounty-5",
-    "summary": "Why Every Android and Pixel User Should Install the Latest Security Update ImmediatelyContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 09 Jul 2026 12:28:02",
-    "score": 3,
-    "uid": "58c1e06d3f27872d"
-  },
-  {
-    "title": "Security Advisory: Chaining XSS, Database Exposure, and GDPR Violations in Devcomm BIP CMS",
-    "url": "https://medium.com/@https.vrun/security-advisory-chaining-xss-database-exposure-and-gdpr-violations-in-devcomm-bip-cms-c1fd3db15646?source=rss------bug_bounty-5",
-    "summary": "Author: Varun Singh Chauhan | Vrunsec.in | Security Researcher Target: Devcomm BIP CMS & Sygnalista (Whistleblower Module) Impacted Scope&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 09 Jul 2026 09:52:18",
-    "score": 3,
-    "uid": "d99a2f8f32a871d0"
-  },
-  {
-    "title": "How I Discovered an Admin Access Vulnerability in the Blockchain India Challenge (CDAC) Website",
-    "url": "https://osintteam.blog/how-i-discovered-an-admin-access-vulnerability-in-the-blockchain-india-challenge-cdac-website-b9bd33a82a23?source=rss------bug_bounty-5",
-    "summary": "Why Vibe-Coded Websites Are Becoming Security RisksContinue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 09 Jul 2026 09:07:25",
-    "score": 3,
-    "uid": "1a767435565c8fdd"
-  },
-  {
-    "title": "Breaking LLM Output Handling: How I Found an Open Redirect on a Major AI Platform",
-    "url": "https://medium.com/@haninalmohammadi19/breaking-llm-output-handling-how-i-found-an-open-redirect-on-a-major-ai-platform-4c4c9ac56f0c?source=rss------bug_bounty-5",
-    "summary": "The Core ConceptContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 10 Jul 2026 12:31:01",
-    "score": 3,
-    "uid": "5bd6711d55402dbf"
   }
 ]
