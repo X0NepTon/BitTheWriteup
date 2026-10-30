@@ -1,5 +1,15 @@
 [
   {
+    "title": "Access Control Vulnerabilities: A Practical Guide to Broken Authorization",
+    "url": "https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5",
+    "summary": "Understanding vertical and horizontal privilege escalation, IDOR, and common access control weaknesses through PortSwigger Web Security&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 23:56:35",
+    "score": 12,
+    "uid": "893885dcc7686437"
+  },
+  {
     "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
     "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
@@ -218,6 +228,16 @@
     "published": "Tue, 27 Oct 2026 21:40:33",
     "score": 7,
     "uid": "ce0825aff77838af"
+  },
+  {
+    "title": "GraphQL Vulnerabilities: The Bug Class Most Hunters Still Don’t Know How to Test",
+    "url": "https://osintteam.blog/graphql-vulnerabilities-the-bug-class-most-hunters-still-dont-know-how-to-test-f5291e24c721?source=rss------bug_bounty-5",
+    "summary": "A complete guide to finding introspection leaks, batching attacks, IDOR, and injection in GraphQL APIs &#x2014; low competition, high payoutContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 22:44:33",
+    "score": 7,
+    "uid": "7ca8b663b6f1a33e"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -948,6 +968,26 @@
     "published": "Wed, 28 Oct 2026 05:14:02",
     "score": 5,
     "uid": "f6557948404d3620"
+  },
+  {
+    "title": "My Second Year in Bug Bounty $$$$",
+    "url": "https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bug_bounty_writeup-5",
+    "summary": "Learn from my experience and use it in yours.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 29 Oct 2026 22:19:34",
+    "score": 5,
+    "uid": "b5e3fd10ff287d50"
+  },
+  {
+    "title": "My Second Year in Bug Bounty $$$$",
+    "url": "https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bug_bounty-5",
+    "summary": "Learn from my experience and use it in yours.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 29 Oct 2026 22:19:34",
+    "score": 5,
+    "uid": "bfe50ecff57bb435"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1958,45 +1998,5 @@
     "published": "Tue, 21 Jul 2026 08:10:38",
     "score": 3,
     "uid": "8e1dfb09a47883fa"
-  },
-  {
-    "title": "Unauthenticated Upload, Unauthenticated Read: How I Wrote Prescriptions Into Any Patient’s Account",
-    "url": "https://medium.com/@chauhansarthak3212/unauthenticated-upload-unauthenticated-read-how-i-wrote-prescriptions-into-any-patients-account-385d3564560b?source=rss------bug_bounty-5",
-    "summary": "A bug bounty writeup on a broken authorization flow in a healthcare mobile API - reported, fixed, and closed through a responsible&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 21 Jul 2026 12:27:56",
-    "score": 3,
-    "uid": "05d7179e0fc4ee63"
-  },
-  {
-    "title": "The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug (and a CHF 100…",
-    "url": "https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5",
-    "summary": "&#x201C;Sometimes bug bounty isn&#x2019;t about finding the biggest vulnerability. Sometimes it&#x2019;s about finding the application everyone else missed.&#x201D;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 21 Jul 2026 15:34:08",
-    "score": 3,
-    "uid": "1945b74cdebe35bc"
-  },
-  {
-    "title": "Python Web Penetration Testing — Day 8: Chaining Vulnerabilities — The Art of the Exploit Chain",
-    "url": "https://osintteam.blog/python-web-penetration-testing-day-8-chaining-vulnerabilities-the-art-of-the-exploit-chain-6715826b4c1c?source=rss------bug_bounty-5",
-    "summary": "I found a self-XSS. Low severity.Continue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 29 Jul 2026 13:29:31",
-    "score": 3,
-    "uid": "3925b712be921add"
-  },
-  {
-    "title": "Revisiting JWT Token Forgery Attack on Recent Bounty Target",
-    "url": "https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5",
-    "summary": "alg=none x Attacker-Controlled Object CheckContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 01 Aug 2026 02:44:37",
-    "score": 3,
-    "uid": "c383ad39045e06ee"
   }
 ]
