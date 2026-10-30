@@ -10,6 +10,16 @@
     "uid": "893885dcc7686437"
   },
   {
+    "title": "Bypassing Organization-Wide 2FA Enforcement with a Single API Request",
+    "url": "https://medium.com/@yassentaalab51/bypassing-organization-wide-2fa-enforcement-with-a-single-api-request-0243487644f2?source=rss------bug_bounty-5",
+    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647; &#x627;&#x644;&#x630;&#x64A; &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x628;&#x627;&#x644;&#x642;&#x644;&#x645;.. &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x627;&#x644;&#x625;&#x646;&#x633;&#x627;&#x646;&#x64E; &#x645;&#x627; &#x644;&#x645; &#x64A;&#x64E;&#x639;&#x652;&#x644;&#x64E;&#x645; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629;&#x64F; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645;&#x64F; &#x639;&#x644;&#x649; &#x62E;&#x64A;&#x631;&#x650; &#x645;&#x64F;&#x639;&#x64E;&#x644;&#x651;&#x650;&#x645;&#x64A; &#",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 09:04:47",
+    "score": 12,
+    "uid": "adb52a6fa32af2f3"
+  },
+  {
     "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
     "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
@@ -288,6 +298,16 @@
     "published": "Fri, 30 Oct 2026 06:00:00",
     "score": 7,
     "uid": "e0081df1835cce67"
+  },
+  {
+    "title": "How I Solved PortSwigger SQLi Labs 1–6 (Part 1 Walkthrough)",
+    "url": "https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-1-6-part-1-walkthrough-042819f24352?source=rss------bug_bounty-5",
+    "summary": "Documenting my practical bug hunting journey, methodology, and payloads for labs 1&#x2013;6Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 14:12:40",
+    "score": 7,
+    "uid": "788058a7c72911ae"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1038,6 +1058,26 @@
     "published": "Thu, 29 Oct 2026 22:19:34",
     "score": 5,
     "uid": "bfe50ecff57bb435"
+  },
+  {
+    "title": "IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread",
+    "url": "https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty_writeup-5",
+    "summary": "An object-level authorization flaw let an authenticated user open another person&#x2019;s purchase inquiry and view supplier communication and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 30 Oct 2026 13:12:51",
+    "score": 5,
+    "uid": "81f6ad370c4121ea"
+  },
+  {
+    "title": "IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread",
+    "url": "https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty-5",
+    "summary": "An object-level authorization flaw let an authenticated user open another person&#x2019;s purchase inquiry and view supplier communication and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 30 Oct 2026 13:12:51",
+    "score": 5,
+    "uid": "5baac49696846c5f"
   },
   {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
@@ -1958,45 +1998,5 @@
     "published": "Fri, 10 Jul 2026 12:31:01",
     "score": 3,
     "uid": "5bd6711d55402dbf"
-  },
-  {
-    "title": "MCP Servers Are the New Open Port 22. Nobody’s Auditing Them.",
-    "url": "https://infosecwriteups.com/mcp-servers-are-the-new-open-port-22-nobodys-auditing-them-23f3f0e60768?source=rss------bug_bounty-5",
-    "summary": "The MCP Bug Bounty Field Guide &#xB7; Part 1 of 5 &#x2014; what the protocol is, and why it just created the most under-hunted surface of 2026.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 15:14:24",
-    "score": 3,
-    "uid": "d145e955e7455d2d"
-  },
-  {
-    "title": "How I Found a Critical Log Exposure in Workpay’s Infrastructure — Hardcoded Credentials Leading to…",
-    "url": "https://medium.com/@himxch/how-i-found-a-critical-log-exposure-in-workpays-infrastructure-hardcoded-credentials-leading-to-628f5f00b61a?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 14 Jul 2026 12:15:36",
-    "score": 3,
-    "uid": "db1312338ebad11e"
-  },
-  {
-    "title": "Zero Credentials, Full Access: Inside a Complete Authorization Failure",
-    "url": "https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss------bug_bounty-5",
-    "summary": "Bounty Case Files #01 How multiple trust-boundary failures allowed anonymous access to premium functionality in a production APIContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 15 Jul 2026 08:15:01",
-    "score": 3,
-    "uid": "7de08636fb96f402"
-  },
-  {
-    "title": "From File Downloads to Full Server Exposure: The Story of Directory Traversal",
-    "url": "https://medium.com/@pritamtare029/from-file-downloads-to-full-server-exposure-the-story-of-directory-traversal-779c37a17f80?source=rss------bug_bounty-5",
-    "summary": "How a simple file path can become a critical web application security vulnerability &#x2014; and why every penetration tester should know how to&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 15 Jul 2026 06:58:03",
-    "score": 3,
-    "uid": "a34ab606cec0d8c9"
   }
 ]
