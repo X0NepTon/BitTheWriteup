@@ -1,15 +1,5 @@
 [
   {
-    "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
-    "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
-    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 29 Oct 2026 05:06:29",
-    "score": 11,
-    "uid": "c766823404b5674b"
-  },
-  {
     "title": "Github Authentication Bypass on Major CRM",
     "url": "https://medium.com/@l4zz3rj0d/github-authentication-bypass-on-major-crm-519b141718d8?source=rss------bug_bounty-5",
     "summary": "This one&#x2019;s a genuinely tiny lab, which is honestly fitting given what it&#x2019;s actually teaching. Same Nagli-hosted Bug Bounty Masterclass&#x2026;Continue reading on Medium »",
@@ -130,6 +120,16 @@
     "uid": "179e3e422c828bec"
   },
   {
+    "title": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm",
+    "url": "https://dev.to/vaultvult/bypassing-android-ssl-pinning-a-journey-with-mitmproxy-and-apk-mitm-2eko",
+    "summary": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm When you start reverse-engineering Web3 applications, you quickly realize that the web frontend is only half the story. Often, the most sensitive API endpoints are locked behind the mobile app. If you want to intercept the traffic from an Android app to see how it communicates with the backend, the first tool you’ll reach for is a proxy like mitmproxy or Burp Suite. But here is the problem: Modern apps don't want to be intercepted. In this article, I’ll walk you through the methodology of intercepting Android traffic, hitting",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 21:07:22",
+    "score": 10,
+    "uid": "2bb38c392eee60b6"
+  },
+  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -248,6 +248,16 @@
     "published": "Sat, 31 Oct 2026 16:19:51",
     "score": 9,
     "uid": "30a005b9d3ab47df"
+  },
+  {
+    "title": "Why Unauthenticated API Endpoints are Still a Major Threat",
+    "url": "https://dev.to/vaultvult/why-unauthenticated-api-endpoints-are-still-a-major-threat-2knc",
+    "summary": "Why Unauthenticated API Endpoints are Still a Major Threat In the world of modern web development, we often focus heavily on securing the front door. We implement complex login flows, enforce multi-factor authentication (MFA), and integrate Web3 wallet signatures. But while the front door is locked tight, the back door is often left wide open. In this article, we are going to talk about Unauthenticated API Endpoints and Broken Access Control (BAC). It is one of the most common vulnerabilities found in bug bounties today, yet it is frequently dismissed by developers as \"just data\" or \"low risk.",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 21:10:57",
+    "score": 9,
+    "uid": "bc11109216be90a8"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,15 +1998,5 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "78881a868596eec5"
-  },
-  {
-    "title": "How I Took Over an Instagram Account Using Broken Link Hijacking & Found Open Redirections on…",
-    "url": "https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5",
-    "summary": "Hello, fellow hackers!Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 07 Jul 2026 14:58:54",
-    "score": 3,
-    "uid": "d916855c91222df2"
   }
 ]
