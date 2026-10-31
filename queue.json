@@ -1,15 +1,5 @@
 [
   {
-    "title": "Access Control Vulnerabilities: A Practical Guide to Broken Authorization",
-    "url": "https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5",
-    "summary": "Understanding vertical and horizontal privilege escalation, IDOR, and common access control weaknesses through PortSwigger Web Security&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 29 Oct 2026 23:56:35",
-    "score": 12,
-    "uid": "893885dcc7686437"
-  },
-  {
     "title": "Bypassing Organization-Wide 2FA Enforcement with a Single API Request",
     "url": "https://medium.com/@yassentaalab51/bypassing-organization-wide-2fa-enforcement-with-a-single-api-request-0243487644f2?source=rss------bug_bounty-5",
     "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647; &#x627;&#x644;&#x630;&#x64A; &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x628;&#x627;&#x644;&#x642;&#x644;&#x645;.. &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x627;&#x644;&#x625;&#x646;&#x633;&#x627;&#x646;&#x64E; &#x645;&#x627; &#x644;&#x645; &#x64A;&#x64E;&#x639;&#x652;&#x644;&#x64E;&#x645; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629;&#x64F; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645;&#x64F; &#x639;&#x644;&#x649; &#x62E;&#x64A;&#x631;&#x650; &#x645;&#x64F;&#x639;&#x64E;&#x644;&#x651;&#x650;&#x645;&#x64A; &#",
@@ -1688,6 +1678,16 @@
     "published": "Fri, 23 Oct 2026 06:41:01",
     "score": 4,
     "uid": "67f1ae7ed223579d"
+  },
+  {
+    "title": "API Key & Secret Leak Hunting: GitHub Dorking + TruffleHog at Scale",
+    "url": "https://osintteam.blog/api-key-secret-leak-hunting-github-dorking-trufflehog-at-scale-e7ee2ca97dd1?source=rss------bug_bounty-5",
+    "summary": "The single highest ROI skill in bug bounty &#x2014; find real, live credentials sitting in public code, at scale, with one automated pipelineContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 12:34:48",
+    "score": 4,
+    "uid": "937fcc589f69db27"
   },
   {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
