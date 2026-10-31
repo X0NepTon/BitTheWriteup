@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bypassing Organization-Wide 2FA Enforcement with a Single API Request",
-    "url": "https://medium.com/@yassentaalab51/bypassing-organization-wide-2fa-enforcement-with-a-single-api-request-0243487644f2?source=rss------bug_bounty-5",
-    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647; &#x627;&#x644;&#x630;&#x64A; &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x628;&#x627;&#x644;&#x642;&#x644;&#x645;.. &#x639;&#x64E;&#x644;&#x651;&#x64E;&#x645;&#x64E; &#x627;&#x644;&#x625;&#x646;&#x633;&#x627;&#x646;&#x64E; &#x645;&#x627; &#x644;&#x645; &#x64A;&#x64E;&#x639;&#x652;&#x644;&#x64E;&#x645; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629;&#x64F; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645;&#x64F; &#x639;&#x644;&#x649; &#x62E;&#x64A;&#x631;&#x650; &#x645;&#x64F;&#x639;&#x64E;&#x644;&#x651;&#x650;&#x645;&#x64A; &#",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 30 Oct 2026 09:04:47",
-    "score": 12,
-    "uid": "adb52a6fa32af2f3"
-  },
-  {
     "title": "Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files",
     "url": "https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Category: Web Exploitation Challenge: Search Source Topic: Website Mirroring, Source&#x2026;Continue reading on Medium »",
@@ -120,6 +110,26 @@
     "uid": "eb1fbba9bf7126c1"
   },
   {
+    "title": "The Debugging File Nobody Removed Before Shipping: Secrets Exposed Through a Public Source Map",
+    "url": "https://medium.com/@t4nv1/the-debugging-file-nobody-removed-before-shipping-secrets-exposed-through-a-public-source-map-420ce5afddcc?source=rss------bug_bounty-5",
+    "summary": "Modern frontend build tooling produces a specific kind of file that exists purely to help developers debug production code without reading&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 16:56:01",
+    "score": 10,
+    "uid": "45b6a2e27736d5ef"
+  },
+  {
+    "title": "🗺️ Hidden API Endpoints in JavaScript Bundles: Find and Prove Them",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/hidden-api-endpoints-in-javascript-bundles-find-and-prove-them-251h",
+    "summary": "Every single-page app ships a map of its own backend to every visitor. The router knows about pages the menu never links to. The API client knows about endpoints the UI only calls for admins. Sometimes a source map hands over the original, unminified source with the folder structure intact. Reading that map is one of the highest-value things you can do in the first hour of a web test. It's also where a lot of weak reports come from, because a path you found in a bundle is a lead, not a vulnerability. This article covers both halves: how to pull the interesting parts out of a JavaScript bundle,",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 13:20:24",
+    "score": 10,
+    "uid": "179e3e422c828bec"
+  },
+  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -228,6 +238,16 @@
     "published": "Sat, 31 Oct 2026 06:13:53",
     "score": 9,
     "uid": "406353d16f1ec0c1"
+  },
+  {
+    "title": "2FA simple bypass — An Authentication Bypass Lab Walkthrough",
+    "url": "https://vivek0x.medium.com/2fa-simple-bypass-an-authentication-bypass-lab-walkthrough-cacdd16ed682?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 16:19:51",
+    "score": 9,
+    "uid": "30a005b9d3ab47df"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1120,6 +1140,16 @@
     "uid": "dee8451843776b43"
   },
   {
+    "title": "CVE Decoded #7: CVE-2026–77304 (llm-council-core)",
+    "url": "https://medium.com/@workwithsaijal/cve-decoded-7-cve-2026-77304-llm-council-core-125b90c9da96?source=rss------bug_bounty-5",
+    "summary": "This is my attempt to dumbdown CVE and explain them the way I understand them.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 15:38:23",
+    "score": 5,
+    "uid": "3f3da98463b3544f"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1968,35 +1998,5 @@
     "published": "Tue, 07 Jul 2026 14:58:54",
     "score": 3,
     "uid": "d916855c91222df2"
-  },
-  {
-    "title": "How a Trusted Header Turned Into an Open Redirect in Telekom’s System",
-    "url": "https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty_writeup-5",
-    "summary": "Host Header Injection &#x2192; Open RedirectContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 08 Jul 2026 03:00:56",
-    "score": 3,
-    "uid": "b8aaaad2c0230919"
-  },
-  {
-    "title": "When Copying One File Was Enough to Bypass Protected Course Access",
-    "url": "https://medium.com/@ilianothingg/when-copying-one-file-was-enough-to-bypass-protected-course-access-a6972553f2d4?source=rss------bug_bounty-5",
-    "summary": "Responsible Disclosure: This issue was responsibly disclosed to the vendor, remediated, and published only after receiving permission for&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 08 Jul 2026 05:08:01",
-    "score": 3,
-    "uid": "e09b55035a9a7fb5"
-  },
-  {
-    "title": "How a Trusted Header Turned Into an Open Redirect in Telekom’s System",
-    "url": "https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5",
-    "summary": "Host Header Injection &#x2192; Open RedirectContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 08 Jul 2026 03:00:56",
-    "score": 3,
-    "uid": "eec77e78b8eb73c3"
   }
 ]
