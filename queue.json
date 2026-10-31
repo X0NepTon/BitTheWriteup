@@ -1,15 +1,5 @@
 [
   {
-    "title": "ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab",
-    "url": "https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty-5",
-    "summary": "A path confusion, a privilege elevation and a file write. Alone they look manageable. Chained, they own the mail server.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 30 Oct 2026 17:57:09",
-    "score": 13,
-    "uid": "c44af0ba6f5de36d"
-  },
-  {
     "title": "Access Control Vulnerabilities: A Practical Guide to Broken Authorization",
     "url": "https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5",
     "summary": "Understanding vertical and horizontal privilege escalation, IDOR, and common access control weaknesses through PortSwigger Web Security&#x2026;Continue reading on Medium »",
@@ -130,6 +120,16 @@
     "uid": "8bf153e90a8dbf86"
   },
   {
+    "title": "Giving an AI Agent a File Reader Without a Fence: Arbitrary File Read in an AWS Open-Source Tool",
+    "url": "https://medium.com/@vigneshkumaroffsec/giving-an-ai-agent-a-file-reader-without-a-fence-arbitrary-file-read-in-an-aws-open-source-tool-5d9d0525443c?source=rss------bug_bounty-5",
+    "summary": "What happens when a tool you hand to an LLM can read any path on your machineContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 02:28:07",
+    "score": 10,
+    "uid": "eb1fbba9bf7126c1"
+  },
+  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -228,6 +228,16 @@
     "published": "Fri, 30 Oct 2026 06:09:12",
     "score": 9,
     "uid": "fe4032e6f132515b"
+  },
+  {
+    "title": "From P4 to P1 — Day 8: Broken Function-Level Authorization (BFLA) in Bug Bounty Hunting",
+    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-8-broken-function-level-authorization-bfla-in-bug-bounty-hunting-722003cd40c1?source=rss------bug_bounty-5",
+    "summary": "Series: From P4 to P1: The Bug Hunter&#x2019;s Journey Day: 08/30 Topic: Broken Function-Level Authorization, Privilege Escalation, and API&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 06:13:53",
+    "score": 9,
+    "uid": "406353d16f1ec0c1"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1110,6 +1120,16 @@
     "uid": "5baac49696846c5f"
   },
   {
+    "title": "Introducing the Ticko Bug Bounty: Up to 200,000 USDT for Critical Vulnerabilities",
+    "url": "https://medium.com/ticko/introducing-the-ticko-bug-bounty-up-to-200-000-usdt-for-critical-vulnerabilities-1ebdf48df341?source=rss------bug_bounty-5",
+    "summary": "The Ticko Bug Bounty is a long-term program that rewards security researchers who find and responsibly disclose vulnerabilities, with up&#x2026;Continue reading on Ticko »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 31 Oct 2026 04:01:22",
+    "score": 5,
+    "uid": "dee8451843776b43"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Wed, 08 Jul 2026 03:00:56",
     "score": 3,
     "uid": "eec77e78b8eb73c3"
-  },
-  {
-    "title": "One Wildcard Character — $88,337 from Google: How brutecat Broke Cloud Tenant Isolation — A…",
-    "url": "https://medium.com/@vivekps143/one-wildcard-character-88-337-from-google-how-brutecat-broke-cloud-tenant-isolation-a-7110a0efaa30?source=rss------bug_bounty-5",
-    "summary": "Credit: This is a narrative review of a vulnerability originally discovered and responsibly disclosed by brutecat. The original report is&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 09 Jul 2026 14:29:41",
-    "score": 3,
-    "uid": "ec64eb3b52a8c2c1"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
