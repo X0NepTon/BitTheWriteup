@@ -1,16 +1,6 @@
 [
   {
     "title": "ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab",
-    "url": "https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty_writeup-5",
-    "summary": "A path confusion, a privilege elevation and a file write. Alone they look manageable. Chained, they own the mail server.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 30 Oct 2026 17:57:09",
-    "score": 14,
-    "uid": "c189fd6dc0ba9097"
-  },
-  {
-    "title": "ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab",
     "url": "https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty-5",
     "summary": "A path confusion, a privilege elevation and a file write. Alone they look manageable. Chained, they own the mail server.Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 09 Jul 2026 14:29:41",
     "score": 3,
     "uid": "ec64eb3b52a8c2c1"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
