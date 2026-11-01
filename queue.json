@@ -90,16 +90,6 @@
     "uid": "45b6a2e27736d5ef"
   },
   {
-    "title": "🗺️ Hidden API Endpoints in JavaScript Bundles: Find and Prove Them",
-    "url": "https://dev.to/krishna_kumar_75bdf350b26/hidden-api-endpoints-in-javascript-bundles-find-and-prove-them-251h",
-    "summary": "Every single-page app ships a map of its own backend to every visitor. The router knows about pages the menu never links to. The API client knows about endpoints the UI only calls for admins. Sometimes a source map hands over the original, unminified source with the folder structure intact. Reading that map is one of the highest-value things you can do in the first hour of a web test. It's also where a lot of weak reports come from, because a path you found in a bundle is a lead, not a vulnerability. This article covers both halves: how to pull the interesting parts out of a JavaScript bundle,",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 13:20:24",
-    "score": 10,
-    "uid": "179e3e422c828bec"
-  },
-  {
     "title": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm",
     "url": "https://dev.to/vaultvult/bypassing-android-ssl-pinning-a-journey-with-mitmproxy-and-apk-mitm-2eko",
     "summary": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm When you start reverse-engineering Web3 applications, you quickly realize that the web frontend is only half the story. Often, the most sensitive API endpoints are locked behind the mobile app. If you want to intercept the traffic from an Android app to see how it communicates with the backend, the first tool you’ll reach for is a proxy like mitmproxy or Burp Suite. But here is the problem: Modern apps don't want to be intercepted. In this article, I’ll walk you through the methodology of intercepting Android traffic, hitting",
@@ -108,6 +98,26 @@
     "published": "Sat, 31 Oct 2026 21:07:22",
     "score": 10,
     "uid": "2bb38c392eee60b6"
+  },
+  {
+    "title": "OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite",
+    "url": "https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5",
+    "summary": "Discover OpenTRAP: an open-source web application security testing suite combining an intercepting proxy, manual testing tools, and the&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 01 Nov 2026 13:58:47",
+    "score": 10,
+    "uid": "c7c625dedce2a982"
+  },
+  {
+    "title": "SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple",
+    "url": "https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5",
+    "summary": "Server-Side Request Forgery (SSRF) is one of the web security vulnerabilities I find particularly interesting because it can be hidden&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 01 Nov 2026 10:56:34",
+    "score": 10,
+    "uid": "1952f5ef7f732ba5"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -358,6 +368,16 @@
     "published": "Sun, 01 Nov 2026 02:48:57",
     "score": 7,
     "uid": "680546285e5a8859"
+  },
+  {
+    "title": "Unauthenticated SQL Injection in Code-Projects Simple School Management System 1.0",
+    "url": "https://medium.com/@jatin.security/unauthenticated-sql-injection-in-code-projects-simple-school-management-system-1-0-0f3fc20c331a?source=rss------bug_bounty-5",
+    "summary": "## Problem TypeContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 01 Nov 2026 12:55:50",
+    "score": 7,
+    "uid": "5244c3e80ef1202f"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 02 Jul 2026 08:39:40",
     "score": 3,
     "uid": "aed57af6b9eb89d2"
-  },
-  {
-    "title": "How I Discovered a Critical Data Leak Starting with a Small Clue",
-    "url": "https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5",
-    "summary": "INTRODUCTIONContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 04 Jul 2026 06:12:12",
-    "score": 3,
-    "uid": "78881a868596eec5"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
