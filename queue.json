@@ -1,15 +1,5 @@
 [
   {
-    "title": "Github Authentication Bypass on Major CRM",
-    "url": "https://medium.com/@l4zz3rj0d/github-authentication-bypass-on-major-crm-519b141718d8?source=rss------bug_bounty-5",
-    "summary": "This one&#x2019;s a genuinely tiny lab, which is honestly fitting given what it&#x2019;s actually teaching. Same Nagli-hosted Bug Bounty Masterclass&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 30 Oct 2026 06:49:16",
-    "score": 11,
-    "uid": "c2654852945cdc8b"
-  },
-  {
     "title": "Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…",
     "url": "https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty_writeup-5",
     "summary": "One nested property path in a request is enough to rewrite how the server logs, and then to write a web shell in a lab.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 04 Jul 2026 06:12:12",
     "score": 3,
     "uid": "78881a868596eec5"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
