@@ -90,16 +90,6 @@
     "uid": "45b6a2e27736d5ef"
   },
   {
-    "title": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm",
-    "url": "https://dev.to/vaultvult/bypassing-android-ssl-pinning-a-journey-with-mitmproxy-and-apk-mitm-2eko",
-    "summary": "Bypassing Android SSL Pinning: A Journey with mitmproxy and APK-Mitm When you start reverse-engineering Web3 applications, you quickly realize that the web frontend is only half the story. Often, the most sensitive API endpoints are locked behind the mobile app. If you want to intercept the traffic from an Android app to see how it communicates with the backend, the first tool you’ll reach for is a proxy like mitmproxy or Burp Suite. But here is the problem: Modern apps don't want to be intercepted. In this article, I’ll walk you through the methodology of intercepting Android traffic, hitting",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 21:07:22",
-    "score": 10,
-    "uid": "2bb38c392eee60b6"
-  },
-  {
     "title": "OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite",
     "url": "https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5",
     "summary": "Discover OpenTRAP: an open-source web application security testing suite combining an intercepting proxy, manual testing tools, and the&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 02 Jul 2026 08:39:40",
     "score": 3,
     "uid": "aed57af6b9eb89d2"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
