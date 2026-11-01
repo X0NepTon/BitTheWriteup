@@ -1,15 +1,5 @@
 [
   {
-    "title": "Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…",
-    "url": "https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty_writeup-5",
-    "summary": "One nested property path in a request is enough to rewrite how the server logs, and then to write a web shell in a lab.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 30 Oct 2026 17:55:09",
-    "score": 11,
-    "uid": "bf155b602449b8a3"
-  },
-  {
     "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
     "url": "https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bug_bounty-5",
     "summary": "Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input&#x2026;Continue reading on Medium »",
@@ -358,6 +348,16 @@
     "published": "Fri, 30 Oct 2026 14:12:40",
     "score": 7,
     "uid": "788058a7c72911ae"
+  },
+  {
+    "title": "The Hidden IDOR Vulnerability in /me/ API Endpoints",
+    "url": "https://medium.com/@Dark_Boss/the-hidden-idor-vulnerability-in-me-api-endpoints-5cf126fd29a7?source=rss------bug_bounty-5",
+    "summary": "A Practical Bug Bounty Guide to Finding Broken Object Level Authorization in Modern APIsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 01 Nov 2026 02:48:57",
+    "score": 7,
+    "uid": "680546285e5a8859"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
