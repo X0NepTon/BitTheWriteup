@@ -1,15 +1,5 @@
 [
   {
-    "title": "How Pentesters Hunt for Secrets in Page Source (Real-World Walkthrough Using a Lab)",
-    "url": "https://oxdzubair.medium.com/how-pentesters-hunt-for-secrets-in-page-source-real-world-walkthrough-using-a-lab-c34005382deb?source=rss------bug_bounty-5",
-    "summary": "One forgotten HTML comment leaked an admin path, a token and a flag. Here is the exact process I follow to find leaks like this on real&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 07:10:24",
-    "score": 10,
-    "uid": "aedb5df4325973a4"
-  },
-  {
     "title": "Ninja Forms and WooCommerce Plugin Attack: How to Check Your WordPress Site for Hidden Admins",
     "url": "https://medium.com/write-your-world/ninja-forms-and-woocommerce-plugin-attack-how-to-check-your-wordpress-site-for-hidden-admins-861377213738?source=rss------bug_bounty-5",
     "summary": "If you run Ninja Forms or the WPC Product Bundles plugin for WooCommerce, an active attack campaign deserves your attention today&#x2026;Continue reading on Write Your World »",
@@ -98,6 +88,16 @@
     "published": "Sun, 01 Nov 2026 10:56:34",
     "score": 10,
     "uid": "1952f5ef7f732ba5"
+  },
+  {
+    "title": "Cloud Infrastructure Security in AWS, GCP and Azure: What to Automate and What to Check by Hand",
+    "url": "https://medium.com/@vigneshkumaroffsec/cloud-infrastructure-security-in-aws-gcp-and-azure-what-to-automate-and-what-to-check-by-hand-533321f84ba4?source=rss------bug_bounty-5",
+    "summary": "A practical guide to securing the three major clouds: the risks they share, the services that differ, the open-source tools that scan them&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 02 Nov 2026 16:35:15",
+    "score": 10,
+    "uid": "4d27be86e2422ed7"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -238,6 +238,16 @@
     "published": "Sun, 01 Nov 2026 21:45:46",
     "score": 9,
     "uid": "73598ad1d27a4048"
+  },
+  {
+    "title": "I Found an Account Takeover Vulnerability Through Google Dorking | by Samadhan Shimple",
+    "url": "https://radiohackers.com/i-found-an-account-takeover-vulnerability-in-sorare-through-google-dorking-by-samadhan-shimple-637b74c22f34?source=rss------bug_bounty-5",
+    "summary": "Sometimes, finding a security vulnerability is not about using advanced tools or running complicated scripts. Sometimes, it starts with a&#x2026;Continue reading on Radio Hackers »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 02 Nov 2026 14:58:53",
+    "score": 9,
+    "uid": "7a5bbc35103936fa"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1740,6 +1750,26 @@
     "uid": "937fcc589f69db27"
   },
   {
+    "title": "Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide",
+    "url": "https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty_writeup-5",
+    "summary": "Why rate limits are worth your timeContinue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Mon, 02 Nov 2026 15:46:19",
+    "score": 4,
+    "uid": "a90b59df8eeb09e5"
+  },
+  {
+    "title": "Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide",
+    "url": "https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty-5",
+    "summary": "Why rate limits are worth your timeContinue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 02 Nov 2026 15:46:19",
+    "score": 4,
+    "uid": "dba3d153031d473e"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "Sun, 28 Jun 2026 21:37:46",
     "score": 3,
     "uid": "84699fd595a56350"
-  },
-  {
-    "title": "I Used DigPool.AI for Bug Bounty Hunting. Here’s What Actually Changed.",
-    "url": "https://medium.com/@apsoorya2020/i-used-digpool-ai-for-bug-bounty-hunting-heres-what-actually-changed-f2dd239ac4a5?source=rss------bug_bounty-5",
-    "summary": "Most bug bounty write-ups skip the boring part: the hours spent just figuring out what an application is actually doing before a single&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 29 Jun 2026 13:41:57",
-    "score": 3,
-    "uid": "84cc802c3da4e4b0"
-  },
-  {
-    "title": "How I Found an Email Verification Bypass on an AI Freelance Platform",
-    "url": "https://infosecwriteups.com/how-i-found-an-email-verification-bypass-on-an-ai-freelance-platform-6ad76663b658?source=rss------bug_bounty-5",
-    "summary": "A simple implementation flaw allowed email verification to be completed without ever opening the verification email.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 01 Jul 2026 10:20:39",
-    "score": 3,
-    "uid": "637a3dc9700e7a72"
-  },
-  {
-    "title": "TryHackMe Bounty Hacker Write-Up | Beginner-Friendly Walkthrough",
-    "url": "https://medium.com/@Pearl2k/tryhackme-bounty-hacker-write-up-beginner-friendly-walkthrough-9ef406428025?source=rss------bug_bounty-5",
-    "summary": "Room InformationContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 02 Jul 2026 08:39:40",
-    "score": 3,
-    "uid": "aed57af6b9eb89d2"
   }
 ]
