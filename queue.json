@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…",
-    "url": "https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bug_bounty-5",
-    "summary": "Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 03:01:05",
-    "score": 10,
-    "uid": "6ba6054b2491e78b"
-  },
-  {
     "title": "How Pentesters Hunt for Secrets in Page Source (Real-World Walkthrough Using a Lab)",
     "url": "https://oxdzubair.medium.com/how-pentesters-hunt-for-secrets-in-page-source-real-world-walkthrough-using-a-lab-c34005382deb?source=rss------bug_bounty-5",
     "summary": "One forgotten HTML comment leaked an admin path, a token and a flag. Here is the exact process I follow to find leaks like this on real&#x2026;Continue reading on Medium »",
@@ -238,6 +228,16 @@
     "published": "Sat, 31 Oct 2026 21:10:57",
     "score": 9,
     "uid": "bc11109216be90a8"
+  },
+  {
+    "title": "Authentication Bypass via Password Reset Flow Manipulation",
+    "url": "https://medium.com/@aytha324568/authentication-bypass-via-password-reset-flow-manipulation-70cb56477141?source=rss------bug_bounty-5",
+    "summary": "&#x642;&#x64E;&#x627;&#x644;&#x64F;&#x648;&#x627; &#x633;&#x64F;&#x628;&#x652;&#x62D;&#x64E;&#x627;&#x646;&#x64E;&#x643;&#x64E; &#x644;&#x64E;&#x627; &#x639;&#x650;&#x644;&#x652;&#x645;&#x64E; &#x644;&#x64E;&#x646;&#x64E;&#x627; &#x625;&#x650;&#x644;&#x64E;&#x651;&#x627; &#x645;&#x64E;&#x627; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x652;&#x62A;&#x64E;&#x646;&#x64E;&#x627; &#x6D6; &#x625;&#x650;&#x646;&#x64E;&#x651;&#x643;&#x64E; &#x623;&#x64E;&#x646;&#x62A;&#x64E; &#x627;&#x644;&#x652;&#x639;&#x64E;&#x644;&#x650;&#x64A;&#x645;&#x64F; &#x627;&#x644;&#x652;&#x62D;&#x64E;&#x643;&#x650;&#x64A;",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 01 Nov 2026 21:45:46",
+    "score": 9,
+    "uid": "73598ad1d27a4048"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
