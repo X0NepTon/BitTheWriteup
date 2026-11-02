@@ -280,6 +280,16 @@
     "uid": "48a810a9ca1d38ac"
   },
   {
+    "title": "From P4 to P1: Day 10 — Server-Side Request Forgery (SSRF): Finding and Validating Server-Side…",
+    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-10-server-side-request-forgery-ssrf-finding-and-validating-server-side-c76e4c785bd2?source=rss------bug_bounty-5",
+    "summary": "Series: From P4 to P1 Day: 10 of 30 Topic: Server-Side Request Forgery (SSRF) Category: Web Application Security | API SecurityContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 02 Nov 2026 05:31:57",
+    "score": 8,
+    "uid": "6ef1c847ad6ffb4f"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Thu, 02 Jul 2026 08:39:40",
     "score": 3,
     "uid": "aed57af6b9eb89d2"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
