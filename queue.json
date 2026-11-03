@@ -90,16 +90,6 @@
     "uid": "4d27be86e2422ed7"
   },
   {
-    "title": "📏 CVSS 4.0 for Bug Reports: Score the Impact You Actually Proved",
-    "url": "https://dev.to/krishna_kumar_75bdf350b26/cvss-40-for-bug-reports-score-the-impact-you-actually-proved-4dg",
-    "summary": "Most severity arguments over a bug report are not really about the bug. They are about the gap between what the reporter showed and what the reporter scored. The proof says \"I read another user's invoice\". The score says Critical, because \"this could lead to full account takeover\". The triager rescores it, the reporter feels robbed, and both sides lose a week. CVSS 4.0 has a rule for this, and it is the most useful sentence in the spec for anyone who writes reports. In short: score the impact you are confident an attacker can actually achieve, and score the end state, not the scariest thing yo",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Tue, 03 Nov 2026 13:23:36",
-    "score": 10,
-    "uid": "ab256accd9a2ae97"
-  },
-  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -248,6 +238,26 @@
     "published": "Mon, 02 Nov 2026 14:58:53",
     "score": 9,
     "uid": "7a5bbc35103936fa"
+  },
+  {
+    "title": "Intent Redirection to One-Click Account Takeover (But It’s a Duplicate)",
+    "url": "https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x64E;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x648;&#x64E;&#x627;&#x644;&#x652;&#x62D;&#x64E;&#x645;&#x652;&#x62F;&#x650; &#x644;&#x650;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x650;&#x627;&#x644;&#x652;&#x642;&#x64E;&#x644;&#x64E;&#x645;&#x650; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x652;&#x625;&#x650;&#x646;&#x652;&#x633;&#x64E;&#x627;&#x646;&#x64E; &#x645;&#x64E;&#x627; &#x644;&#x64E;&#x645;&#x652; &#x64A;&",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 03 Nov 2026 15:59:25",
+    "score": 9,
+    "uid": "21ccf341f5e92486"
+  },
+  {
+    "title": "Intent Redirection to One-Click Account Takeover (But It’s a Duplicate)",
+    "url": "https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x64E;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x648;&#x64E;&#x627;&#x644;&#x652;&#x62D;&#x64E;&#x645;&#x652;&#x62F;&#x650; &#x644;&#x650;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x650;&#x627;&#x644;&#x652;&#x642;&#x64E;&#x644;&#x64E;&#x645;&#x650; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x652;&#x625;&#x650;&#x646;&#x652;&#x633;&#x64E;&#x627;&#x646;&#x64E; &#x645;&#x64E;&#x627; &#x644;&#x64E;&#x645;&#x652; &#x64A;&",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 03 Nov 2026 15:59:25",
+    "score": 9,
+    "uid": "23d360ad24048f92"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1190,6 +1200,16 @@
     "uid": "fc01def8690deac7"
   },
   {
+    "title": "TryHackMe Room: Chaining Vulnerabilities — Learn how to chain vulnerabilities!",
+    "url": "https://th3blackhol3.medium.com/tryhackme-room-chaining-vulnerabilities-learn-how-to-chain-vulnerabilities-e97c5aded4a9?source=rss------bug_bounty-5",
+    "summary": "TryHackMe Room: Chaining Vulnerabilities &#x2014; Learn how to chain vulnerabilities! From Low to High!Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 03 Nov 2026 16:47:58",
+    "score": 5,
+    "uid": "03b3e740f12613cd"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Sat, 27 Jun 2026 17:01:35",
     "score": 3,
     "uid": "2a7e3ce57c9031ec"
-  },
-  {
-    "title": "I Chained 3 Low-Severity Bugs and Took Down the Entire App Admin Panel.",
-    "url": "https://medium.com/@psaibtech/i-chained-3-low-severity-bugs-and-took-down-the-entire-app-admin-panel-20aadf79bcda?source=rss------bug_bounty-5",
-    "summary": "Most people imagine hacking as someone wearing a hoodie, typing furiously on a black screen while green text scrolls everywhere.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 05:31:00",
-    "score": 3,
-    "uid": "3421a18ea9e9635e"
-  },
-  {
-    "title": "API Fuzzing for Bug Bounty: The Complete Attack-Focused Methodology",
-    "url": "https://infosecwriteups.com/api-fuzzing-for-bug-bounty-the-complete-attack-focused-methodology-7c7b36303088?source=rss------bug_bounty-5",
-    "summary": "API fuzzing is one of the most effective techniques for uncovering hidden vulnerabilities that traditional testing often misses. From&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 28 Jun 2026 08:05:18",
-    "score": 3,
-    "uid": "4623c270eb3a5c7e"
   }
 ]
