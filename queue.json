@@ -1,15 +1,5 @@
 [
   {
-    "title": "Pwning 15M+ Systems by Renaming a Song: From a CMS Audit to an Upstream RCE in getID3…",
-    "url": "https://medium.com/@shaikikram2005/pwning-15m-systems-by-renaming-a-song-from-a-cms-audit-to-an-upstream-rce-in-getid3-180e8fe8ac80?source=rss------bug_bounty-5",
-    "summary": "The GistContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 28 Oct 2026 11:48:10",
-    "score": 10,
-    "uid": "89a4170d456e3f99"
-  },
-  {
     "title": "The Query That Forgot to Ask Whose Data It Was: Cross-Tenant Leakage in a Multi-Tenant SaaS…",
     "url": "https://medium.com/@t4nv1/the-query-that-forgot-to-ask-whose-data-it-was-cross-tenant-leakage-in-a-multi-tenant-saas-6516597c38d4?source=rss------bug_bounty-5",
     "summary": "Multi-tenant architecture makes a promise that&#x2019;s easy to state and surprisingly hard to enforce everywhere, every time, across an entire&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sat, 27 Jun 2026 17:01:35",
     "score": 3,
     "uid": "2a7e3ce57c9031ec"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
