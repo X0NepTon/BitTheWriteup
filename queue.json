@@ -1,15 +1,5 @@
 [
   {
-    "title": "Mastering Open Redirect Vulnerabilities: From Simple Bypasses to Critical Bug Bounties",
-    "url": "https://medium.com/@nish.pawar.25/mastering-open-redirect-vulnerabilities-from-simple-bypasses-to-critical-bug-bounties-07731b7e987a?source=rss------bug_bounty-5",
-    "summary": "If you spend any time reading public bug bounty disclosures on platforms like HackerOne or Bugcrowd, you will often see Open Redirection&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 30 Oct 2026 05:18:34",
-    "score": 10,
-    "uid": "9f114b6715f1e049"
-  },
-  {
     "title": "Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…",
     "url": "https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty-5",
     "summary": "One nested property path in a request is enough to rewrite how the server logs, and then to write a web shell in a lab.Continue reading on Medium »",
@@ -68,6 +58,16 @@
     "published": "Mon, 02 Nov 2026 16:35:15",
     "score": 10,
     "uid": "4d27be86e2422ed7"
+  },
+  {
+    "title": "From a Profile Picture Upload to RCE: Hunting an ASP.NET/IIS Vulnerability",
+    "url": "https://medium.com/@gj20052007/from-a-profile-picture-upload-to-rce-hunting-an-asp-net-iis-vulnerability-7fc2c4cd0132?source=rss------bug_bounty-5",
+    "summary": "A real-world security testing journey involving reconnaissance, application logic, file-upload analysis, Stored XSS, and server-side code&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 04 Nov 2026 21:07:16",
+    "score": 10,
+    "uid": "1f6c7eafaeedaad8"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -408,6 +408,26 @@
     "published": "Wed, 04 Nov 2026 01:46:02",
     "score": 7,
     "uid": "fce57201b6817430"
+  },
+  {
+    "title": "1 AI Subscription made me 100k$ in 2 months",
+    "url": "https://anontriager.medium.com/1-ai-subscription-made-me-100k-in-2-months-f900750d6661?source=rss------bug_bounty-5",
+    "summary": "Over two months, I earned more than $100,000 from critical bug bounty findings across private HackerOne programs.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 04 Nov 2026 20:13:46",
+    "score": 7,
+    "uid": "2813fb01182478c5"
+  },
+  {
+    "title": "IDOR allows cross account workspace metadata disclosure",
+    "url": "https://medium.com/@v01d19/idor-allows-cross-account-workspace-metadata-disclosure-db01e52b1180?source=rss------bug_bounty-5",
+    "summary": "Hello friend, I hope you&#x2019;re doing great. Today, I&#x2019;m going to share a very simple IDOR vulnerability I found in an external bug bounty&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 04 Nov 2026 19:12:12",
+    "score": 7,
+    "uid": "b539a59fb447bdb1"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 26 Jun 2026 19:47:30",
     "score": 3,
     "uid": "734cea10c800a859"
-  },
-  {
-    "title": "When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study",
-    "url": "https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey It&#x2019;s been quite a while since my last article, but I&#x2019;m excited to start publishing consistently again. My goal is to share one or two&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 27 Jun 2026 17:01:35",
-    "score": 3,
-    "uid": "e0913006e2cc335b"
-  },
-  {
-    "title": "Stored XSS via SVG File Upload in a Project Management Application",
-    "url": "https://medium.com/@am011416854/stored-xss-via-svg-file-upload-in-a-project-management-application-038c0944c3f7?source=rss------bug_bounty-5",
-    "summary": "Bug Bounty Write-up | Stored XSS | File Upload SecurityContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 17:05:53",
-    "score": 3,
-    "uid": "9334bf4905f8622a"
   }
 ]
