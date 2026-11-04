@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Query That Forgot to Ask Whose Data It Was: Cross-Tenant Leakage in a Multi-Tenant SaaS…",
-    "url": "https://medium.com/@t4nv1/the-query-that-forgot-to-ask-whose-data-it-was-cross-tenant-leakage-in-a-multi-tenant-saas-6516597c38d4?source=rss------bug_bounty-5",
-    "summary": "Multi-tenant architecture makes a promise that&#x2019;s easy to state and surprisingly hard to enforce everywhere, every time, across an entire&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 29 Oct 2026 16:36:01",
-    "score": 10,
-    "uid": "2ada188fecd38709"
-  },
-  {
     "title": "Mastering Open Redirect Vulnerabilities: From Simple Bypasses to Critical Bug Bounties",
     "url": "https://medium.com/@nish.pawar.25/mastering-open-redirect-vulnerabilities-from-simple-bypasses-to-critical-bug-bounties-07731b7e987a?source=rss------bug_bounty-5",
     "summary": "If you spend any time reading public bug bounty disclosures on platforms like HackerOne or Bugcrowd, you will often see Open Redirection&#x2026;Continue reading on Medium »",
@@ -388,6 +378,16 @@
     "published": "Sun, 01 Nov 2026 12:55:50",
     "score": 7,
     "uid": "5244c3e80ef1202f"
+  },
+  {
+    "title": "Container Escapes and Linux Privilege Escalation: How They Work and How to Shut Them Down",
+    "url": "https://medium.com/@vigneshkumaroffsec/container-escapes-and-linux-privilege-escalation-how-they-work-and-how-to-shut-them-down-f1c378dc1f8e?source=rss------bug_bounty-5",
+    "summary": "The misconfigurations that let a container reach the host, the one check that detects each one, and the fix, explained for people securing&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 04 Nov 2026 01:46:02",
+    "score": 7,
+    "uid": "fce57201b6817430"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
