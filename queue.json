@@ -240,6 +240,26 @@
     "uid": "23d360ad24048f92"
   },
   {
+    "title": "One Deep Link, Zero Validation, Full ATO (Again)",
+    "url": "https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty_writeup-5",
+    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x64E;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x648;&#x64E;&#x627;&#x644;&#x652;&#x62D;&#x64E;&#x645;&#x652;&#x62F;&#x650; &#x644;&#x650;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x650;&#x627;&#x644;&#x652;&#x642;&#x64E;&#x644;&#x64E;&#x645;&#x650; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x652;&#x625;&#x650;&#x646;&#x652;&#x633;&#x64E;&#x627;&#x646;&#x64E; &#x645;&#x64E;&#x627; &#x644;&#x64E;&#x645;&#x652; &#x64A;&",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 04 Nov 2026 15:06:46",
+    "score": 9,
+    "uid": "a87f079f464f7c24"
+  },
+  {
+    "title": "One Deep Link, Zero Validation, Full ATO (Again)",
+    "url": "https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty-5",
+    "summary": "&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x64E;&#x644;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x648;&#x64E;&#x627;&#x644;&#x652;&#x62D;&#x64E;&#x645;&#x652;&#x62F;&#x650; &#x644;&#x650;&#x644;&#x64E;&#x651;&#x647;&#x650; &#x627;&#x644;&#x64E;&#x651;&#x630;&#x650;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x650;&#x627;&#x644;&#x652;&#x642;&#x64E;&#x644;&#x64E;&#x645;&#x650; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x652;&#x625;&#x650;&#x646;&#x652;&#x633;&#x64E;&#x627;&#x646;&#x64E; &#x645;&#x64E;&#x627; &#x644;&#x64E;&#x645;&#x652; &#x64A;&",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 04 Nov 2026 15:06:46",
+    "score": 9,
+    "uid": "e8b532cd99b219d7"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Sat, 27 Jun 2026 17:05:53",
     "score": 3,
     "uid": "9334bf4905f8622a"
-  },
-  {
-    "title": "When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study",
-    "url": "https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty-5",
-    "summary": "Hey It&#x2019;s been quite a while since my last article, but I&#x2019;m excited to start publishing consistently again. My goal is to share one or two&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 27 Jun 2026 17:01:35",
-    "score": 3,
-    "uid": "2a7e3ce57c9031ec"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
