@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Debugging File Nobody Removed Before Shipping: Secrets Exposed Through a Public Source Map",
-    "url": "https://medium.com/@t4nv1/the-debugging-file-nobody-removed-before-shipping-secrets-exposed-through-a-public-source-map-420ce5afddcc?source=rss------bug_bounty-5",
-    "summary": "Modern frontend build tooling produces a specific kind of file that exists purely to help developers debug production code without reading&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 16:56:01",
-    "score": 10,
-    "uid": "45b6a2e27736d5ef"
-  },
-  {
     "title": "OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite",
     "url": "https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5",
     "summary": "Discover OpenTRAP: an open-source web application security testing suite combining an intercepting proxy, manual testing tools, and the&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Thu, 05 Nov 2026 04:50:26",
     "score": 10,
     "uid": "218a0f5720e524f9"
+  },
+  {
+    "title": "PortSwigger lab: Broken brute-force protection, IP block",
+    "url": "https://medium.com/@spoorthi002/portswigger-lab-broken-brute-force-protection-ip-block-b8e80f2ad12b?source=rss------bug_bounty-5",
+    "summary": "Authentication mechanisms are designed to protect user accounts from unauthorized access.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 12:34:06",
+    "score": 10,
+    "uid": "c7677d6f3dabe1c8"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -248,6 +248,16 @@
     "published": "Wed, 04 Nov 2026 15:06:46",
     "score": 9,
     "uid": "e8b532cd99b219d7"
+  },
+  {
+    "title": "20 Identity Security Mistakes That Lead to Account Takeover: Learn to Master Your Defenses",
+    "url": "https://medium.com/@verylazytech/20-identity-security-mistakes-that-lead-to-account-takeover-learn-to-master-your-defenses-324f7dc89de9?source=rss------bug_bounty-5",
+    "summary": "What if I told you a single misstep in your identity security routine could hand attackers the keys to your entire digital life? It&#x2019;s not&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 14:36:12",
+    "score": 9,
+    "uid": "4a567b11d4971cde"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 26 Jun 2026 05:41:25",
     "score": 3,
     "uid": "db44b1e5ec1c7367"
-  },
-  {
-    "title": "Open Redirect — Tiny Bug, Real Reward",
-    "url": "https://kd-200.medium.com/open-redirect-tiny-bug-real-reward-9bb4e8bed03a?source=rss------bug_bounty-5",
-    "summary": "Hey everyone! Nitin here &#x1F44B;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 11:31:01",
-    "score": 3,
-    "uid": "1bab2f1e54b15272"
   }
 ]
