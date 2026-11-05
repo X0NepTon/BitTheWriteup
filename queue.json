@@ -1,15 +1,5 @@
 [
   {
-    "title": "Giving an AI Agent a File Reader Without a Fence: Arbitrary File Read in an AWS Open-Source Tool",
-    "url": "https://medium.com/@vigneshkumaroffsec/giving-an-ai-agent-a-file-reader-without-a-fence-arbitrary-file-read-in-an-aws-open-source-tool-5d9d0525443c?source=rss------bug_bounty-5",
-    "summary": "What happens when a tool you hand to an LLM can read any path on your machineContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 02:28:07",
-    "score": 10,
-    "uid": "eb1fbba9bf7126c1"
-  },
-  {
     "title": "The Debugging File Nobody Removed Before Shipping: Secrets Exposed Through a Public Source Map",
     "url": "https://medium.com/@t4nv1/the-debugging-file-nobody-removed-before-shipping-secrets-exposed-through-a-public-source-map-420ce5afddcc?source=rss------bug_bounty-5",
     "summary": "Modern frontend build tooling produces a specific kind of file that exists purely to help developers debug production code without reading&#x2026;Continue reading on Medium »",
@@ -58,6 +48,16 @@
     "published": "Wed, 04 Nov 2026 21:07:16",
     "score": 10,
     "uid": "1f6c7eafaeedaad8"
+  },
+  {
+    "title": "Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass",
+    "url": "https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5",
+    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Challenge: Web Gauntlet Category: Web Security Topic: SQL Injection, Authentication&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 04:50:26",
+    "score": 10,
+    "uid": "218a0f5720e524f9"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -298,6 +298,16 @@
     "published": "Mon, 02 Nov 2026 05:31:57",
     "score": 8,
     "uid": "6ef1c847ad6ffb4f"
+  },
+  {
+    "title": "OpenAI Bug Bounty: New $30,000 Critical Tier vs Old Rates",
+    "url": "https://dev.to/shaam_ai/openai-bug-bounty-new-30000-critical-tier-vs-old-rates-2mik",
+    "summary": "The OpenAI bug bounty now pays more than its previous ranges at every severity level OpenAI has illustrated, and the new scheme wins most clearly for critical findings in core products. In a post dated November 2, 2026, OpenAI said it is \"more than quadrupling the midpoint of our reward ranges for medium, high, and critical findings on average\", with critical bugs in ChatGPT, Codex or the API Platform paying up to $30,000. On the same day OpenAI announced its next internal security sprint, which will involve outside researchers from Cathedral Systems. For researchers who can write a reliable p",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 04:44:12",
+    "score": 8,
+    "uid": "c1b199b9aa783868"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1230,6 +1240,16 @@
     "uid": "03b3e740f12613cd"
   },
   {
+    "title": "IDOR: The Vulnerability That Hides Behind a Simple Request",
+    "url": "https://medium.com/@amjadrajawala/idor-the-vulnerability-that-hides-behind-a-simple-request-2773e364717f?source=rss------bug_bounty-5",
+    "summary": "Understanding how small authorization mistakes can expose an application&#x2019;s most sensitive data.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 10:59:35",
+    "score": 5,
+    "uid": "616d9fd474f48ec1"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 26 Jun 2026 11:31:01",
     "score": 3,
     "uid": "1bab2f1e54b15272"
-  },
-  {
-    "title": "From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.",
-    "url": "https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5",
-    "summary": "There&#x2019;s a special kind of pain in bug bounty. Not getting an Out of Scope. Not getting an informative.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 19:47:30",
-    "score": 3,
-    "uid": "734cea10c800a859"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
