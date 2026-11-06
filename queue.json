@@ -1,15 +1,5 @@
 [
   {
-    "title": "OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite",
-    "url": "https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5",
-    "summary": "Discover OpenTRAP: an open-source web application security testing suite combining an intercepting proxy, manual testing tools, and the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 01 Nov 2026 13:58:47",
-    "score": 10,
-    "uid": "c7c625dedce2a982"
-  },
-  {
     "title": "SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple",
     "url": "https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5",
     "summary": "Server-Side Request Forgery (SSRF) is one of the web security vulnerabilities I find particularly interesting because it can be hidden&#x2026;Continue reading on Medium »",
@@ -1270,6 +1260,26 @@
     "uid": "616d9fd474f48ec1"
   },
   {
+    "title": "How Four Lines of Code Could Delete Any Facebook Photo Album",
+    "url": "https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty_writeup-5",
+    "summary": "Real one again, and this time it&#x2019;s about as clean a textbook IDOR as you&#x2019;ll ever find written up, which is exactly why it&#x2019;s worth actually&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 06 Nov 2026 09:09:41",
+    "score": 5,
+    "uid": "c7454bd1638ab72b"
+  },
+  {
+    "title": "How Four Lines of Code Could Delete Any Facebook Photo Album",
+    "url": "https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty-5",
+    "summary": "Real one again, and this time it&#x2019;s about as clean a textbook IDOR as you&#x2019;ll ever find written up, which is exactly why it&#x2019;s worth actually&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 06 Nov 2026 09:09:41",
+    "score": 5,
+    "uid": "0c5c835e197ff8d9"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Wed, 24 Jun 2026 14:17:18",
     "score": 3,
     "uid": "4d550577f8e507b1"
-  },
-  {
-    "title": "Excessive Data Exposure via Unauthenticated GraphQL Endpoint",
-    "url": "https://medium.com/@am011416854/excessive-data-exposure-via-unauthenticated-graphql-endpoint-30e5dcc339ce?source=rss------bug_bounty-5",
-    "summary": "Bug Bounty Write-up | Information Disclosure | GraphQL SecurityContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 25 Jun 2026 09:20:53",
-    "score": 3,
-    "uid": "234110cd18a834ab"
   }
 ]
