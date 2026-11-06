@@ -320,6 +320,16 @@
     "uid": "c1b199b9aa783868"
   },
   {
+    "title": "The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy",
+    "url": "https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bug_bounty-5",
+    "summary": "An errand-boy proxy, a split-personality hostname, and a delivery to the proxy&#x2019;s own mailroom.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 20:03:22",
+    "score": 8,
+    "uid": "985687c0754cdd58"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -1860,6 +1870,16 @@
     "uid": "6fee74dbc3e7ba2a"
   },
   {
+    "title": "The Jail That Gave Its Prisoner a Staff Badge: Escaping WordPress Playground’s Sandbox",
+    "url": "https://medium.com/@mohamed.adel.887275/the-jail-that-gave-its-prisoner-a-staff-badge-escaping-wordpress-playgrounds-sandbox-db7e8eb89a9f?source=rss------bug_bounty-5",
+    "summary": "A sandbox escape in playground.wordpress.net, one iframe attribute, and a $0 lesson in bug bounty timing.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 20:33:55",
+    "score": 4,
+    "uid": "5cabf38b0272a152"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 25 Jun 2026 09:20:53",
     "score": 3,
     "uid": "234110cd18a834ab"
-  },
-  {
-    "title": "How I Locked a User Out of Their Own Account — My First Bug Bounty Finding",
-    "url": "https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5",
-    "summary": "So this is my first ever bug bounty writeup. And honestly, I didn&#x2019;t expect my first real finding to be this interesting. It&#x2019;s not an XSS&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 26 Jun 2026 08:29:02",
-    "score": 3,
-    "uid": "05027de1ca65e930"
-  },
-  {
-    "title": "SKILL.md: A New Supply Chain Threat in AI Agents and Harnesses",
-    "url": "https://systemweakness.com/skill-md-a-new-supply-chain-threat-in-ai-agents-and-harnesses-3112c7e34e60?source=rss------bug_bounty-5",
-    "summary": "IntroductionContinue reading on System Weakness »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 26 Jun 2026 05:41:25",
-    "score": 3,
-    "uid": "db44b1e5ec1c7367"
   }
 ]
