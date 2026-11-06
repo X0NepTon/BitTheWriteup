@@ -1,15 +1,5 @@
 [
   {
-    "title": "SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple",
-    "url": "https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5",
-    "summary": "Server-Side Request Forgery (SSRF) is one of the web security vulnerabilities I find particularly interesting because it can be hidden&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 01 Nov 2026 10:56:34",
-    "score": 10,
-    "uid": "1952f5ef7f732ba5"
-  },
-  {
     "title": "Cloud Infrastructure Security in AWS, GCP and Azure: What to Automate and What to Check by Hand",
     "url": "https://medium.com/@vigneshkumaroffsec/cloud-infrastructure-security-in-aws-gcp-and-azure-what-to-automate-and-what-to-check-by-hand-533321f84ba4?source=rss------bug_bounty-5",
     "summary": "A practical guide to securing the three major clouds: the risks they share, the services that differ, the open-source tools that scan them&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Wed, 24 Jun 2026 14:17:18",
     "score": 3,
     "uid": "4d550577f8e507b1"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
