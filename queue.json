@@ -1,15 +1,5 @@
 [
   {
-    "title": "Cloud Infrastructure Security in AWS, GCP and Azure: What to Automate and What to Check by Hand",
-    "url": "https://medium.com/@vigneshkumaroffsec/cloud-infrastructure-security-in-aws-gcp-and-azure-what-to-automate-and-what-to-check-by-hand-533321f84ba4?source=rss------bug_bounty-5",
-    "summary": "A practical guide to securing the three major clouds: the risks they share, the services that differ, the open-source tools that scan them&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 02 Nov 2026 16:35:15",
-    "score": 10,
-    "uid": "4d27be86e2422ed7"
-  },
-  {
     "title": "From a Profile Picture Upload to RCE: Hunting an ASP.NET/IIS Vulnerability",
     "url": "https://medium.com/@gj20052007/from-a-profile-picture-upload-to-rce-hunting-an-asp-net-iis-vulnerability-7fc2c4cd0132?source=rss------bug_bounty-5",
     "summary": "A real-world security testing journey involving reconnaissance, application logic, file-upload analysis, Stored XSS, and server-side code&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 27 Oct 2026 14:29:26",
     "score": 3,
     "uid": "5b81921bfa962d75"
+  },
+  {
+    "title": "How a Broken Email Confirmation Flow Took Over Any Shopify Store",
+    "url": "https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5",
+    "summary": "Real chain this time, not one report but three linked ones, all from the same researcher, Ron Chan, who goes by ngalog on HackerOne. This&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 05 Nov 2026 12:54:14",
+    "score": 3,
+    "uid": "7c50719d711529f3"
   }
 ]
