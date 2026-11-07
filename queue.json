@@ -30,6 +30,16 @@
     "uid": "c7677d6f3dabe1c8"
   },
   {
+    "title": "Why Rate Limiting Fails Against Distributed Attacks — and How to Build One That Holds",
+    "url": "https://medium.com/@vigneshkumaroffsec/why-rate-limiting-fails-against-distributed-attacks-and-how-to-build-one-that-holds-fb613546e969?source=rss------bug_bounty-5",
+    "summary": "You added a rate limit to your login and the brute-force didn&#x2019;t stop. Here&#x2019;s why per-IP limits break against rotating IPs, how to detect&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 07 Nov 2026 03:36:27",
+    "score": 10,
+    "uid": "bf77a4b7d9dcc0a2"
+  },
+  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -418,6 +428,16 @@
     "published": "Wed, 04 Nov 2026 19:12:12",
     "score": 7,
     "uid": "b539a59fb447bdb1"
+  },
+  {
+    "title": "From P4 to P1: Day 14 — Privilege Escalation: Finding Horizontal and Vertical Access Control…",
+    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-14-privilege-escalation-finding-horizontal-and-vertical-access-control-2e98c93f3f69?source=rss------bug_bounty-5",
+    "summary": "Series: From P4 to P1 Day: 14 of 30 Topic: Privilege Escalation in Web Applications Category: Web Application Security | Access ControlContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 07 Nov 2026 05:47:43",
+    "score": 7,
+    "uid": "285e7a539f90ee1a"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1978,25 +1998,5 @@
     "published": "Wed, 24 Jun 2026 14:17:18",
     "score": 3,
     "uid": "4d550577f8e507b1"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
-  },
-  {
-    "title": "How a Broken Email Confirmation Flow Took Over Any Shopify Store",
-    "url": "https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5",
-    "summary": "Real chain this time, not one report but three linked ones, all from the same researcher, Ron Chan, who goes by ngalog on HackerOne. This&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 05 Nov 2026 12:54:14",
-    "score": 3,
-    "uid": "7c50719d711529f3"
   }
 ]
