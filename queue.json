@@ -1,15 +1,5 @@
 [
   {
-    "title": "Facebook Reset Code Rate Limits: Lessons From a $15K Bug",
-    "url": "https://masimshahzad.medium.com/facebook-reset-code-rate-limits-lessons-from-a-15k-bug-50f007ddfe72?source=rss------bug_bounty-5",
-    "summary": "2016 Facebook bug: reset-code limits worked on one host, not others. Atomic counters, multi-host controls and defenses explained.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 07 Nov 2026 15:53:10",
-    "score": 11,
-    "uid": "9b5ca2f499aec0bf"
-  },
-  {
     "title": "Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass",
     "url": "https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Challenge: Web Gauntlet Category: Web Security Topic: SQL Injection, Authentication&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 23 Jun 2026 07:06:16",
     "score": 3,
     "uid": "021b11dc51d57ebb"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
