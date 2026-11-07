@@ -1,15 +1,5 @@
 [
   {
-    "title": "From a Profile Picture Upload to RCE: Hunting an ASP.NET/IIS Vulnerability",
-    "url": "https://medium.com/@gj20052007/from-a-profile-picture-upload-to-rce-hunting-an-asp-net-iis-vulnerability-7fc2c4cd0132?source=rss------bug_bounty-5",
-    "summary": "A real-world security testing journey involving reconnaissance, application logic, file-upload analysis, Stored XSS, and server-side code&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 04 Nov 2026 21:07:16",
-    "score": 10,
-    "uid": "1f6c7eafaeedaad8"
-  },
-  {
     "title": "Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass",
     "url": "https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5",
     "summary": "Author: Affanhaxor Platform: CyLab Security Academy Challenge: Web Gauntlet Category: Web Security Topic: SQL Injection, Authentication&#x2026;Continue reading on Medium »",
@@ -38,6 +28,26 @@
     "published": "Sat, 07 Nov 2026 03:36:27",
     "score": 10,
     "uid": "bf77a4b7d9dcc0a2"
+  },
+  {
+    "title": "OpenTrace AI Explained | Map Your Entire System Architecture with AI",
+    "url": "https://medium.com/@pentesterclubpvtltd/opentrace-ai-explained-map-your-entire-system-architecture-with-ai-27f4b35e33be?source=rss------bug_bounty-5",
+    "summary": "Give AI coding assistants a deeper understanding of your codebase with OpenTrace &#x2014; an open-source knowledge graph that connects files&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 07 Nov 2026 13:27:36",
+    "score": 10,
+    "uid": "3768850a6a93a10a"
+  },
+  {
+    "title": "Caido Tutorial for Beginners| TryHackMe Caido Basics",
+    "url": "https://medium.com/@arnahid/caido-tutorial-for-beginners-tryhackme-caido-basics-eed43dcb439f?source=rss------bug_bounty-5",
+    "summary": "Learn how to use Caido for web application security testing, inspect HTTP traffic, intercept requests, and explore essential features&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 07 Nov 2026 10:45:25",
+    "score": 10,
+    "uid": "1a91d3d91d2b573c"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -438,6 +448,16 @@
     "published": "Sat, 07 Nov 2026 05:47:43",
     "score": 7,
     "uid": "285e7a539f90ee1a"
+  },
+  {
+    "title": "12 Windows Kernel Security Concepts Every Researcher Should Master for Real-World Exploitation",
+    "url": "https://medium.com/@verylazytech/12-windows-kernel-security-concepts-every-researcher-should-master-for-real-world-exploitation-cec0753b3503?source=rss------bug_bounty-5",
+    "summary": "Ever seen a pentest report call out &#x201C;kernel-level privilege escalation&#x201D; and wondered, how did they even pull that off? Here&#x2019;s the secret &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 07 Nov 2026 09:43:56",
+    "score": 7,
+    "uid": "c076b627bb4338b3"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1978,25 +1998,5 @@
     "published": "Tue, 23 Jun 2026 09:41:57",
     "score": 3,
     "uid": "d0fbd5c115823129"
-  },
-  {
-    "title": "“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”",
-    "url": "https://infosecwriteups.com/bug-bounty-bootcamp-53-httpx-the-recon-tool-f68678b59a78?source=rss------bug_bounty-5",
-    "summary": "That Probes Thousands of Subdomains in SecondsContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 17:16:54",
-    "score": 3,
-    "uid": "9ad59b3cd7b95edf"
-  },
-  {
-    "title": "“Bug Bounty Bootcamp #54: Nmap — Your Digital Lockpick”",
-    "url": "https://infosecwriteups.com/bug-bounty-bootcamp-54-nmap-your-digital-lockpick-557da6ebf9de?source=rss------bug_bounty-5",
-    "summary": "Finding Open Ports and Hidden ServicesContinue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 24 Jun 2026 14:17:18",
-    "score": 3,
-    "uid": "4d550577f8e507b1"
   }
 ]
