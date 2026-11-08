@@ -1,15 +1,5 @@
 [
   {
-    "title": "OpenTrace AI Explained | Map Your Entire System Architecture with AI",
-    "url": "https://medium.com/@pentesterclubpvtltd/opentrace-ai-explained-map-your-entire-system-architecture-with-ai-27f4b35e33be?source=rss------bug_bounty-5",
-    "summary": "Give AI coding assistants a deeper understanding of your codebase with OpenTrace &#x2014; an open-source knowledge graph that connects files&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 07 Nov 2026 13:27:36",
-    "score": 10,
-    "uid": "3768850a6a93a10a"
-  },
-  {
     "title": "Caido Tutorial for Beginners| TryHackMe Caido Basics",
     "url": "https://medium.com/@arnahid/caido-tutorial-for-beginners-tryhackme-caido-basics-eed43dcb439f?source=rss------bug_bounty-5",
     "summary": "Learn how to use Caido for web application security testing, inspect HTTP traffic, intercept requests, and explore essential features&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 08 Nov 2026 12:46:09",
     "score": 3,
     "uid": "68952fdb36729694"
+  },
+  {
+    "title": "Updated List: Mon Nov 09 00:29:08 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/fe733c6dca3fa920f5dea341532ead48f3241dec",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "2e528d2cf08511a8"
   }
 ]
