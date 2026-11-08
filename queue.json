@@ -1,15 +1,5 @@
 [
   {
-    "title": "PortSwigger lab: Broken brute-force protection, IP block",
-    "url": "https://medium.com/@spoorthi002/portswigger-lab-broken-brute-force-protection-ip-block-b8e80f2ad12b?source=rss------bug_bounty-5",
-    "summary": "Authentication mechanisms are designed to protect user accounts from unauthorized access.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 05 Nov 2026 12:34:06",
-    "score": 10,
-    "uid": "c7677d6f3dabe1c8"
-  },
-  {
     "title": "Why Rate Limiting Fails Against Distributed Attacks — and How to Build One That Holds",
     "url": "https://medium.com/@vigneshkumaroffsec/why-rate-limiting-fails-against-distributed-attacks-and-how-to-build-one-that-holds-fb613546e969?source=rss------bug_bounty-5",
     "summary": "You added a rate limit to your login and the brute-force didn&#x2019;t stop. Here&#x2019;s why per-IP limits break against rotating IPs, how to detect&#x2026;Continue reading on Medium »",
