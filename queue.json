@@ -1,15 +1,5 @@
 [
   {
-    "title": "Why Rate Limiting Fails Against Distributed Attacks — and How to Build One That Holds",
-    "url": "https://medium.com/@vigneshkumaroffsec/why-rate-limiting-fails-against-distributed-attacks-and-how-to-build-one-that-holds-fb613546e969?source=rss------bug_bounty-5",
-    "summary": "You added a rate limit to your login and the brute-force didn&#x2019;t stop. Here&#x2019;s why per-IP limits break against rotating IPs, how to detect&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 07 Nov 2026 03:36:27",
-    "score": 10,
-    "uid": "bf77a4b7d9dcc0a2"
-  },
-  {
     "title": "OpenTrace AI Explained | Map Your Entire System Architecture with AI",
     "url": "https://medium.com/@pentesterclubpvtltd/opentrace-ai-explained-map-your-entire-system-architecture-with-ai-27f4b35e33be?source=rss------bug_bounty-5",
     "summary": "Give AI coding assistants a deeper understanding of your codebase with OpenTrace &#x2014; an open-source knowledge graph that connects files&#x2026;Continue reading on Medium »",
@@ -228,6 +218,16 @@
     "published": "Thu, 05 Nov 2026 14:36:12",
     "score": 9,
     "uid": "4a567b11d4971cde"
+  },
+  {
+    "title": "The Template That Closes Real Findings: Anatomy of a CORS Dismissal",
+    "url": "https://cyphernova1337.medium.com/the-template-that-closes-real-findings-anatomy-of-a-cors-dismissal-c7c3ee8ce17f?source=rss------bug_bounty-5",
+    "summary": "A demonstrated cross-origin data-theft channel on licensed claims and actuarial portals was closed as &#x201C;Informative&#x201D; with a response that&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 08 Nov 2026 17:37:50",
+    "score": 9,
+    "uid": "77cefbf839e53452"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,5 +1988,15 @@
     "published": "Thu, 05 Nov 2026 12:54:14",
     "score": 3,
     "uid": "7c50719d711529f3"
+  },
+  {
+    "title": "I Found a 9.8 Critical Integer Overflow in Google’s TensorFlow. Google Refused to Pay Me.",
+    "url": "https://medium.com/@0xanubiis/i-found-a-9-8-critical-integer-overflow-in-googles-tensorflow-google-refused-to-pay-me-9d8b52bbc5c1?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 08 Nov 2026 12:46:09",
+    "score": 3,
+    "uid": "68952fdb36729694"
   }
 ]
