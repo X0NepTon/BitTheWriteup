@@ -1,15 +1,5 @@
 [
   {
-    "title": "Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass",
-    "url": "https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5",
-    "summary": "Author: Affanhaxor Platform: CyLab Security Academy Challenge: Web Gauntlet Category: Web Security Topic: SQL Injection, Authentication&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 05 Nov 2026 04:50:26",
-    "score": 10,
-    "uid": "218a0f5720e524f9"
-  },
-  {
     "title": "PortSwigger lab: Broken brute-force protection, IP block",
     "url": "https://medium.com/@spoorthi002/portswigger-lab-broken-brute-force-protection-ip-block-b8e80f2ad12b?source=rss------bug_bounty-5",
     "summary": "Authentication mechanisms are designed to protect user accounts from unauthorized access.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Tue, 27 Oct 2026 14:29:26",
     "score": 3,
     "uid": "5b81921bfa962d75"
+  },
+  {
+    "title": "How a Broken Email Confirmation Flow Took Over Any Shopify Store",
+    "url": "https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5",
+    "summary": "Real chain this time, not one report but three linked ones, all from the same researcher, Ron Chan, who goes by ngalog on HackerOne. This&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 05 Nov 2026 12:54:14",
+    "score": 3,
+    "uid": "7c50719d711529f3"
   }
 ]
