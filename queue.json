@@ -1,13 +1,23 @@
 [
   {
-    "title": "Caido Tutorial for Beginners| TryHackMe Caido Basics",
-    "url": "https://medium.com/@arnahid/caido-tutorial-for-beginners-tryhackme-caido-basics-eed43dcb439f?source=rss------bug_bounty-5",
-    "summary": "Learn how to use Caido for web application security testing, inspect HTTP traffic, intercept requests, and explore essential features&#x2026;Continue reading on Medium »",
+    "title": "Finding vulnerabilities in web applications in the age of AI",
+    "url": "https://medium.com/@AstroKrypTech/finding-vulnerabilities-in-web-applications-in-the-age-of-ai-ab051f0e3fe4?source=rss------bug_bounty-5",
+    "summary": "For the noobs and those with less resourcesContinue reading on Medium »",
     "source_id": "medium_bb",
     "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 07 Nov 2026 10:45:25",
+    "published": "Mon, 09 Nov 2026 19:08:09",
     "score": 10,
-    "uid": "1a91d3d91d2b573c"
+    "uid": "c5f57bd26a449abe"
+  },
+  {
+    "title": "HALBERD Explained | AI-Powered Multi-Cloud Attack Emulation Tool",
+    "url": "https://medium.com/@pentesterclubpvtltd/halberd-explained-ai-powered-multi-cloud-attack-emulation-tool-f660a7244ac7?source=rss------bug_bounty-5",
+    "summary": "How Vectra AI Research&#x2019;s Open-Source Platform Helps Security Teams Simulate Attacks Across AWS, Azure, GCP, and Microsoft 365Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 09 Nov 2026 13:25:57",
+    "score": 10,
+    "uid": "9978b15a1819a8c8"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -438,6 +448,16 @@
     "published": "Sat, 07 Nov 2026 09:43:56",
     "score": 7,
     "uid": "c076b627bb4338b3"
+  },
+  {
+    "title": "IDOR: The Bug That Pays the Most in 2026",
+    "url": "https://osintteam.blog/idor-the-bug-that-pays-the-most-in-2026-4828a780a279?source=rss------bug_bounty-5",
+    "summary": "A complete guide to finding, testing, and reporting Insecure Direct Object Reference bugs &#x2014; the #1 most reported and highest paying&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 09 Nov 2026 15:38:32",
+    "score": 7,
+    "uid": "065567d42192114c"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1978,25 +1998,5 @@
     "published": "Thu, 05 Nov 2026 12:54:14",
     "score": 3,
     "uid": "7c50719d711529f3"
-  },
-  {
-    "title": "I Found a 9.8 Critical Integer Overflow in Google’s TensorFlow. Google Refused to Pay Me.",
-    "url": "https://medium.com/@0xanubiis/i-found-a-9-8-critical-integer-overflow-in-googles-tensorflow-google-refused-to-pay-me-9d8b52bbc5c1?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 08 Nov 2026 12:46:09",
-    "score": 3,
-    "uid": "68952fdb36729694"
-  },
-  {
-    "title": "Updated List: Mon Nov 09 14:17:50 IST 2026",
-    "url": "https://github.com/rix4uni/medium-writeups/commit/8184e8858021a0c46074cb1b45717d646aefb8ab",
-    "summary": "bug bounty writeup",
-    "source_id": "github_wu",
-    "source_name": "GitHub medium-writeups",
-    "published": "",
-    "score": 3,
-    "uid": "4f2bd5471e8b3e48"
   }
 ]
