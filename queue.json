@@ -1,15 +1,5 @@
 [
   {
-    "title": "Chaining an Open Redirect Into Account Takeover (P1 · CVSS 9.0)",
-    "url": "https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 08 Nov 2026 23:28:54",
-    "score": 15,
-    "uid": "5d719f07aee45493"
-  },
-  {
     "title": "Caido Tutorial for Beginners| TryHackMe Caido Basics",
     "url": "https://medium.com/@arnahid/caido-tutorial-for-beginners-tryhackme-caido-basics-eed43dcb439f?source=rss------bug_bounty-5",
     "summary": "Learn how to use Caido for web application security testing, inspect HTTP traffic, intercept requests, and explore essential features&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Sun, 08 Nov 2026 12:46:09",
     "score": 3,
     "uid": "68952fdb36729694"
+  },
+  {
+    "title": "Updated List: Mon Nov 09 14:17:50 IST 2026",
+    "url": "https://github.com/rix4uni/medium-writeups/commit/8184e8858021a0c46074cb1b45717d646aefb8ab",
+    "summary": "bug bounty writeup",
+    "source_id": "github_wu",
+    "source_name": "GitHub medium-writeups",
+    "published": "",
+    "score": 3,
+    "uid": "4f2bd5471e8b3e48"
   }
 ]
