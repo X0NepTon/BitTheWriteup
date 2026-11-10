@@ -310,6 +310,16 @@
     "uid": "e2d89045c06fd0da"
   },
   {
+    "title": "How a Browser Extension Check Led to Uncovering CVE-2021–44528 (Open Redirect)",
+    "url": "https://medium.com/@adarshnair135/how-a-browser-extension-check-led-to-uncovering-cve-2021-44528-open-redirect-3c525e0054ef?source=rss------bug_bounty_writeup-5",
+    "summary": "While browsing a target Web application, I clicked on the Shodan Browser Extension to view quick context on the server stack, open ports&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 10 Nov 2026 13:49:00",
+    "score": 8,
+    "uid": "3af25d4ae3f73348"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -1988,15 +1998,5 @@
     "published": "Thu, 23 Apr 2026 00:00:00",
     "score": 3,
     "uid": "0c2c23899db1724f"
-  },
-  {
-    "title": "Client-Side Path Traversal (CSPT): I Found It, Chained It, and Wiped an Entire Organization",
-    "url": "https://mugh33ra.medium.com/client-side-path-traversal-cspt-i-found-it-chained-it-and-wiped-an-entire-organization-a793d3f3d8eb?source=rss------bug_bounty_writeup-5",
-    "summary": "The TargetContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Mon, 22 Jun 2026 08:57:33",
-    "score": 3,
-    "uid": "efe2d6fda29a24c9"
   }
 ]
