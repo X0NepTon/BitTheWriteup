@@ -460,6 +460,26 @@
     "uid": "065567d42192114c"
   },
   {
+    "title": "P3 — Insecure Direct Object Reference (IDOR) in User Profile API",
+    "url": "https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty_writeup-5",
+    "summary": "Severity: Medium (P3) Vulnerability Type: Broken Object-Level Authorization (BOLA / IDOR) CWE: CWE-639 &#x2014; Authorization Bypass Through&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 10 Nov 2026 06:23:08",
+    "score": 7,
+    "uid": "833eb9319227f5e9"
+  },
+  {
+    "title": "P3 — Insecure Direct Object Reference (IDOR) in User Profile API",
+    "url": "https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty-5",
+    "summary": "Severity: Medium (P3) Vulnerability Type: Broken Object-Level Authorization (BOLA / IDOR) CWE: CWE-639 &#x2014; Authorization Bypass Through&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 10 Nov 2026 06:23:08",
+    "score": 7,
+    "uid": "6ad6961efb6377d8"
+  },
+  {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
     "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5",
     "summary": "Bonus: A webhook.site alternative for security testingContinue reading on Medium »",
@@ -528,6 +548,16 @@
     "published": "Tue, 20 Oct 2026 03:58:09",
     "score": 6,
     "uid": "b13ac55757c3a3b1"
+  },
+  {
+    "title": "How I Bypassed 2FA by Changing One Request Parameter — and Earned a $$$ Bounty",
+    "url": "https://nowisar.medium.com/how-i-bypassed-2fa-by-changing-one-request-parameter-and-earned-a-bounty-3582027c135e?source=rss------bug_bounty-5",
+    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647; &#x627;&#x644;&#x630;&#x64A; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x628;&#x627;&#x644;&#x642;&#x644;&#x645;.. &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x64E; &#x627;&#x644;&#x625;&#x646;&#x633;&#x627;&#x646;&#x64E; &#x645;&#x627; &#x644;&#x645; &#x64A;&#x64E;&#x639;&#x652;&#x644;&#x64E;&#x645; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629;&#x64F; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645;&#x64F; &#x639;&#x644;&#x649; &#x62E;&#x64A;&#x631;&#x650; &#x645;&#x64F;&#x639;&#x64E;&#x644;&#x650;&#x651;&#x645;&#x64A; &#",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 10 Nov 2026 08:18:32",
+    "score": 6,
+    "uid": "d9f6cb4546e9208d"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1968,35 +1998,5 @@
     "published": "Mon, 22 Jun 2026 08:57:33",
     "score": 3,
     "uid": "efe2d6fda29a24c9"
-  },
-  {
-    "title": "Bug Bounty Recon Mastery →Advanced Reconnaissance and Attack Surface Mapping V2",
-    "url": "https://infosecwriteups.com/bug-bounty-recon-mastery-advanced-reconnaissance-and-attack-surface-mapping-v2-c18e0a6738c9?source=rss------bug_bounty-5",
-    "summary": "Real-World Deep Dive Advanced Reconnaissance.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 23 Jun 2026 07:06:16",
-    "score": 3,
-    "uid": "021b11dc51d57ebb"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
-  },
-  {
-    "title": "How a Broken Email Confirmation Flow Took Over Any Shopify Store",
-    "url": "https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5",
-    "summary": "Real chain this time, not one report but three linked ones, all from the same researcher, Ron Chan, who goes by ngalog on HackerOne. This&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 05 Nov 2026 12:54:14",
-    "score": 3,
-    "uid": "7c50719d711529f3"
   }
 ]
