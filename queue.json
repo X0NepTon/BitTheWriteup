@@ -1,5 +1,25 @@
 [
   {
+    "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
+    "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty_writeup-5",
+    "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Wed, 11 Nov 2026 03:31:02",
+    "score": 12,
+    "uid": "014eff6f2f5cdc05"
+  },
+  {
+    "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
+    "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty-5",
+    "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 11 Nov 2026 03:31:02",
+    "score": 11,
+    "uid": "507decb3d35166df"
+  },
+  {
     "title": "HALBERD Explained | AI-Powered Multi-Cloud Attack Emulation Tool",
     "url": "https://medium.com/@pentesterclubpvtltd/halberd-explained-ai-powered-multi-cloud-attack-emulation-tool-f660a7244ac7?source=rss------bug_bounty-5",
     "summary": "How Vectra AI Research&#x2019;s Open-Source Platform Helps Security Teams Simulate Attacks Across AWS, Azure, GCP, and Microsoft 365Continue reading on Medium »",
@@ -1940,6 +1960,16 @@
     "uid": "5cabf38b0272a152"
   },
   {
+    "title": "The CSRF Token Nobody Checked",
+    "url": "https://masimshahzad.medium.com/the-csrf-token-nobody-checked-6c4254608a69?source=rss------bug_bounty-5",
+    "summary": "A 2015 Messenger.com disclosure shows that issuing anti-forgery tokens is worthless if the server never verifies themContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 11 Nov 2026 04:00:16",
+    "score": 4,
+    "uid": "8d00d35b588d2e45"
+  },
+  {
     "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
     "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
@@ -1968,35 +1998,5 @@
     "published": "Tue, 29 Oct 2024 13:59:13",
     "score": 3,
     "uid": "adead73e545afd75"
-  },
-  {
-    "title": "Using form hijacking to bypass CSP",
-    "url": "https://portswigger.net/research/using-form-hijacking-to-bypass-csp",
-    "summary": "In this post we'll show you how to bypass CSP by using an often overlooked technique that can enable password theft in a seemingly secure configuration. What is form hijacking? Form hijacking isn't re",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 05 Mar 2024 14:55:00",
-    "score": 3,
-    "uid": "e1d3b7f4e52624a1"
-  },
-  {
-    "title": "Vulnpocalypse Now? How AI is changing vulnerability discovery",
-    "url": "https://www.intigriti.com/blog/business-insights/vulnpocalypse-now-how-ai-is-changing-vulnerability-discovery",
-    "summary": "What you will learn How vulnerability research and security testing may evolve in the future, based on expert insights and reflections from Intigriti COO Ed Parsons. How AI is reshaping vulnerability discovery, including the major trends and developments security teams should understand today. The ‘vulnpocalypse’, and what it signals about the future of AI-assisted hacking. The risks, opportunities, and practical impact of AI-supported hackers. Contextualizing AI’s impact Intigriti i…",
-    "source_id": "intigriti",
-    "source_name": "Intigriti Blog",
-    "published": "Thu, 23 Apr 2026 00:00:00",
-    "score": 3,
-    "uid": "0c2c23899db1724f"
-  },
-  {
-    "title": "Scalable Vector Grief",
-    "url": "https://portswigger.net/research/scalable-vector-grief",
-    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 27 Oct 2026 14:29:26",
-    "score": 3,
-    "uid": "5b81921bfa962d75"
   }
 ]
