@@ -10,6 +10,16 @@
     "uid": "014eff6f2f5cdc05"
   },
   {
+    "title": "The $8,000 Kubernetes SSRF Bug Bounty: How One Hidden HTTP Header Revealed an Entire Internal…",
+    "url": "https://medium.com/@asadmohsin760/the-8-000-kubernetes-ssrf-bug-bounty-how-one-hidden-http-header-revealed-an-entire-internal-6de68593408a?source=rss------bug_bounty-5",
+    "summary": "Introduction: An $8,000 Opportunity Hidden in a Single HTTP HeaderContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 11 Nov 2026 10:46:01",
+    "score": 12,
+    "uid": "e71199a835904bd7"
+  },
+  {
     "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
     "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty-5",
     "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
@@ -28,6 +38,16 @@
     "published": "Mon, 09 Nov 2026 13:25:57",
     "score": 10,
     "uid": "9978b15a1819a8c8"
+  },
+  {
+    "title": "Nukerat Framework Explained: Advanced Red Team Operations & Post-Exploitation",
+    "url": "https://medium.com/@pentesterclubpvtltd/nukerat-framework-explained-advanced-red-team-operations-post-exploitation-853cf6264a12?source=rss------bug_bounty-5",
+    "summary": "Subtitle: Exploring Nukerat, an emerging open-source post-exploitation framework for red team operations, adversary simulation, and&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 11 Nov 2026 13:45:14",
+    "score": 10,
+    "uid": "83b57ef22605d71e"
   },
   {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
@@ -1970,33 +1990,13 @@
     "uid": "8d00d35b588d2e45"
   },
   {
-    "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
-    "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-    "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Wed, 03 Sep 2025 14:46:23",
-    "score": 3,
-    "uid": "65ce9534c0d82e35"
-  },
-  {
-    "title": "Bypassing character blocklists with unicode overflows",
-    "url": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
-    "summary": "Unicode codepoint truncation - also called a Unicode overflow attack - happens when a server tries to store a Unicode character in a single byte. Because the maximum value of a byte is 255, an overflo",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 28 Jan 2025 13:58:28",
-    "score": 3,
-    "uid": "c9ef748eb0c78935"
-  },
-  {
-    "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet",
-    "url": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
-    "summary": "The strength of our URL Validation Bypass Cheat Sheet lies in the contributions from the web security community, and today’s update is no exception. We are excited to introduce a new and improved IP a",
-    "source_id": "portswigger",
-    "source_name": "PortSwigger Research",
-    "published": "Tue, 29 Oct 2024 13:59:13",
-    "score": 3,
-    "uid": "adead73e545afd75"
+    "title": "🕸️ GraphQL BOLA: One Object, Many Paths, and How to Prove the Gap",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/graphql-bola-one-object-many-paths-and-how-to-prove-the-gap-40n7",
+    "summary": "In a REST API, an invoice usually lives at one URL. You test GET /invoices/1042 with a second account, and you've tested the invoice. GraphQL doesn't work that way. The same invoice might come back from invoice(id:), from node(id:), from me { invoices }, from a search union, and from the payload of a sendInvoice mutation. Each of those is a separate resolver. The developer who added the ownership check to invoice(id:) may never have touched the other four. So in GraphQL, broken object level authorization (BOLA, also called IDOR) is rarely \"the API has no checks\". It's \"one path to the object h",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Wed, 11 Nov 2026 13:26:03",
+    "score": 4,
+    "uid": "9c705aa66b973564"
   }
 ]
