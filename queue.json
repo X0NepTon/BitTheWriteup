@@ -1,15 +1,5 @@
 [
   {
-    "title": "Finding vulnerabilities in web applications in the age of AI",
-    "url": "https://medium.com/@AstroKrypTech/finding-vulnerabilities-in-web-applications-in-the-age-of-ai-ab051f0e3fe4?source=rss------bug_bounty-5",
-    "summary": "For the noobs and those with less resourcesContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 09 Nov 2026 19:08:09",
-    "score": 10,
-    "uid": "c5f57bd26a449abe"
-  },
-  {
     "title": "HALBERD Explained | AI-Powered Multi-Cloud Attack Emulation Tool",
     "url": "https://medium.com/@pentesterclubpvtltd/halberd-explained-ai-powered-multi-cloud-attack-emulation-tool-f660a7244ac7?source=rss------bug_bounty-5",
     "summary": "How Vectra AI Research&#x2019;s Open-Source Platform Helps Security Teams Simulate Attacks Across AWS, Azure, GCP, and Microsoft 365Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Thu, 23 Apr 2026 00:00:00",
     "score": 3,
     "uid": "0c2c23899db1724f"
+  },
+  {
+    "title": "Scalable Vector Grief",
+    "url": "https://portswigger.net/research/scalable-vector-grief",
+    "summary": "I tested eight popular SVG sanitizers and bypassed six of them. In this post, I'll show you how a response header can run JavaScript in Firefox even when the response body is completely harmless XML.",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Tue, 27 Oct 2026 14:29:26",
+    "score": 3,
+    "uid": "5b81921bfa962d75"
   }
 ]
