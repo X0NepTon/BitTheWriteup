@@ -1,16 +1,6 @@
 [
   {
     "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
-    "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty_writeup-5",
-    "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 11 Nov 2026 03:31:02",
-    "score": 12,
-    "uid": "014eff6f2f5cdc05"
-  },
-  {
-    "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
     "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty-5",
     "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
     "source_id": "medium_bb",
@@ -248,6 +238,16 @@
     "published": "Sun, 08 Nov 2026 17:37:50",
     "score": 9,
     "uid": "77cefbf839e53452"
+  },
+  {
+    "title": "How I Find SQL Injection Vulnerabilities: My Manual Bug-Bounty Testing Method",
+    "url": "https://medium.com/@vigneshkumaroffsec/how-i-find-sql-injection-vulnerabilities-my-manual-bug-bounty-testing-method-c62993122e2c?source=rss------bug_bounty-5",
+    "summary": "SQL injection isn&#x2019;t dead &#x2014; it&#x2019;s hiding where scanners don&#x2019;t look. Here&#x2019;s the manual process I use to find it, confirm it without guessing&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 12 Nov 2026 04:22:51",
+    "score": 9,
+    "uid": "be64a105ad039821"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
