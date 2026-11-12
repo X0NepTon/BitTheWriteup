@@ -1,15 +1,5 @@
 [
   {
-    "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
-    "url": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty-5",
-    "summary": "Severity: P2 &#x2014; High Vulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure Bugcrowd Priority: P2 CVSS&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 11 Nov 2026 03:31:02",
-    "score": 11,
-    "uid": "507decb3d35166df"
-  },
-  {
     "title": "HALBERD Explained | AI-Powered Multi-Cloud Attack Emulation Tool",
     "url": "https://medium.com/@pentesterclubpvtltd/halberd-explained-ai-powered-multi-cloud-attack-emulation-tool-f660a7244ac7?source=rss------bug_bounty-5",
     "summary": "How Vectra AI Research&#x2019;s Open-Source Platform Helps Security Teams Simulate Attacks Across AWS, Azure, GCP, and Microsoft 365Continue reading on Medium »",
@@ -348,6 +338,16 @@
     "published": "Tue, 10 Nov 2026 13:49:00",
     "score": 8,
     "uid": "3af25d4ae3f73348"
+  },
+  {
+    "title": "Critical Barracuda Security Vulnerabilities: CVE-2026-116606 and CVE-2026-111560 Could Allow…",
+    "url": "https://medium.com/@asadmohsin760/critical-barracuda-security-vulnerabilities-cve-2026-116606-and-cve-2026-111560-could-allow-1066d1a54031?source=rss------bug_bounty-5",
+    "summary": "1. IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 12 Nov 2026 15:10:52",
+    "score": 8,
+    "uid": "a141643279f9ae80"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
