@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Requests You Didn’t Send: Finding SSRF and CSRF by Hand",
-    "url": "https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------bug_bounty-5",
-    "summary": "Two bugs that live in the same blind spot &#x2014; one makes the server send a request it shouldn&#x2019;t, the other makes the browser forge one.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 13 Nov 2026 05:02:20",
-    "score": 12,
-    "uid": "8fee892038d9f7fb"
-  },
-  {
     "title": "Nukerat Framework Explained: Advanced Red Team Operations & Post-Exploitation",
     "url": "https://medium.com/@pentesterclubpvtltd/nukerat-framework-explained-advanced-red-team-operations-post-exploitation-853cf6264a12?source=rss------bug_bounty-5",
     "summary": "Subtitle: Exploring Nukerat, an emerging open-source post-exploitation framework for red team operations, adversary simulation, and&#x2026;Continue reading on Medium »",
@@ -538,6 +528,26 @@
     "published": "Tue, 10 Nov 2026 06:23:08",
     "score": 7,
     "uid": "6ad6961efb6377d8"
+  },
+  {
+    "title": "From VDP to Bounty: How I Earned $250 by Finding an Open Redirect",
+    "url": "https://levelup.gitconnected.com/from-vdp-to-bounty-how-i-earned-250-by-finding-an-open-redirect-5ce5c996460d?source=rss------bug_bounty-5",
+    "summary": "Discover how you can earn an easy $100 in 5 minutes by discovering this unique bug in Quick & Easy $100 Bug That You Can Find In 5 minutesContinue reading on Level Up Coding »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 13 Nov 2026 17:35:52",
+    "score": 7,
+    "uid": "bdb8e2aa072c541e"
+  },
+  {
+    "title": "How I Solved PortSwigger SQLi Labs 7–18 (Part 2 Walkthrough)",
+    "url": "https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-7-18-part-2-walkthrough-ac2945edd896?source=rss------bug_bounty-5",
+    "summary": "Documenting my practical bug hunting journey, methodology, and payloads for labs 7&#x2013;18Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 13 Nov 2026 14:45:55",
+    "score": 7,
+    "uid": "52a4b6195d865771"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1400,6 +1410,16 @@
     "uid": "b18757c8dc0a52b8"
   },
   {
+    "title": "From $1,000 to $10,000: How I Turned a \"Limited\" XXE Into a Critical Redis Session Store Exposure",
+    "url": "https://medium.com/@0xalr/from-1-000-to-10-000-how-i-turned-a-limited-xxe-into-a-critical-redis-session-store-exposure-3292bd82a0d7?source=rss------bug_bounty-5",
+    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647;&#x60C; &#x644;&#x647; &#x627;&#x644;&#x634;&#x643;&#x631; &#x648;&#x627;&#x644;&#x62B;&#x646;&#x627;&#x621; &#x643;&#x644;&#x647;. &#x1F932;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 13 Nov 2026 13:25:08",
+    "score": 5,
+    "uid": "27ac71fb44a82eda"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Mon, 02 Nov 2026 15:46:19",
     "score": 4,
     "uid": "a90b59df8eeb09e5"
-  },
-  {
-    "title": "Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide",
-    "url": "https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty-5",
-    "summary": "Why rate limits are worth your timeContinue reading on OSINT Team »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 02 Nov 2026 15:46:19",
-    "score": 4,
-    "uid": "dba3d153031d473e"
-  },
-  {
-    "title": "CSRF: The Bug Everyone Declared Dead and Nobody Actually Fixed",
-    "url": "https://medium.com/@raksharoot/csrf-the-bug-everyone-declared-dead-and-nobody-actually-fixed-614643212b94?source=rss------bug_bounty-5",
-    "summary": "Classic form CSRF, same-site sibling attacks, CSPT2CSRF, and why SameSite wasn&#x2019;t the magic bullet.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 03 Nov 2026 14:01:56",
-    "score": 4,
-    "uid": "6fee74dbc3e7ba2a"
   }
 ]
