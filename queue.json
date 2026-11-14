@@ -120,16 +120,6 @@
     "uid": "30a005b9d3ab47df"
   },
   {
-    "title": "Why Unauthenticated API Endpoints are Still a Major Threat",
-    "url": "https://dev.to/vaultvult/why-unauthenticated-api-endpoints-are-still-a-major-threat-2knc",
-    "summary": "Why Unauthenticated API Endpoints are Still a Major Threat In the world of modern web development, we often focus heavily on securing the front door. We implement complex login flows, enforce multi-factor authentication (MFA), and integrate Web3 wallet signatures. But while the front door is locked tight, the back door is often left wide open. In this article, we are going to talk about Unauthenticated API Endpoints and Broken Access Control (BAC). It is one of the most common vulnerabilities found in bug bounties today, yet it is frequently dismissed by developers as \"just data\" or \"low risk.",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 21:10:57",
-    "score": 9,
-    "uid": "bc11109216be90a8"
-  },
-  {
     "title": "Authentication Bypass via Password Reset Flow Manipulation",
     "url": "https://medium.com/@aytha324568/authentication-bypass-via-password-reset-flow-manipulation-70cb56477141?source=rss------bug_bounty-5",
     "summary": "&#x642;&#x64E;&#x627;&#x644;&#x64F;&#x648;&#x627; &#x633;&#x64F;&#x628;&#x652;&#x62D;&#x64E;&#x627;&#x646;&#x64E;&#x643;&#x64E; &#x644;&#x64E;&#x627; &#x639;&#x650;&#x644;&#x652;&#x645;&#x64E; &#x644;&#x64E;&#x646;&#x64E;&#x627; &#x625;&#x650;&#x644;&#x64E;&#x651;&#x627; &#x645;&#x64E;&#x627; &#x639;&#x64E;&#x644;&#x64E;&#x651;&#x645;&#x652;&#x62A;&#x64E;&#x646;&#x64E;&#x627; &#x6D6; &#x625;&#x650;&#x646;&#x64E;&#x651;&#x643;&#x64E; &#x623;&#x64E;&#x646;&#x62A;&#x64E; &#x627;&#x644;&#x652;&#x639;&#x64E;&#x644;&#x650;&#x64A;&#x645;&#x64F; &#x627;&#x644;&#x652;&#x62D;&#x64E;&#x643;&#x650;&#x64A;",
@@ -238,6 +228,16 @@
     "published": "Fri, 13 Nov 2026 22:45:34",
     "score": 9,
     "uid": "c540ae6d762a5faa"
+  },
+  {
+    "title": "How a Cache Keys Mismatch Led to a Web Cache Deception Account Takeover",
+    "url": "https://medium.com/@t4nv1/how-a-cache-keys-mismatch-led-to-a-web-cache-deception-account-takeover-1b8e934e522a?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 14 Nov 2026 08:16:01",
+    "score": 9,
+    "uid": "18ad079edce6ba67"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
