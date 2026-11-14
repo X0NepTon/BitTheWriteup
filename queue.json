@@ -1,15 +1,5 @@
 [
   {
-    "title": "Nukerat Framework Explained: Advanced Red Team Operations & Post-Exploitation",
-    "url": "https://medium.com/@pentesterclubpvtltd/nukerat-framework-explained-advanced-red-team-operations-post-exploitation-853cf6264a12?source=rss------bug_bounty-5",
-    "summary": "Subtitle: Exploring Nukerat, an emerging open-source post-exploitation framework for red team operations, adversary simulation, and&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 11 Nov 2026 13:45:14",
-    "score": 10,
-    "uid": "83b57ef22605d71e"
-  },
-  {
     "title": "The Bouncer Who Waved Everyone In When the Scanner Broke: A $3,500 GitLab SSRF",
     "url": "https://medium.com/@t4nv1/the-bouncer-who-waved-everyone-in-when-the-scanner-broke-a-3-500-gitlab-ssrf-ceea809cb849?source=rss------bug_bounty-5",
     "summary": "How a correct DNS-rebinding defence was undone by one catch block, and what it teaches about fail-open security checksContinue reading on Medium »",
@@ -248,6 +238,16 @@
     "published": "Thu, 12 Nov 2026 13:21:53",
     "score": 9,
     "uid": "38357fda769c9558"
+  },
+  {
+    "title": "Account Takeover via Password Reset Poisoning (X-Forwarded-Host)",
+    "url": "https://medium.com/@m.elsaidy35/account-takeover-via-password-reset-poisoning-x-forwarded-host-3456af71dbc9?source=rss------bug_bounty-5",
+    "summary": "First, what is X-Forwarded-Host?Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 13 Nov 2026 22:45:34",
+    "score": 9,
+    "uid": "c540ae6d762a5faa"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
