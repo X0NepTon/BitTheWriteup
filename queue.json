@@ -1,15 +1,5 @@
 [
   {
-    "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
-    "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
-    "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 26 Oct 2026 17:03:26",
-    "score": 9,
-    "uid": "26defe23de7c293b"
-  },
-  {
     "title": "Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…",
     "url": "https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -228,6 +218,16 @@
     "published": "Sat, 14 Nov 2026 08:16:01",
     "score": 9,
     "uid": "18ad079edce6ba67"
+  },
+  {
+    "title": "Pre-Auth Account Takeover via Broken Password Reset in a Legacy Mobile API",
+    "url": "https://medium.com/@youssefezzat.pt/pre-auth-account-takeover-via-broken-password-reset-in-a-legacy-mobile-api-f1b0b63dc1a6?source=rss------bug_bounty-5",
+    "summary": "By Youssef EzzatContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 14 Nov 2026 20:37:45",
+    "score": 9,
+    "uid": "df87b7c77d4f0438"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
