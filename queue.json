@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Bouncer Who Waved Everyone In When the Scanner Broke: A $3,500 GitLab SSRF",
-    "url": "https://medium.com/@t4nv1/the-bouncer-who-waved-everyone-in-when-the-scanner-broke-a-3-500-gitlab-ssrf-ceea809cb849?source=rss------bug_bounty-5",
-    "summary": "How a correct DNS-rebinding defence was undone by one catch block, and what it teaches about fail-open security checksContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 13 Nov 2026 08:11:01",
-    "score": 10,
-    "uid": "068083904e55cf2a"
-  },
-  {
     "title": "12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)",
     "url": "https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5",
     "summary": "Ever tripped an alert during a pentest because of a single misstep? You&#x2019;re not alone. Even seasoned red teamers sometimes blow their cover&#x2026;Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Mon, 02 Nov 2026 15:46:19",
     "score": 4,
     "uid": "a90b59df8eeb09e5"
+  },
+  {
+    "title": "The 2026 Bug Bounty Starter Kit: The Free Path From Your First Command to Your First Valid Bug",
+    "url": "https://osintteam.blog/the-2026-bug-bounty-starter-kit-the-free-path-from-your-first-command-to-your-first-valid-bug-11640b716481?source=rss------bug_bounty_writeup-5",
+    "summary": "No paid courses. No $2,000 &#x201C;mentorships.&#x201D; Just the exact order I&#x2019;d learn it in if I were starting today&#x200A;&#x2014;&#x200A;plus the free tools, labs and&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 13 Nov 2026 19:11:52",
+    "score": 4,
+    "uid": "b4d55088e06db1cd"
   }
 ]
