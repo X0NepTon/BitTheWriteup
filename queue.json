@@ -1,15 +1,5 @@
 [
   {
-    "title": "From P4 to P1: Day 17 — Advanced SSRF Testing: URL Validation Bypasses, Redirects and DNS Rebinding",
-    "url": "https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-17-advanced-ssrf-testing-url-validation-bypasses-redirects-and-dns-rebinding-5f6d92dca0fa?source=rss------bug_bounty-5",
-    "summary": "Series: From P4 to P1 Day: 17 of 30 Topic: Advanced Server-Side Request Forgery (SSRF) Testing Category: Web Application Security | API&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 15 Nov 2026 05:04:24",
-    "score": 10,
-    "uid": "f5fea3b46c81c7ae"
-  },
-  {
     "title": "Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…",
     "url": "https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -348,6 +338,16 @@
     "published": "Fri, 13 Nov 2026 08:49:48",
     "score": 8,
     "uid": "a033d5ece1a73682"
+  },
+  {
+    "title": "OpenAI Bug Bounty: New $30,000 Critical Tier vs Old Rates",
+    "url": "https://dev.to/aitecharchive/openai-bug-bounty-new-30000-critical-tier-vs-old-rates-2mik",
+    "summary": "The OpenAI bug bounty now pays more than its previous ranges at every severity level OpenAI has illustrated, and the new scheme wins most clearly for critical findings in core products. In a post dated November 2, 2026, OpenAI said it is \"more than quadrupling the midpoint of our reward ranges for medium, high, and critical findings on average\", with critical bugs in ChatGPT, Codex or the API Platform paying up to $30,000. On the same day OpenAI announced its next internal security sprint, which will involve outside researchers from Cathedral Systems. For researchers who can write a reliable p",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Thu, 05 Nov 2026 04:44:12",
+    "score": 8,
+    "uid": "75a31f41179c3bec"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
