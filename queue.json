@@ -1,15 +1,5 @@
 [
   {
-    "title": "How Trusting a Request Header Turned a Password Reset Into Account Takeover",
-    "url": "https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty-5",
-    "summary": "Back to classic web for this one, and it&#x2019;s a genuinely different flavor of bug from the IDOR and race condition already covered in this&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 17 Nov 2026 11:11:01",
-    "score": 14,
-    "uid": "17fbcef2393e7004"
-  },
-  {
     "title": "P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover",
     "url": "https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty_writeup-5",
     "summary": "Severity: P2 &#x2014; High Vulnerability Type: Broken Access Control / Account Takeover Bugcrowd VRT: Broken Access Control &#x2192; Privilege&#x2026;Continue reading on Medium »",
@@ -428,6 +418,16 @@
     "published": "Thu, 05 Nov 2026 04:44:12",
     "score": 8,
     "uid": "75a31f41179c3bec"
+  },
+  {
+    "title": "Deep Web Hunting: Why Altered Security's CWES is a Masterclass in Modern Web App Red Teaming",
+    "url": "https://dev.to/seclabs/deep-web-hunting-why-altered-securitys-cwes-is-a-masterclass-in-modern-web-app-red-teaming-lnd",
+    "summary": "Deep Web Hunting: Why Altered Security's CWES is a Masterclass in Modern Web App Red Teaming If you think web penetration testing is just clicking through a web application and running an automated scanner to find missing HTTP headers, think again. CWES (Certified Web Exploitation Specialist) by Altered Security is designed for operators who want to take web application exploitation to a deep, surgical, red team level. 🎯 In enterprise red teaming, web applications are almost always the initial access vector into internal corporate clouds and corporate networks. If you know how to turn a minor ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Tue, 17 Nov 2026 20:47:31",
+    "score": 8,
+    "uid": "b3837ba5478a657d"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
