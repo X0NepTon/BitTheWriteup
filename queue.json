@@ -1,5 +1,25 @@
 [
   {
+    "title": "How Trusting a Request Header Turned a Password Reset Into Account Takeover",
+    "url": "https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty-5",
+    "summary": "Back to classic web for this one, and it&#x2019;s a genuinely different flavor of bug from the IDOR and race condition already covered in this&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 17 Nov 2026 11:11:01",
+    "score": 14,
+    "uid": "17fbcef2393e7004"
+  },
+  {
+    "title": "P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover",
+    "url": "https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty_writeup-5",
+    "summary": "Severity: P2 &#x2014; High Vulnerability Type: Broken Access Control / Account Takeover Bugcrowd VRT: Broken Access Control &#x2192; Privilege&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 17 Nov 2026 06:46:13",
+    "score": 12,
+    "uid": "d91cac1b3e1f1e53"
+  },
+  {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
     "url": "https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -8,6 +28,16 @@
     "published": "Mon, 16 Nov 2026 08:21:01",
     "score": 11,
     "uid": "e9fef596723515ff"
+  },
+  {
+    "title": "P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover",
+    "url": "https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5",
+    "summary": "Severity: P2 &#x2014; High Vulnerability Type: Broken Access Control / Account Takeover Bugcrowd VRT: Broken Access Control &#x2192; Privilege&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 17 Nov 2026 06:46:13",
+    "score": 11,
+    "uid": "8df8f1e9de4ed1d4"
   },
   {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
@@ -258,6 +288,26 @@
     "published": "Tue, 17 Nov 2026 04:56:42",
     "score": 9,
     "uid": "f5b0a62cb36a01e6"
+  },
+  {
+    "title": "I Started the Login. You Finished It. I Got Your Account.",
+    "url": "https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb?source=rss------bug_bounty_writeup-5",
+    "summary": "A one-click account takeover through a genuine Google link, built from a popup that never talked, a token handed out too early, and two&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 17 Nov 2026 08:03:45",
+    "score": 9,
+    "uid": "16b135064900ef12"
+  },
+  {
+    "title": "I Started the Login. You Finished It. I Got Your Account.",
+    "url": "https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb?source=rss------bug_bounty-5",
+    "summary": "A one-click account takeover through a genuine Google link, built from a popup that never talked, a token handed out too early, and two&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 17 Nov 2026 08:03:45",
+    "score": 9,
+    "uid": "5280ad4ca88762c7"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1470,6 +1520,16 @@
     "uid": "dc4d7ebf0e04d6fd"
   },
   {
+    "title": "Google Paid $250,000 for One Chrome Bug Chain. It Took Six Days.",
+    "url": "https://medium.com/@zxve/google-paid-250-000-for-one-chrome-bug-chain-it-took-six-days-29afccbee52a?source=rss------bug_bounty-5",
+    "summary": "Imagine opening a web page in Chrome.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 17 Nov 2026 09:08:39",
+    "score": 5,
+    "uid": "e38554fe5b163aad"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1938,65 +1998,5 @@
     "published": "Fri, 16 Oct 2026 02:16:57",
     "score": 4,
     "uid": "b734b21faa5c323f"
-  },
-  {
-    "title": "$6,500 for a Regex That Couldn’t Say No: ReDoS in an Email Validation Field",
-    "url": "https://medium.com/@t4nv1/6-500-for-a-regex-that-couldnt-say-no-redos-in-an-email-validation-field-93a75bfb3d8a?source=rss------bug_bounty-5",
-    "summary": "Most denial-of-service findings in bug bounty programs get an immediate, reasonable skepticism from triage, because flooding an endpoint&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 16 Oct 2026 09:31:01",
-    "score": 4,
-    "uid": "23c6c1facd31c0df"
-  },
-  {
-    "title": "How a Public S3 Bucket Exposed Sensitive Data",
-    "url": "https://medium.com/@iamsaad360/how-a-public-s3-bucket-exposed-sensitive-data-63c76c0ba76d?source=rss------bug_bounty-5",
-    "summary": "A cloud storage misconfiguration, its security impact, and the responsible disclosure that led to remediation and a $XXXX bug bounty.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 16 Oct 2026 08:06:36",
-    "score": 4,
-    "uid": "6ef4bc19ccd68c33"
-  },
-  {
-    "title": "My Bug Bounty Report Was Marked N/A. Then I Received $1,200.",
-    "url": "https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty_writeup-5",
-    "summary": "I was expecting feedback on a bug bounty report. Instead, the first response said the issue could not be reproduced and marked it Not&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 17 Oct 2026 10:07:59",
-    "score": 4,
-    "uid": "5e7d476c86c10b98"
-  },
-  {
-    "title": "My Bug Bounty Report Was Marked N/A. Then I Received $1,200.",
-    "url": "https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty-5",
-    "summary": "I was expecting feedback on a bug bounty report. Instead, the first response said the issue could not be reproduced and marked it Not&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 17 Oct 2026 10:07:59",
-    "score": 4,
-    "uid": "04e34ab0de53099f"
-  },
-  {
-    "title": "How I Bypassed a Region-Locked Comment Feature on a Public Bug Bounty Program",
-    "url": "https://medium.com/@mostafa23110006/how-i-bypassed-a-region-locked-comment-feature-on-a-public-bug-bounty-program-b5c65fdfe67b?source=rss------bug_bounty_writeup-5",
-    "summary": "A comment feature was blocked in my country, but it still worked fully through the API.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sun, 18 Oct 2026 10:36:03",
-    "score": 4,
-    "uid": "929bd28e09e08368"
-  },
-  {
-    "title": "How I Bypassed a Region-Locked Comment Feature on a Public Bug Bounty Program",
-    "url": "https://medium.com/@mostafa23110006/how-i-bypassed-a-region-locked-comment-feature-on-a-public-bug-bounty-program-b5c65fdfe67b?source=rss------bug_bounty-5",
-    "summary": "A comment feature was blocked in my country, but it still worked fully through the API.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 18 Oct 2026 10:36:03",
-    "score": 4,
-    "uid": "47f91e2594e8a7fa"
   }
 ]
