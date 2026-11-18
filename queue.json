@@ -1,5 +1,25 @@
 [
   {
+    "title": "Java4Shell (CVE-2026‑114938): Critical Pre-Authentication RCE in Java 17, 21, 25 and 27",
+    "url": "https://mhmmuneef.medium.com/java4shell-cve-2026-114938-critical-pre-authentication-rce-in-java-17-21-25-and-27-d1d9e47c4674?source=rss------bug_bounty-5",
+    "summary": "What security teams need to know, how to check exposure, and how to mitigate safelyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 18 Nov 2026 06:34:55",
+    "score": 18,
+    "uid": "423549cade6ce442"
+  },
+  {
+    "title": "Achieving the impossible: XSS in innerHTML without equals",
+    "url": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
+    "summary": "Introduction I'm delighted to introduce Masato Kinugawa as a guest web security researcher on the PortSwigger research channel. Masato is a well known web security expert who has found countless high",
+    "source_id": "portswigger",
+    "source_name": "PortSwigger Research",
+    "published": "Wed, 18 Nov 2026 14:39:45",
+    "score": 16,
+    "uid": "9b0f299276df5aa3"
+  },
+  {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
     "url": "https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -428,6 +448,16 @@
     "published": "Tue, 17 Nov 2026 20:47:31",
     "score": 8,
     "uid": "b3837ba5478a657d"
+  },
+  {
+    "title": "CVE-2026-98432: A Critical Linux Kernel Vulnerability That Could Allow Remote Root Access",
+    "url": "https://medium.com/@asadmohsin760/cve-2026-98432-a-critical-linux-kernel-vulnerability-that-could-allow-remote-root-access-9c2423a2eae3?source=rss------bug_bounty-5",
+    "summary": "Publication Date: November 18, 2026 Category: Cybersecurity / Vulnerability Analysis CVE ID: CVE-2026-98432 Severity: Critical CVSS Score&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 18 Nov 2026 13:39:30",
+    "score": 8,
+    "uid": "97b847a08cebf2e4"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1968,35 +1998,5 @@
     "published": "Wed, 14 Oct 2026 13:09:49",
     "score": 4,
     "uid": "a3888e46443f74b1"
-  },
-  {
-    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$",
-    "url": "https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty_writeup-5",
-    "summary": "Hey everyone, Dhruv here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 14 Oct 2026 21:21:15",
-    "score": 4,
-    "uid": "eb1572d6bece7ebb"
-  },
-  {
-    "title": "RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$",
-    "url": "https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty-5",
-    "summary": "Hey everyone, Dhruv here again. If you&#x2019;ve been around bug bounty for even a week, you&#x2019;ve already heard this advice a hundred times: &#x201C;find&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 14 Oct 2026 21:21:15",
-    "score": 4,
-    "uid": "1728a1d79c6503b6"
-  },
-  {
-    "title": "Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform",
-    "url": "https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty_writeup-5",
-    "summary": "Author: Mohamed Atef Date: October 2026 Program: Disclosed via Private Bug Bounty Program (HackerOne) &#x2014; Pending Public Disclosure Severity&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 16 Oct 2026 02:16:57",
-    "score": 4,
-    "uid": "45095449a7f4959e"
   }
 ]
