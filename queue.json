@@ -1,15 +1,5 @@
 [
   {
-    "title": "P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover",
-    "url": "https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty_writeup-5",
-    "summary": "Severity: P2 &#x2014; High Vulnerability Type: Broken Access Control / Account Takeover Bugcrowd VRT: Broken Access Control &#x2192; Privilege&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Tue, 17 Nov 2026 06:46:13",
-    "score": 12,
-    "uid": "d91cac1b3e1f1e53"
-  },
-  {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
     "url": "https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -28,6 +18,16 @@
     "published": "Tue, 17 Nov 2026 06:46:13",
     "score": 11,
     "uid": "8df8f1e9de4ed1d4"
+  },
+  {
+    "title": "Facebook OAuth Account Takeover: The $44,250 Redirect",
+    "url": "https://masimshahzad.medium.com/facebook-oauth-account-takeover-the-44-250-redirect-9c6fa5b235ed?source=rss------bug_bounty-5",
+    "summary": "How a trusted Oculus login endpoint stopped guarding its redirects after a migration and let a first-party access token walk out the doorContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 18 Nov 2026 05:11:37",
+    "score": 11,
+    "uid": "4b3776e3f434c459"
   },
   {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
@@ -718,6 +718,16 @@
     "published": "Tue, 10 Nov 2026 08:18:32",
     "score": 6,
     "uid": "d9f6cb4546e9208d"
+  },
+  {
+    "title": "Twitter Privacy Bypass: Hidden Accounts Found by Email",
+    "url": "https://masimshahzad.medium.com/twitter-privacy-bypass-hidden-accounts-found-by-email-3d822e6961aa?source=rss------bug_bounty-5",
+    "summary": "How a login-flow duplicate check ignored discoverability settings and mapped phone numbers and emails to accounts, for a $5,040 bountyContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 18 Nov 2026 05:04:48",
+    "score": 6,
+    "uid": "dcced80cc874aebb"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1988,15 +1998,5 @@
     "published": "Fri, 16 Oct 2026 02:16:57",
     "score": 4,
     "uid": "45095449a7f4959e"
-  },
-  {
-    "title": "Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform",
-    "url": "https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty-5",
-    "summary": "Author: Mohamed Atef Date: October 2026 Program: Disclosed via Private Bug Bounty Program (HackerOne) &#x2014; Pending Public Disclosure Severity&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 16 Oct 2026 02:16:57",
-    "score": 4,
-    "uid": "b734b21faa5c323f"
   }
 ]
