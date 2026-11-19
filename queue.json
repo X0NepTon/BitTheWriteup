@@ -1,13 +1,13 @@
 [
   {
-    "title": "How an Empty String Unlocked Every Database Backup in Swisscom’s Open-Source Project",
-    "url": "https://medium.com/@0xanubiis/how-an-empty-string-unlocked-every-database-backup-in-swisscoms-open-source-project-83a56bfdac21?source=rss------bug_bounty-5",
-    "summary": "A 9.8 CVSS pre-auth bypass, a full PII exfiltration chain, and a harsh lesson on corporate Bug Bounty scope semantics.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 19 Nov 2026 15:32:06",
-    "score": 24,
-    "uid": "1d98f6ab2eed2e5b"
+    "title": "I Wasn’t Supposed to Be Here, But Nobody Stopped Me",
+    "url": "https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty_writeup-5",
+    "summary": "A Critical Broken Access Control vulnerability that turned a forced team addition into a workspace takeover and permanent data destruction.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 19 Nov 2026 18:34:44",
+    "score": 14,
+    "uid": "0fd7490cf17cf29b"
   },
   {
     "title": "The Lock Icon That Lied: Bypassing an “Admins Only” Feature by Simply… Not Being One",
@@ -28,6 +28,16 @@
     "published": "Thu, 19 Nov 2026 04:42:31",
     "score": 13,
     "uid": "a1edd1ac598eda87"
+  },
+  {
+    "title": "I Wasn’t Supposed to Be Here, But Nobody Stopped Me",
+    "url": "https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty-5",
+    "summary": "A Critical Broken Access Control vulnerability that turned a forced team addition into a workspace takeover and permanent data destruction.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 19 Nov 2026 18:34:44",
+    "score": 13,
+    "uid": "2c9b3aef407747f1"
   },
   {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
@@ -78,6 +88,16 @@
     "published": "Thu, 19 Nov 2026 03:26:04",
     "score": 10,
     "uid": "cc56360981b35fad"
+  },
+  {
+    "title": "ZIP SLIP TO ROOT: Turning a ZIP Upload into Remote Code Execution | CYBER TAMARIN",
+    "url": "https://cybertamarin.medium.com/zip-slip-to-root-turning-a-zip-upload-into-remote-code-execution-cyber-tamarin-02768fdbdca4?source=rss------bug_bounty-5",
+    "summary": "A seemingly harmless ZIP upload. A carefully crafted archive. An extraction process that trusts user-controlled paths. The result&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 19 Nov 2026 18:39:59",
+    "score": 10,
+    "uid": "a2c0860134074d33"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -378,6 +398,26 @@
     "published": "Thu, 19 Nov 2026 08:53:46",
     "score": 9,
     "uid": "af24937752e214f6"
+  },
+  {
+    "title": "PostMessage Leads to One-Click Account Takeover",
+    "url": "https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty_writeup-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Thu, 19 Nov 2026 22:40:59",
+    "score": 9,
+    "uid": "1be6759e81ffb71f"
+  },
+  {
+    "title": "PostMessage Leads to One-Click Account Takeover",
+    "url": "https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 19 Nov 2026 22:40:59",
+    "score": 9,
+    "uid": "5297a08209147b9f"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1958,45 +1998,5 @@
     "published": "Mon, 28 Sep 2026 03:17:11",
     "score": 4,
     "uid": "eb412bfaf8fb08d9"
-  },
-  {
-    "title": "How I Got My First CVE: Turning a Nexus Privilege Editor into an Admin",
-    "url": "https://bebensap.medium.com/how-i-got-my-first-cve-turning-a-nexus-privilege-editor-into-an-admin-980bf343e622?source=rss------bug_bounty-5",
-    "summary": "One wildcard update gave me full admin access to Nexus Repository, my first CVE, and a $1,000 bounty.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 10:58:54",
-    "score": 4,
-    "uid": "e9e3a72959c94325"
-  },
-  {
-    "title": "The Fastest Bug Bounty Win I’ve Ever Read About Took 3 People, 72 Hours, and $3,000 in API Costs",
-    "url": "https://medium.com/@riyalimba/the-fastest-bug-bounty-win-ive-ever-read-about-took-3-people-72-hours-and-3-000-in-api-costs-1f7a8bbea553?source=rss------bug_bounty-5",
-    "summary": "They used Claude to break into OpenAI, got paid $6,500, and then got $115,000 from Meta for the same bug class. Here&#x2019;s what that actually&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 10:53:33",
-    "score": 4,
-    "uid": "0e52f7c9c1349006"
-  },
-  {
-    "title": "How Changing One Customer ID Exposed Other Users’ Pet Recommendations and Earned Me a $1,000 Bounty",
-    "url": "https://medium.com/@papjm/how-changing-one-customer-id-exposed-other-users-pet-recommendations-and-earned-me-a-1-000-bounty-82c0179e62aa?source=rss------bug_bounty-5",
-    "summary": "Researcher: papjm Vulnerabilities: Broken Access Control and Information Disclosure Reward: $1,000Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 16:12:01",
-    "score": 4,
-    "uid": "dacfaeb3ac165105"
-  },
-  {
-    "title": "How Changing a POST Request to GET Exposed Users’ PII and Earned Me a $5,000 Bounty",
-    "url": "https://medium.com/@papjm/how-changing-a-post-request-to-get-exposed-users-pii-and-earned-me-a-5-000-bounty-a9980c5b7df0?source=rss------bug_bounty-5",
-    "summary": "How Changing a POST Request to GET Exposed Users&#x2019; Privacy RequestsContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 01 Oct 2026 15:17:28",
-    "score": 4,
-    "uid": "fab16517ad11fcba"
   }
 ]
