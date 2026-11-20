@@ -1,15 +1,5 @@
 [
   {
-    "title": "I Wasn’t Supposed to Be Here, But Nobody Stopped Me",
-    "url": "https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty_writeup-5",
-    "summary": "A Critical Broken Access Control vulnerability that turned a forced team addition into a workspace takeover and permanent data destruction.Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 19 Nov 2026 18:34:44",
-    "score": 14,
-    "uid": "0fd7490cf17cf29b"
-  },
-  {
     "title": "The Lock Icon That Lied: Bypassing an “Admins Only” Feature by Simply… Not Being One",
     "url": "https://medium.com/@arunkumarje/the-lock-icon-that-lied-bypassing-an-admins-only-feature-by-simply-not-being-one-b32ca1f1f91d?source=rss------bug_bounty_writeup-5",
     "summary": "A story about a UI control that trusted the wrong thing to enforce its own restrictionContinue reading on Medium »",
@@ -48,6 +38,16 @@
     "published": "Fri, 20 Nov 2026 04:58:27",
     "score": 13,
     "uid": "18cff5a3251ddc7a"
+  },
+  {
+    "title": "A Test Secret in Production: How a Rails Session Cookie Earned $18,000 from GitHub",
+    "url": "https://medium.com/@t4nv1/a-test-secret-in-production-how-a-rails-session-cookie-earned-18-000-from-github-83616cb0b4f8?source=rss------bug_bounty-5",
+    "summary": "A technical walkthrough of signed-cookie forgery and unsafe deserialization, and why &#x201C;just a default value&#x201D; can be a remote code execution&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 08:56:01",
+    "score": 12,
+    "uid": "a6c9b3eff730bcae"
   },
   {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
@@ -598,6 +598,26 @@
     "published": "Thu, 19 Nov 2026 23:41:04",
     "score": 8,
     "uid": "cb7efa707ecd9841"
+  },
+  {
+    "title": "Lab: Basic SSRF against the local server Walkthrough",
+    "url": "https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty_writeup-5",
+    "summary": "You may or may not know about SSRF(Server-Side Request Forgery) vulnerability. I am gonna give short intro to it. For deeper understanding&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 20 Nov 2026 07:48:07",
+    "score": 8,
+    "uid": "551cc6308a99869b"
+  },
+  {
+    "title": "Lab: Basic SSRF against the local server Walkthrough",
+    "url": "https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty-5",
+    "summary": "You may or may not know about SSRF(Server-Side Request Forgery) vulnerability. I am gonna give short intro to it. For deeper understanding&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 07:48:07",
+    "score": 8,
+    "uid": "f83ddfc688b7a4ba"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1978,25 +1998,5 @@
     "published": "Mon, 14 Sep 2026 17:55:19",
     "score": 4,
     "uid": "521f689c8839b411"
-  },
-  {
-    "title": "Best use of the regex for the Bug Bounty, No fluff [Do not skip this article]",
-    "url": "https://meetcyber.net/best-use-of-the-regex-for-the-bug-bounty-no-fluff-do-not-skip-this-article-88905daa9ae1?source=rss------bug_bounty-5",
-    "summary": "How to Turn GitHub, JavaScript, Archived URLs, and Broken Validation Into High-Signal Bug Bounty ReconContinue reading on MeetCyber »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 16 Sep 2026 18:02:02",
-    "score": 4,
-    "uid": "9abc80df377f7f1f"
-  },
-  {
-    "title": "How a Race Condition Turned a Simple Feedback Form Into a $700 Bounty",
-    "url": "https://medium.com/@ekanshchoudhary.96/how-a-race-condition-turned-a-simple-feedback-form-into-a-700-bounty-d0594b1e7c78?source=rss------bug_bounty-5",
-    "summary": "When we hear race condition, most security researchers probably think about the usual suspects.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 16 Sep 2026 15:44:58",
-    "score": 4,
-    "uid": "366a1564eac4c36c"
   }
 ]
