@@ -40,6 +40,16 @@
     "uid": "2c9b3aef407747f1"
   },
   {
+    "title": "Uber Account Takeover: The API That Handed Out Tokens",
+    "url": "https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe?source=rss------bug_bounty-5",
+    "summary": "A $6,500 bug bounty report: a leaked user ID plus one API call that trusted it gave up any Uber rider, driver or Eats sessionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 04:58:27",
+    "score": 13,
+    "uid": "18cff5a3251ddc7a"
+  },
+  {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
     "url": "https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5",
     "summary": "IntroductionContinue reading on Medium »",
@@ -98,6 +108,26 @@
     "published": "Thu, 19 Nov 2026 18:39:59",
     "score": 10,
     "uid": "a2c0860134074d33"
+  },
+  {
+    "title": "Google 2FA Bug: The Login That Outlived the Password",
+    "url": "https://masimshahzad.medium.com/google-2fa-bug-the-login-that-outlived-the-password-54b41453325f?source=rss------bug_bounty-5",
+    "summary": "AI-assisted: drafted with AI help from public sources, then reviewed and edited. This is an analytical case study of a public disclosure&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 05:08:45",
+    "score": 10,
+    "uid": "658cf6d31c84a6b9"
+  },
+  {
+    "title": "DNS Pentesting Guide for Beginners: What Port 53 Leaks and How to Test It",
+    "url": "https://medium.com/@vigneshkumaroffsec/dns-pentesting-guide-for-beginners-what-port-53-leaks-and-how-to-test-it-1e0dd17aa6d9?source=rss------bug_bounty-5",
+    "summary": "DNS is the internet&#x2019;s phonebook &#x2014; and one of the richest, most overlooked sources of information and misconfiguration. Here&#x2019;s how to test&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 01:38:24",
+    "score": 10,
+    "uid": "0d803d9fb7fa2963"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -560,6 +590,16 @@
     "uid": "97b847a08cebf2e4"
   },
   {
+    "title": "Apple HOF (August 2026): Unmasking a Blind SSRF in Podcasts Connect",
+    "url": "https://medium.com/@anas-nady/apple-hof-august-2026-unmasking-a-blind-ssrf-in-podcasts-connect-e86689990bab?source=rss------bug_bounty-5",
+    "summary": "A step-by-step story of discovery, persistence, and securing the internal network.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 19 Nov 2026 23:41:04",
+    "score": 8,
+    "uid": "cb7efa707ecd9841"
+  },
+  {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
     "url": "https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5",
     "summary": "Hello fellow security researchers and bug bounty hunters!Continue reading on Medium »",
@@ -788,6 +828,16 @@
     "published": "Thu, 19 Nov 2026 12:49:58",
     "score": 7,
     "uid": "11074c989742c9a1"
+  },
+  {
+    "title": "How I Find IDOR Vulnerabilities: My Complete Bug Bounty Hunting Methodology",
+    "url": "https://samadhanshimple.medium.com/how-i-find-idor-vulnerabilities-my-complete-bug-bounty-hunting-methodology-8344cbecfde8?source=rss------bug_bounty-5",
+    "summary": "IDOR (Insecure Direct Object Reference) is one of the most interesting vulnerabilities I look for during bug bounty hunting.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 03:01:05",
+    "score": 7,
+    "uid": "9d3a52cf7bff06e6"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1948,55 +1998,5 @@
     "published": "Wed, 16 Sep 2026 15:44:58",
     "score": 4,
     "uid": "366a1564eac4c36c"
-  },
-  {
-    "title": "CSRF Explained | Find Cross-Site Request Forgery Bugs in Bug Bounties",
-    "url": "https://medium.com/@pentesterclubpvtltd/csrf-explained-find-cross-site-request-forgery-bugs-in-bug-bounties-99fb6985fbc3?source=rss------bug_bounty-5",
-    "summary": "One malicious webpage. One authenticated victim. One dangerous request.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 18 Sep 2026 17:58:08",
-    "score": 4,
-    "uid": "49196b3ec99db268"
-  },
-  {
-    "title": "How I Found an Unauthenticated Grafana Loki Endpoint That Leaked 234 Employee Identities ($1,200…",
-    "url": "https://medium.com/@anshbohra10/how-i-found-an-unauthenticated-grafana-loki-endpoint-that-leaked-234-employee-identities-1-200-94049fde7e7b?source=rss------bug_bounty-5",
-    "summary": "Every other endpoint on the API returned 401. Except one proxy path. That single route bypassed the auth middleware entirely, exposing a&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 19 Sep 2026 08:04:06",
-    "score": 4,
-    "uid": "0fa37265d8212eac"
-  },
-  {
-    "title": "How I Found a DOM XSS Through a JWT alg:none — and Earned a $400 Bounty",
-    "url": "https://medium.com/@yOnly_/how-i-found-a-dom-xss-through-a-jwt-alg-none-and-earned-a-400-bounty-3595093eacec?source=rss------bug_bounty-5",
-    "summary": "When I was testing a KYC verification flow during a bug bounty program, I came across an endpoint that accepted a JWT through a URL&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 23 Sep 2026 08:50:43",
-    "score": 4,
-    "uid": "6594d116dc61d37f"
-  },
-  {
-    "title": "Self-XSS Is Not a Dead End: Five Ways to Deliver It to Someone Else",
-    "url": "https://kd-200.medium.com/self-xss-is-not-a-dead-end-five-ways-to-deliver-it-to-someone-else-bd5732e0232a?source=rss------bug_bounty-5",
-    "summary": "The payload already works. Everything that matters now is delivery &#x2014; CSRF on the write, login CSRF, cookie tossing, jar overflow, and the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 27 Sep 2026 11:31:01",
-    "score": 4,
-    "uid": "ca4e2ce620dca2f3"
-  },
-  {
-    "title": "How I Found My First $$$ Bug on HackerOne (A Simple API Call Changed Everything)",
-    "url": "https://medium.com/@princelassey/how-i-found-my-first-bug-on-hackerone-a-simple-api-call-changed-everything-2be8ac3db822?source=rss------bug_bounty-5",
-    "summary": "A story about a LinkedIn DM that aged surprisingly well, why I started caring about bug bounty when I swore I never would, and the exact&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 28 Sep 2026 03:17:11",
-    "score": 4,
-    "uid": "eb412bfaf8fb08d9"
   }
 ]
