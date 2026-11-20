@@ -80,6 +80,16 @@
     "uid": "4b3776e3f434c459"
   },
   {
+    "title": "How a 1 MB Image Caused a Denial of Service",
+    "url": "https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bug_bounty_writeup-5",
+    "summary": "A technical breakdown of image decompression, resource exhaustion, and an availability vulnerability in a ticketing application.Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Fri, 20 Nov 2026 21:12:05",
+    "score": 11,
+    "uid": "71b943c1c56216b4"
+  },
+  {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
     "url": "https://dev.to/aaannvv/before-the-cve-reading-release-notes-like-an-auditor-5c09",
     "summary": "Most vulnerability hunters I know watch CVE feeds. That's fine, but here's the thing: every CVE was preceded by a commit, a tag, and usually a release note — often weeks before the advisory goes public. If you read release notes first, you're not racing the crowd. You're racing the CVE assigner. I've been auditing open-source Java middleware for a while — message brokers, frameworks, admin consoles — and release notes have become my single highest-signal feed. Not Twitter, not CVE/NVD. Release notes. Here's my working set of signals. Signal 1: \"Added authentication for X\" — new security code i",
@@ -128,6 +138,16 @@
     "published": "Fri, 20 Nov 2026 01:38:24",
     "score": 10,
     "uid": "0d803d9fb7fa2963"
+  },
+  {
+    "title": "How a 1 MB Image Caused a Denial of Service",
+    "url": "https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bug_bounty-5",
+    "summary": "A technical breakdown of image decompression, resource exhaustion, and an availability vulnerability in a ticketing application.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 21:12:05",
+    "score": 10,
+    "uid": "0842710e43113de7"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -448,6 +468,16 @@
     "published": "Thu, 19 Nov 2026 22:40:59",
     "score": 9,
     "uid": "5297a08209147b9f"
+  },
+  {
+    "title": "Anatomy of an HTTP Request (Part 2): TCP, TLS Termination, and CDN Cache Attacks",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-2-tcp-tls-termination-and-cdn-cache-attacks-d70f697d81e3?source=rss------bug_bounty-5",
+    "summary": "In Part 1, our request had not even left the client: the browser queried DNS to turn app.target.com into an IP address, and we saw how&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 17:37:25",
+    "score": 9,
+    "uid": "ae9a5c115b18e1bc"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1770,6 +1800,16 @@
     "uid": "e38554fe5b163aad"
   },
   {
+    "title": "IDOR and Business Logic Flaw in a Payment Extension API: Unauthorized Modification of Billing…",
+    "url": "https://medium.com/@pmsiam0/idor-and-business-logic-flaw-in-a-payment-extension-api-unauthorized-modification-of-billing-d48ee6bcc5d0?source=rss------bug_bounty-5",
+    "summary": "Executive SummaryContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 20 Nov 2026 18:19:47",
+    "score": 5,
+    "uid": "965779d9fc2e3c87"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1958,45 +1998,5 @@
     "published": "Fri, 11 Sep 2026 14:00:02",
     "score": 4,
     "uid": "7cbccc39038b5991"
-  },
-  {
-    "title": "From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win",
-    "url": "https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty-5",
-    "summary": "If you&#x2019;re grinding your first year in bug bounty, you know the feeling. You spend hours hunting, finally submit what looks like a great&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 11 Sep 2026 14:00:02",
-    "score": 4,
-    "uid": "8e18a013e630e845"
-  },
-  {
-    "title": "Bug Bounty for Beginners . Earn Your First $100 with Ethical Hacking",
-    "url": "https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-earn-your-first-100-with-ethical-hacking-6408aa117f7a?source=rss------bug_bounty-5",
-    "summary": "Step-by-Step Blueprint (No Experience Needed)Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 13 Sep 2026 10:43:42",
-    "score": 4,
-    "uid": "ddbd0269009300da"
-  },
-  {
-    "title": "The IDOR Test You Passed Was Only Testing One Path Into the Data",
-    "url": "https://dev.to/rockyyy/the-idor-test-you-passed-was-only-testing-one-path-into-the-data-50po",
-    "summary": "The API had already been through a round of testing. Someone tried the obvious thing first: change the ID in GET /api/orders/1837 to a number that belongs to another customer and see what comes back. It came back with a 403. Good, the team had wired in an object-level check on that endpoint, does the requesting user actually own this order, and it worked exactly as designed. Broken Object Level Authorization, OWASP's API1:2023, the single most common API vulnerability class, tested and blocked. Then someone pointed the same account at the GraphQL endpoint sitting next to that REST API, serving",
-    "source_id": "devto",
-    "source_name": "dev.to — Bug Bounty",
-    "published": "Mon, 14 Sep 2026 14:42:26",
-    "score": 4,
-    "uid": "a0e35b1ca5b5192c"
-  },
-  {
-    "title": "How Claude Code Landed Me a $500 Supabase Bug Bounty",
-    "url": "https://yaseenzubair.medium.com/how-claude-code-landed-me-a-500-supabase-bug-bounty-91f7455f6bfe?source=rss------bug_bounty-5",
-    "summary": "As more applications are being developed, I&#x2019;ve noticed a clear rise in Supabase usage. More and more teams are using it to handle&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 14 Sep 2026 17:55:19",
-    "score": 4,
-    "uid": "521f689c8839b411"
   }
 ]
