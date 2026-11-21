@@ -10,16 +10,6 @@
     "uid": "8f4ab49dd85f4feb"
   },
   {
-    "title": "GitLab Account Takeover: One Reset Email, Two Inboxes",
-    "url": "https://masimshahzad.medium.com/gitlab-account-takeover-one-reset-email-two-inboxes-e553d8cdac3b?source=rss------bug_bounty-5",
-    "summary": "How a $35,000 bug bounty report turned GitLab&#x2019;s password reset form into a CVSS 10 account takeover by accepting a list where it expected&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 19 Nov 2026 04:42:31",
-    "score": 13,
-    "uid": "a1edd1ac598eda87"
-  },
-  {
     "title": "I Wasn’t Supposed to Be Here, But Nobody Stopped Me",
     "url": "https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty-5",
     "summary": "A Critical Broken Access Control vulnerability that turned a forced team addition into a workspace takeover and permanent data destruction.Continue reading on Medium »",
@@ -148,6 +138,16 @@
     "published": "Fri, 20 Nov 2026 21:12:05",
     "score": 10,
     "uid": "0842710e43113de7"
+  },
+  {
+    "title": "Critical Linux KVM Vulnerability CVE-2026-99312 Exposes 127GB of Host Memory: Bug Bounty Researcher…",
+    "url": "https://medium.com/@asadmohsin760/critical-linux-kvm-vulnerability-cve-2026-99312-exposes-127gb-of-host-memory-bug-bounty-researcher-0929a4584860?source=rss------bug_bounty-5",
+    "summary": "Published: November 21, 2026 Category: Cybersecurity | CVE | Bug Bounty | Vulnerability ResearchContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 02:05:53",
+    "score": 10,
+    "uid": "727124d241b5b7a6"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -888,6 +888,16 @@
     "published": "Fri, 20 Nov 2026 03:01:05",
     "score": 7,
     "uid": "9d3a52cf7bff06e6"
+  },
+  {
+    "title": "The $1000 IDOR Hiding Behind a Shared AI Chat",
+    "url": "https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------bug_bounty-5",
+    "summary": "How a shared conversation exposed a private skill identifier, and an overlooked endpoint turned that identifier into confidential&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 02:13:41",
+    "score": 7,
+    "uid": "16e6bd3e9ee6c509"
   },
   {
     "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
@@ -1988,15 +1998,5 @@
     "published": "Wed, 09 Sep 2026 08:11:00",
     "score": 4,
     "uid": "2d4c1e14fbf4511b"
-  },
-  {
-    "title": "From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win",
-    "url": "https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty_writeup-5",
-    "summary": "If you&#x2019;re grinding your first year in bug bounty, you know the feeling. You spend hours hunting, finally submit what looks like a great&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 11 Sep 2026 14:00:02",
-    "score": 4,
-    "uid": "7cbccc39038b5991"
   }
 ]
