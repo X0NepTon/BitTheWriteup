@@ -10,16 +10,6 @@
     "uid": "8f4ab49dd85f4feb"
   },
   {
-    "title": "I Wasn’t Supposed to Be Here, But Nobody Stopped Me",
-    "url": "https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty-5",
-    "summary": "A Critical Broken Access Control vulnerability that turned a forced team addition into a workspace takeover and permanent data destruction.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 19 Nov 2026 18:34:44",
-    "score": 13,
-    "uid": "2c9b3aef407747f1"
-  },
-  {
     "title": "Uber Account Takeover: The API That Handed Out Tokens",
     "url": "https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe?source=rss------bug_bounty-5",
     "summary": "A $6,500 bug bounty report: a leaked user ID plus one API call that trusted it gave up any Uber rider, driver or Eats sessionContinue reading on Medium »",
@@ -78,6 +68,16 @@
     "published": "Fri, 20 Nov 2026 21:12:05",
     "score": 11,
     "uid": "71b943c1c56216b4"
+  },
+  {
+    "title": "How I Discovered a Session Management Vulnerability That Could Lead to Account Takeover | By…",
+    "url": "https://samadhanshimple.medium.com/how-i-discovered-a-session-management-vulnerability-that-could-lead-to-account-takeover-by-887ba9f199de?source=rss------bug_bounty-5",
+    "summary": "While testing a web application during my bug bounty research, I came across an interesting weakness in its session management mechanism.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 07:43:48",
+    "score": 11,
+    "uid": "8dc6b37da87e10b5"
   },
   {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
@@ -478,6 +478,16 @@
     "published": "Fri, 20 Nov 2026 17:37:25",
     "score": 9,
     "uid": "ae9a5c115b18e1bc"
+  },
+  {
+    "title": "OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.",
+    "url": "https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bug_bounty-5",
+    "summary": "Correct verdict, wrong evidence, and a contested claim nobody has reconciled with the kernel.Continue reading on CodeToDeploy »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 06:28:39",
+    "score": 9,
+    "uid": "e0ac0e87a6d02227"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1820,6 +1830,16 @@
     "uid": "965779d9fc2e3c87"
   },
   {
+    "title": "IDOR Explained: The Types, Where It Hides, and How to Find It",
+    "url": "https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bug_bounty-5",
+    "summary": "IDOR is consistently one of the most reported &#x2014; and best paid &#x2014; web vulnerabilities, because it&#x2019;s simple, everywhere, and easy to miss&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 03:54:33",
+    "score": 5,
+    "uid": "76ee0fffce8069a8"
+  },
+  {
     "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
     "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
     "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Sun, 06 Sep 2026 02:29:02",
     "score": 4,
     "uid": "8032961c14e3fbcf"
-  },
-  {
-    "title": "I Found a Tiny Filename Bypass That Broke a “Safe” Loader — and Earned $$$",
-    "url": "https://medium.com/@xoemekk1/i-found-a-tiny-filename-bypass-that-broke-a-safe-loader-and-earned-7fc1afb70af3?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 08 Sep 2026 16:19:17",
-    "score": 4,
-    "uid": "52674706ba8442f8"
-  },
-  {
-    "title": "I Forged My Own Admin Token by Exploiting JWT Algorithm Confusion ($8,500 Bounty)",
-    "url": "https://medium.com/@t4nv1/i-forged-my-own-admin-token-by-exploiting-jwt-algorithm-confusion-8-500-bounty-98a01d99166c?source=rss------bug_bounty-5",
-    "summary": "Most developers who implement JWT authentication understand that the token needs a signature, and they understand that the signature needs&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 09 Sep 2026 08:11:00",
-    "score": 4,
-    "uid": "2d4c1e14fbf4511b"
   }
 ]
