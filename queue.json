@@ -10,16 +10,6 @@
     "uid": "8f4ab49dd85f4feb"
   },
   {
-    "title": "Uber Account Takeover: The API That Handed Out Tokens",
-    "url": "https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe?source=rss------bug_bounty-5",
-    "summary": "A $6,500 bug bounty report: a leaked user ID plus one API call that trusted it gave up any Uber rider, driver or Eats sessionContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 20 Nov 2026 04:58:27",
-    "score": 13,
-    "uid": "18cff5a3251ddc7a"
-  },
-  {
     "title": "A Test Secret in Production: How a Rails Session Cookie Earned $18,000 from GitHub",
     "url": "https://medium.com/@t4nv1/a-test-secret-in-production-how-a-rails-session-cookie-earned-18-000-from-github-83616cb0b4f8?source=rss------bug_bounty-5",
     "summary": "A technical walkthrough of signed-cookie forgery and unsafe deserialization, and why &#x201C;just a default value&#x201D; can be a remote code execution&#x2026;Continue reading on Medium »",
@@ -488,6 +478,36 @@
     "published": "Sat, 21 Nov 2026 06:28:39",
     "score": 9,
     "uid": "e0ac0e87a6d02227"
+  },
+  {
+    "title": "How a Next.js CDN Proxy Turned Into a One-Click Account Takeover",
+    "url": "https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty_writeup-5",
+    "summary": "A Next.js rewrite rule proxied decentralized storage content through the target&#x2019;s origin. Since the storage network is permissionless &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 21 Nov 2026 18:12:52",
+    "score": 9,
+    "uid": "97e905a2fbde2a9b"
+  },
+  {
+    "title": "How a Next.js CDN Proxy Turned Into a One-Click Account Takeover",
+    "url": "https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty-5",
+    "summary": "A Next.js rewrite rule proxied decentralized storage content through the target&#x2019;s origin. Since the storage network is permissionless &#x2014;&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 18:12:52",
+    "score": 9,
+    "uid": "87d9e501436cae44"
+  },
+  {
+    "title": "Anatomy of an HTTP Request (Part 3): Web Application Firewalls, Parser Differentials, and Breaking…",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-3-web-application-firewalls-parser-differentials-and-breaking-94cdfa04205c?source=rss------bug_bounty-5",
+    "summary": "In Part 1, our request resolved a domain through DNS. In Part 2, it completed TCP and TLS handshakes and passed through the CDN cache&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 21 Nov 2026 16:03:13",
+    "score": 9,
+    "uid": "bb554833672f6d1d"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 04 Sep 2026 13:15:49",
     "score": 4,
     "uid": "aa464a5062b9ad24"
-  },
-  {
-    "title": "The $1 Full Video: How RedHunter Found and Self-Validated a Price-Integrity Bypass",
-    "url": "https://medium.com/@redhunter01/the-1-full-video-how-redhunter-found-and-self-validated-a-price-integrity-bypass-7d83bd690b20?source=rss------bug_bounty-5",
-    "summary": "An anonymized case study in autonomous business-logic hunting. Target details are redacted &#x2014; the value here is the mindset, not the domain.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 05 Sep 2026 17:00:31",
-    "score": 4,
-    "uid": "8befdeb835915ee1"
-  },
-  {
-    "title": "Bagaimana “Hal yang Tidak Terlihat” Membawa Saya Mendapatkan $1.000 dari Bug Bounty",
-    "url": "https://medium.com/@MrPlufy/bagaimana-hal-yang-tidak-terlihat-membawa-saya-mendapatkan-1-000-dari-bug-bounty-f44baec86368?source=rss------bug_bounty-5",
-    "summary": "Banyak hal dari para pemburu yang mereka lewatkan dan tidak menyadari tentang hal yang tidak terlihat namun menghasilkan $1.000 hanya dari&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 06 Sep 2026 02:29:02",
-    "score": 4,
-    "uid": "8032961c14e3fbcf"
   }
 ]
