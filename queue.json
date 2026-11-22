@@ -1,5 +1,15 @@
 [
   {
+    "title": "From Recon to Remote Code Execution : My Encounter with React2Shell (CVE-2025–55182)",
+    "url": "https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty-5",
+    "summary": "Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 12:54:22",
+    "score": 15,
+    "uid": "cc2735d9430c01af"
+  },
+  {
     "title": "A Test Secret in Production: How a Rails Session Cookie Earned $18,000 from GitHub",
     "url": "https://medium.com/@t4nv1/a-test-secret-in-production-how-a-rails-session-cookie-earned-18-000-from-github-83616cb0b4f8?source=rss------bug_bounty-5",
     "summary": "A technical walkthrough of signed-cookie forgery and unsafe deserialization, and why &#x201C;just a default value&#x201D; can be a remote code execution&#x2026;Continue reading on Medium »",
@@ -70,6 +80,16 @@
     "uid": "2c9313553348f0a7"
   },
   {
+    "title": "How a JWT Algorithm Confusion Vulnerability Allowed a $4,500 Authentication Bypass",
+    "url": "https://medium.com/@t4nv1/how-a-jwt-algorithm-confusion-vulnerability-allowed-a-4-500-authentication-bypass-4710f1f46b44?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 11:36:01",
+    "score": 11,
+    "uid": "01111421db19854e"
+  },
+  {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
     "url": "https://dev.to/aaannvv/before-the-cve-reading-release-notes-like-an-auditor-5c09",
     "summary": "Most vulnerability hunters I know watch CVE feeds. That's fine, but here's the thing: every CVE was preceded by a commit, a tag, and usually a release note — often weeks before the advisory goes public. If you read release notes first, you're not racing the crowd. You're racing the CVE assigner. I've been auditing open-source Java middleware for a while — message brokers, frameworks, admin consoles — and release notes have become my single highest-signal feed. Not Twitter, not CVE/NVD. Release notes. Here's my working set of signals. Signal 1: \"Added authentication for X\" — new security code i",
@@ -138,6 +158,16 @@
     "published": "Sat, 21 Nov 2026 02:05:53",
     "score": 10,
     "uid": "727124d241b5b7a6"
+  },
+  {
+    "title": "One script to build a complete security, dev and AI terminal",
+    "url": "https://medium.com/@jinnu92/one-script-to-build-a-complete-security-dev-and-ai-terminal-df9806f71fba?source=rss------bug_bounty-5",
+    "summary": "Hackers Terminal Setup is an open-source installer for macOS and Linux.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 11:08:30",
+    "score": 10,
+    "uid": "f3ff172522fd093c"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -508,6 +538,26 @@
     "published": "Sat, 21 Nov 2026 16:03:13",
     "score": 9,
     "uid": "bb554833672f6d1d"
+  },
+  {
+    "title": "Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform",
+    "url": "https://cloverpass.medium.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss------bug_bounty-5",
+    "summary": "While taking part in Tinkerpreneur 2026, I spent some time on the AI Student Community (aistudent.community),Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 11:51:05",
+    "score": 9,
+    "uid": "14df78d4fa2dd8cd"
+  },
+  {
+    "title": "🔎 Certificate Transparency Recon: Find Subdomains, Prove What's Real",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/certificate-transparency-recon-find-subdomains-prove-whats-real-2ba7",
+    "summary": "The moment a team gets a publicly trusted certificate for staging.example.com, that hostname is written into public, append-only logs that anyone can search. Nobody has to link to it, and it doesn't have to be in public DNS. It just has to be on a certificate. That makes Certificate Transparency (CT) one of the cheapest passive recon sources you have. It also makes it one of the noisiest. A CT search hands you names, and a name is not an asset. It may have stopped resolving months ago. It may sit on a certificate shared with domains that belong to someone else. It may point at a vendor that is",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 13:21:04",
+    "score": 9,
+    "uid": "37f5eef801a6fccb"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1948,55 +1998,5 @@
     "published": "Sun, 30 Aug 2026 02:01:01",
     "score": 4,
     "uid": "488486a2e6bfa763"
-  },
-  {
-    "title": "How an Unsanitized EXIF Metadata Parser Led to Command Injection and a $10,000 Bounty",
-    "url": "https://medium.com/@t4nv1/how-an-unsanitized-exif-metadata-parser-led-to-command-injection-and-a-10-000-bounty-6a6991dc1a51?source=rss------bug_bounty-5",
-    "summary": "When building media-heavy web applications, developers frequently rely on background image processing utilities (such as ImageMagick&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 13:36:01",
-    "score": 4,
-    "uid": "c837359d14e4d8e3"
-  },
-  {
-    "title": "When a Toast Notification Becomes an Attacker-Controlled UI — $$$ Bug Bounty",
-    "url": "https://medium.com/@abdelfattahelsabagh/when-a-toast-notification-becomes-an-attacker-controlled-ui-bug-bounty-48d3554d15a7?source=rss------bug_bounty-5",
-    "summary": "&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x648;&#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x631;&#x633;&#x648;&#x644; &#x627;&#x644;&#x644;&#x647; &#x633;&#x64A;&#x62F;&#x646;&#x627; &#x645;&#x62D;&#x645;&#x62F; &#x635;&#x644;&#x64A; &#x627;&#x644;&#x644;&#x647; &#x639;&#x644;&#x64A;&#x647; &#x648;&#x639;&#x644;&#x64A; &#x627;&#x644;&#x647; &#x648;&#x635;&#x62D;&#x628;&#x647; &#x648;&#x633;&#x644;&#x645;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 01 Sep 2026 01:03:18",
-    "score": 4,
-    "uid": "e85435b15cdbdfda"
-  },
-  {
-    "title": "Business Logic Vulnerabilities via Unrestricted GraphQL API Mutations Allow Bypass of Platform…",
-    "url": "https://medium.com/@divyanksitapara088/business-logic-vulnerabilities-via-unrestricted-graphql-api-mutations-allow-bypass-of-platform-6001dfccd709?source=rss------bug_bounty-5",
-    "summary": "HHello community &#x1F44B;,I&#x2019;m Divyank Sitapara, a Bug Bounty Hunter and Application Security Researcher. I hope you&#x2019;re all doing well. I&#x2019;m back&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 01 Sep 2026 12:28:25",
-    "score": 4,
-    "uid": "2186e6723d94c799"
-  },
-  {
-    "title": "How “Cancel” Button deletes entire business: Discovering a CSRF and Confirmation Logic Flaw",
-    "url": "https://medium.com/@ankitrathva/how-cancel-button-deletes-entire-business-discovering-a-csrf-and-confirmation-logic-flaw-7b2d336d0013?source=rss------bug_bounty_writeup-5",
-    "summary": "IntroductionContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Thu, 03 Sep 2026 11:32:24",
-    "score": 4,
-    "uid": "f34d1dde542a4038"
-  },
-  {
-    "title": "5 recon habits that still land your first $500 bug bounty",
-    "url": "https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty_writeup-5",
-    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I want to walk through five recon habits that keep working for beginners, even as the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 04 Sep 2026 03:31:01",
-    "score": 4,
-    "uid": "a09407eafb04e2ba"
   }
 ]
