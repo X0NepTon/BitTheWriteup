@@ -60,6 +60,16 @@
     "uid": "8dc6b37da87e10b5"
   },
   {
+    "title": "I built a free, open-source Burp Suite alternative with an AI agent inside",
+    "url": "https://infosecwriteups.com/i-built-a-free-open-source-burp-suite-alternative-with-an-ai-agent-inside-9df89971f8c9?source=rss------bug_bounty-5",
+    "summary": "If you&#x2019;ve done any web security testing, you&#x2019;ve used Burp Suite. It&#x2019;s the standard for good reason. But if you&#x2019;re on the free Community&#x2026;Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 03:50:01",
+    "score": 11,
+    "uid": "2c9313553348f0a7"
+  },
+  {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
     "url": "https://dev.to/aaannvv/before-the-cve-reading-release-notes-like-an-auditor-5c09",
     "summary": "Most vulnerability hunters I know watch CVE feeds. That's fine, but here's the thing: every CVE was preceded by a commit, a tag, and usually a release note — often weeks before the advisory goes public. If you read release notes first, you're not racing the crowd. You're racing the CVE assigner. I've been auditing open-source Java middleware for a while — message brokers, frameworks, admin consoles — and release notes have become my single highest-signal feed. Not Twitter, not CVE/NVD. Release notes. Here's my working set of signals. Signal 1: \"Added authentication for X\" — new security code i",
@@ -668,6 +678,16 @@
     "published": "Fri, 20 Nov 2026 07:48:07",
     "score": 8,
     "uid": "f83ddfc688b7a4ba"
+  },
+  {
+    "title": "SSRF in AI-Powered Applications: The Bug Most Bug Hunters Should Start Understanding in 2026",
+    "url": "https://osintteam.blog/ssrf-in-ai-powered-applications-the-bug-most-bug-hunters-should-start-understanding-in-2026-f218fdb69cb5?source=rss------bug_bounty-5",
+    "summary": "AI applications are creating new attack surfaces. Here&#x2019;s how to understand SSRF, identify risky features, test them safely, and write a&#x2026;Continue reading on OSINT Team »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 03:13:35",
+    "score": 8,
+    "uid": "736194a10b880432"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 04 Sep 2026 03:31:01",
     "score": 4,
     "uid": "a09407eafb04e2ba"
-  },
-  {
-    "title": "5 recon habits that still land your first $500 bug bounty",
-    "url": "https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty-5",
-    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I want to walk through five recon habits that keep working for beginners, even as the&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 04 Sep 2026 03:31:01",
-    "score": 4,
-    "uid": "061514d7a47bc86e"
-  },
-  {
-    "title": "300$ ETag Bounty",
-    "url": "https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bug_bounty_writeup-5",
-    "summary": "I was participating a new private program at h1 and I was desperately discovering site to see anything unusual. As all expert says &#x201C;do not&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 04 Sep 2026 13:15:49",
-    "score": 4,
-    "uid": "f90a536905dc7fb8"
   }
 ]
