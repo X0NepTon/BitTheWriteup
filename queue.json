@@ -1,15 +1,5 @@
 [
   {
-    "title": "From Recon to Remote Code Execution : My Encounter with React2Shell (CVE-2025–55182)",
-    "url": "https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty-5",
-    "summary": "Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 22 Nov 2026 12:54:22",
-    "score": 15,
-    "uid": "cc2735d9430c01af"
-  },
-  {
     "title": "A Test Secret in Production: How a Rails Session Cookie Earned $18,000 from GitHub",
     "url": "https://medium.com/@t4nv1/a-test-secret-in-production-how-a-rails-session-cookie-earned-18-000-from-github-83616cb0b4f8?source=rss------bug_bounty-5",
     "summary": "A technical walkthrough of signed-cookie forgery and unsafe deserialization, and why &#x201C;just a default value&#x201D; can be a remote code execution&#x2026;Continue reading on Medium »",
@@ -168,6 +158,16 @@
     "published": "Sun, 22 Nov 2026 11:08:30",
     "score": 10,
     "uid": "f3ff172522fd093c"
+  },
+  {
+    "title": "Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform",
+    "url": "https://infosecwriteups.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss------bug_bounty-5",
+    "summary": "Security research write-up for authentication vulnerabilities found on the AISC platform.Continue reading on InfoSec Write-ups »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 11:51:05",
+    "score": 10,
+    "uid": "f66662288586b864"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -558,6 +558,16 @@
     "published": "Sun, 22 Nov 2026 13:21:04",
     "score": 9,
     "uid": "37f5eef801a6fccb"
+  },
+  {
+    "title": "Anatomy of an HTTP Request (Part 4): Rate Limiters, Proxy Trust Boundaries, and Business Logic…",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-4-rate-limiters-proxy-trust-boundaries-and-business-logic-2bf20c6974ea?source=rss------bug_bounty-5",
+    "summary": "In Part 1, our request resolved a domain through DNS. In Part 2, it crossed TCP, TLS termination, and the CDN cache layer. In Part 3, it&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sun, 22 Nov 2026 16:39:33",
+    "score": 9,
+    "uid": "d4c88825b5d534a7"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,15 +1998,5 @@
     "published": "Sat, 29 Aug 2026 13:31:01",
     "score": 4,
     "uid": "4a013e9d44a9a9ff"
-  },
-  {
-    "title": "Your Next Triager Is a $2 API Call — and It’s Trained to Distrust You",
-    "url": "https://medium.com/@rajnamdev/your-next-triager-is-a-2-api-call-and-its-trained-to-distrust-you-555b86cc8027?source=rss------bug_bounty-5",
-    "summary": "Elastic published the internals of its AI bug bounty triage pipeline &#x2014; 1,390 reports in six months, 85% agreement with humans, 70% dead&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sun, 30 Aug 2026 02:01:01",
-    "score": 4,
-    "uid": "488486a2e6bfa763"
   }
 ]
