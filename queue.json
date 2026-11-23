@@ -1,15 +1,5 @@
 [
   {
-    "title": "P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access",
-    "url": "https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty-5",
-    "summary": "Severity: P2 &#x2014; High (subject to demonstrated impact) Vulnerability Type: Server-Side Request Forgery (SSRF) CWE:Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 23 Nov 2026 08:56:56",
-    "score": 20,
-    "uid": "0282cba3822c9692"
-  },
-  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -600,6 +590,16 @@
     "uid": "d4c88825b5d534a7"
   },
   {
+    "title": "Internxt: what stays private around 11 unfixed findings",
+    "url": "https://dev.to/zerox80/what-stays-private-publishing-around-eleven-unfixed-findings-4ipe",
+    "summary": "This series now runs to several posts: 3 fixed vulnerabilities, the harness that reproduced them, a timeline, and the CERT ticket. Between them they describe an audit of 13 findings in an open-source backend. If you read all of them, you will notice something odd: only 3 findings have technical details. The other 10 appear as IDs in status tables. That is deliberate, and this post explains the rules behind it, because publishing around vulnerabilities you have not been allowed to see is its own discipline, and getting it wrong undoes the part of the disclosure process that actually works. The ",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Mon, 23 Nov 2026 21:40:20",
+    "score": 9,
+    "uid": "c92b05773a722e5e"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -778,6 +778,16 @@
     "published": "Sun, 22 Nov 2026 03:13:35",
     "score": 8,
     "uid": "736194a10b880432"
+  },
+  {
+    "title": "One Checkbox Too Many: How a Contacts Permission Turned Into Admin Access",
+    "url": "https://medium.com/@sohamkul2005/one-checkbox-too-many-how-a-contacts-permission-turned-into-admin-access-1638eb1451a0?source=rss------bug_bounty-5",
+    "summary": "In my last write-up, I mentioned that I had found a privilege escalation bug in a web hosting platform. Here&#x2019;s the full story.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Mon, 23 Nov 2026 16:41:10",
+    "score": 8,
+    "uid": "ff47bd068b50f052"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1988,15 +1998,5 @@
     "published": "Wed, 26 Aug 2026 13:16:01",
     "score": 4,
     "uid": "03e90dddbd471746"
-  },
-  {
-    "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
-    "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty-5",
-    "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Wed, 26 Aug 2026 13:16:01",
-    "score": 4,
-    "uid": "c319d6dcb0feb606"
   }
 ]
