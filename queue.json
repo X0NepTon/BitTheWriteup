@@ -1,5 +1,15 @@
 [
   {
+    "title": "New Zstandard Security Vulnerability CVE-2026-124851 Disclosed – Internal Memory Information…",
+    "url": "https://medium.com/@asadmohsin760/new-zstandard-security-vulnerability-cve-2026-124851-disclosed-internal-memory-information-528ea9996921?source=rss------bug_bounty-5",
+    "summary": "Date: November 24, 2026 Category: Bug Hunting | Open-Source Security | Vulnerability Research CVE: CVE-2026-124851 Severity: Security&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 06:03:48",
+    "score": 16,
+    "uid": "7124135c0bb9926c"
+  },
+  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -18,6 +28,16 @@
     "published": "Mon, 23 Nov 2026 06:06:03",
     "score": 15,
     "uid": "e3a535c0d34620a8"
+  },
+  {
+    "title": "CVE-2026–112362: Authentication Bypass in @fastify/express via Absolute-Form Request Targets",
+    "url": "https://medium.com/@ajithprabhu15/cve-2026-112362-authentication-bypass-in-fastify-express-via-absolute-form-request-targets-47cc058774bd?source=rss------bug_bounty-5",
+    "summary": "A URL normalization issue in @fastify/express allowed unauthenticated requests to bypass path-scoped Express middleware when Fastify was&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 07:10:39",
+    "score": 14,
+    "uid": "4da8626e88964789"
   },
   {
     "title": "GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier",
@@ -188,6 +208,16 @@
     "published": "Sun, 22 Nov 2026 11:51:05",
     "score": 10,
     "uid": "f66662288586b864"
+  },
+  {
+    "title": "Shopify SSRF: From Store Screenshot to Root Access",
+    "url": "https://masimshahzad.medium.com/shopify-ssrf-from-store-screenshot-to-root-access-96003965f49a?source=rss------bug_bounty-5",
+    "summary": "A $25,000 HackerOne report: a screenshot service followed a redirect into cloud metadata, and leaked credentials led to root in containersContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 04:59:17",
+    "score": 10,
+    "uid": "04e515140c496f3b"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -598,6 +628,26 @@
     "published": "Mon, 23 Nov 2026 21:40:20",
     "score": 9,
     "uid": "c92b05773a722e5e"
+  },
+  {
+    "title": "Day 04 gave us recon. Today we learn how logins actually work.",
+    "url": "https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty_writeup-5",
+    "summary": "Almost every account takeover, data leak and access bug comes from one place: how an app decides who you are and what you can do&#x2026;Continue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Tue, 24 Nov 2026 03:13:06",
+    "score": 9,
+    "uid": "12b0da7b0f23a116"
+  },
+  {
+    "title": "Day 04 gave us recon. Today we learn how logins actually work.",
+    "url": "https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty-5",
+    "summary": "Almost every account takeover, data leak and access bug comes from one place: how an app decides who you are and what you can do&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 03:13:06",
+    "score": 9,
+    "uid": "e44117391bd9a8cb"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1948,55 +1998,5 @@
     "published": "Tue, 17 Nov 2026 09:08:39",
     "score": 5,
     "uid": "e38554fe5b163aad"
-  },
-  {
-    "title": "IDOR and Business Logic Flaw in a Payment Extension API: Unauthorized Modification of Billing…",
-    "url": "https://medium.com/@pmsiam0/idor-and-business-logic-flaw-in-a-payment-extension-api-unauthorized-modification-of-billing-d48ee6bcc5d0?source=rss------bug_bounty-5",
-    "summary": "Executive SummaryContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 20 Nov 2026 18:19:47",
-    "score": 5,
-    "uid": "965779d9fc2e3c87"
-  },
-  {
-    "title": "IDOR Explained: The Types, Where It Hides, and How to Find It",
-    "url": "https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bug_bounty-5",
-    "summary": "IDOR is consistently one of the most reported &#x2014; and best paid &#x2014; web vulnerabilities, because it&#x2019;s simple, everywhere, and easy to miss&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 21 Nov 2026 03:54:33",
-    "score": 5,
-    "uid": "76ee0fffce8069a8"
-  },
-  {
-    "title": "IDOR in /app-api/enduserapp/profile/{userId} — Cross-Account PII Disclosure",
-    "url": "https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-2c5cf55d1c86?source=rss------bug_bounty_writeup-5",
-    "summary": "Platform: sub.example.comContinue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Sat, 21 Nov 2026 19:58:34",
-    "score": 5,
-    "uid": "d606b4785900f74e"
-  },
-  {
-    "title": "The Devil Went Down to Georgia: How I Made $60k Hacking the DHS",
-    "url": "https://infosecwriteups.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bug_bounty_writeup-5",
-    "summary": "Sometime near the end of 2023 I was invited to The Georgia Department of Human Services private bug bounty program on Hackerone through an&#x2026;Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 20 Nov 2026 00:47:43",
-    "score": 5,
-    "uid": "e1eec92820979cda"
-  },
-  {
-    "title": "How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty",
-    "url": "https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5",
-    "summary": "When testing user profile customization settings, file upload fields are often a primary focus for security researchers. While developers&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Wed, 26 Aug 2026 13:16:01",
-    "score": 4,
-    "uid": "03e90dddbd471746"
   }
 ]
