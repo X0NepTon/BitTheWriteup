@@ -10,6 +10,16 @@
     "uid": "7124135c0bb9926c"
   },
   {
+    "title": "Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan",
+    "url": "https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5",
+    "summary": "Catatan praktik pada 10 laboratorium keamanan web: dari SQL Injection hingga ClickjackingContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 14:29:18",
+    "score": 16,
+    "uid": "81353c2625ec84b2"
+  },
+  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -648,6 +658,16 @@
     "published": "Tue, 24 Nov 2026 03:13:06",
     "score": 9,
     "uid": "e44117391bd9a8cb"
+  },
+  {
+    "title": "Anatomy of an HTTP Request (Part 5): Load Balancers, HTTP Request Smuggling, and Internal Header…",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-5-load-balancers-http-request-smuggling-and-internal-header-a0c1f029b50b?source=rss------bug_bounty-5",
+    "summary": "In Part 1, our request resolved a domain through DNS. In Part 2, it crossed TCP, TLS termination, and the CDN cache layer. In Part 3, it&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 14:02:15",
+    "score": 9,
+    "uid": "44b5e2d449580736"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 13 Nov 2026 13:25:08",
     "score": 5,
     "uid": "27ac71fb44a82eda"
-  },
-  {
-    "title": "Facebook IDOR: Deleting Any Photo Album (Case Study)",
-    "url": "https://masimshahzad.medium.com/facebook-idor-deleting-any-photo-album-case-study-40dbb2661c22?source=rss------bug_bounty-5",
-    "summary": "Facebook IDOR let users delete any visible album via the Graph API. How the missing ownership check worked, impact, and API fixes.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 17 Nov 2026 04:44:37",
-    "score": 5,
-    "uid": "dc4d7ebf0e04d6fd"
-  },
-  {
-    "title": "Google Paid $250,000 for One Chrome Bug Chain. It Took Six Days.",
-    "url": "https://medium.com/@zxve/google-paid-250-000-for-one-chrome-bug-chain-it-took-six-days-29afccbee52a?source=rss------bug_bounty-5",
-    "summary": "Imagine opening a web page in Chrome.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 17 Nov 2026 09:08:39",
-    "score": 5,
-    "uid": "e38554fe5b163aad"
   }
 ]
