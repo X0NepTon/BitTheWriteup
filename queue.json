@@ -130,6 +130,16 @@
     "uid": "01111421db19854e"
   },
   {
+    "title": "HackerOne Account Takeover: The $20K Leaked Cookie",
+    "url": "https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7?source=rss------bug_bounty-5",
+    "summary": "A HackerOne analyst pasted a live session cookie into a report reply. A hacker reused it, saw customer reports, and earned $20,000Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 25 Nov 2026 05:06:33",
+    "score": 11,
+    "uid": "ba2c706f31bb085f"
+  },
+  {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
     "url": "https://dev.to/aaannvv/before-the-cve-reading-release-notes-like-an-auditor-5c09",
     "summary": "Most vulnerability hunters I know watch CVE feeds. That's fine, but here's the thing: every CVE was preceded by a commit, a tag, and usually a release note — often weeks before the advisory goes public. If you read release notes first, you're not racing the crowd. You're racing the CVE assigner. I've been auditing open-source Java middleware for a while — message brokers, frameworks, admin consoles — and release notes have become my single highest-signal feed. Not Twitter, not CVE/NVD. Release notes. Here's my working set of signals. Signal 1: \"Added authentication for X\" — new security code i",
@@ -668,6 +678,16 @@
     "published": "Tue, 24 Nov 2026 14:02:15",
     "score": 9,
     "uid": "44b5e2d449580736"
+  },
+  {
+    "title": "When Self-XSS Isn’t Self: A $62,500 Meta Bug Through a Third-Party Payment Iframe",
+    "url": "https://medium.com/@t4nv1/when-self-xss-isnt-self-a-62-500-meta-bug-through-a-third-party-payment-iframe-13d5d101e3e0?source=rss------bug_bounty-5",
+    "summary": "How a &#x201C;harmless&#x201D; XSS that only hit your own account became an account-takeover chain once a login CSRF changed whose session it ran inContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 25 Nov 2026 11:46:01",
+    "score": 9,
+    "uid": "c9f45438b9ca7784"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 06 Nov 2026 09:09:41",
     "score": 5,
     "uid": "0c5c835e197ff8d9"
-  },
-  {
-    "title": "Latest Bug Bounty and Critical CVE Vulnerabilities: November 12, 2026 Security Research Update…",
-    "url": "https://medium.com/@asadmohsin760/latest-bug-bounty-and-critical-cve-vulnerabilities-november-12-2026-security-research-update-f57dc8e73f76?source=rss------bug_bounty-5",
-    "summary": "Cybersecurity continues to evolve rapidly in November 2026, with new vulnerabilities affecting popular software, web applications&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 12 Nov 2026 13:58:37",
-    "score": 5,
-    "uid": "b18757c8dc0a52b8"
-  },
-  {
-    "title": "From $1,000 to $10,000: How I Turned a \"Limited\" XXE Into a Critical Redis Session Store Exposure",
-    "url": "https://medium.com/@0xalr/from-1-000-to-10-000-how-i-turned-a-limited-xxe-into-a-critical-redis-session-store-exposure-3292bd82a0d7?source=rss------bug_bounty-5",
-    "summary": "&#x627;&#x644;&#x62D;&#x645;&#x62F; &#x644;&#x644;&#x647;&#x60C; &#x644;&#x647; &#x627;&#x644;&#x634;&#x643;&#x631; &#x648;&#x627;&#x644;&#x62B;&#x646;&#x627;&#x621; &#x643;&#x644;&#x647;. &#x1F932;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 13 Nov 2026 13:25:08",
-    "score": 5,
-    "uid": "27ac71fb44a82eda"
   }
 ]
