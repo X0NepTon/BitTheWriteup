@@ -1,15 +1,5 @@
 [
   {
-    "title": "Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan",
-    "url": "https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5",
-    "summary": "Catatan praktik pada 10 laboratorium keamanan web: dari SQL Injection hingga ClickjackingContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 24 Nov 2026 14:29:18",
-    "score": 16,
-    "uid": "81353c2625ec84b2"
-  },
-  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -688,6 +678,16 @@
     "published": "Wed, 25 Nov 2026 11:46:01",
     "score": 9,
     "uid": "c9f45438b9ca7784"
+  },
+  {
+    "title": "Anatomy of an HTTP Request (Part 6): Web Servers, Directory Listing, and Exposed Configuration…",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-6-web-servers-directory-listing-and-exposed-configuration-6edcd7eed7da?source=rss------bug_bounty-5",
+    "summary": "In Parts 1 through 5 of this series, we traced a single HTTP request across the entire perimeter stack: DNS resolution, TCP and TLS&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Wed, 25 Nov 2026 17:19:21",
+    "score": 9,
+    "uid": "fb369568f3d2b1fb"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
