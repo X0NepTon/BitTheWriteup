@@ -1,15 +1,5 @@
 [
   {
-    "title": "New Zstandard Security Vulnerability CVE-2026-124851 Disclosed – Internal Memory Information…",
-    "url": "https://medium.com/@asadmohsin760/new-zstandard-security-vulnerability-cve-2026-124851-disclosed-internal-memory-information-528ea9996921?source=rss------bug_bounty-5",
-    "summary": "Date: November 24, 2026 Category: Bug Hunting | Open-Source Security | Vulnerability Research CVE: CVE-2026-124851 Severity: Security&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 24 Nov 2026 06:03:48",
-    "score": 16,
-    "uid": "7124135c0bb9926c"
-  },
-  {
     "title": "Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan",
     "url": "https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5",
     "summary": "Catatan praktik pada 10 laboratorium keamanan web: dari SQL Injection hingga ClickjackingContinue reading on Medium »",
@@ -48,6 +38,16 @@
     "published": "Tue, 24 Nov 2026 07:10:39",
     "score": 14,
     "uid": "4da8626e88964789"
+  },
+  {
+    "title": "How One Free Trial Became Unlimited Number Of Licenses | $$$$ Bounty",
+    "url": "https://medium.com/@marwanmedhat0001/how-one-free-trial-became-unlimited-number-of-licenses-bounty-c98b8a4ee7e7?source=rss------bug_bounty-5",
+    "summary": "Never Assume That What the User Interface Restricts, the Backend Enforces &#x2014; Every Endpoint Must Validate Business Rules Independently.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Tue, 24 Nov 2026 22:00:51",
+    "score": 14,
+    "uid": "78249bed3226b527"
   },
   {
     "title": "GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier",
