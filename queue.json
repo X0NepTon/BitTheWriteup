@@ -1,15 +1,5 @@
 [
   {
-    "title": "Apple Auth Bypass: One Default Password for Every User",
-    "url": "https://masimshahzad.medium.com/apple-auth-bypass-one-default-password-for-every-user-b6767b7edfa8?source=rss------bug_bounty-5",
-    "summary": "Sam Curry&#x2019;s team found an Apple educator forum where every applicant shared one hidden password, then reached the admin consoleContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 26 Nov 2026 05:07:22",
-    "score": 18,
-    "uid": "db51d860709a87d2"
-  },
-  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -710,6 +700,16 @@
     "uid": "eebfbc98c4438e8c"
   },
   {
+    "title": "Anatomy of an HTTP Request (Part 7): Static vs.",
+    "url": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-7-static-vs-99f8ce89cf69?source=rss------bug_bounty-5",
+    "summary": "In Part 6, our HTTP request entered Layer 2 and arrived at the web server (Nginx, Apache, or IIS). We looked at how server banners&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 26 Nov 2026 15:11:07",
+    "score": 9,
+    "uid": "fbab8e724d60e0e8"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -1258,6 +1258,16 @@
     "published": "Thu, 19 Nov 2026 00:00:00",
     "score": 6,
     "uid": "36cee909776fc3e7"
+  },
+  {
+    "title": "Subdomain takeover: the CNAME that outlived the thing it pointed at",
+    "url": "https://pingerahmed.medium.com/subdomain-takeover-the-cname-that-outlived-the-thing-it-pointed-at-6f7de6c1a7ba?source=rss------bug_bounty-5",
+    "summary": "You spin up a project on a hosting platform, point status.example.comContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 26 Nov 2026 15:11:37",
+    "score": 6,
+    "uid": "e95d70f08577d3ad"
   },
   {
     "title": "HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain",
@@ -1988,15 +1998,5 @@
     "published": "Tue, 03 Nov 2026 11:09:20",
     "score": 5,
     "uid": "fc01def8690deac7"
-  },
-  {
-    "title": "TryHackMe Room: Chaining Vulnerabilities — Learn how to chain vulnerabilities!",
-    "url": "https://th3blackhol3.medium.com/tryhackme-room-chaining-vulnerabilities-learn-how-to-chain-vulnerabilities-e97c5aded4a9?source=rss------bug_bounty-5",
-    "summary": "TryHackMe Room: Chaining Vulnerabilities &#x2014; Learn how to chain vulnerabilities! From Low to High!Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 03 Nov 2026 16:47:58",
-    "score": 5,
-    "uid": "03b3e740f12613cd"
   }
 ]
