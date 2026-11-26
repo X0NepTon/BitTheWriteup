@@ -1,5 +1,15 @@
 [
   {
+    "title": "Apple Auth Bypass: One Default Password for Every User",
+    "url": "https://masimshahzad.medium.com/apple-auth-bypass-one-default-password-for-every-user-b6767b7edfa8?source=rss------bug_bounty-5",
+    "summary": "Sam Curry&#x2019;s team found an Apple educator forum where every applicant shared one hidden password, then reached the admin consoleContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 26 Nov 2026 05:07:22",
+    "score": 18,
+    "uid": "db51d860709a87d2"
+  },
+  {
     "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
     "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
     "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
@@ -38,6 +48,16 @@
     "published": "Mon, 23 Nov 2026 06:47:00",
     "score": 13,
     "uid": "9370aa1af2496fcf"
+  },
+  {
+    "title": "How a PostMessage Origin Bypass Led to a $5,500 Cross-Origin Account Takeover",
+    "url": "https://medium.com/@t4nv1/how-a-postmessage-origin-bypass-led-to-a-5-500-cross-origin-account-takeover-b23125b2fe6e?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 26 Nov 2026 11:46:01",
+    "score": 13,
+    "uid": "ed1065c1438504ac"
   },
   {
     "title": "How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover",
@@ -678,6 +698,16 @@
     "published": "Wed, 25 Nov 2026 17:19:21",
     "score": 9,
     "uid": "fb369568f3d2b1fb"
+  },
+  {
+    "title": "When ‘Forgot Password’ Becomes ‘Found Account Takeover’ — Part 1: Identification",
+    "url": "https://medium.com/@at0625309/when-forgot-password-becomes-found-account-takeover-part-1-identification-46578b0afbc2?source=rss------bug_bounty-5",
+    "summary": "Enter your email, get a link, set a new password. That&#x2019;s all &#x201C;Forgot Password&#x201D; looks like from the outside. But every reset flow quietly&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Thu, 26 Nov 2026 09:17:47",
+    "score": 9,
+    "uid": "eebfbc98c4438e8c"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1968,35 +1998,5 @@
     "published": "Tue, 03 Nov 2026 16:47:58",
     "score": 5,
     "uid": "03b3e740f12613cd"
-  },
-  {
-    "title": "IDOR: The Vulnerability That Hides Behind a Simple Request",
-    "url": "https://medium.com/@amjadrajawala/idor-the-vulnerability-that-hides-behind-a-simple-request-2773e364717f?source=rss------bug_bounty-5",
-    "summary": "Understanding how small authorization mistakes can expose an application&#x2019;s most sensitive data.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 05 Nov 2026 10:59:35",
-    "score": 5,
-    "uid": "616d9fd474f48ec1"
-  },
-  {
-    "title": "How Four Lines of Code Could Delete Any Facebook Photo Album",
-    "url": "https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty_writeup-5",
-    "summary": "Real one again, and this time it&#x2019;s about as clean a textbook IDOR as you&#x2019;ll ever find written up, which is exactly why it&#x2019;s worth actually&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 06 Nov 2026 09:09:41",
-    "score": 5,
-    "uid": "c7454bd1638ab72b"
-  },
-  {
-    "title": "How Four Lines of Code Could Delete Any Facebook Photo Album",
-    "url": "https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty-5",
-    "summary": "Real one again, and this time it&#x2019;s about as clean a textbook IDOR as you&#x2019;ll ever find written up, which is exactly why it&#x2019;s worth actually&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 06 Nov 2026 09:09:41",
-    "score": 5,
-    "uid": "0c5c835e197ff8d9"
   }
 ]
