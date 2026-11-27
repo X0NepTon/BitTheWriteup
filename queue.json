@@ -1,15 +1,5 @@
 [
   {
-    "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
-    "url": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5",
-    "summary": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeoverContinue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Mon, 23 Nov 2026 05:08:59",
-    "score": 15,
-    "uid": "be36ee5e42d50928"
-  },
-  {
     "title": "CVE-2026–112362: Authentication Bypass in @fastify/express via Absolute-Form Request Targets",
     "url": "https://medium.com/@ajithprabhu15/cve-2026-112362-authentication-bypass-in-fastify-express-via-absolute-form-request-targets-47cc058774bd?source=rss------bug_bounty-5",
     "summary": "A URL normalization issue in @fastify/express allowed unauthenticated requests to bypass path-scoped Express middleware when Fastify was&#x2026;Continue reading on Medium »",
@@ -128,6 +118,16 @@
     "published": "Wed, 25 Nov 2026 05:06:33",
     "score": 11,
     "uid": "ba2c706f31bb085f"
+  },
+  {
+    "title": "GitHub OAuth Bypass: The $25K HEAD Request",
+    "url": "https://masimshahzad.medium.com/github-oauth-bypass-the-25k-head-request-e9a666059615?source=rss------bug_bounty-5",
+    "summary": "Teddy Katz found GitHub&#x2019;s router treated HEAD like GET while its code treated it like POST, approving OAuth apps without a click. $25KContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 27 Nov 2026 05:17:48",
+    "score": 11,
+    "uid": "33c5df67fcab69f3"
   },
   {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
@@ -708,6 +708,16 @@
     "published": "Thu, 26 Nov 2026 15:11:07",
     "score": 9,
     "uid": "fbab8e724d60e0e8"
+  },
+  {
+    "title": "Google OAuth Account Takeover via Expired Domains",
+    "url": "https://masimshahzad.medium.com/google-oauth-account-takeover-via-expired-domains-f0a3c8c5a5d9?source=rss------bug_bounty-5",
+    "summary": "Dylan Ayrey bought one dead startup&apos;s domain, then used Sign in with Google to open ex-staff Slack, Notion, Zoom and HR accountsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 27 Nov 2026 05:08:54",
+    "score": 9,
+    "uid": "2b80a3ca846fc21c"
   },
   {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
@@ -1988,15 +1998,5 @@
     "published": "Sat, 31 Oct 2026 15:38:23",
     "score": 5,
     "uid": "3f3da98463b3544f"
-  },
-  {
-    "title": "The Three-Request IDOR Method: How I Find Broken Access Control Before Breakfast",
-    "url": "https://thexssrat.medium.com/the-three-request-idor-method-how-i-find-broken-access-control-before-breakfast-aaf30335f3d2?source=rss------bug_bounty-5",
-    "summary": "Two accounts, three requests and one matrix &#x2014; the routine that still pays my bounties in 2026Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 03 Nov 2026 11:09:20",
-    "score": 5,
-    "uid": "fc01def8690deac7"
   }
 ]
