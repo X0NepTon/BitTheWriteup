@@ -720,6 +720,26 @@
     "uid": "2b80a3ca846fc21c"
   },
   {
+    "title": "The Delivery App That Told Strangers Where You Live: Anatomy of a Deep Link → WebView → JavaScript…",
+    "url": "https://medium.com/@SilentN0va/the-delivery-app-that-told-strangers-where-you-live-anatomy-of-a-deep-link-webview-javascript-99ffd8021b8c?source=rss------bug_bounty-5",
+    "summary": "A popular Android food-delivery app (here called QuickBite, package com.example.quickbite, tens of millions of installs) registered a&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 27 Nov 2026 10:38:02",
+    "score": 9,
+    "uid": "f78789b90599176a"
+  },
+  {
+    "title": "📜 OpenAPI Recon: Find Endpoints That Skip Auth, Then Prove It",
+    "url": "https://dev.to/krishna_kumar_75bdf350b26/openapi-recon-find-endpoints-that-skip-auth-then-prove-it-i84",
+    "summary": "An OpenAPI spec is the closest thing an API has to a map. Every path, every method, and for each one, a line that says which credentials it needs. That last part is the interesting one, because nothing in the spec enforces it. The spec describes what the team intended. The server does whatever its code does. So the spec gives you two lists worth checking. The endpoints it marks as open, which you should read carefully. And the endpoints it marks as protected, which you should confirm really are. This article shows how to pull both lists out of a spec with a short script, how to probe them with",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Fri, 27 Nov 2026 13:22:23",
+    "score": 9,
+    "uid": "a84ce064e484d84c"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -1978,25 +1998,5 @@
     "published": "Fri, 30 Oct 2026 13:12:51",
     "score": 5,
     "uid": "5baac49696846c5f"
-  },
-  {
-    "title": "Introducing the Ticko Bug Bounty: Up to 200,000 USDT for Critical Vulnerabilities",
-    "url": "https://medium.com/ticko/introducing-the-ticko-bug-bounty-up-to-200-000-usdt-for-critical-vulnerabilities-1ebdf48df341?source=rss------bug_bounty-5",
-    "summary": "The Ticko Bug Bounty is a long-term program that rewards security researchers who find and responsibly disclose vulnerabilities, with up&#x2026;Continue reading on Ticko »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 04:01:22",
-    "score": 5,
-    "uid": "dee8451843776b43"
-  },
-  {
-    "title": "CVE Decoded #7: CVE-2026–77304 (llm-council-core)",
-    "url": "https://medium.com/@workwithsaijal/cve-decoded-7-cve-2026-77304-llm-council-core-125b90c9da96?source=rss------bug_bounty-5",
-    "summary": "This is my attempt to dumbdown CVE and explain them the way I understand them.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Sat, 31 Oct 2026 15:38:23",
-    "score": 5,
-    "uid": "3f3da98463b3544f"
   }
 ]
