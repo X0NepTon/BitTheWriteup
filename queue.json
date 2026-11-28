@@ -1,15 +1,5 @@
 [
   {
-    "title": "CVE-2026–112362: Authentication Bypass in @fastify/express via Absolute-Form Request Targets",
-    "url": "https://medium.com/@ajithprabhu15/cve-2026-112362-authentication-bypass-in-fastify-express-via-absolute-form-request-targets-47cc058774bd?source=rss------bug_bounty-5",
-    "summary": "A URL normalization issue in @fastify/express allowed unauthenticated requests to bypass path-scoped Express middleware when Fastify was&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 24 Nov 2026 07:10:39",
-    "score": 14,
-    "uid": "4da8626e88964789"
-  },
-  {
     "title": "How One Free Trial Became Unlimited Number Of Licenses | $$$$ Bounty",
     "url": "https://medium.com/@marwanmedhat0001/how-one-free-trial-became-unlimited-number-of-licenses-bounty-c98b8a4ee7e7?source=rss------bug_bounty-5",
     "summary": "Never Assume That What the User Interface Restricts, the Backend Enforces &#x2014; Every Endpoint Must Validate Business Rules Independently.Continue reading on Medium »",
@@ -1998,5 +1988,15 @@
     "published": "Fri, 30 Oct 2026 13:12:51",
     "score": 5,
     "uid": "5baac49696846c5f"
+  },
+  {
+    "title": "How I Found a CVE-2026–75582 in Just One Night",
+    "url": "https://shoaibls.medium.com/how-i-found-a-cve-2026-75582-in-just-one-night-7f70046bff00?source=rss------bug_bounty-5",
+    "summary": "One night, one application, a lot of curiosity, and a vulnerability that eventually became CVE-2026&#x2013;75582.Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Fri, 27 Nov 2026 10:55:45",
+    "score": 5,
+    "uid": "efb3850255aa585a"
   }
 ]
