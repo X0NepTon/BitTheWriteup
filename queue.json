@@ -1,15 +1,5 @@
 [
   {
-    "title": "How One Free Trial Became Unlimited Number Of Licenses | $$$$ Bounty",
-    "url": "https://medium.com/@marwanmedhat0001/how-one-free-trial-became-unlimited-number-of-licenses-bounty-c98b8a4ee7e7?source=rss------bug_bounty-5",
-    "summary": "Never Assume That What the User Interface Restricts, the Backend Enforces &#x2014; Every Endpoint Must Validate Business Rules Independently.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Tue, 24 Nov 2026 22:00:51",
-    "score": 14,
-    "uid": "78249bed3226b527"
-  },
-  {
     "title": "GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier",
     "url": "https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3?source=rss------bug_bounty-5",
     "summary": "A coordinated-disclosure write-up of GHSA-v7hr-xh82&#x2013;79p7, a High-severity flaw in FreeRDP&#x2019;s RDP Graphics pipeline.Continue reading on Medium »",
@@ -120,6 +110,16 @@
     "uid": "33c5df67fcab69f3"
   },
   {
+    "title": "P3 Weak Password Policy Enforcement Through Direct API Requests",
+    "url": "https://medium.com/@akashmotkar001/p3-weak-password-policy-enforcement-through-direct-api-requests-4cd374df1f2d?source=rss------bug_bounty_writeup-5",
+    "summary": "Severity: P3 Medium Vulnerability Type: Improper Input Validation / Weak Authentication ControlsContinue reading on Medium »",
+    "source_id": "medium_wu",
+    "source_name": "Medium — Bug Bounty Writeup",
+    "published": "Sat, 28 Nov 2026 08:10:42",
+    "score": 11,
+    "uid": "25bc3df501dd84ac"
+  },
+  {
     "title": "Before the CVE: Reading Release Notes Like an Auditor",
     "url": "https://dev.to/aaannvv/before-the-cve-reading-release-notes-like-an-auditor-5c09",
     "summary": "Most vulnerability hunters I know watch CVE feeds. That's fine, but here's the thing: every CVE was preceded by a commit, a tag, and usually a release note — often weeks before the advisory goes public. If you read release notes first, you're not racing the crowd. You're racing the CVE assigner. I've been auditing open-source Java middleware for a while — message brokers, frameworks, admin consoles — and release notes have become my single highest-signal feed. Not Twitter, not CVE/NVD. Release notes. Here's my working set of signals. Signal 1: \"Added authentication for X\" — new security code i",
@@ -218,6 +218,16 @@
     "published": "Tue, 24 Nov 2026 04:59:17",
     "score": 10,
     "uid": "04e515140c496f3b"
+  },
+  {
+    "title": "P3 Weak Password Policy Enforcement Through Direct API Requests",
+    "url": "https://medium.com/@akashmotkar001/p3-weak-password-policy-enforcement-through-direct-api-requests-4cd374df1f2d?source=rss------bug_bounty-5",
+    "summary": "Severity: P3 Medium Vulnerability Type: Improper Input Validation / Weak Authentication ControlsContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 28 Nov 2026 08:10:42",
+    "score": 10,
+    "uid": "f330387fccfa5e75"
   },
   {
     "title": "Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.",
@@ -730,6 +740,26 @@
     "uid": "a84ce064e484d84c"
   },
   {
+    "title": "Time-Based SQL Injection in Account Activation $X,XXX",
+    "url": "https://medium.com/@Casper0X/time-based-sql-injection-in-account-activation-x-xxx-d92d44e4eab1?source=rss------bug_bounty-5",
+    "summary": "IntroductionContinue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 28 Nov 2026 04:41:50",
+    "score": 9,
+    "uid": "c7a992a30c82cfd8"
+  },
+  {
+    "title": "Burp Suite Alternative That Runs Natively on Android",
+    "url": "https://dev.to/rootshell76/burp-suite-alternative-that-runs-natively-on-android-ab3",
+    "summary": "If you've ever worked with web security testing, you've probably used or at least heard of Burp Suite. It's one of the most popular tools for intercepting and analyzing HTTP/HTTPS traffic. But there's one thing I've always wanted: a proper way to do this directly from an Android device, without depending on a desktop environment. That's one of the reasons I started building T4xSuite. What is T4xSuite? ​T4xSuite is an open source Native Android HTTP/HTTPS proxy, traffic interceptor, and request Repeater built as a lightweight Burp Suite mobile alternative for Android. Inspect live traffic, modi",
+    "source_id": "devto",
+    "source_name": "dev.to — Bug Bounty",
+    "published": "Sat, 28 Nov 2026 04:56:29",
+    "score": 9,
+    "uid": "d2eeb3a3c27813da"
+  },
+  {
     "title": "Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.",
     "url": "https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5",
     "summary": "How to spot, confirm, and fix SSRF, SSTI, SSI, and XSLT injection.Continue reading on Medium »",
@@ -928,6 +958,16 @@
     "published": "Thu, 26 Nov 2026 01:38:04",
     "score": 8,
     "uid": "988d5275f43a5667"
+  },
+  {
+    "title": "SSRF Attacks Explained: How to Make a Server Fetch What You Can’t",
+    "url": "https://medium.com/@vigneshkumaroffsec/ssrf-attacks-explained-how-to-make-a-server-fetch-what-you-cant-1d33eeb7436b?source=rss------bug_bounty-5",
+    "summary": "If an app will fetch a URL you give it, it can be turned into your proxy into the internal network &#x2014; and in the cloud, into your keys&#x2026;Continue reading on Medium »",
+    "source_id": "medium_bb",
+    "source_name": "Medium — Bug Bounty",
+    "published": "Sat, 28 Nov 2026 02:52:49",
+    "score": 8,
+    "uid": "37c506492fd8639f"
   },
   {
     "title": "Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification",
@@ -1958,45 +1998,5 @@
     "published": "Thu, 29 Oct 2026 22:19:34",
     "score": 5,
     "uid": "b5e3fd10ff287d50"
-  },
-  {
-    "title": "My Second Year in Bug Bounty $$$$",
-    "url": "https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bug_bounty-5",
-    "summary": "Learn from my experience and use it in yours.Continue reading on InfoSec Write-ups »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Thu, 29 Oct 2026 22:19:34",
-    "score": 5,
-    "uid": "bfe50ecff57bb435"
-  },
-  {
-    "title": "IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread",
-    "url": "https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty_writeup-5",
-    "summary": "An object-level authorization flaw let an authenticated user open another person&#x2019;s purchase inquiry and view supplier communication and&#x2026;Continue reading on Medium »",
-    "source_id": "medium_wu",
-    "source_name": "Medium — Bug Bounty Writeup",
-    "published": "Fri, 30 Oct 2026 13:12:51",
-    "score": 5,
-    "uid": "81f6ad370c4121ea"
-  },
-  {
-    "title": "IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread",
-    "url": "https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty-5",
-    "summary": "An object-level authorization flaw let an authenticated user open another person&#x2019;s purchase inquiry and view supplier communication and&#x2026;Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 30 Oct 2026 13:12:51",
-    "score": 5,
-    "uid": "5baac49696846c5f"
-  },
-  {
-    "title": "How I Found a CVE-2026–75582 in Just One Night",
-    "url": "https://shoaibls.medium.com/how-i-found-a-cve-2026-75582-in-just-one-night-7f70046bff00?source=rss------bug_bounty-5",
-    "summary": "One night, one application, a lot of curiosity, and a vulnerability that eventually became CVE-2026&#x2013;75582.Continue reading on Medium »",
-    "source_id": "medium_bb",
-    "source_name": "Medium — Bug Bounty",
-    "published": "Fri, 27 Nov 2026 10:55:45",
-    "score": 5,
-    "uid": "efb3850255aa585a"
   }
 ]
